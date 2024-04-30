@@ -1,1 +1,1 @@
-https://opravujeme.to/api/action/
+git scraping z https://opravujeme.to

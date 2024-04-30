@@ -48,7 +48,7 @@ if __name__ == "__main__":
     for el in data:
         el["sha1"] = hashlib.sha1(json.dumps(el).encode()).hexdigest()
         if el["id"] in existing_data and el["sha1"] != existing_data[el["id"]]["sha1"]:
-            print("Zmeneno: {el['name']}")
+            print(f"Zmeneno: {el['name']}")
 
     for new_id in sorted(new_ids):
         print(f"Pridano: {downloaded_data[new_id]['name']}")
