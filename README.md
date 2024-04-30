@@ -1,0 +1,1 @@
+https://opravujeme.to/api/action/
