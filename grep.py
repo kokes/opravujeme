@@ -45,18 +45,29 @@ if __name__ == "__main__":
     new_ids = downloaded_ids - existing_ids
     removed_ids = existing_ids - downloaded_ids
 
+    changelog = []
+    stats = [len(new_ids), len(removed_ids), 0]
+
+    for new_id in sorted(new_ids):
+        changelog.append(f"Přidáno: {downloaded_data[new_id]['name']}")
+
+    for removed_id in sorted(removed_ids):
+        changelog.append(f"Odebráno: {existing_data[removed_id]['name']}")
+
     for el in data:
         el["sha1"] = hashlib.sha1(json.dumps(el).encode()).hexdigest()
         if el["id"] in existing_data and el["sha1"] != existing_data[el["id"]]["sha1"]:
-            print(f"Zmeneno: {el['name']}")
-
-    for new_id in sorted(new_ids):
-        print(f"Pridano: {downloaded_data[new_id]['name']}")
-
-    for removed_id in sorted(removed_ids):
-        print(f"Odebrano: {existing_data[removed_id]['name']}")
+            changelog.append(f"Změněno: {el['name']}")
+            stats[2] += 1
 
     data.sort(key=lambda x: x["id"])
     logging.info("Ukladam %d elementu do %s", len(data), FILENAME)
     with open(FILENAME, "wt", encoding="utf-8") as fw:
         json.dump(data, fw, indent=2, sort_keys=True, ensure_ascii=False)
+
+    if len(changelog) > 0:
+        total = sum(stats)
+        print(
+            f"Nové: {stats[0]}, zrušené: {stats[1]}, změněné: {stats[2]}. Celkem: {total}"
+        )
+        print("\n".join(sorted(changelog)))
