@@ -3,6 +3,7 @@ import hashlib
 import logging
 import os
 from collections import defaultdict
+from glob import glob
 from urllib.request import urlopen, Request
 
 URL = "https://opravujeme.to/api/action/"
@@ -16,8 +17,8 @@ if __name__ == "__main__":
 
     os.makedirs(TDIR, exist_ok=True)
     existing_data = dict()
-    for filename in os.listdir(TDIR):
-        with open(os.path.join(TDIR, filename)) as f:
+    for filename in glob(os.path.join(TDIR, "*.json")):
+        with open(filename) as f:
             existing_data.update({j["id"]: j for j in json.load(f)})
     existing_ids = set(existing_data.keys())
     logging.info("Nahral jsem %d ids z existujiciho dumpu", len(existing_ids))
@@ -74,6 +75,8 @@ if __name__ == "__main__":
                 by_district[ds].append(el)
 
     for ds, dt in by_district.items():
+        if ds.isdigit():
+            ds = ds.rjust(2, "0")
         dt.sort(key=lambda x: x["id"])
         with open(os.path.join(TDIR, f"praha-{ds}.json"), "wt", encoding="utf-8") as fw:
             json.dump(dt, fw, indent=2, sort_keys=True, ensure_ascii=False)
