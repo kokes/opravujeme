@@ -2,22 +2,25 @@ import json
 import hashlib
 import logging
 import os
-
+from collections import defaultdict
 from urllib.request import urlopen, Request
 
 URL = "https://opravujeme.to/api/action/"
-FILENAME = "data.json"
+TDIR = "data"
 
 if __name__ == "__main__":
     logging.getLogger().setLevel(logging.INFO)
 
     existing_ids, new_ids, removed_ids = set(), set(), set()
     existing_hashes = dict()
-    if os.path.exists(FILENAME):
-        with open(FILENAME) as f:
-            existing_data = {j["id"]: j for j in json.load(f)}
-            existing_ids = set(existing_data.keys())
-        logging.info("Nahral jsem %d ids z existujiciho dumpu", len(existing_ids))
+
+    os.makedirs(TDIR, exist_ok=True)
+    existing_data = dict()
+    for filename in os.listdir(TDIR):
+        with open(os.path.join(TDIR, filename)) as f:
+            existing_data.update({j["id"]: j for j in json.load(f)})
+    existing_ids = set(existing_data.keys())
+    logging.info("Nahral jsem %d ids z existujiciho dumpu", len(existing_ids))
 
     qs = "?limit=100"
     data = []
@@ -60,10 +63,20 @@ if __name__ == "__main__":
             changelog.append(f"Změněno: {el['name']}")
             stats[2] += 1
 
-    data.sort(key=lambda x: x["id"])
-    logging.info("Ukladam %d elementu do %s", len(data), FILENAME)
-    with open(FILENAME, "wt", encoding="utf-8") as fw:
-        json.dump(data, fw, indent=2, sort_keys=True, ensure_ascii=False)
+    logging.info("Ukladam %d elementu do %s", len(data), TDIR)
+    by_district = defaultdict(list)
+    for el in data:
+        dss = el["city_part"]
+        if not dss:
+            by_district["ostatni"].append(el)
+        else:
+            for ds in dss:
+                by_district[ds].append(el)
+
+    for ds, dt in by_district.items():
+        dt.sort(key=lambda x: x["id"])
+        with open(os.path.join(TDIR, f"praha-{ds}.json"), "wt", encoding="utf-8") as fw:
+            json.dump(dt, fw, indent=2, sort_keys=True, ensure_ascii=False)
 
     if len(changelog) > 0:
         total = sum(stats)
