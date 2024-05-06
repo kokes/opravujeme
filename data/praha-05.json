@@ -2480,8 +2480,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "573108df07d26db595fbc0e4dbe12e4877934258",
+    "sha1": "4edc60b53884193a1dc82a1f2e7c6ef82b76cfeb",
     "start": "2024-05-06T00:00:00",
+    "state": "ACTIVE",
     "street": "Strakonická, od Železničního mostu, Nádražní",
     "subject": "CONSTRUCTION"
   }
