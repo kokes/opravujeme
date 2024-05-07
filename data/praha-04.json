@@ -2473,8 +2473,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "c12283771450d992b70e9251da6ec509fe2fd66f",
+    "sha1": "a323f958a58990b75ae0ab2dc1a256b8c851fdab",
     "start": "2024-05-07T00:00:00",
+    "state": "ACTIVE",
     "street": "Vrbova",
     "subject": "CONSTRUCTION"
   },
