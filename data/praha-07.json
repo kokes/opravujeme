@@ -2740,8 +2740,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "e36113e31bcb0c0351d770915d7d29f7df0a309e",
+    "sha1": "b670dc1a4aa1e54b908d003455cd507642b4021a",
     "start": "2024-05-09T06:00:00",
+    "state": "ACTIVE",
     "street": "U Uranie",
     "subject": "OTHERS"
   }
