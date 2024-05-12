@@ -645,8 +645,9 @@
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "656c4fb9c02e56c55a512f82a1c1aa524225a955",
+    "sha1": "32d5021f421d81a28a2d6a593df9ef18e9ed83c0",
     "start": "2024-05-11T11:00:00",
+    "state": "ACTIVE",
     "street": "Tupolevova, Beladova, Listova, Prosecká, Ašská, Beranových, ....",
     "subject": "CULTURAL"
   }

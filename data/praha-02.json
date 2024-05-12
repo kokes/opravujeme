@@ -1952,8 +1952,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "e0a111224a813ee4302e86579c6c59e678807e31",
+    "sha1": "6752b81ebcbc65467b8bebc2591ad479a8acdd51",
     "start": "2024-05-12T00:00:00",
+    "state": "ACTIVE",
     "street": "Italská",
     "subject": "CONSTRUCTION"
   }
