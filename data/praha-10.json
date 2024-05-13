@@ -1420,8 +1420,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "e26712e76c7098306d7b4d1ca8dfaf6e3d787451",
+    "sha1": "f0d536f619b42e5d4cc0319c013dbf51a65e0483",
     "start": "2024-05-13T00:00:00",
+    "state": "ACTIVE",
     "street": "Jižní spojka",
     "subject": "CONSTRUCTION"
   },

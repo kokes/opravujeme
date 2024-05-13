@@ -1909,8 +1909,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "af3195281609f72661107d98b5f5f1a83439d9a7",
+    "sha1": "9028eb2b4f298430b5b701207a2b169263fa7e49",
     "start": "2024-05-13T00:00:00",
+    "state": "ACTIVE",
     "street": "Vinohradská",
     "subject": "CONSTRUCTION"
   },
