@@ -1941,8 +1941,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "31b01188be59ed61e1408fd09a6a4d9ff3b01a91",
+    "sha1": "b3855f20159bc3e2d2cabbb2eba96cab848ba7af",
     "start": "2024-05-20T00:00:00",
+    "state": "ACTIVE",
     "street": "Lávka přes Litovicko-Šárecký potok",
     "subject": "CONSTRUCTION"
   },
