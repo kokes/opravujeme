@@ -1898,8 +1898,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "30c35041e4904f00563a3cc331c3c3d5cd507b3e",
+    "sha1": "c5f6196d20d861375104ac99853305116b14165d",
     "start": "2024-05-23T00:00:00",
+    "state": "ACTIVE",
     "street": "Dělostřelecká",
     "subject": "CONSTRUCTION"
   },
