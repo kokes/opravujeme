@@ -1909,9 +1909,8 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "e09f6e41a5e52daaf94b76b5a9d26b49ba7c341e",
+    "sha1": "989dd91baf92a9033269c68b60edc4fce219bfab",
     "start": "2024-05-12T00:00:00",
-    "state": "ACTIVE",
     "street": "Italská",
     "subject": "CONSTRUCTION"
   }

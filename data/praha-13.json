@@ -726,8 +726,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ad4f4a2b5765d0e8c61024130fd431667d1ddbf7",
+    "sha1": "650e71c2e3484c892aef4a4cbd43700833e4cda7",
     "start": "2024-05-25T00:00:00",
+    "state": "ACTIVE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   }
