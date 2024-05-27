@@ -2604,8 +2604,9 @@
     "responsible_email": "rene.kubat@praha.eu",
     "responsible_phone": "261 192 480",
     "severity": "YELLOW",
-    "sha1": "82c9e671dc17dd6bb65b860265f34cdd54c63f1b",
+    "sha1": "6d95a3f8e0d8b91a05f88903b609feda374a0a35",
     "start": "2024-05-27T00:00:00",
+    "state": "ACTIVE",
     "street": "Zálesí, Sulická",
     "subject": "CONSTRUCTION"
   },

@@ -1208,8 +1208,9 @@
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "25ac6646f22acc6aeae64ec0069b2f1b7d6f3186",
+    "sha1": "5dda2b23ad12f9aac8714e60bbf9c27ecc72bdfd",
     "start": "2024-05-27T00:00:00",
+    "state": "ACTIVE",
     "street": "Ocelkova, Chlumecká",
     "subject": "CONSTRUCTION"
   }
