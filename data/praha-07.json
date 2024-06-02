@@ -2824,8 +2824,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "38868d31a4e69f1e914d49e72ffd3db434738a67",
+    "sha1": "d32a98281faa0dc235ad0925ee34fc758d15955a",
     "start": "2024-06-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Hlávkův most",
     "subject": "CONSTRUCTION"
   },
