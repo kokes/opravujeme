@@ -2912,8 +2912,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "039ad1c8bf8ec8934c0cdc611e668e4219a706fd",
+    "sha1": "4649fffd223fcae207a5ce8e34aee63e650eef44",
     "start": "2024-06-03T00:00:00",
+    "state": "ACTIVE",
     "street": "Schnirchova",
     "subject": "CONSTRUCTION"
   }

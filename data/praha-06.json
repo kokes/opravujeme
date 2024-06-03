@@ -1984,8 +1984,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "8057430f6727b7c4da4d3529d8da19b94fad3c3b",
+    "sha1": "99a6d8a6ec5d796e66a959c0c1c8c0224fe36914",
     "start": "2024-06-03T00:00:00",
+    "state": "ACTIVE",
     "street": "Divoká Šárka",
     "subject": "CONSTRUCTION"
   },

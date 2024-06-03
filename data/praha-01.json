@@ -4333,9 +4333,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "b9d061b805086a8ecdfb29df955e87b242f802b9",
+    "sha1": "812380ad3d8ed03fecb33e8e6a1b417027245b98",
     "start": "2024-06-02T00:00:00",
-    "state": "ACTIVE",
     "street": "Řásnovka",
     "subject": "OTHERS"
   },
@@ -4377,9 +4376,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "1e41a7abab258a406fe0d50966adf9852d6baac5",
+    "sha1": "202a6c83af885a9701fbd1ed0f37c2afee9b3e9f",
     "start": "2024-06-02T00:00:00",
-    "state": "ACTIVE",
     "street": "Malostranské náměstí",
     "subject": "OTHERS"
   }

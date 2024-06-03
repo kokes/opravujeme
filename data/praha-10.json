@@ -1593,8 +1593,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "37ab63b5da79d74101b31e5e2c834a54474aea07",
+    "sha1": "f40575d3796677a734491f81bf0a8c8f9c49b52d",
     "start": "2024-06-03T00:00:00",
+    "state": "ACTIVE",
     "street": "Černokostelecká, Jirenská",
     "subject": "CONSTRUCTION"
   },
@@ -1679,8 +1680,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5e626227cf1a3f107cbaa4e25b3252be0e7dc6c8",
+    "sha1": "d085c33d496297eae892ab2b23ca2763bb488b62",
     "start": "2024-06-03T00:00:00",
+    "state": "ACTIVE",
     "street": "Solidarity, Dvouletky",
     "subject": "CONSTRUCTION"
   }
