@@ -4118,8 +4118,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "e9de51af98a0d343f7a1acffaf00fa4f2da3267e",
+    "sha1": "3dd853f4c614005f3bc42e04195bcf3593fc090c",
     "start": "2024-06-07T00:00:00",
+    "state": "ACTIVE",
     "street": "Vinohradská",
     "subject": "CULTURAL"
   },
