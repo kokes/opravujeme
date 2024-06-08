@@ -4031,9 +4031,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c2b4069da1ca7b97b2324d90c32f0a30c7152c87",
+    "sha1": "3deb299c7ff8c2e8fa9b8aa8b666a5b99c9f3775",
     "start": "2024-04-15T00:00:00",
-    "state": "ACTIVE",
     "street": "Národní a Spálená ulice, podél OD Máj",
     "subject": "CONSTRUCTION"
   },
@@ -4162,8 +4161,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "533b5fe66b351a06d5b9827d42e3e8fc4550f167",
+    "sha1": "22a40fbed40c399e1a939a897901baa647735316",
     "start": "2024-06-08T00:00:00",
+    "state": "ACTIVE",
     "street": "Divadelní, Masarykovo nábřeží",
     "subject": "OTHERS"
   },
@@ -4291,8 +4291,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "6979dc41dad3b325289a33bc4733fce352d3721d",
+    "sha1": "244451779507c40c3ecfce3f9f35d3bfc49770c0",
     "start": "2024-06-08T00:00:00",
+    "state": "ACTIVE",
     "street": "Malostranské náměstí",
     "subject": "OTHERS"
   },
