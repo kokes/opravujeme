@@ -1896,9 +1896,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "65dc767d526f8057b2c6a262d7a96f6ab40f24d9",
+    "sha1": "7df2c1dc90b7c7f86cf4cb5fda894593311b488e",
     "start": "2024-05-23T00:00:00",
-    "state": "ACTIVE",
     "street": "Dělostřelecká",
     "subject": "CONSTRUCTION"
   },
@@ -2072,9 +2071,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6181e11f4b9f9fca3ae2bb1f5f4dcc22eddbf0fa",
+    "sha1": "d066a4b0bb51a8b3e06865dd767f6d3e20b5b7ec",
     "start": "2024-05-27T00:00:00",
-    "state": "ACTIVE",
     "street": "Drnovská, Stochovská",
     "subject": "CONSTRUCTION"
   },

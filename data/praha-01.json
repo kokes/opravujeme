@@ -4117,9 +4117,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "3dd853f4c614005f3bc42e04195bcf3593fc090c",
+    "sha1": "e9de51af98a0d343f7a1acffaf00fa4f2da3267e",
     "start": "2024-06-07T00:00:00",
-    "state": "ACTIVE",
     "street": "Vinohradská",
     "subject": "CULTURAL"
   },
@@ -4161,9 +4160,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "22a40fbed40c399e1a939a897901baa647735316",
+    "sha1": "533b5fe66b351a06d5b9827d42e3e8fc4550f167",
     "start": "2024-06-08T00:00:00",
-    "state": "ACTIVE",
     "street": "Divadelní, Masarykovo nábřeží",
     "subject": "OTHERS"
   },
@@ -4205,8 +4203,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "cea089aa91ad6c3d419ba88f3a446395d8a868dd",
+    "sha1": "874837dc58e1c8986524d3d68b59eef6d334db25",
     "start": "2024-06-10T00:00:00",
+    "state": "ACTIVE",
     "street": "Divadelní",
     "subject": "CONSTRUCTION"
   },

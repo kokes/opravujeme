@@ -2646,8 +2646,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f7040caa4444defcfa0e4ad7515d8892a9a704dd",
+    "sha1": "cdcc996d820bfb885534ce3e20068859b96e01c4",
     "start": "2024-06-10T00:00:00",
+    "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   }
