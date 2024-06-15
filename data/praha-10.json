@@ -1637,8 +1637,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "eea5d71b7d6f364561d775855d69d68bcd3cae6a",
+    "sha1": "4e3a68393fb139006e89448f81e67995864d4f4a",
     "start": "2024-06-15T00:00:00",
+    "state": "ACTIVE",
     "street": "V Olšinách",
     "subject": "CULTURAL"
   },
