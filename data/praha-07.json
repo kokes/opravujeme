@@ -3043,8 +3043,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e5c70ec8c5291a330cf750eb5da2295089d52f9e",
+    "sha1": "e6177b370163556f524aa71ef9708eb690a9f4e9",
     "start": "2024-06-20T00:00:00",
+    "state": "ACTIVE",
     "street": "Nad Štolou",
     "subject": "CONSTRUCTION"
   }
