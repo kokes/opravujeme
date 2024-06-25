@@ -4074,9 +4074,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "184646f142604acded3ddb77256f8a8f43bcee30",
+    "sha1": "1a46f67a99c5369519838835c70c9d57e3ee1170",
     "start": "2024-06-24T00:00:00",
-    "state": "ACTIVE",
     "street": "Dvořákovo nábřeží",
     "subject": "OTHERS"
   },
@@ -4204,9 +4203,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "874837dc58e1c8986524d3d68b59eef6d334db25",
+    "sha1": "cea089aa91ad6c3d419ba88f3a446395d8a868dd",
     "start": "2024-06-10T00:00:00",
-    "state": "ACTIVE",
     "street": "Divadelní",
     "subject": "CONSTRUCTION"
   },
