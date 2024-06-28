@@ -861,7 +861,6 @@
   },
   {
     "city_part": [
-      "11",
       "12"
     ],
     "contractor": "DAP a.s.",
@@ -882,13 +881,13 @@
     "investor_phone": "775 950 490",
     "investor_responsible": "Michal Švadlenka",
     "lat": 49.98907,
-    "limitations": "<p>Vložená 1a etapa</p><p><br></p><p>V termínu od 29.6. - 6.7.: <span style=\"color: rgb(0, 0, 0);\"> r</span>ekonstrukce zastávky \"Na Šabatce\" směrem do centra (směr do Komořan), zastávka pro autobusovou dopravu bude zrušena</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">1. etapa </span><strong style=\"color: rgb(0, 0, 0);\">29. 6. - 28. 7. 2024</strong><span style=\"color: rgb(0, 0, 0);\">: r</span>ekonstrukce zastávky \"Na Šabatce\" směrem do centra (směr do Komořan), zastávka pro autobusovou dopravu bude zrušena a bude zřízen kyvadlový provoz v&nbsp;místě zastávky.</p><p><br></p><p> </p><p><span style=\"color: rgb(0, 0, 0);\">2. etapa </span><strong style=\"color: rgb(0, 0, 0);\">29. 7. - 25. 8. 2024</strong><span style=\"color: rgb(0, 0, 0);\">: r</span>ekonstrukce zastávky \"Na Šabatce\" směrem z centra (směr na Zbraslav), zastávka pro autobusovou dopravu bude přesunuta a bude zřízen kyvadlový provoz v&nbsp;místě opravované zastávky.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">3. etapa </span><strong style=\"color: rgb(0, 0, 0);\">26. 8. - 15. 9. 2024</strong><span style=\"color: rgb(0, 0, 0);\">: r</span>ekonstrukce chodníku Komořanská mezi ulicemi Na Homoli a Na Šabatce. Zastávky budou v&nbsp;provozu, ale u zastávky směrem do centra bude zrušen bezbariérový přístup přes přechod, ten nahrazuje přístup po schodišti z&nbsp;ulice Krupná.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\"><span class=\"ql-cursor\">﻿﻿﻿﻿﻿﻿﻿﻿</span>Po celou dobu trvání akce bude v&nbsp;části ulice Na Šabatce zábor nutný pro zařízení staveniště.</span></p>",
+    "limitations": "<p>Vložená 1a etapa</p><p><br></p><p>V termínu od 29.6. - 6.7.: <span style=\"color: rgb(0, 0, 0);\"> r</span>ekonstrukce zastávky \"Na Šabatce\" směrem do centra (směr do Komořan), zastávka pro autobusovou dopravu bude zrušena</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">1. etapa </span><strong style=\"color: rgb(0, 0, 0);\">7.7. - 28. 7. 2024</strong><span style=\"color: rgb(0, 0, 0);\">: r</span>ekonstrukce zastávky \"Na Šabatce\" směrem do centra (směr do Komořan), zastávka pro autobusovou dopravu bude zrušena a bude zřízen kyvadlový provoz v&nbsp;místě zastávky.</p><p><br></p><p> </p><p><span style=\"color: rgb(0, 0, 0);\">2. etapa </span><strong style=\"color: rgb(0, 0, 0);\">29. 7. - 25. 8. 2024</strong><span style=\"color: rgb(0, 0, 0);\">: r</span>ekonstrukce zastávky \"Na Šabatce\" směrem z centra (směr na Zbraslav), zastávka pro autobusovou dopravu bude přesunuta a bude zřízen kyvadlový provoz v&nbsp;místě opravované zastávky.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">3. etapa </span><strong style=\"color: rgb(0, 0, 0);\">26. 8. - 15. 9. 2024</strong><span style=\"color: rgb(0, 0, 0);\">: r</span>ekonstrukce chodníku Komořanská mezi ulicemi Na Homoli a Na Šabatce. Zastávky budou v&nbsp;provozu, ale u zastávky směrem do centra bude zrušen bezbariérový přístup přes přechod, ten nahrazuje přístup po schodišti z&nbsp;ulice Krupná.</p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\"><span class=\"ql-cursor\">﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>Po celou dobu trvání akce bude v&nbsp;části ulice Na Šabatce zábor nutný pro zařízení staveniště.</span></p>",
     "lon": 14.408935,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-06-26T16:17:00.410892",
+    "modified": "2024-06-27T12:49:14.075474",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "Rekonstrukce zastávek NA ŠABATCE v ulici Komořanská",
     "priority": false,
@@ -898,7 +897,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "c648c4a7b464d4ed3506fd575ba3cac4af1b8b0a",
+    "sha1": "659349ce08f38e81c3f06d7b352b608f640c9060",
     "start": "2024-06-29T00:00:00",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
