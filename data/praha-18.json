@@ -688,8 +688,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "efee5ef3cb418c8d5edc8258cc747efb811fafb7",
+    "sha1": "3c60facac1d5a144cb61cce3248c234c8374efce",
     "start": "2024-06-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Beranových",
     "subject": "CONSTRUCTION"
   },

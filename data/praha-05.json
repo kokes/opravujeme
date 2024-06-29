@@ -2653,8 +2653,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "17172c6ecd1d9f3b2090cf47e84ee28a9d0c1027",
+    "sha1": "4f4456ff98eccc3b4e775f82ae5fca8666272620",
     "start": "2024-06-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Dobříšská",
     "subject": "CONSTRUCTION"
   },
@@ -2869,8 +2870,9 @@
     "responsible_email": "eva.vainerova@praha.eu",
     "responsible_phone": "236004207",
     "severity": "RED",
-    "sha1": "3311ea37b2f6b45f9d137051c14fa98def24e2da",
+    "sha1": "b329fcbdf206ad9a0bc8c7ba2080f8977e0c3a94",
     "start": "2024-06-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   },
@@ -2912,8 +2914,9 @@
     "responsible_email": null,
     "responsible_phone": "236004325",
     "severity": "YELLOW",
-    "sha1": "2cddc9008b739173ae79e9f7fa89dd896d925976",
+    "sha1": "209c188205f2ae349180b5694f1d27312aff1413",
     "start": "2024-06-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Dobříšská",
     "subject": "CONSTRUCTION"
   },

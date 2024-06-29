@@ -4461,9 +4461,8 @@
     "responsible_email": "eva.vainerova@praha.eu",
     "responsible_phone": "236004207",
     "severity": "RED",
-    "sha1": "a1b5a542d46b12168ef8294a21babf97ee35efe0",
+    "sha1": "34471b68690c6a88f4a4ea615dc37c1221f75468",
     "start": "2024-06-19T00:00:00",
-    "state": "ACTIVE",
     "street": "Myslíkova, Spálená",
     "subject": "CONSTRUCTION"
   },
@@ -4505,8 +4504,9 @@
     "responsible_email": "eva.vainerova@praha.eu",
     "responsible_phone": "236004207",
     "severity": "RED",
-    "sha1": "a9a3f58a23e6dea34307a118c7a76ecee722dc8d",
+    "sha1": "7f0fb3ed55f3d69904897c4023f81aa210c5e79d",
     "start": "2024-06-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Lazarská, Vodičkova, Jindřišská",
     "subject": "CONSTRUCTION"
   },
