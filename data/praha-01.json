@@ -4158,8 +4158,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "2eea564604f55c7b128c877397fd8238793ed8cd",
+    "sha1": "c130a5cea40896e81391db7c99c28cd41787db56",
     "start": "2024-06-30T00:00:00",
+    "state": "ACTIVE",
     "street": "Divadelní",
     "subject": "OTHERS"
   },
