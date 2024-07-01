@@ -2741,8 +2741,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9ec8a1b55f83027ec66ff6b87d604066710e7f99",
+    "sha1": "b1c83bfef599b8a6baad76ae34e157ac3df2f088",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "K Barrandovu",
     "subject": "CONSTRUCTION"
   },

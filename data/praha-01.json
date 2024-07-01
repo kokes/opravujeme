@@ -4158,9 +4158,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "c130a5cea40896e81391db7c99c28cd41787db56",
+    "sha1": "2eea564604f55c7b128c877397fd8238793ed8cd",
     "start": "2024-06-30T00:00:00",
-    "state": "ACTIVE",
     "street": "Divadelní",
     "subject": "OTHERS"
   },
@@ -4549,8 +4548,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "RED",
-    "sha1": "9a5ed153a8cc1673be4e00ca18c184e89b75e4b7",
+    "sha1": "5ea685f359be8ba108a1204a0ee21f6fa61332af",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Wilsonova",
     "subject": "CONSTRUCTION"
   },
@@ -4638,8 +4638,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "1d6e5a407375c3ee87304f6737ab6869b0ab8224",
+    "sha1": "9ee51ca0bfbee0dec20dd4b46d8b5d9c6358b774",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Hybernská, Seifertova",
     "subject": "CONSTRUCTION"
   },

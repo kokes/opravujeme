@@ -2085,8 +2085,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "1d6e5a407375c3ee87304f6737ab6869b0ab8224",
+    "sha1": "9ee51ca0bfbee0dec20dd4b46d8b5d9c6358b774",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Hybernská, Seifertova",
     "subject": "CONSTRUCTION"
   },

@@ -2511,8 +2511,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "3627ae106cb4dfc0c26584fa2f53c5529a55d1b5",
+    "sha1": "ca72724bd5350acb98ec850f59953adcb3918912",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Jitřní",
     "subject": "CONSTRUCTION"
   },

@@ -514,9 +514,8 @@
     "responsible_email": "vaclav.spilik@praha.eu",
     "responsible_phone": "236004255",
     "severity": "GREEN",
-    "sha1": "a2c1fa3f924c8d77599fc2344969878190c1b8d6",
+    "sha1": "6cc26571c0bfb4713169892bc6a5aacce40f91e1",
     "start": "2023-07-10T00:00:00",
-    "state": "ACTIVE",
     "street": "Chlumecká",
     "subject": "CONSTRUCTION"
   },
@@ -1121,9 +1120,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cf0003ca2776831591cd50e65dbeacb653921319",
+    "sha1": "e5582e962525a5edb6fac39ebae367513e05f32f",
     "start": "2024-04-25T00:00:00",
-    "state": "ACTIVE",
     "street": "Slévačská",
     "subject": "CONSTRUCTION"
   },

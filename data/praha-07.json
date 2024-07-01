@@ -900,8 +900,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "99004756c4e511bc16a383bcbd0588749a200d3d",
+    "sha1": "aae3ad22a65877f0368d4d342f69cff087c86867",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Bubenská",
     "subject": "CONSTRUCTION"
   },
@@ -1300,9 +1301,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "205664b2a29b03329932366255f1210619e22c13",
+    "sha1": "6f2edb49a3f2af584aefa84f67febbfa48a2e372",
     "start": "2023-07-03T00:00:00",
-    "state": "ACTIVE",
     "street": "Za Viaduktem",
     "subject": "CONSTRUCTION"
   },
@@ -3042,8 +3042,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "d9ba0ab512e45b9bebf1b1a5c1841f38d4ed5cd8",
+    "sha1": "a401d57075ade373cb1e22716b1baa43bd9b0ab2",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Bubenské nábřeží",
     "subject": "CONSTRUCTION"
   }

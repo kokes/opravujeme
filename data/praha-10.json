@@ -1549,8 +1549,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ae946bd4585e68a9603944f04f91e956bc052691",
+    "sha1": "bd94490a4994d11325e3a16b103a91cdb73758a5",
     "start": "2024-07-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Benzina - V Korytech",
     "subject": "CONSTRUCTION"
   },
