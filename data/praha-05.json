@@ -2610,8 +2610,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "881e27c3c64625955d5275059c39b611758ae94e",
+    "sha1": "21822f245aa9d006747477d634fcc1371276fb55",
     "start": "2024-07-01T10:00:00",
+    "state": "ACTIVE",
     "street": "křižovatka Dobříšská x Křížová",
     "subject": "CONSTRUCTION"
   },

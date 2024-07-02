@@ -4385,7 +4385,7 @@
       "8"
     ],
     "contractor": "ROCON METEO",
-    "contractor_phone": "733554784",
+    "contractor_phone": "733554704",
     "contractor_responsible": "David Hovjacký",
     "created": "2024-06-19T09:42:16.087726",
     "createdby": "jaroslav.lehky@praha.eu",
@@ -4408,7 +4408,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-06-19T09:42:30.131054",
+    "modified": "2024-07-01T08:34:43.921361",
     "modifiedby": "jaroslav.lehky@praha.eu",
     "name": "Rekonstrukce postřikového systému SAP Bulhar",
     "priority": false,
@@ -4418,8 +4418,9 @@
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "70e5ccfa4de334ecfb6cad78aa9e8c020876a966",
+    "sha1": "1c248c6d17646a50a43d0e3da80f9588b9bfc77d",
     "start": "2024-07-01T08:00:00",
+    "state": "ACTIVE",
     "street": "Wilsonova",
     "subject": "CONSTRUCTION"
   },
