@@ -1856,8 +1856,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "75d412dc96bab8cc3cb4b36b8831b5c5eb3b2beb",
+    "sha1": "ae11a2a59891ef769edf6f744adca96e1f47656f",
     "start": "2024-07-06T00:00:00",
+    "state": "ACTIVE",
     "street": "Vršovická ",
     "subject": "CONSTRUCTION"
   },

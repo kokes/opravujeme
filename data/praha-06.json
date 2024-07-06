@@ -2112,9 +2112,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "81738e24db3a76e32324f08187f8364415edbffc",
+    "sha1": "c178d17adae7521fff846be67ac01264657622f8",
     "start": "2024-06-03T00:00:00",
-    "state": "ACTIVE",
     "street": "křižovatky Sibeliova x Pod Andělkou x nám Před Bateriemi",
     "subject": "CONSTRUCTION"
   },
