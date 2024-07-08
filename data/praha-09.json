@@ -1469,8 +1469,9 @@
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "RED",
-    "sha1": "d85fd6f2d29676a15787bb6f3b8ba0bda9b92a84",
+    "sha1": "95c08849b1e661333ff2d979b09c3c43d987c0e4",
     "start": "2024-07-08T00:00:00",
+    "state": "ACTIVE",
     "street": "Sokolovská, Českomorovská, Praha 8 a Praha 9",
     "subject": "CONSTRUCTION"
   },

@@ -639,8 +639,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4ce6a0b386de78c42bcfa09b5c5f875658ba913d",
+    "sha1": "df8be790f2e9dfd1d1469e677e4f1bc4ba307563",
     "start": "2024-07-08T00:00:00",
+    "state": "ACTIVE",
     "street": "Výstavní",
     "subject": "CONSTRUCTION"
   },

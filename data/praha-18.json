@@ -776,8 +776,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b6370dbed1d8f6fada1da75c3190753957d2295e",
+    "sha1": "c95106e039e9d9e4adf1cdd8beb0bdba9f26f0b1",
     "start": "2024-07-08T00:00:00",
+    "state": "ACTIVE",
     "street": "Na Zlaté",
     "subject": "CONSTRUCTION"
   }

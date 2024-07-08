@@ -3086,8 +3086,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8a0921bd9f25018afc040568625067f111e87486",
+    "sha1": "5c996cf226065b25942db8aca3518f2becf83f52",
     "start": "2024-07-08T00:00:00",
+    "state": "ACTIVE",
     "street": "Nad Královskou oborou, Čechova",
     "subject": "CONSTRUCTION"
   }

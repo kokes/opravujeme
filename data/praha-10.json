@@ -1375,9 +1375,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "496137bf180704b460e84a23c66b8746a127128a",
+    "sha1": "70cddfa8e0b7900b180447af03c6badaba6938ad",
     "start": "2024-04-02T07:00:00",
-    "state": "ACTIVE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   },
