@@ -2567,8 +2567,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "7c26bd91faecf7cda58ebd99a8a4a76983beee4e",
+    "sha1": "e578a956843ccaf4eac34ca608a15ff44b03010a",
     "start": "2024-07-09T00:00:00",
+    "state": "ACTIVE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   },
@@ -2829,8 +2830,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "5d231e3f944dee7d03cdf3c48906c4e67a86d618",
+    "sha1": "3acb5f2168e4ea908026ca49bdb9db367ff08e63",
     "start": "2024-07-09T00:00:00",
+    "state": "ACTIVE",
     "street": "Peroutkova",
     "subject": "CONSTRUCTION"
   },
@@ -2960,8 +2962,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "e323db568b17027e3a600314922f85f8369dc109",
+    "sha1": "e0106ddf554932cecacdbee3c7b8de142ba0ac70",
     "start": "2024-07-09T00:00:00",
+    "state": "ACTIVE",
     "street": "Svornosti, U železničního mostu",
     "subject": "CONSTRUCTION"
   }
