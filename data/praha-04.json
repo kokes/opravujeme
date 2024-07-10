@@ -2599,8 +2599,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2b2befc52a435eaba325e5b2f70d728fb15cedf5",
+    "sha1": "eb83bf0d89c07189d7e4d3b70123a7af48b3946a",
     "start": "2024-07-10T00:00:00",
+    "state": "ACTIVE",
     "street": "Sládkovičova",
     "subject": "CONSTRUCTION"
   }
