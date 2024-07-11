@@ -1900,8 +1900,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "ae3e0c73bcb264b0c98be01094e9a4b000bdc7ec",
+    "sha1": "7afa63eaec925a3f99ecbb29498f096d3eb9812e",
     "start": "2024-07-10T08:00:00",
+    "state": "ACTIVE",
     "street": "Vršovická",
     "subject": "OTHERS"
   }
