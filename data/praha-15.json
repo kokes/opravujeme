@@ -688,8 +688,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "YELLOW",
-    "sha1": "ed0a131def03fa44e4dff9438daefb67248e96a1",
+    "sha1": "5567fbe3c625532720be970c1582ac76a362d655",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Novopetrovická",
     "subject": "CONSTRUCTION"
   }

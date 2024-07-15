@@ -812,8 +812,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "da7fcca54beeda9a7baa9f4d47d0819981aa5e1c",
+    "sha1": "52f7c9cadc1b4090bc0c54b3f6d765ac2f8ac9cf",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Bucharova",
     "subject": "CONSTRUCTION"
   },

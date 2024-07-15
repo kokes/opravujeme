@@ -2739,9 +2739,8 @@
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "86a91bf7b4e4e32dfaca343d3f8aad4d13f59744",
+    "sha1": "6533297162de6715380fd7c29290f97281b115ec",
     "start": "2024-07-12T00:00:00",
-    "state": "ACTIVE",
     "street": "Liberecká, Cínovecká, Kbelská",
     "subject": "CONSTRUCTION"
   },
@@ -2827,8 +2826,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5674ab34da443eae9aa37f8bfc91e519819c2196",
+    "sha1": "707051b7e3568acd7c07e6326aaad463591ca289",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Štěpničná",
     "subject": "CONSTRUCTION"
   },
@@ -2999,8 +2999,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7524bfdc7c9ad5d536dd9a52ec3fbc710e7afd46",
+    "sha1": "bcd88cb30d2d4e2a5a66d5786f219a3abffb98c3",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Mostu Barikádníků, Povltavská",
     "subject": "CONSTRUCTION"
   },
@@ -3042,8 +3043,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "8924686e1c0d51ec65721194db617461d4ed600a",
+    "sha1": "e2ae6652eb9798396c56c713514f09142fc941b0",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "most Barikádníků",
     "subject": "CONSTRUCTION"
   }

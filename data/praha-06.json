@@ -2199,8 +2199,9 @@
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "236004392",
     "severity": "YELLOW",
-    "sha1": "a7ae2e97c5a6241abec8c71049deb1b99b664bcc",
+    "sha1": "5933ca75bd940f05194015d857f35f3df682aed4",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Patočkova",
     "subject": "CONSTRUCTION"
   },
@@ -2285,8 +2286,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c9fec4dda2838c91b59627192f66a4c397726b56",
+    "sha1": "de5dbd915a50f53bebd7e2053ac77cd7b07edb2b",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Drnovská",
     "subject": "CONSTRUCTION"
   }

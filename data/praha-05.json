@@ -3005,8 +3005,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f7f6f834159b360fcce5b5f14f05c0f1cf2f4717",
+    "sha1": "c2945e97316181815dfc40dc2ddb60e793cf4a3f",
     "start": "2024-07-15T00:00:00",
+    "state": "ACTIVE",
     "street": "K Nové Vsi",
     "subject": "CONSTRUCTION"
   }
