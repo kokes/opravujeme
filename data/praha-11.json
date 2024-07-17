@@ -814,8 +814,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "962682bf7c4910197458f668f42062ad994ebb26",
+    "sha1": "870be6ffd734532b3bbf5a3403b05c58679b5328",
     "start": "2024-07-17T00:00:00",
+    "state": "ACTIVE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   }

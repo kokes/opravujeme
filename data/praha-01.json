@@ -4812,8 +4812,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "ca69bf8c2a17cee0ca2e894479da9e819c8f204a",
+    "sha1": "78ba6482ff0260d4796134af3996219ee94f16c2",
     "start": "2024-07-17T00:00:00",
+    "state": "ACTIVE",
     "street": "Divadelní, Smetanovo nábřeží",
     "subject": "OTHERS"
   },
