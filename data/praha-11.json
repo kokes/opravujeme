@@ -771,8 +771,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "18bb3c9c80b6ecc08ec1f07beaeee24df2a54d1b",
+    "sha1": "e9509225337b1c81926d7f2283a72096f291e8fd",
     "start": "2024-07-19T00:00:00",
+    "state": "ACTIVE",
     "street": "Lhotecká",
     "subject": "CONSTRUCTION"
   },
