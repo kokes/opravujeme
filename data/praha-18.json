@@ -733,8 +733,9 @@
     "responsible_email": null,
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "4a499b8c90c848c575a035a325658abcdfc83a3c",
+    "sha1": "943404dbd8ca7de88d643d60de3f02ffd67aced5",
     "start": "2024-07-20T06:00:00",
+    "state": "ACTIVE",
     "street": "Kbelská (v úseku Veselská - Čakovická)",
     "subject": "CONSTRUCTION"
   },
@@ -820,8 +821,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0f2a5e4424d14e40ce02150041c8bf3124964805",
+    "sha1": "4d37b0a2f53751f6b48982d04cfc21676d27a002",
     "start": "2024-07-20T00:00:00",
+    "state": "ACTIVE",
     "street": "Beranových",
     "subject": "CONSTRUCTION"
   }
