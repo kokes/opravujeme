@@ -4726,8 +4726,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bda0853c2cc8d6750887da66ee7e284a6ab3f114",
+    "sha1": "d3100fd1ea2eda04961389e38770bf829376b539",
     "start": "2024-07-22T00:00:00",
+    "state": "ACTIVE",
     "street": "Vlašská",
     "subject": "CONSTRUCTION"
   },
@@ -4984,9 +4985,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "594cdad6f2a36384ee7447e5be852b41258ba1de",
+    "sha1": "116ce55ca8f0cd8b79e7b006ea755e9ef16bbb85",
     "start": "2024-07-20T00:00:00",
-    "state": "ACTIVE",
     "street": "Divadelní, Masarykovo nábřeží",
     "subject": "OTHERS"
   },
