@@ -4770,8 +4770,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "79142c709362adf12bad47d7e443fcb895cedd43",
+    "sha1": "9aef2b35672fb873af9b22d88501765936f5cc51",
     "start": "2024-07-23T00:00:00",
+    "state": "ACTIVE",
     "street": "Dvořákovo nábřeží, Na Rejdišti",
     "subject": "OTHERS"
   },
