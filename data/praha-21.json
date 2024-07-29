@@ -126,8 +126,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6fde1d4499ff0feca466f1069dfbb3dbf77d01b0",
+    "sha1": "da6f7af94d92eedabfa4bf7f75a187b07aebc05b",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "V Lipách, K Běchovicům",
     "subject": "CONSTRUCTION"
   },

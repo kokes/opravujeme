@@ -2729,8 +2729,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "ff8d829af189cf78a1e0caf38791af567fecc322",
+    "sha1": "b7703cabd76420930de12eb91ff736b1c150fabb",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Budějovická, od Michelské po metro Kačerov",
     "subject": "CONSTRUCTION"
   }

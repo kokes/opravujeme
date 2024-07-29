@@ -2825,9 +2825,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "707051b7e3568acd7c07e6326aaad463591ca289",
+    "sha1": "5674ab34da443eae9aa37f8bfc91e519819c2196",
     "start": "2024-07-15T00:00:00",
-    "state": "ACTIVE",
     "street": "Štěpničná",
     "subject": "CONSTRUCTION"
   },
@@ -2912,9 +2911,8 @@
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "0b1c3398890263865d7e5c838924ba67ef1cc88e",
+    "sha1": "7d3cb79a19ab817011200be240f1de88a4fc9559",
     "start": "2024-07-27T05:00:00",
-    "state": "ACTIVE",
     "street": "Most Barikádníků",
     "subject": "CONSTRUCTION"
   },

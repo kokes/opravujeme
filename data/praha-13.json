@@ -900,8 +900,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a1b90e6b145417bf110a69bfdc2c214d31a0dda7",
+    "sha1": "7d14db485f499b275640611460ef81753621b7ed",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Bucharova, NN 1814",
     "subject": "CONSTRUCTION"
   }

@@ -4770,9 +4770,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "9aef2b35672fb873af9b22d88501765936f5cc51",
+    "sha1": "79142c709362adf12bad47d7e443fcb895cedd43",
     "start": "2024-07-23T00:00:00",
-    "state": "ACTIVE",
     "street": "Dvořákovo nábřeží, Na Rejdišti",
     "subject": "OTHERS"
   },
@@ -5029,8 +5028,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "1a6f176317c0d6b5ad47d9b594e922e959c3b9c5",
+    "sha1": "eea90e23cf359172662c422d7d8da41d18c950b7",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Dvořákovo nábřeží",
     "subject": "OTHERS"
   },
@@ -5072,9 +5072,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "cec90612fcbaf14dad20ced0f44a3d4466cf29af",
+    "sha1": "f40dec93d393a15c60a7d226c20cc4915265a32f",
     "start": "2024-07-27T00:00:00",
-    "state": "ACTIVE",
     "street": "17. listopad, Na Rejdišti",
     "subject": "OTHERS"
   },
@@ -5116,8 +5115,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "6f05de3dcf81744ef1cd57a9de1085bd373896f4",
+    "sha1": "77e6dfe05a464f079c3155728095235601f6bce0",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Divadelní",
     "subject": "OTHERS"
   }

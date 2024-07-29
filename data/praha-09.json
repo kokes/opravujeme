@@ -1557,8 +1557,9 @@
     "responsible_email": null,
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "1f24b6ec0da46bac2bb279ddb51b40c39f7b250d",
+    "sha1": "efe4ae08128a273cad8db8bd97cca8fa23425bfe",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },
@@ -1601,9 +1602,8 @@
     "responsible_email": null,
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "943404dbd8ca7de88d643d60de3f02ffd67aced5",
+    "sha1": "4a499b8c90c848c575a035a325658abcdfc83a3c",
     "start": "2024-07-20T06:00:00",
-    "state": "ACTIVE",
     "street": "Kbelská (v úseku Veselská - Čakovická)",
     "subject": "CONSTRUCTION"
   },
@@ -1731,8 +1731,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6057351998c1f26d884ec7f5a9d4c7e45456320a",
+    "sha1": "d6ccf98a22a869100a02a9344e02dff8d691f81b",
     "start": "2024-07-29T00:00:00",
+    "state": "ACTIVE",
     "street": "Na Prosecké vyhlídce, Litoměřická",
     "subject": "CONSTRUCTION"
   },
