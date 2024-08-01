@@ -2124,9 +2124,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "2a51425d40fc75179aa3d2442a95f13f6e05a7b7",
+    "sha1": "c1dbe202b7c313929f749ed24a2bce6a4b1c395b",
     "start": "2024-01-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Dukelských hrdinů, Strojnická, Bubenská, U Výstaviště",
     "subject": "CONSTRUCTION"
   },
@@ -3128,8 +3127,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "ab5037831b910e3eaaf0dc0445cd363ba88c2a65",
+    "sha1": "f5cf67ea4ba9a7dc43df3c6aafb168904371fd2d",
     "start": "2024-08-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Bubenská",
     "subject": "CONSTRUCTION"
   }
