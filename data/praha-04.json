@@ -2642,8 +2642,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "910db796a26b532063f1a495cf79ce072b4be601",
+    "sha1": "d9b5c84dfbde6ab029a8c185cfee498a6977149a",
     "start": "2024-08-05T00:00:00",
+    "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
@@ -2685,8 +2686,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e2546ad62de726f1270b05c82161ca48a22f5618",
+    "sha1": "57e8d09715f17641fc83f7f26444bcd3c9d43a21",
     "start": "2024-08-05T00:00:00",
+    "state": "ACTIVE",
     "street": "Novodvorská",
     "subject": "CONSTRUCTION"
   },

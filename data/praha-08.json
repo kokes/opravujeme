@@ -3131,8 +3131,9 @@
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "250ca5385453776625d1d05179206b300f693862",
+    "sha1": "8a10ca4fc72408e279de8111e5d99d7f7072184b",
     "start": "2024-08-05T00:00:00",
+    "state": "ACTIVE",
     "street": "Kostelecká",
     "subject": "CONSTRUCTION"
   }
