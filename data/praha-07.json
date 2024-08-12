@@ -3127,9 +3127,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "f5cf67ea4ba9a7dc43df3c6aafb168904371fd2d",
+    "sha1": "ab5037831b910e3eaaf0dc0445cd363ba88c2a65",
     "start": "2024-08-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Bubenská",
     "subject": "CONSTRUCTION"
   },
@@ -3171,8 +3170,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "528a13abbe72fd9f3d45827d475efbd451a922a1",
+    "sha1": "01b7ab962dcdb50823ac4a9047714eb4f7e74a4b",
     "start": "2024-08-12T00:00:00",
+    "state": "ACTIVE",
     "street": "Strojnická",
     "subject": "CONSTRUCTION"
   }

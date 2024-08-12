@@ -4856,8 +4856,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "58897a3305de20504f0941c4de968ef01ed2896a",
+    "sha1": "c91571a727b3966e3283d1d5aeca8f5e0af27f22",
     "start": "2024-08-12T00:00:00",
+    "state": "ACTIVE",
     "street": "Valdštejnská",
     "subject": "OTHERS"
   },
