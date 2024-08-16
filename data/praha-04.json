@@ -1944,8 +1944,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "d7760bb1ffd292eff0b65003742485f63e80aa5a",
+    "sha1": "ec52b976ad4e1b3cce9a74c21ecd76325ecb5ce0",
     "start": "2024-08-16T00:00:00",
+    "state": "ACTIVE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
