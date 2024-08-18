@@ -1982,8 +1982,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "57d7be448759d3f6a2a16d1c678de68405ce11a6",
+    "sha1": "da909536027fc4044fcb0dc329f415e99303eeb3",
     "start": "2024-08-17T07:00:00",
+    "state": "ACTIVE",
     "street": "Rabakovská, Pelyňková (uzavírka)",
     "subject": "CONSTRUCTION"
   },
