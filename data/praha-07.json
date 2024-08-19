@@ -3127,8 +3127,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "1f6427419b5d9cd9af0da8cd5774a2919d02c70f",
+    "sha1": "a44dda4e5e50748c3c589cb361f8a73751dbd60e",
     "start": "2024-08-19T00:00:00",
+    "state": "ACTIVE",
     "street": "Korunovační, Na výšinách",
     "subject": "CONSTRUCTION"
   }

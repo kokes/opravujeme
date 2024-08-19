@@ -2069,8 +2069,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bb5b852f588fcae9d05620b4b896b2ea77cf6a85",
+    "sha1": "b24b3695385d43f7dc407dd8b44c735dd4585960",
     "start": "2024-08-19T00:00:00",
+    "state": "ACTIVE",
     "street": "Štěpnice",
     "subject": "CONSTRUCTION"
   },

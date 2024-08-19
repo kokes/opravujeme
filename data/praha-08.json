@@ -2437,9 +2437,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "b3b905162eb537cb8bbe238d89b0437316b31918",
+    "sha1": "68c4a534c44d742a57ba008ff38598e491bdd097",
     "start": "2024-07-08T00:00:00",
-    "state": "ACTIVE",
     "street": "Cínovecká",
     "subject": "CONSTRUCTION"
   },
@@ -2611,9 +2610,8 @@
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "RED",
-    "sha1": "b664ce01d3680955b4669ae5793a88690ab05e30",
+    "sha1": "48bf28158abc967c7fe91b2a5ada8ccef7b87eee",
     "start": "2024-08-16T15:00:00",
-    "state": "ACTIVE",
     "street": "Rohanské nábřeží",
     "subject": "CULTURAL"
   },
