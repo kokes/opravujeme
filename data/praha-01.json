@@ -4383,7 +4383,7 @@
     "city_part": [
       "1"
     ],
-    "contractor": "EUROVIA CS, a.s.",
+    "contractor": "EUROVIA CZ a.s.",
     "contractor_phone": "731 601 244",
     "contractor_responsible": "p. Kykal",
     "created": "2024-06-21T13:13:12.206001",
@@ -4407,8 +4407,8 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-06-27T11:14:28.402096",
-    "modifiedby": "lukas.vopava@praha.eu",
+    "modified": "2024-08-28T14:10:41.251456",
+    "modifiedby": "ivan.siler@tsk-praha.cz",
     "name": "Wilsonova - výstavba tramvajové trati na Václavském náměstí",
     "priority": false,
     "promoted": false,
@@ -4417,7 +4417,7 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "RED",
-    "sha1": "5ea685f359be8ba108a1204a0ee21f6fa61332af",
+    "sha1": "18785e6e6251bcd5896cee70926fac14f771dd34",
     "start": "2024-07-01T00:00:00",
     "state": "ACTIVE",
     "street": "Wilsonova",

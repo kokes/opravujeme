@@ -996,7 +996,7 @@
     "city_part": [
       "3"
     ],
-    "contractor": "D&Z spol. s.r.o., EUROVIA CS, a.s.",
+    "contractor": "D&Z spol. s.r.o., EUROVIA CZ a.s.",
     "contractor_phone": "731 601 218",
     "contractor_responsible": "Ing. Daniel Kováč",
     "created": "2024-01-10T13:32:16.288849",
@@ -1020,8 +1020,8 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-08-22T15:30:41.161687",
-    "modifiedby": "eva.vesela@tsk-praha.cz",
+    "modified": "2024-08-28T13:32:04.914954",
+    "modifiedby": "ivan.siler@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Hartigova",
     "priority": false,
     "promoted": false,
@@ -1030,7 +1030,7 @@
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "80b408bb9b63c358b1c3d98d18e874057a9381c3",
+    "sha1": "1ac6163e24c0bb1df60f1f8f3fa24c6ff661f96b",
     "start": "2024-02-05T00:00:00",
     "state": "ACTIVE",
     "street": "Hartigova",

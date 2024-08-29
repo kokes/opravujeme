@@ -2786,7 +2786,7 @@
     "city_part": [
       "7"
     ],
-    "contractor": "EUROVIA CS, a. s.",
+    "contractor": "EUROVIA CZ a. s.",
     "contractor_phone": "731 601 218",
     "contractor_responsible": "p. Kováč",
     "created": "2024-06-03T09:38:44.444076",
@@ -2810,8 +2810,8 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-08-27T15:46:49.300375",
-    "modifiedby": "lukas.vopava@praha.eu",
+    "modified": "2024-08-28T13:51:51.373064",
+    "modifiedby": "ivan.siler@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Dukelských hrdinů a U Výstaviště",
     "priority": false,
     "promoted": true,
@@ -2820,7 +2820,7 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "c342f2600ef5ecadb46c41ab09d45d6e77f0f58a",
+    "sha1": "558913edfeb613f2a047e64604f92e71a501224a",
     "start": "2024-06-03T00:00:00",
     "state": "ACTIVE",
     "street": "Dukelských hrdinů, U Výstaviště",
