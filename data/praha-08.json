@@ -3046,8 +3046,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5cc551699088ebe813724f2e3f6e8c6019a4a6d5",
+    "sha1": "8920b8bf59f7f6c0867a73b710d4961856bb9f75",
     "start": "2024-08-30T00:00:00",
+    "state": "ACTIVE",
     "street": "Křižíkova, Urxova",
     "subject": "CONSTRUCTION"
   }

@@ -2023,8 +2023,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "623ca599e5dde1a65280e1306b9cc0930a8c075e",
+    "sha1": "9a5cecaeb1c4f0c3a18986681bd379917ca5de70",
     "start": "2024-08-30T00:00:00",
+    "state": "ACTIVE",
     "street": "Švehlova",
     "subject": "CONSTRUCTION"
   },
