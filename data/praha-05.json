@@ -1997,9 +1997,8 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "4e5b29f715b76424aaad80dda2f7daffed69754f",
+    "sha1": "0235979b7b90ab9b0f5fc214532530a0b4b1410c",
     "start": "2024-02-12T00:00:00",
-    "state": "ACTIVE",
     "street": "CYKLOSTEZKA A12 (V OBLASTI PŘED MOSTEM - SEVERNÍ MOST/CHODNÍK - ZA MOSTEM)",
     "subject": "CONSTRUCTION"
   },
@@ -2263,9 +2262,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3dc3a06b1348f751dc6080a4413b3f4fa4eebb1e",
+    "sha1": "c676d152c0212faf5f80a33a3ac544a68379a798",
     "start": "2024-05-06T00:00:00",
-    "state": "ACTIVE",
     "street": "Strakonická, od Železničního mostu, Nádražní",
     "subject": "CONSTRUCTION"
   },

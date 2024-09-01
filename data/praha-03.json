@@ -1030,9 +1030,8 @@
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "1ac6163e24c0bb1df60f1f8f3fa24c6ff661f96b",
+    "sha1": "9a6d6d0653886b6969ad638762635a67d9d26c56",
     "start": "2024-02-05T00:00:00",
-    "state": "ACTIVE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   },
@@ -1294,9 +1293,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "018867386e6af6dde4d19145d1dbd8c1cfdc1a47",
+    "sha1": "65aa5a0e5dfa4253f6377f52b19dce31681146b0",
     "start": "2024-07-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Cimburkova, Dalimilova",
     "subject": "CONSTRUCTION"
   },
@@ -1338,9 +1336,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6f24e554894ec5bd31780c66781cd60650cf7f7f",
+    "sha1": "8cab41c1aff75025adfaf2be140babf1dac38c8a",
     "start": "2024-07-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Koldínova, Žerotínova",
     "subject": "CONSTRUCTION"
   },

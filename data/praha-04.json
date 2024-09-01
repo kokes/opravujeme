@@ -1818,9 +1818,8 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "4e5b29f715b76424aaad80dda2f7daffed69754f",
+    "sha1": "0235979b7b90ab9b0f5fc214532530a0b4b1410c",
     "start": "2024-02-12T00:00:00",
-    "state": "ACTIVE",
     "street": "CYKLOSTEZKA A12 (V OBLASTI PŘED MOSTEM - SEVERNÍ MOST/CHODNÍK - ZA MOSTEM)",
     "subject": "CONSTRUCTION"
   },
@@ -2252,9 +2251,8 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "53bf66245ade48f6e48c271cd6fda350a4d03482",
+    "sha1": "862d7d515b4a147d5efe770bd653bd58ad096142",
     "start": "2024-05-27T00:00:00",
-    "state": "ACTIVE",
     "street": "Zálesí, Sulická",
     "subject": "CONSTRUCTION"
   },
@@ -2471,9 +2469,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "d9b5c84dfbde6ab029a8c185cfee498a6977149a",
+    "sha1": "910db796a26b532063f1a495cf79ce072b4be601",
     "start": "2024-08-05T00:00:00",
-    "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
@@ -2602,8 +2599,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6ccb5cadb3b299ab8a7f42629e6a8cf7657aca92",
+    "sha1": "b783fdd1af20465f9cfa05ceece54e0d0b334fd4",
     "start": "2024-09-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Táborská",
     "subject": "CONSTRUCTION"
   }

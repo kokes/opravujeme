@@ -1072,9 +1072,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "44e672c513b4aacd1d199dbf8c589f5258eb9e1c",
+    "sha1": "c2a91f25460c04f462db7fe986e1ec7aa03214ed",
     "start": "2024-08-05T00:00:00",
-    "state": "ACTIVE",
     "street": "Pertoldova",
     "subject": "CONSTRUCTION"
   }
