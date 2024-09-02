@@ -2069,9 +2069,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b24b3695385d43f7dc407dd8b44c735dd4585960",
+    "sha1": "bb5b852f588fcae9d05620b4b896b2ea77cf6a85",
     "start": "2024-08-19T00:00:00",
-    "state": "ACTIVE",
     "street": "Štěpnice",
     "subject": "CONSTRUCTION"
   },
@@ -2157,9 +2156,8 @@
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "2360004392",
     "severity": "RED",
-    "sha1": "b4300f9f6888b271db81d4ce9321ed8422999139",
+    "sha1": "a3f440743ee65e726ac547cee2c56037ab5c8b4f",
     "start": "2024-07-29T00:00:00",
-    "state": "ACTIVE",
     "street": "Podbabská p.č.2082/6",
     "subject": "CONSTRUCTION"
   }

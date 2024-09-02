@@ -3171,8 +3171,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "29cc4dc75ce88a1a542cc9ee26b98ccee784f33a",
+    "sha1": "db7bae20dae033ab0969b392416334374bcabbcf",
     "start": "2024-09-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Partyzánská ",
     "subject": "CONSTRUCTION"
   }

@@ -37,9 +37,8 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "YELLOW",
-    "sha1": "5f27fc37b4d0b197bb4948b90bbba3d20085780e",
+    "sha1": "4c82e54bca3e7fa5cd90862e004e2e2421bbb404",
     "start": "2024-07-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Přátelství (nám. Bratří Jandusů - nám. Protifašistických bojovníků)",
     "subject": "CONSTRUCTION"
   },
@@ -81,8 +80,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "GREEN",
-    "sha1": "6555e67175fa9877f1b8bf494586c6d5ae1bac7a",
+    "sha1": "27b4633fbaa912908c13cf1a9bd98bb6f5e4b1e8",
     "start": "2024-09-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Podleská x Na Vrchách",
     "subject": "CONSTRUCTION"
   }

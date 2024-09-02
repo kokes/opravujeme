@@ -210,8 +210,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "c7c82d2d00d8f6c387976e034d0c64c5ae55b9b0",
+    "sha1": "2c50358f37a3beb2b5dce385e20386e5033a57b9",
     "start": "2024-09-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Náchodská",
     "subject": "CONSTRUCTION"
   }
