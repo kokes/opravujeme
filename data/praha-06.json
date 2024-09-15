@@ -2111,8 +2111,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "22413b1da6c44de3470caed103ee80ee619a699a",
+    "sha1": "f67804a9b4f2caa6a84c38708547bea0f993d7be",
     "start": "2024-09-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Drnovská",
     "subject": "CONSTRUCTION"
   },

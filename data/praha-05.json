@@ -2741,9 +2741,8 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "e0106ddf554932cecacdbee3c7b8de142ba0ac70",
+    "sha1": "e323db568b17027e3a600314922f85f8369dc109",
     "start": "2024-07-09T00:00:00",
-    "state": "ACTIVE",
     "street": "Svornosti, U železničního mostu",
     "subject": "CONSTRUCTION"
   },
