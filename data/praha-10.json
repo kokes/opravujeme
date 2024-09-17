@@ -2153,9 +2153,8 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "GREEN",
-    "sha1": "0f808bff12a86b30cf9325ee15621a7c36dd9f0d",
+    "sha1": "1ec0442b86ffd92497bd1cb1c8d86998301ebf7c",
     "start": "2024-08-19T07:00:00",
-    "state": "ACTIVE",
     "street": "U Záběhlického zámku",
     "subject": "CONSTRUCTION"
   },
@@ -2329,8 +2328,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "GREEN",
-    "sha1": "f6127792593569016b9ff266d625ae563798e7b9",
+    "sha1": "c754c3b734e1e2d2b71bed979b2c8bb45cfc3ad6",
     "start": "2024-09-17T00:00:00",
+    "state": "ACTIVE",
     "street": "U Záběhlického zámku",
     "subject": "CONSTRUCTION"
   },
