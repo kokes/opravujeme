@@ -1597,8 +1597,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ee147b6e6ef2d0485895536fd5c97d0469edaec8",
+    "sha1": "4c1a613fafff910a3552013bb5584905e7631c32",
     "start": "2024-09-19T00:00:00",
+    "state": "ACTIVE",
     "street": "Olšanská",
     "subject": "CONSTRUCTION"
   },
