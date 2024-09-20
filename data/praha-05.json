@@ -2391,9 +2391,8 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "21822f245aa9d006747477d634fcc1371276fb55",
+    "sha1": "881e27c3c64625955d5275059c39b611758ae94e",
     "start": "2024-07-01T10:00:00",
-    "state": "ACTIVE",
     "street": "křižovatka Dobříšská x Křížová",
     "subject": "CONSTRUCTION"
   },
@@ -2435,9 +2434,8 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "4f4456ff98eccc3b4e775f82ae5fca8666272620",
+    "sha1": "17172c6ecd1d9f3b2090cf47e84ee28a9d0c1027",
     "start": "2024-06-29T00:00:00",
-    "state": "ACTIVE",
     "street": "Dobříšská",
     "subject": "CONSTRUCTION"
   },
@@ -2697,9 +2695,8 @@
     "responsible_email": null,
     "responsible_phone": "236004325",
     "severity": "YELLOW",
-    "sha1": "209c188205f2ae349180b5694f1d27312aff1413",
+    "sha1": "2cddc9008b739173ae79e9f7fa89dd896d925976",
     "start": "2024-06-29T00:00:00",
-    "state": "ACTIVE",
     "street": "Dobříšská",
     "subject": "CONSTRUCTION"
   },

@@ -5027,8 +5027,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "55edf65e1186d7c55f69f20668d2799eb0ef48e4",
+    "sha1": "d77b9e69b9f758dbe44dbf8e5bc0791027b76833",
     "start": "2024-09-20T00:00:00",
+    "state": "ACTIVE",
     "street": "Malostranské náměstí",
     "subject": "OTHERS"
   },
