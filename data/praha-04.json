@@ -2642,8 +2642,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "07c0e85d7c8075671222bd942f83573261b64925",
+    "sha1": "091618fc49d3aaaa543fccd43579cf761bce8b99",
     "start": "2024-09-24T00:00:00",
+    "state": "ACTIVE",
     "street": "nájezdová mvětev z Modřanské ulice na Barrandovský most",
     "subject": "CONSTRUCTION"
   },
