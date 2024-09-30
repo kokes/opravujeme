@@ -2729,8 +2729,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "df38ca987a1eb19f6bb2c30445743a969a8eba51",
+    "sha1": "1ea5e55c94e914e8249bebe271c862f458081d92",
     "start": "2024-09-30T00:00:00",
+    "state": "ACTIVE",
     "street": "Polední, Vítovcova",
     "subject": "CONSTRUCTION"
   }

@@ -5160,8 +5160,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "40ca13b8233098c614721f61a86abadcfb474258",
+    "sha1": "c424e08f3ee62f1319f54b70b50fc2c71761e712",
     "start": "2024-09-30T00:00:00",
+    "state": "ACTIVE",
     "street": "U Milosrdných, U Obecního dvora, Kozí",
     "subject": "CONSTRUCTION"
   },

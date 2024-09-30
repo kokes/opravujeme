@@ -2586,8 +2586,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "de7a9e4eeb1eebf76f819d943a8b6ed3bd3cbfc0",
+    "sha1": "fbaf89353388e2471a980c383b593d91d8e649f6",
     "start": "2024-09-30T00:00:00",
+    "state": "ACTIVE",
     "street": "Bělocerkevská",
     "subject": "CONSTRUCTION"
   },
