@@ -2065,9 +2065,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0ace6b117639d48b16749180b5841ed880eaf235",
+    "sha1": "75ce2c7459daa0d92f9b87aaa9119cf0440a2330",
     "start": "2024-07-17T00:00:00",
-    "state": "ACTIVE",
     "street": "Solidarity, Brigádníků, Turnovského",
     "subject": "CONSTRUCTION"
   },
@@ -2327,9 +2326,8 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "GREEN",
-    "sha1": "c754c3b734e1e2d2b71bed979b2c8bb45cfc3ad6",
+    "sha1": "f6127792593569016b9ff266d625ae563798e7b9",
     "start": "2024-09-17T00:00:00",
-    "state": "ACTIVE",
     "street": "U Záběhlického zámku",
     "subject": "CONSTRUCTION"
   },
@@ -2674,8 +2672,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "GREEN",
-    "sha1": "8ae7c46be0afd4fecb6db21862b83119f33d1eb9",
+    "sha1": "5fe78d38e1f5944e8cc067b04e7718df43fafc94",
     "start": "2024-10-01T00:00:00",
+    "state": "ACTIVE",
     "street": "U Záběhlického zámku",
     "subject": "CONSTRUCTION"
   }
