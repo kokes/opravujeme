@@ -3214,8 +3214,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "365ef7658f58776e5256c9ee24ecc7e51b19615d",
+    "sha1": "e20bc76f8223dc56684a38313d11f1ade0e3afd1",
     "start": "2024-10-02T00:00:00",
+    "state": "ACTIVE",
     "street": "U Výstaviště, Na Šachtě",
     "subject": "CONSTRUCTION"
   }
