@@ -5193,7 +5193,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-09-27T11:29:29.803901",
+    "modified": "2024-10-04T12:58:12.335293",
     "modifiedby": "lukas.vopava@praha.eu",
     "name": "Instalace závěsného lešení při rekonstrukci krovů a střešního pláště paláce Colloredo-Mansfeld - Smetanovo nábřeží",
     "priority": false,
@@ -5203,8 +5203,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "4de7e7f3f2f54748fe08d2d8c075db821a21be5d",
-    "start": "2024-10-05T02:15:00",
+    "sha1": "fbf4cf1ca10cdec0c3e3dee85f3ad6b6c7275491",
+    "start": "2024-10-05T05:00:00",
+    "state": "ACTIVE",
     "street": "Smetanovo nábřeží",
     "subject": "CONSTRUCTION"
   }
