@@ -2685,8 +2685,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "95c7f3a37d0e9005a01857660496a8207585aba3",
+    "sha1": "7c6159fd9f30d523f9e1f737395b77cf0058c6eb",
     "start": "2024-10-08T00:00:00",
+    "state": "ACTIVE",
     "street": "VYSKOČILOVA",
     "subject": "CONSTRUCTION"
   },
