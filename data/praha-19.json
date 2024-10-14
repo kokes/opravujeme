@@ -213,8 +213,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "481228ed1227edbec5c134223246c071ad8c011c",
+    "sha1": "7109b314617eb8961ee0c1616cd74960da55fc2a",
     "start": "2024-10-14T06:00:00",
+    "state": "ACTIVE",
     "street": "Mladoboleslavská, Chaltická, Klenovská, Bohdanečská, Živanická, Velínská",
     "subject": "CONSTRUCTION"
   }
