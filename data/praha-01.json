@@ -5376,8 +5376,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "44db3f4c5a20d126f09ab9f48557499f656cd023",
+    "sha1": "d525d2c4fa97a32a75b1d1417d1fbfa7ea4271c1",
     "start": "2024-10-23T07:00:00",
+    "state": "ACTIVE",
     "street": "Masarykovo nábřerží ",
     "subject": "CONSTRUCTION"
   }
