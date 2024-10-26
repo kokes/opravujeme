@@ -2774,8 +2774,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "a79d97fcc37d4cda31d85d52b9c6b508ddea8330",
+    "sha1": "cb01b649f8dd4e1875f36a2d1b5ac289d242fe6d",
     "start": "2024-10-26T00:00:00",
+    "state": "ACTIVE",
     "street": "Wilsonova, Legerova, Nuselský most, 5. května, Kongresová, Náměstí Hrdinů, Na Pankráci, Budějovická, Vyskočilova, Michelská, Podle Kačerova a místní komunikace v prostoru AO Kačerov",
     "subject": "CONSTRUCTION"
   }
