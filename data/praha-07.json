@@ -3257,8 +3257,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "c16788f5beeaf57a47185051cd7dead31a50729a",
+    "sha1": "eaecbe31693135ca52f5c8042232daf72e8241a3",
     "start": "2024-10-28T00:00:00",
+    "state": "ACTIVE",
     "street": "Bubenská",
     "subject": "CONSTRUCTION"
   }
