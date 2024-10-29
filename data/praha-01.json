@@ -5247,9 +5247,8 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "cb01b649f8dd4e1875f36a2d1b5ac289d242fe6d",
+    "sha1": "a79d97fcc37d4cda31d85d52b9c6b508ddea8330",
     "start": "2024-10-26T00:00:00",
-    "state": "ACTIVE",
     "street": "Wilsonova, Legerova, Nuselský most, 5. května, Kongresová, Náměstí Hrdinů, Na Pankráci, Budějovická, Vyskočilova, Michelská, Podle Kačerova a místní komunikace v prostoru AO Kačerov",
     "subject": "CONSTRUCTION"
   },
@@ -5379,9 +5378,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "d525d2c4fa97a32a75b1d1417d1fbfa7ea4271c1",
+    "sha1": "44db3f4c5a20d126f09ab9f48557499f656cd023",
     "start": "2024-10-23T07:00:00",
-    "state": "ACTIVE",
     "street": "Masarykovo nábřerží ",
     "subject": "CONSTRUCTION"
   }
