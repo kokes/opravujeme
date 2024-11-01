@@ -2728,9 +2728,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "ad13b7ffe39d7d96e1a43b0bcb4a3e56b134a3fb",
+    "sha1": "3053ae305011a24640bf1c8f1824cb8f2765b69f",
     "start": "2023-12-02T00:00:00",
-    "state": "ACTIVE",
     "street": "Újezd",
     "subject": "OTHERS"
   },
@@ -3204,9 +3203,8 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "4c059ccef67795dd7a6fa7711b2238d5112c905a",
+    "sha1": "db3d349f4cdd449e46437b7e1645e5b51bfd293d",
     "start": "2024-03-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Karmelitská",
     "subject": "CONSTRUCTION"
   },
@@ -5158,9 +5156,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c424e08f3ee62f1319f54b70b50fc2c71761e712",
+    "sha1": "40ca13b8233098c614721f61a86abadcfb474258",
     "start": "2024-09-30T00:00:00",
-    "state": "ACTIVE",
     "street": "U Milosrdných, U Obecního dvora, Kozí",
     "subject": "CONSTRUCTION"
   },

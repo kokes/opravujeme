@@ -1643,9 +1643,8 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "cf06b0e9f4565b2b1a221c31f218ff45059433a4",
+    "sha1": "5a3e89197742bf6db598683f1dd7809e3a233dd0",
     "start": "2024-01-25T00:00:00",
-    "state": "ACTIVE",
     "street": "Legerova",
     "subject": "CONSTRUCTION"
   },
@@ -1777,9 +1776,8 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "7e8a13564a2e9a0df1d48bb4031b306574cb8724",
+    "sha1": "48fd27c643a1e16db95a9f1d8fdf608475432204",
     "start": "2024-05-13T00:00:00",
-    "state": "ACTIVE",
     "street": "Vinohradská",
     "subject": "CONSTRUCTION"
   },
