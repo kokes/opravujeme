@@ -3172,8 +3172,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "cc5634284b4e042e9fea40e5402dc956ef0207de",
+    "sha1": "45cb3f51f7681b48a6f0a1f87a467c973570c923",
     "start": "2024-11-04T00:00:00",
+    "state": "ACTIVE",
     "street": "Ústecká",
     "subject": "CONSTRUCTION"
   },
@@ -3215,8 +3216,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "594f3532785adce48e37b970b4a682700460aac4",
+    "sha1": "68208daa2dd7228010ac67b6cbb559b2f700fcdc",
     "start": "2024-11-04T00:00:00",
+    "state": "ACTIVE",
     "street": "NN2181 (nájezdná rampa na ul. Liberecká)",
     "subject": "CONSTRUCTION"
   }

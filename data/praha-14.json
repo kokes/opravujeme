@@ -1164,8 +1164,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "258b781c4f0314bb01abfe7ea4a25e212f245925",
+    "sha1": "dc74730c1a356988ac603414819b02f49349c17d",
     "start": "2024-11-04T00:00:00",
+    "state": "ACTIVE",
     "street": "Chlumecká",
     "subject": "CONSTRUCTION"
   }

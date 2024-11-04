@@ -2816,8 +2816,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "08cf8013dbacbf2b5ca0940a018b75e8416f4370",
+    "sha1": "e8c27bc2bfe2caf5032dd969794af1c0cc56e921",
     "start": "2024-11-04T00:00:00",
+    "state": "ACTIVE",
     "street": "Jižní spojka",
     "subject": "CONSTRUCTION"
   },
@@ -2859,8 +2860,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9c96c50a796bcbe4642da191bc2c414631665780",
+    "sha1": "503aef5a1540d34a95fd4aec9d2ef8e925c4d729",
     "start": "2024-11-04T00:00:00",
+    "state": "ACTIVE",
     "street": "U Kunratického lesa",
     "subject": "CONSTRUCTION"
   },
