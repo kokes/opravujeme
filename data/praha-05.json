@@ -2953,8 +2953,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5f44ee724fa512ddfe6769f679eebcb508e611bf",
+    "sha1": "bc872ae6166fd6897f79f2b4d9843ba225b3002c",
     "start": "2024-11-11T00:00:00",
+    "state": "ACTIVE",
     "street": "Podbělohorská",
     "subject": "CONSTRUCTION"
   },
@@ -3039,8 +3040,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "52828f59f0679826e62516c33c30f5a9bfb1a7de",
+    "sha1": "3c0683fbe3dff97c577136a940d26a517fbc0196",
     "start": "2024-11-11T00:00:00",
+    "state": "ACTIVE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   }
