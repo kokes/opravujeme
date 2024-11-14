@@ -2997,8 +2997,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1d077a396a5861776d94cc82560de551763dc315",
+    "sha1": "45205176665e1390bc31f0c8d68f95a0bd329344",
     "start": "2024-11-14T00:00:00",
+    "state": "ACTIVE",
     "street": "Radlická",
     "subject": "CONSTRUCTION"
   },
