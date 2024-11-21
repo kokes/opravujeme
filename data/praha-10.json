@@ -2754,9 +2754,8 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "959f2aa904252abea6188e61b0a70954172a166f",
+    "sha1": "61f60d2d363344aae6cd95a4b195570144e58534",
     "start": "2024-10-07T07:00:00",
-    "state": "ACTIVE",
     "street": "Záběhlická",
     "subject": "CONSTRUCTION"
   },
@@ -2928,8 +2927,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a29ccd6578a0a1554423055d5a43c115519fee24",
+    "sha1": "c47ab6d5dbfaab4d39cfaf0a7d5b003aa8bafa3e",
     "start": "2024-11-21T00:00:00",
+    "state": "ACTIVE",
     "street": "Nad Primaskou",
     "subject": "CONSTRUCTION"
   }
