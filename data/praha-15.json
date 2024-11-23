@@ -773,9 +773,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1c5098949358c0d8bb89d6ff93378c4fbb8c30e2",
+    "sha1": "3a4298e7ef5922f0789c01acd9e06a37613f130f",
     "start": "2024-10-25T00:00:00",
-    "state": "ACTIVE",
     "street": "Hornoměcholupská",
     "subject": "CONSTRUCTION"
   },
@@ -817,9 +816,8 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "ac8b3f9567726a5df0ed4a145e58c98b4ac4c2e6",
+    "sha1": "277e93ee4615a62a0747e9d94f64aec8d41d1998",
     "start": "2024-11-18T00:00:00",
-    "state": "ACTIVE",
     "street": "Švehlova",
     "subject": "CONSTRUCTION"
   }
