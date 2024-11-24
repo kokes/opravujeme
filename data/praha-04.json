@@ -38,9 +38,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "6a51fef6a9bee6af8301f7ce1adb4278fc61329e",
+    "sha1": "859190cdbe7cff4ebfc48ca0386a43b8ac98cda7",
     "start": "2024-03-09T00:00:00",
-    "state": "ACTIVE",
     "street": "Barrandovský most, Strakonická, Jižní spojka",
     "subject": "CONSTRUCTION"
   },
@@ -2638,9 +2637,8 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "37cf31986900ab4f267dc276028d05aee3440618",
+    "sha1": "a5a20b1e494692969117ae43a0d6ee975bc77709",
     "start": "2024-09-24T00:00:00",
-    "state": "ACTIVE",
     "street": "nájezdová mvětev z Modřanské ulice na Barrandovský most",
     "subject": "CONSTRUCTION"
   },
