@@ -2371,9 +2371,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8cda6616b19f0349fa399dbbbba4df4e83f2891c",
+    "sha1": "fdd941aed33a18c760f2bd6ec24aacae32503df6",
     "start": "2024-11-04T00:00:00",
-    "state": "ACTIVE",
     "street": "Na Petynce",
     "subject": "CONSTRUCTION"
   },
