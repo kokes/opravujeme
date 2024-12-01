@@ -3125,9 +3125,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "0c8728969f3943901598c369952a0ea46e47aff9",
+    "sha1": "fbe48027b7138e9820d0f43f034629df45bbb6c4",
     "start": "2024-09-13T00:00:00",
-    "state": "ACTIVE",
     "street": "Liberecká",
     "subject": "CONSTRUCTION"
   },

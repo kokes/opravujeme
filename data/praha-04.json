@@ -2421,9 +2421,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d99f0e3699b801d68c45e0b6dea50fb229a2a1e0",
+    "sha1": "305c9a2b4dbda3160d87ecbb5f0bdd1d6301781c",
     "start": "2024-07-10T00:00:00",
-    "state": "ACTIVE",
     "street": "Sládkovičova",
     "subject": "CONSTRUCTION"
   },
@@ -2811,9 +2810,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e8c27bc2bfe2caf5032dd969794af1c0cc56e921",
+    "sha1": "08cf8013dbacbf2b5ca0940a018b75e8416f4370",
     "start": "2024-11-04T00:00:00",
-    "state": "ACTIVE",
     "street": "Jižní spojka",
     "subject": "CONSTRUCTION"
   },
