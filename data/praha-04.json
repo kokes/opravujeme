@@ -2982,8 +2982,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "5ba096d871b31a57df35e526a06e4d332e34ec84",
+    "sha1": "16bac3bd9d4c4bb7f6074216f994a08c43014941",
     "start": "2024-12-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
@@ -3025,8 +3026,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "26ba27a1f13a00a0d2156b248a20cb0f7d5fc272",
+    "sha1": "3d9e4c6895a57ed1b61830d2c8ab35ce2dd51f54",
     "start": "2024-12-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Kongresová",
     "subject": "CONSTRUCTION"
   }
