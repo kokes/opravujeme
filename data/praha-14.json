@@ -1207,8 +1207,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "568800cfffaa1ee627c224ab3efc98b08b37a90d",
+    "sha1": "049a9833574f34c7a8e350fe28a97bff0a8c18f6",
     "start": "2025-01-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Chlumecká \"Malá Chlumecká\"",
     "subject": "CONSTRUCTION"
   }
