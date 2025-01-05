@@ -1555,8 +1555,9 @@
     "responsible_email": null,
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "8fc0e746312a3cac8e792208266160607a4d8a8e",
+    "sha1": "a4ddc4db817a1ba0219783cb384fafba8bd369c4",
     "start": "2025-01-05T00:00:00",
+    "state": "ACTIVE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },
