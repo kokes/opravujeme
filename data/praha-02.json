@@ -2300,8 +2300,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "fd51616bf510830cbe007a48bdf4a57e42b450ef",
+    "sha1": "79576751f7081e7d14e9eda2b18b5ca8f74db2fb",
     "start": "2025-01-13T00:00:00",
+    "state": "ACTIVE",
     "street": "Rumunská",
     "subject": "CONSTRUCTION"
   }
