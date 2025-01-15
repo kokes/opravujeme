@@ -1207,9 +1207,8 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "049a9833574f34c7a8e350fe28a97bff0a8c18f6",
+    "sha1": "568800cfffaa1ee627c224ab3efc98b08b37a90d",
     "start": "2025-01-01T00:00:00",
-    "state": "ACTIVE",
     "street": "Chlumecká \"Malá Chlumecká\"",
     "subject": "CONSTRUCTION"
   },
@@ -1294,8 +1293,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "b049c8842a7588044fa5914f4945b463695f496d",
+    "sha1": "83708b3335e1ef2c3f9db20f4c35595d4e85f148",
     "start": "2025-01-15T00:00:00",
+    "state": "ACTIVE",
     "street": "Chlumecká \"Malá Chlumecká\"",
     "subject": "CONSTRUCTION"
   }
