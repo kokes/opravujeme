@@ -3340,8 +3340,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "857b35af77777d1d92ecf39cab8be1b6dd403579",
+    "sha1": "3f1151f569bb95ffab159fb6424eedffa4688f76",
     "start": "2025-01-27T00:00:00",
+    "state": "ACTIVE",
     "street": "Cínovecká, NN7091",
     "subject": "CONSTRUCTION"
   }
