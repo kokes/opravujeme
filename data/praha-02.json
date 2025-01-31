@@ -2344,8 +2344,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "cc37986543d1014c6e0414251c1be4ca2bd536b7",
+    "sha1": "f434df262c7991ce5f2cafb939f82838ef040251",
     "start": "2025-01-31T00:00:00",
+    "state": "ACTIVE",
     "street": "Nuselský most",
     "subject": "CONSTRUCTION"
   }
