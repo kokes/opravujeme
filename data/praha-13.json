@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -32,17 +35,20 @@
     "name": "Oprava mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236004436",
     "severity": "GREEN",
-    "sha1": "2d37bdc910df6f2ffe615e3d1278b111ef40f41d",
+    "sha1": "6c9f9a33790636be601646323e3b01720a61f7e9",
     "start": "2021-03-01T00:00:00",
+    "state": "DONE",
     "street": "Jeremiášova v úseku Pod Hranicí - Archeologická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -75,17 +81,20 @@
     "name": "Oprava mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236004436",
     "severity": "GREEN",
-    "sha1": "c295b9e34e0f7b6e0a26bd55aaf95e5a9b75cd64",
+    "sha1": "b1baf6df06363c34caf7026df2c3cf280f84ce5b",
     "start": "2021-03-28T00:00:00",
+    "state": "DONE",
     "street": "Bucharova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -118,17 +127,20 @@
     "name": "Přípravné práce před opravami mostů na D0.",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c5ab59fa9ad2266b13a5d4cf54b4b9ceb9bd367b",
+    "sha1": "e411a02563b50a41b358b9048da20dc7df95b96b",
     "start": "2021-03-13T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -161,17 +173,20 @@
     "name": "Oprava mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "16c33932d43311c841b493633c8e3e18f7bb8836",
+    "sha1": "f5daaad2f92c353fdcdd47a6fbe87edcfe3b27e8",
     "start": "2021-04-01T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka x Pražský okruh - most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -204,17 +219,20 @@
     "name": "Rozvadovská spojka, oprava mostů D5-001 a D5-002",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b9a31f7f4a0f8713a3f201f14f88bce02e7a7bd0",
+    "sha1": "7be3560ae8f5040b6087566bc1f104d71ae98df1",
     "start": "2021-05-08T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -247,17 +265,20 @@
     "name": "Prodloužení vodovodního řadu a vodovodní přípojka",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "288f5770c09100ece79a5bbb1297ab969c58828d",
+    "sha1": "1e0b11ae622790cfbc08aac0b8491686b13877a8",
     "start": "2021-08-16T00:00:00",
+    "state": "DONE",
     "street": "Jeremiášova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -290,17 +311,20 @@
     "name": "Poncarova - MÚK 21",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "b6d8c5b6e4039466fc01f6877411963a0873a459",
+    "sha1": "397b6897e27381072ae4148c4b41c6c32c15b383",
     "start": "2021-09-13T00:00:00",
+    "state": "DONE",
     "street": "Poncarova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -333,17 +357,20 @@
     "name": "Oprava zádržného systému dálnice D0 - MÚK 19 Ořech",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "f4dc4abbcb309a52abd95258c4f7acece3fac0f9",
+    "sha1": "af5377f31989e5969e6d25dd1d1c8c21e075d5be",
     "start": "2022-06-24T20:00:00",
+    "state": "DONE",
     "street": "Ořešská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -376,17 +403,20 @@
     "name": "Opravy lávky U Mototechny",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f825a4ae719bb3e48320fa8a2ed806e238218c56",
+    "sha1": "43b130c9b4a6ba3757a35b7d9df71276a398a951",
     "start": "2022-07-01T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka, Bavorská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -419,17 +449,20 @@
     "name": "Stavební úpravy plynovodu č. 114",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "540b491786d5f4bdaf9974a5736c282045ed797b",
+    "sha1": "8760b5c4a8397e35a79d714582f4880b6edbb856",
     "start": "2022-10-12T00:00:00",
+    "state": "DONE",
     "street": "Jeremiášova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -462,17 +495,20 @@
     "name": "Rozvadovská spojka - oprava dilatačních spár na mostě přes ul. Jeremiášova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "1b35f03dbf205b3b0ef547a4aa077b5acb324094",
+    "sha1": "01db1933499de1edf40cb532e9dcbc7b8de03424",
     "start": "2022-11-16T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -505,17 +541,20 @@
     "name": "Rekonstrukce křižovatky Bucharova - Rozvadovská spojka",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "ea34e5dfa67bacd887afda2d520ea91531079601",
+    "sha1": "c613f3805255c15ffade93299cff1fd414eb923b",
     "start": "2022-11-14T00:00:00",
+    "state": "DONE",
     "street": "Bucharova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -548,17 +587,20 @@
     "name": "oprava lávky pro pěší (Jeremiášova x Kakosova)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "de44c42dfa332e45b7c6fd03646aff1643cadfba",
+    "sha1": "962f7a7f6be3edefe9f26d3a27c5fcf73ae32d4e",
     "start": "2023-01-25T00:00:00",
+    "state": "DONE",
     "street": "Jeremiášova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -591,17 +633,20 @@
     "name": "Zastávka BUS MHD Píškova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fbed35905c9092557c55c388da8db8fe1d54ecfd",
+    "sha1": "c731a8b0ba2865cb58c00c0d99906e905d7f9ec9",
     "start": "2023-04-05T00:00:00",
+    "state": "DONE",
     "street": "Jeremiášova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -634,17 +679,20 @@
     "name": "Oprava protihlukové stěny",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d425c2efd628bf17197c76c1d2671a6c800532c8",
+    "sha1": "cf6c3a6cdea357d7f3b66c41c5aeff73d3000f65",
     "start": "2023-03-06T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -677,17 +725,20 @@
     "name": "BBP Běhounkova - Bezbariérové přechody",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c453a4fcab84a9db39ada02a984bb7abb10ab3d7",
+    "sha1": "7fb9949e0a9ea4dea7520f990c10f48ea023f2d2",
     "start": "2024-05-20T00:00:00",
+    "state": "DONE",
     "street": "Běhounkova - Blattného",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -720,17 +771,20 @@
     "name": "Instalace svodidel u nájezdové rampy z Rozvadovské spojky",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ad4f4a2b5765d0e8c61024130fd431667d1ddbf7",
+    "sha1": "65d71bb78a4b362c597c1f96495eeb674e304de8",
     "start": "2024-05-25T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -763,17 +817,20 @@
     "name": "Oprava mostu na Rozvadovské spojce přes ulici Jeremiášova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "236004392",
     "severity": "GREEN",
-    "sha1": "299fa92d46869baf70e6a21f1b44a717018f2a82",
+    "sha1": "8cfb6a117e148509101632de27b8b74a7b9e564a",
     "start": "2024-05-28T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -806,17 +863,20 @@
     "name": "Oprava nájezdové rampy na ulici Bucharova od autobusového nádraží",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1cae0c83d66f33e292c25de14b16b7f7ebf683b9",
+    "sha1": "46d153193213dd4939d5ae52142bc1f7f99d2a33",
     "start": "2024-07-29T00:00:00",
+    "state": "DONE",
     "street": "Bucharova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -849,17 +909,20 @@
     "name": "Rekonstrukce podchodu - Oistrachova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "825d268e2e08d2cafb2479eccfd716824b84d133",
+    "sha1": "eecf74cbd3b98e6b3290d5ffab34362e6efc1d4b",
     "start": "2024-07-08T00:00:00",
+    "state": "DONE",
     "street": "Oistrachova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -880,9 +943,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "725 955 521",
     "investor_responsible": "Ing. Ondřej Pašek",
-    "lat": 50.0507238092006,
+    "lat": 50.05072380920062,
     "limitations": "<p>Úplné uzavření jižní BUS zastávky.</p>",
-    "lon": 14.3533332886791,
+    "lon": 14.353333288679124,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -892,17 +955,20 @@
     "name": "Oprava zastávky Nové Butovice a přilehlého průjezdního pruhu na autobusovém nádraží ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a1b90e6b145417bf110a69bfdc2c214d31a0dda7",
+    "sha1": "a6e69a4b334a68b7f4657326f7806dd394a4dbe8",
     "start": "2024-07-29T00:00:00",
+    "state": "DONE",
     "street": "Bucharova, NN 1814",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "13"
     ],
@@ -923,9 +989,9 @@
     "investor": "CETIN, a.s., Českomoravská 2510/19, 190 00  Praha 9",
     "investor_phone": "724901831",
     "investor_responsible": "Albert Lupač",
-    "lat": 50.0502432518973,
+    "lat": 50.05024325189734,
     "limitations": "<p>1. etapa: od 4.11.2024 do 6.11.2024, </p><p>2. etapa: od 6.11.2024 do 8.11.2024 vždy od 18:00 hod. do 23:00 hod.&nbsp;</p><p>1. etapa pokračování: od 9.11.2024 do 11.11.2024 (1. etapa uzavření odstavného pruhu, 2. etapa uzavření levých jízdních pruhů v obou jízdních pásech)</p>",
-    "lon": 14.2828673365393,
+    "lon": 14.282867336539283,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -935,13 +1001,13 @@
     "name": "výškové přeložení trubek HDP a  instalace a propojení nového I-Matrixu v SDP",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Luděk Kortus",
     "responsible_email": "ludek.kortus@praha.eu",
     "responsible_phone": "236004255",
     "severity": "YELLOW",
-    "sha1": "16b99169ae822e1cdce34bc853e658d13778d24a",
+    "sha1": "2d3e5b94a75324690177ee420695352c7e4e04c7",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "Rozvadovská spojka",
     "subject": "CONSTRUCTION"
   }

@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3",
       "9",
@@ -35,17 +38,20 @@
     "name": "Silniční běh Běchovice – Praha 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "d3f688c08968068057cc7234e1583f292fb0a185",
+    "sha1": "d828731755491858ebc45e5bfe14c7c8baea4690",
     "start": "2024-09-29T10:00:00",
+    "state": "DONE",
     "street": "Českobrodská, Hartigova",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -78,17 +84,20 @@
     "name": "Rekonstrukce chodníku v ulici Perunova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6ee561e65387610fc5125351b7e5523524c2ac30",
+    "sha1": "21d649b3f53f1b17af82858a2060baf11ad5be7c",
     "start": "2023-03-13T00:00:00",
+    "state": "DONE",
     "street": "Perunova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -121,17 +130,20 @@
     "name": "Rekonstrukce chodníku v ulici Příběnická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "02660ec0a317a9412412fcf40903c97aebabe277",
+    "sha1": "99f255e63704bf0a718fddfd6058d7b4634df281",
     "start": "2023-03-27T00:00:00",
+    "state": "DONE",
     "street": "Příběnická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -164,17 +176,20 @@
     "name": "Rekonstrukce chodníku v ulici Sabinova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "20cddf2ae026245b0199db0e08f783fdcb1c3603",
+    "sha1": "9bfcb2c4d775c2db93c97adf746d84a9009a6787",
     "start": "2023-04-03T00:00:00",
+    "state": "DONE",
     "street": "Sabinova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -207,17 +222,20 @@
     "name": "Obnova kanalizace a vodovodního řadu ul. Jana Želivského a okolí - 3. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "29b60c66b97d46ac9e5f14aca5ebc4ec80670843",
+    "sha1": "5bf0952f35f85aaf601eb22290a6f0c7d50f890b",
     "start": "2023-04-11T00:00:00",
+    "state": "DONE",
     "street": "Jana Želivského",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -250,17 +268,20 @@
     "name": "Rekonstrukce chodníku v ulici Hradecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "612bbf08ecd368b31b70e9660f7c798a23bad20e",
+    "sha1": "d241663fd95a20b073869ef1372843da9cadca98",
     "start": "2023-04-10T00:00:00",
+    "state": "DONE",
     "street": "Hradecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -293,17 +314,20 @@
     "name": "Rekonstrukce chodníku v ulici Přibyslavská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dbb19a6b03d9446094342e8aba4040c9bb4d035d",
+    "sha1": "d51a1f14edef9db390edeb34cdd98b5e678fe20b",
     "start": "2023-04-12T00:00:00",
+    "state": "DONE",
     "street": "Přibyslavská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -336,17 +360,20 @@
     "name": "Rekonstrukce chodníku v ulici Soběslavská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "934b1538b159852bd5fc21d2bbe7e077f72243ea",
+    "sha1": "c5d4b347a9d56ac7314b84a1444831dbe07f7b50",
     "start": "2023-04-17T00:00:00",
+    "state": "DONE",
     "street": "Soběslavská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -379,17 +406,20 @@
     "name": "Rekonstrukce komunikace Malešická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "45cb1403f26094ed0c227ebb6bdb8fde9186f5c3",
+    "sha1": "469d608279fe66ad7b7709b89d54d677ab29f32d",
     "start": "2023-07-03T00:00:00",
+    "state": "DONE",
     "street": "Malešická, Na Jarově, Za Vackovem",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -422,17 +452,20 @@
     "name": "Audiovizuální tvorba ul. Korunní",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "d7866b2591ce70486ac04f48e6a15e4dc4c87100",
+    "sha1": "e967de4badc5099ae601aa31cde1889695a32cfb",
     "start": "2023-07-04T16:00:00",
+    "state": "DONE",
     "street": "Korunní",
     "subject": "OTHERS"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -465,17 +498,20 @@
     "name": "Rekonstrukce kanalizace a vodovodního řadu 3. etapa 7. + 8. fáze Jana Želivského a okolí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "2e2ed47fa652ca8210399b927c423329ec34a05b",
+    "sha1": "40415399b7b45e649330c08dad5947ec45371542",
     "start": "2023-07-01T00:00:00",
+    "state": "DONE",
     "street": "Jana Želivského, Jeseniova, Biskupcova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -508,17 +544,20 @@
     "name": "Obnova kanalizace a vodovodního řadu ul. Jana Želivského - 4. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "5a76fa4110b1493445f36d1f9fd1fd89b947bcf1",
+    "sha1": "7fd46f31eacc3e8c9c4f3e2402fca8562dce1308",
     "start": "2023-07-10T00:00:00",
+    "state": "DONE",
     "street": "Jana Želivského",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -551,17 +590,20 @@
     "name": "Rekonstrukce křižovatky Jeseniova x Tovačovského",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "889795e0b2294319f1ffd91877a90be6233e66e0",
+    "sha1": "ec22d4d384c135b6e935c43b9e9ba48846120e0e",
     "start": "2023-07-01T00:00:00",
+    "state": "DONE",
     "street": "Jeseniova, Tovačovského",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -594,17 +636,20 @@
     "name": "Rozšíření zastávky TRAM Biskupcova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "4137d5748c8b0af8025bc83db2f507e8027b7317",
+    "sha1": "fee3b0701808a006205b140fbf43b1f0fb3e8648",
     "start": "2023-08-19T06:00:00",
+    "state": "DONE",
     "street": "Jana Želivského",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -637,17 +682,20 @@
     "name": "Rekonstrukce chodníků a části vozovky v ulici Baranova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8c4976e6186b977189708e4fafb5b64684a715d9",
+    "sha1": "cf1220dcc259189b6bdb3dbb319f8f074b2b2d66",
     "start": "2023-09-04T00:00:00",
+    "state": "DONE",
     "street": "Baranova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -680,17 +728,20 @@
     "name": "Rekonstrukce křižovatky Jeseniova x Ambrožova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "ba64be32c0c28b1590bd6c4631efb34f941c6215",
+    "sha1": "1ee62e4a73ff64709417be7c7bb27cbc23eb0ab5",
     "start": "2023-09-15T00:00:00",
+    "state": "DONE",
     "street": "Jeseniova, Ambrožova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -723,17 +774,20 @@
     "name": "OPRAVA TRAMVAJOVÉ TRATI - VÝMĚNA KOLEJNIC VINOHRADSKÁ, SLEZSKÁ, JIČÍNSKÁ, KORUNNÍ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "17604b1ad03e1bf2932fa40ec996f1830858d352",
+    "sha1": "472f367867d703f191efea8b4e03338ea2cad151",
     "start": "2023-09-18T00:00:00",
+    "state": "DONE",
     "street": "VINOHRADSKÁ, SLEZSKÁ, JIČÍNSKÁ, KORUNNÍ",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -766,17 +820,20 @@
     "name": "Rekonstrukce křižovatky Jeseniova x Koldínova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6e9fad92e39a840022668a7b0282b21cb45d622a",
+    "sha1": "c9b987ac8acdc778322193a8a9b7d8c8d44ce9e4",
     "start": "2023-09-30T00:00:00",
+    "state": "DONE",
     "street": "Jeseniova, Koldínova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -809,17 +866,20 @@
     "name": "Rekonstrukce kanalizace a vodovodního řadu ul. Jana Želivského 5. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "ad103cc07ea5fc2b94c4fc29aac46ed8ceb60d35",
+    "sha1": "c1f515da9d3bb78802a58b61f11f155a862640e5",
     "start": "2023-10-15T00:00:00",
+    "state": "DONE",
     "street": "Jana Želivského",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -852,17 +912,20 @@
     "name": "Oprava tramvajové tratě  ul. Vinohradská x Jana Želivského.",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "7cd03d0bda750446e793248b37138eaa81ae3b3e",
+    "sha1": "fe34c8a4599f777266ddd0968868258d54768a11",
     "start": "2023-10-07T06:00:00",
+    "state": "DONE",
     "street": "Vinohradská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3",
       "8"
@@ -896,17 +959,20 @@
     "name": "Oprava chodníku ul. Trocnovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "2e7201436f4e76052b510d02a7a743ffa56e86a4",
+    "sha1": "33947e9736debf0c4591deaee7bd5baf6e2abe53",
     "start": "2023-11-06T00:00:00",
+    "state": "DONE",
     "street": "Trocnovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -939,17 +1005,20 @@
     "name": "Oprava svodidel a povrchu mostu- ul. Pod Krejcárkem",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "1f9f056d7fc316957ba0fa902cd9ba248449aee2",
+    "sha1": "3b09dcf48aa454213110e4c1fd75d9476a6bfa81",
     "start": "2023-12-05T00:00:00",
+    "state": "DONE",
     "street": "Pod Krejcárkem",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -982,17 +1051,20 @@
     "name": "Oprava odvodnění - ul. Spojovací",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "b04b426ced443a1e369323717106534da93697e8",
+    "sha1": "1f2eaa37b2807412601899c1c7b4ecc76818788e",
     "start": "2024-01-22T00:00:00",
+    "state": "DONE",
     "street": "Spojovací",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1025,17 +1097,20 @@
     "name": "Rekonstrukce komunikace Hartigova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "9a6d6d0653886b6969ad638762635a67d9d26c56",
+    "sha1": "f461620f1c0948a188e5173e381fdd3d6d5a1d0c",
     "start": "2024-02-05T00:00:00",
+    "state": "DONE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1068,17 +1143,20 @@
     "name": "Oprava chodníku v ulici Vlkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0ede88cb33e47592a8940c3afb390cc8aaf1c058",
+    "sha1": "1b542a34142b6680b316d263aca6b79bc91c8564",
     "start": "2024-03-04T00:00:00",
+    "state": "DONE",
     "street": "Vlkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3",
       "10"
@@ -1112,17 +1190,20 @@
     "name": "Oprava komunikace v ulici Vinohradská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Vochozková",
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "6f346ea6ae2fe3d0a7ba2ed33467775b29c3d50d",
+    "sha1": "3fed08a6a02fb0a70883daf4f190283a697ff1e9",
     "start": "2024-03-27T00:00:00",
+    "state": "DONE",
     "street": "Vinohradská (Hagibor)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1155,18 +1236,20 @@
     "name": "Havarijní zajištění lávky v ulici Pod Krejcárkem",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f4c3e5246969fa8360713770bf53b192b9ea59ba",
+    "sha1": "f433938d682cde9c76b14e66a476bb453b255db1",
     "start": "2024-05-27T00:00:00",
     "state": "ACTIVE",
     "street": "Pod Krejcárkem",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1199,17 +1282,20 @@
     "name": "Biskupcova - Oprava chodníku",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7773f759bdb96b1b4c2cdd0f89ea96e7894bd12d",
+    "sha1": "674be315181a0ed19c5442070880e2d5db7d1f3c",
     "start": "2024-06-10T00:00:00",
+    "state": "DONE",
     "street": "Biskupcova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -1233,9 +1319,9 @@
     "investor": "Pražská plynárenská distribuce, a.s.",
     "investor_phone": "724 851 865",
     "investor_responsible": "p. Petrlík",
-    "lat": 50.0866689039685,
+    "lat": 50.086668903968544,
     "limitations": "<p>Zábor v prostoru vozovky a chodníků. V ul. Hybernská zachován obousměrný provoz 1+1. V&nbsp;prostoru MUK Bulhar doprava vedena jedním jízdním pruhem v&nbsp;každém směru. Průchod pro pěší zachován.</p>",
-    "lon": 14.4369821315292,
+    "lon": 14.436982131529192,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1245,17 +1331,20 @@
     "name": "Úprava STL plynovodu - Seifertova, Hybernská ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "1d6e5a407375c3ee87304f6737ab6869b0ab8224",
+    "sha1": "27001d692787bf76e98d529a30dbcf75565d7e5c",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Hybernská, Seifertova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1288,17 +1377,20 @@
     "name": "Křižovatka Cimburkova – Dalimilova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "65aa5a0e5dfa4253f6377f52b19dce31681146b0",
+    "sha1": "22120eb6b987e35d1ddb18ee343428786e5a5b83",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Cimburkova, Dalimilova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1319,9 +1411,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": "Peter Urbánek",
-    "lat": 50.0878943202567,
+    "lat": 50.08789432025667,
     "limitations": null,
-    "lon": 14.4627257655667,
+    "lon": 14.462725765566717,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1331,17 +1423,20 @@
     "name": "Koldínova – Žerotínova, úprava křižovatky a přechodu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8cab41c1aff75025adfaf2be140babf1dac38c8a",
+    "sha1": "98f3d86837b5a7e452189441756b113e34327235",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Koldínova, Žerotínova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1374,17 +1469,20 @@
     "name": "Rekonstrukce chodníku v ulici Ondříčkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f2f3670b8b0c55dfab5208b2d8b19688c615f04e",
+    "sha1": "b33d835e3086ea6e425d541990f5f562c96f2bee",
     "start": "2024-07-12T00:00:00",
+    "state": "DONE",
     "street": "Ondříčkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1417,17 +1515,20 @@
     "name": "Úprava vozovky a tramvajové zastávky Jiřího z Poděbrad v ulici Vinohradská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "497e41be0ab5db1d55c58c94eaeced6b8937ebab",
+    "sha1": "4e23c24885d597234fd1a9378695bc8b612faf82",
     "start": "2024-07-22T00:00:00",
+    "state": "DONE",
     "street": "Vinohradská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1448,7 +1549,7 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 979 527",
     "investor_responsible": "Bc. Michaela Ekhardová",
-    "lat": 50.0793040784743,
+    "lat": 50.07930407847427,
     "limitations": "<p>Bez dopravního omezení, pouze zábor části parkovacího pruhu.</p>",
     "lon": 14.4524221363163,
     "max_lat": null,
@@ -1460,17 +1561,20 @@
     "name": "Rekonstrukce chodníku v ulici Jagellonská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2f417358b1a27195de7cfcc98ca4731b6ed9a5b0",
+    "sha1": "5bf98e256af13fff7e0fcde18ba9bdb8db09c61e",
     "start": "2024-08-19T00:00:00",
+    "state": "DONE",
     "street": "Jagellonská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1503,17 +1607,20 @@
     "name": "Stavební úpravy NTL plynovodů Křivá, Luční a okolí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "faa26545e0f88ba094fd5bfdb7b05d4322e98d9f",
+    "sha1": "34ec263c3da25a9bf1e2314eea2376ad5669a57a",
     "start": "2024-09-30T00:00:00",
+    "state": "DONE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1534,9 +1641,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "602 628 974",
     "investor_responsible": "Zdeněk Kolařík",
-    "lat": 50.0804478860117,
+    "lat": 50.08044788601175,
     "limitations": "<p>Částečné uzavření chodníku.</p>",
-    "lon": 14.4572688880062,
+    "lon": 14.457268888006212,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1546,17 +1653,20 @@
     "name": "Rekonstrukce chodníku v ulici Baranova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2623b5821f2ad0502688cc32b8e31909e8ae03d3",
+    "sha1": "135c85a99bbb34b5fc71e5c4e331175adb120d5e",
     "start": "2024-09-14T00:00:00",
+    "state": "DONE",
     "street": "Baranova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1589,17 +1699,20 @@
     "name": "Rekonstrukce tramvajových zastávek \"Nákladové nádraží Žižkov\" v ulici Olšanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ee147b6e6ef2d0485895536fd5c97d0469edaec8",
+    "sha1": "4363c5d4fadf88c2551695fbf6a17b331c975377",
     "start": "2024-09-19T00:00:00",
+    "state": "DONE",
     "street": "Olšanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3"
     ],
@@ -1632,13 +1745,13 @@
     "name": "Stavební úpravy STL a NTL plynovodů",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "082de59b3f10bfc324a477964738fe8a02477b84",
+    "sha1": "52ab9835569dc5a24266bbeab08e505e9215494c",
     "start": "2024-09-28T00:00:00",
+    "state": "DONE",
     "street": "Slezská",
     "subject": "CONSTRUCTION"
   }

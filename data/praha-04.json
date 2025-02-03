@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -33,17 +36,20 @@
     "name": "Barrandovský most - 3. a 4. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "043a5bc302c44a28d250c5f361ead9ae6c6f93c4",
+    "sha1": "fe7c9a76167cddc4fd5f3f5f61fbc5c1b20b15a2",
     "start": "2024-03-09T00:00:00",
+    "state": "DONE",
     "street": "Barrandovský most, Strakonická, Jižní spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -76,17 +82,20 @@
     "name": "Oprava části komunikace Kloboučnická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "84cc6ae2bb0bd1f978aa63fabf289ebc77d214e0",
+    "sha1": "49ae311a71ce7c5fdcd0e064a9a985a18f880c51",
     "start": "2022-07-18T00:00:00",
+    "state": "DONE",
     "street": "Kloboučnická, K Podjezdu",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "2",
       "4"
@@ -120,17 +129,20 @@
     "name": "Modernizace cyklotrasy A2 v úseku Vyšehradský tunel - most na Veslařský ostrov",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f29e0559bd4177710095e2ba1ad1e7aa7e8eff38",
+    "sha1": "b053ed90f76e160ea3b1208b316b40da0119d243",
     "start": "2022-10-01T00:00:00",
+    "state": "DONE",
     "street": "Cyklotrasa A2",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -163,17 +175,20 @@
     "name": "Boleslavova - rekonstrukce schodiště",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3125f809885aa9e114b5daea1df8c3ce7ac3a543",
+    "sha1": "33cc12d0cab6e821cd1d0eabbcfbaf643e292419",
     "start": "2022-10-24T00:00:00",
+    "state": "DONE",
     "street": "Boleslavova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -207,18 +222,20 @@
     "name": "Výstavba Dvoreckého mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Mgr. Javašov + Ing. Kubín",
     "responsible_email": null,
     "responsible_phone": "236 00 4325, 236 00 4397",
     "severity": "YELLOW",
-    "sha1": "16cdef1890ebedb555065bc1191b4ef7196833e6",
+    "sha1": "0f340f95a56386452abf96a91cad6b26d58c0deb",
     "start": "2022-09-20T00:00:00",
     "state": "ACTIVE",
     "street": "Strakonická, Nádražní, Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -251,17 +268,20 @@
     "name": "Výstavba  Metro I.D. - Provizorní přeložka Horkovodu  DN 500 - SO-11-60/02 ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "SSÚ Praha 4 (OŽPAD ÚMČ Praha 4) - Mgr. Vlasák",
     "responsible_email": "petr.vlasak@praha4.cz   ",
     "responsible_phone": "\t261 192 426",
     "severity": "YELLOW",
-    "sha1": "c425d74b973fc9e378347dff831e7317e6eec579",
+    "sha1": "1edb2dd1963efd244507008e7fea7d12f9745b37",
     "start": "2023-03-01T00:00:00",
+    "state": "DONE",
     "street": "Na Pankráci",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -294,17 +314,20 @@
     "name": "Rekonstrukce komunikace Malovická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f17a6aca9068b1ad46b97fb58b0449a0a74f2f63",
+    "sha1": "1b213e2e22331366f42af473220a35b1e4ae660e",
     "start": "2023-03-13T00:00:00",
+    "state": "DONE",
     "street": "Malovická, Choceradská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -337,18 +360,20 @@
     "name": "Výstavba Metro I.D pokračující etapa  - ET 5a, 5b, 5c",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "fd05b3015ee43c5e2c0343a22d3c6d62b9dc4fa2",
+    "sha1": "90d79f803f0d694253ff91c3169b2b99bd366ba9",
     "start": "2023-04-01T00:00:00",
     "state": "ACTIVE",
     "street": "Na Strži",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -381,17 +406,20 @@
     "name": "Modřanská - rozšíření nájezdové rampy na Jižní spojku",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236004397",
     "severity": "YELLOW",
-    "sha1": "d32a034745d0c58208974a871cabafeff90faa7b",
+    "sha1": "9243771b4e8cef336a5ab0520873b979e390512b",
     "start": "2023-07-10T00:00:00",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -424,17 +452,20 @@
     "name": "Bezbariérové přechody v ulici Na Dolinách",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9ef4d6fd1e146df08aeab4938ac2adfb04cdb96d",
+    "sha1": "52e19c6a963c1f1d4b941c8fb3861f7afa7812f1",
     "start": "2023-03-20T00:00:00",
+    "state": "DONE",
     "street": "Na Dolinách, Lopatecká, Na Klikovce",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -467,17 +498,20 @@
     "name": "Barrandovský most - přípravné práce - další etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "6b6c4a126969e7edbf30ab1da18d0181f5de4a77",
+    "sha1": "673de7e21b6bcd243cecdefdf913ad4e880fb492",
     "start": "2023-04-28T00:00:00",
+    "state": "DONE",
     "street": "Barrandovský most a sjízdná rampa na ulici Modřanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -510,17 +544,20 @@
     "name": "Oprava lávky pro pěší X552, Štětkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d27f89f127a327e0e2e5c6198f342f3a6b903c66",
+    "sha1": "f341ba5d03b6fe7ab23c9c0645c6056873694862",
     "start": "2023-05-02T00:00:00",
+    "state": "DONE",
     "street": "Štětkova, Kongresová",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -558,17 +595,20 @@
     "name": "Prague International Marathon",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236004399",
     "severity": "GREEN",
-    "sha1": "e3f092732508b3fa4e4847bff74ebef8e2bd651b",
+    "sha1": "ad3789711211e42e73baa13cf6f55b5fd8e8399f",
     "start": "2023-05-07T09:00:00",
+    "state": "DONE",
     "street": "komunikace v centrální části Prahy",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -601,17 +641,20 @@
     "name": "Rekonstrukce objektu 5. května č.p. 1049/64",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236004397",
     "severity": "GREEN",
-    "sha1": "4a005a9fd63f6b3ff784f619b12d2780c7b795a4",
+    "sha1": "765c4c3843502e86dd02203308c5c5753d9f0d4f",
     "start": "2023-06-26T00:00:00",
+    "state": "DONE",
     "street": "5. května",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -644,17 +687,20 @@
     "name": "Uzavření lávky pro pěší na Branickém mostě",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8783f20030482face01b34ee38a96693532a05ae",
+    "sha1": "2dd83444f0923e5a011dc8c65f399995acf93037",
     "start": "2023-06-26T00:00:00",
+    "state": "DONE",
     "street": "Branický most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -688,17 +734,20 @@
     "name": "Barrandovský most - vložená etapa - 2.b.2 - zatěžovací zkoušky",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "1fa812d2e59d504975a42e524d9eeb91c56b98d1",
+    "sha1": "298aa7de12a6bc4e962a41fc9fc2f6bc58961053",
     "start": "2023-08-30T21:00:00",
+    "state": "DONE",
     "street": "Barrandovský most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -731,17 +780,20 @@
     "name": "Rekonstrukce komunikace Jitřní",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e4fd53da2de614fa992319744dcef4a46e06dacd",
+    "sha1": "3e37ea0b03868687d6f3cf6989abe11009eecc89",
     "start": "2023-06-19T00:00:00",
+    "state": "DONE",
     "street": "Jitřní",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -774,17 +826,20 @@
     "name": "Oprava zábradlí na mostě X681 Táborská x 5. května",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fe59bbbd609d9725e255866917d9d1dfb259431b",
+    "sha1": "1e185e5cdd779434141bd66c4de852dfd30dc993",
     "start": "2023-07-27T00:00:00",
+    "state": "DONE",
     "street": "Táborská, 5. května",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -817,17 +872,20 @@
     "name": "Rekonstrukce komunikace Hornokrčská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1a683abb6dc8181ace3e333c1c89985f39c06b2b",
+    "sha1": "c14dd21d0e56e3c207ea1a25ad5438c59f09cbef",
     "start": "2024-03-25T00:00:00",
+    "state": "DONE",
     "street": "Hornokrčská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -860,17 +918,20 @@
     "name": "Zdvoukolejnění Branického mostu - ul. MODŘANSKÁ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236004397",
     "severity": "YELLOW",
-    "sha1": "2ecf7da81b88bbd2f8fd5144830d90db34d43a86",
+    "sha1": "0b84e1f5f108b3fcee383c55e5aa466ce24981a3",
     "start": "2023-09-26T00:00:00",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -903,17 +964,20 @@
     "name": "Rekonstrukce komunikace Boleslavova - slepá",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "aedffc0203659fbcbddfa713a71ca4e6db67e19e",
+    "sha1": "38468f231be6607e4f86e7815da8fdd365b29294",
     "start": "2023-06-26T00:00:00",
+    "state": "DONE",
     "street": "Boleslavova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -946,17 +1010,20 @@
     "name": "Oprava podchodu v ulici Československého exilu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1a2a0bbc58ebb9541aabd11ba6a3242ef6523e3f",
+    "sha1": "370a4cd8e445b8c33b2e343bf98a45e9660a5ba9",
     "start": "2023-07-17T00:00:00",
+    "state": "DONE",
     "street": "Československého exilu",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -989,17 +1056,20 @@
     "name": "Barrandovský most - etapa cyklostezka A2 (strana Praha 4)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "06550e1772707d8ef0fcf188a906f1505a4b6ef2",
+    "sha1": "f4272f01f0a5e3e7e7d1243d15ecce6b2e11bdee",
     "start": "2023-09-01T00:00:00",
+    "state": "DONE",
     "street": "Cyklostezka A2 (v oblasti pod  Barrandovským mostem)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1032,17 +1102,20 @@
     "name": "Bezbariérová úprava Podolských schodů",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "037f4d1b6106d58e7e6b660173c94bf1e63042a3",
+    "sha1": "acf0aaaf19d26f06ab7a3d9e3d4410f2d1ce55c9",
     "start": "2023-09-04T00:00:00",
+    "state": "DONE",
     "street": "Podolské schody",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1075,17 +1148,20 @@
     "name": "Cyklostezka Kačerov - U Labutě",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9085c948f15d9ec214ea8674d3b1957d2cc1d805",
+    "sha1": "914651e36409ae279347e7fa799c3966e4388b8d",
     "start": "2024-04-02T00:00:00",
+    "state": "DONE",
     "street": "Michelská, Vídeňská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1118,17 +1194,20 @@
     "name": "SSZ 4.420 Podolské nábřeží - Jeremenkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236004397",
     "severity": "YELLOW",
-    "sha1": "95cfb59e4fc117a71e7b96da9efedacf91498c9c",
+    "sha1": "a55c857de99bb0ae5e6462d90f5b8bea45e1cabe",
     "start": "2023-09-18T00:00:00",
+    "state": "DONE",
     "street": "Modřanská, Podolské nábřeží, Dvorecké náměstí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1161,17 +1240,20 @@
     "name": "Barrandovský most - výměna ložisek - ul. Modřanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "ecdaa772e592b9626db1a5f0fb1ce8d1a8a3c2ce",
+    "sha1": "ed9efdaaa142dabf7d9a0ec592e0bf6f1c270b7b",
     "start": "2023-10-21T00:00:00",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1204,17 +1286,20 @@
     "name": "Souvislá údržba - Ke Garážím",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "ef3c6e6b40b5f1a9f8e6d6b9bbb022174be61d42",
+    "sha1": "e07209e7281895759c3aecd6b0182e88e9a1aeec",
     "start": "2023-10-09T00:00:00",
+    "state": "DONE",
     "street": "Ke Garážím, NN 419 (sjízdná rampa z Jižní Spojky směrem na Pražský okruh, Brno, Plzeň, Chodov) a NN1731 (sjízdná rampa do ul. Ke Garážím),",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1247,17 +1332,20 @@
     "name": "STAVEBNÍ ÚPRAVY NTL PLYNOVODŮ ZÁLESÍ, ŠTÚROVA A OKOLÍ, PRAHA 4",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "7c3f82c5c7c130b32d5f1ee8041ded8a5dd92c29",
+    "sha1": "7212c46f67d24df81672a690ae24a08f0ad1bfa0",
     "start": "2023-10-19T00:00:00",
+    "state": "DONE",
     "street": "Zálesí, Štúrova, Sulická, Mezilesní",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1290,17 +1378,20 @@
     "name": "Vybudování nového chodníku v ulici Údolní",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b0585d08b6ea311c01088a0a24b47ddbe95ebde1",
+    "sha1": "ed95edec3c50611deaa331776bc3b7d690d9bf10",
     "start": "2023-10-02T00:00:00",
+    "state": "DONE",
     "street": "Údolní",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1333,17 +1424,20 @@
     "name": "Obnova dopravního značení (ulice Vídeňská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "75754318747931bfa64f53ae9f85b4b9cf00876d",
+    "sha1": "4dabc50b99f455bb12c3aed91e2491f751c11576",
     "start": "2023-11-27T00:00:00",
+    "state": "DONE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "2",
       "4"
@@ -1377,17 +1471,20 @@
     "name": "Rekonstrukce komunikace 5. května v úseku Táborská - Nuselský most",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "78f74cbf28a4d3c0115b679b71bd92941f909be0",
+    "sha1": "a86b4013c8a0582f64148e4f9be0a85dd4b2ce55",
     "start": "2024-04-02T00:00:00",
+    "state": "DONE",
     "street": "Sokolská, Nuselský most, 5. května, Lounských, Táborská, Žateckých, Petra Rezka, Na Vítězné pláni",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1408,9 +1505,9 @@
     "investor": "OUTDOOR AKZENT s.r.o.",
     "investor_phone": "734 843 333 ",
     "investor_responsible": "Lukáš Vlk",
-    "lat": 50.0290992708868,
+    "lat": 50.029099270886846,
     "limitations": "<p><span style=\"color: black;\">Během této akce dojde v&nbsp;prostoru křižovatky Vídeňská x Zálesí k&nbsp;záboru prostředního jízdního pruhu (před křižovatkou) a části pravého jízdního pruhu za křižovatkou) a přilehlého chodníku ve směru od Krč na Kunratice z&nbsp;důvodu odstavení mobilního jeřábu a nákladního vozidla potřebných pro demontáž dvou kusů reklamních zařízení. </span></p>",
-    "lon": 14.4554396214581,
+    "lon": 14.455439621458055,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1420,17 +1517,20 @@
     "name": "DEMONTÁŽ REKLAMNÍHO ZAŘÍZENÍ (UL. VÍDEŇSKÁ)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e3c8c1f78f4e73de95c6e651a1854a4003cfc95c",
+    "sha1": "00315072b1d4f648ce9a1d5fa49c129accac12b8",
     "start": "2023-11-25T00:07:00",
+    "state": "DONE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1463,17 +1563,20 @@
     "name": "Barrandovský most - Cyklo BM - opatření pro cyklistickou dopravu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "aabcf9f7ad1135dd651f1d62d27e92f3dbd21814",
+    "sha1": "e9ff02878d424fb4f0aacdb834cd28f7b3c580b2",
     "start": "2024-02-26T00:00:00",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1506,17 +1609,20 @@
     "name": "Rekonstrukce komunikace Ješetická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "074516a2a4047e873810aec082f29bb65b183db6",
+    "sha1": "a567831cee59c20af9313305d27a1e34beb34167",
     "start": "2023-12-19T00:00:00",
+    "state": "DONE",
     "street": "Ješetická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1549,17 +1655,20 @@
     "name": "DEMONTÁŽ REKLAMNÍHO ZAŘÍZENÍ (UL. Vyskočilova)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "5073cbb3e305c5e88c733039a805ec6088624f71",
+    "sha1": "1f1bbc872a4864b734c3e34262c2d7bd47144238",
     "start": "2024-01-13T07:00:00",
+    "state": "DONE",
     "street": "Vyskočilova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1592,17 +1701,20 @@
     "name": "Zdvoukolejnění Branického mostu - ul. VRBOVA",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "fb27cd67b215b6f4b19b8b9ea317d87fec75481b",
+    "sha1": "b320df7eba60b1525ad92827ce95048d2e144be5",
     "start": "2024-01-08T00:00:00",
+    "state": "DONE",
     "street": "Vrbova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -1636,17 +1748,20 @@
     "name": "Barrandovský most - přípravné práce - ul. Barrandovský most",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "480293c628d1e316b47c43aaeb8e3801fb233cd0",
+    "sha1": "b4fab17dda9c965b15a4f07cab1de771c49d3d5a",
     "start": "2024-01-19T00:00:00",
+    "state": "DONE",
     "street": "Barrandovský most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1679,17 +1794,20 @@
     "name": "IGP (Inženýrsko - Geologický průzkum) -  Vídeňská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "213fbcf6a1b876c3915d4b55cdd5df1d69f8d3f9",
+    "sha1": "b59a7eeb9254608fd1799d7b0abe3a583b0aa284",
     "start": "2024-01-29T00:00:00",
+    "state": "DONE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1722,17 +1840,20 @@
     "name": "Barrandovský most - vložená etapa - ul. Modřanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "8e29b74cf99ac2d6b97fc313e4854f53edcc0e23",
+    "sha1": "201c3714da265d4d871d17584147525b741d24e0",
     "start": "2024-10-11T00:00:00",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1765,18 +1886,20 @@
     "name": "VÝSTAVBA METRO I.D (OBLAST KŘIŽOVATKY NA STRŽI X NA PANKRÁCI X  A NA PANKRÁCI X HVĚZDOVA)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "316f862b024b9e70d0328b9d6fafe18d9b1548c6",
+    "sha1": "ae2c0ffea3ff454e7a916b0ab517b449f77e761f",
     "start": "2024-12-13T00:00:00",
     "state": "ACTIVE",
     "street": "Na Strži, Na Pankráci, Hvězdova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -1810,17 +1933,20 @@
     "name": "BARRANDOVSKÝ MOST - FÁZE CYKLOSTEZKA A12 (SEVERNÍ MOST - CHODNÍK)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "0235979b7b90ab9b0f5fc214532530a0b4b1410c",
+    "sha1": "6e2e8be951bf0bdffcf2927ced1e3e56e24d98a6",
     "start": "2024-02-12T00:00:00",
+    "state": "DONE",
     "street": "CYKLOSTEZKA A12 (V OBLASTI PŘED MOSTEM - SEVERNÍ MOST/CHODNÍK - ZA MOSTEM)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -1854,17 +1980,20 @@
     "name": "Barrandovský most - přípravné práce - ul. Barrandovský most - další fáze",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "72b295c4b95eaeda98441579d5fd6cb06d3adec3",
+    "sha1": "ef74c871004c7bcc8a55e57f81da58bcc41b5dce",
     "start": "2024-02-11T06:00:00",
+    "state": "DONE",
     "street": "Barrandovský most a sjízdné a nájezdné rampy/větve",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -1898,17 +2027,20 @@
     "name": "Barrandovský most - přípravné práce - přejezdy",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "1a185327c88eb222d7a1c3edaf286dfc1c3ecc51",
+    "sha1": "961dbea7111acf848b3cc1c4d6edb22b02792557",
     "start": "2024-02-19T00:00:00",
+    "state": "DONE",
     "street": "BARRANDOVSKÝ MOST A SJÍZDNÉ A NÁJEZDNÉ RAMPY/VĚTVE",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -1941,17 +2073,20 @@
     "name": "Diagnostika mostu na Jižní spojce (přemostění ul. Sliačská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "b3fab7048fe221c6db060f20a532220a596080c3",
+    "sha1": "0ca14c5b1ac795d920d4178377de284b0eb1eb5f",
     "start": "2024-04-06T10:00:00",
+    "state": "DONE",
     "street": "Jižní Spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "5"
@@ -1985,17 +2120,20 @@
     "name": "Barrandovský most - přípravné práce",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "15b23cf3d397b32c267ccc897fcf09ec79b0fa8d",
+    "sha1": "dab67456b4c7befff2f19252c3e984f1348aacf7",
     "start": "2024-02-16T21:30:00",
+    "state": "DONE",
     "street": "Barrandovský most a sjízdné a nájezdné rampy/větve",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2028,17 +2166,20 @@
     "name": "Obnova kabelů vysokého napětí - Táborská a okolí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "052d794b2685ff34236a89d941f369721a9689f8",
+    "sha1": "98f5e151be83d5f79fb38b2a73c42ce3906efb5d",
     "start": "2024-03-23T00:00:00",
+    "state": "DONE",
     "street": "5.května",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2071,17 +2212,20 @@
     "name": "Oprava chodníku v ulici Opatovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bcca56617c4be55c5d3231179cf1f1dda2601cf8",
+    "sha1": "86e9ff49f05632cab780d6a135cabcb891814e10",
     "start": "2024-03-18T00:00:00",
+    "state": "DONE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2102,9 +2246,9 @@
     "investor": "Správa železnic, s.o.",
     "investor_phone": "607 015 224",
     "investor_responsible": "Ing. Jana Dehner ",
-    "lat": 50.0310527356556,
+    "lat": 50.03105273565561,
     "limitations": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Během 1. etapy (označeno jako 16a. etapa) v&nbsp;termínu od 10.05.2024 od 00:30 hod do 04:30 hod a v&nbsp;termínu 11.05.2024 od 00:30 hod do 04:30 hod dojde k&nbsp;úplné uzavírce ulice Vrbova pod železniční tratí – pod viaduktem. Objízdná trasa vede obousměrně ulicemi: Modřanská x v&nbsp;Mokřinách x Na Lysinách x Údolní x Vavřenova x Novodvorská</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Během 2. etapy (označeno jako 16b etapa a 16c etapa) v&nbsp;termínu od 07.05.2024 do 21.05.2024 – fáze č.1 v&nbsp;čase od 09:00 hod do 15:00 hod a fáze č. 2 od 15:00 do 09:00 hod dojde k&nbsp;záboru jízdního pásu ve směru od Braníka a přilehlého chodníku. Průjezd umožněn v&nbsp;protisměrném jízdním pásu. Provoz řízen kyvadlově SSZ. Průchod chodců umožněn v&nbsp;koridoru pro chodce.</span></p><p><br></p>",
-    "lon": 14.4163222851849,
+    "lon": 14.416322285184862,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2114,17 +2258,20 @@
     "name": "Zdvoukolejnění Branického mostu - ul. Vrbova - vložená etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "c12283771450d992b70e9251da6ec509fe2fd66f",
+    "sha1": "cbdd5308de66ea93aaf40146eb29127d6a76cfab",
     "start": "2024-05-07T00:00:00",
+    "state": "DONE",
     "street": "Vrbova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2157,17 +2304,20 @@
     "name": "Oprava sloupků svodidel - 5.května (přemostění ul. Vyskočilova)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7cb6ce0aeadbce0c3bdcc03f5b559081edf472d6",
+    "sha1": "0d7780fdf2037af8d8c39661a5b455e5487c4ee3",
     "start": "2024-04-27T00:00:00",
+    "state": "DONE",
     "street": "5. května",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2200,17 +2350,20 @@
     "name": "Rekonstrukce opěrné zdi v ulici Spořilovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "3595cffe02936fba80f6d61ca64bc004c6588084",
+    "sha1": "8a512691e48a3e30df563cd8a94abe1080adcd4c",
     "start": "2024-04-29T00:00:00",
+    "state": "DONE",
     "street": "Spořilovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2243,17 +2396,20 @@
     "name": "Obnova vodovodního řadu Zálesí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "862d7d515b4a147d5efe770bd653bd58ad096142",
+    "sha1": "fff566c7cb48308daf1180785110981f27c469a2",
     "start": "2024-05-27T00:00:00",
+    "state": "DONE",
     "street": "Zálesí, Sulická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2274,9 +2430,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "257 015 111",
     "investor_responsible": "Zach",
-    "lat": 50.0237006613513,
+    "lat": 50.02370066135128,
     "limitations": "<p>Zábor dané zastávky a pravého jízdního pruhu.</p><p>Průjezd umožněn levým jízdním pruhem a zastávka posunuta ve směru jízdy.</p>",
-    "lon": 14.4411836805439,
+    "lon": 14.441183680543901,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2286,17 +2442,20 @@
     "name": "Oprava zastávky Novodvorská (v ul. Zálesí)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f7040caa4444defcfa0e4ad7515d8892a9a704dd",
+    "sha1": "2a641218949b35ab26f7f6d7e5b05928d160842e",
     "start": "2024-06-10T00:00:00",
+    "state": "DONE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2317,9 +2476,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": null,
-    "lat": 50.0252996527723,
+    "lat": 50.02529965277234,
     "limitations": "<p class=\"ql-align-justify\">  Za úplné uzávěry části ulice V&nbsp;Hodkovičkách </p><p class=\"ql-align-justify\">&nbsp;</p><p>  </p>",
-    "lon": 14.4130655506007,
+    "lon": 14.41306555060072,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2329,17 +2488,20 @@
     "name": "Jitřní - rekonstrukce ulice",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "3627ae106cb4dfc0c26584fa2f53c5529a55d1b5",
+    "sha1": "1ab915a1cde1ea32e971c96734388f80a9a2c676",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Jitřní",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2360,9 +2522,9 @@
     "investor": "Dopravní podnik hl. m. Prahy, a.s.",
     "investor_phone": "724 993 844",
     "investor_responsible": "Černá (IDS a.s.)",
-    "lat": 50.0409772951981,
+    "lat": 50.04097729519806,
     "limitations": "<p><strong>Rozsah omezení</strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Linka č. 193</strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Trasy:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Šeberák:</u></strong> do zastávky \"Krčský hřbitov\" po své trase a dále Na Strži - <strong style=\"color: rgb(230, 136, 53);\">vlevo Olbrachtova</strong> - přímo Vyskočilova - vpravo Michelská - přímo Vídeňská a dále po své trase</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Pražského povstání, resp. Nádraží Vršovice:</u></strong> do zastávky \"U Labutě\" po své trase a dále Vídeňská - <strong style=\"color: rgb(230, 136, 53);\">přímo Michelská</strong> - vlevo Vyskočilova - přímo Olbrachtova - vpravo Na&nbsp;Strži a dále po své trase</p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Zastávky:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Šeberák:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Nádraží Vršovice, resp. Pražského povstání </strong>až<strong style=\"color: rgb(230, 136, 53);\"> Krčský hřbitov:&nbsp;</strong>ve stávajících zastávkách linky 193</p><p><strong style=\"color: rgb(230, 136, 53);\">Na Strži:&nbsp;</strong>v ul. Olbrachtově, cca 40 m za křižovatkou s ul. Na Strži - stávající výlukový stav</p><p><strong style=\"color: rgb(230, 136, 53);\">Krčská:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 - stávající výlukový stav</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 - stávající výlukový stav</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;</strong>v&nbsp;ul. Vyskočilově, 50 m za křižovatkou s ulicí Budějovická, v zastávce linky 905</p><p><strong style=\"color: rgb(230, 136, 53);\">Brumlovka:&nbsp;</strong>v ul. Vyskočilově, v zastávce linky 118</p><p><strong style=\"color: rgb(230, 136, 53);\">Vyskočilova:&nbsp;</strong>v ul. Vyskočilově, v zastávce linky 118</p><p><strong style=\"color: rgb(230, 136, 53);\">Pod Dálnicí:&nbsp;</strong>v ul. Michelské, v zastávce linky 118</p><p><strong style=\"color: rgb(230, 136, 53);\">Kačerov:&nbsp;</strong>na obslužné komunikace souběžné s ul. Michelskou podél vestibulu metra, v zastávce linky 138</p><p><strong style=\"color: rgb(230, 136, 53);\">U Labutě </strong>až<strong style=\"color: rgb(230, 136, 53);\"> Šeberák:&nbsp;</strong>ve stávajících zastávkách linky 193 </p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Pražského povstání, resp. Nádraží Vršovice:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Šeberák </strong>až<strong style=\"color: rgb(230, 136, 53);\"> U Labutě:&nbsp;</strong>ve stávajících zastávkách linky 193</p><p><strong style=\"color: rgb(230, 136, 53);\">Kačerov:&nbsp;</strong>v ul. Michelské, v zastávce linky 139</p><p><strong style=\"color: rgb(230, 136, 53);\">Pod Dálnicí:&nbsp;</strong>v ul. Michelské, v zastávce linky 139</p><p><strong style=\"color: rgb(230, 136, 53);\">Vyskočilova:&nbsp;</strong>v ul. Vyskočilově, v zastávce linky 118</p><p><strong style=\"color: rgb(230, 136, 53);\">Brumlovka:&nbsp;</strong>v ul. Vyskočilově, v zastávce linky 118</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 - stávající výlukový stav</p><p><strong style=\"color: rgb(230, 136, 53);\">Krčská:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 - stávající výlukový stav</p><p><strong style=\"color: rgb(230, 136, 53);\">Na Strži </strong>až<strong style=\"color: rgb(230, 136, 53);\"> Pražského povstání, resp. Nádraží Vršovice:&nbsp;</strong>ve stávajících zastávkách linky 193</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p class=\"ql-align-center\"><strong style=\"color: rgb(230, 136, 53);\"><u>Linka 121</u></strong></p><p class=\"ql-align-center\">&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Trasy:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Poliklinika Budějovická:</u></strong> nemění se</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>manipulačně:</u></strong> Antala Staška - <strong style=\"color: rgb(230, 136, 53);\">vlevo Budějovická </strong>- po cca 100 m otočením přes středový parkovací pás zpět Budějovická - vpravo Antala Staška - nástup (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Nádraží Braník:</u></strong> Antala Staška - vlevo Na Strži a dále po své trase (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Zastávky:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- ruší se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Nádraží Braník:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická, Krčská, Na Strži </strong>(stávající výlukový stav)</p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- přemisťuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Poliklinika Budějovická:&nbsp;<u>nástupní:</u></strong> v ul. Antala Staška, na protilehlou stranu komunikace, do zastávky linky 124 (směr Zelený pruh)(stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- zřizuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Nádraží Braník:</u></strong></p><p>mezi zastávkami \"Poliklinika Budějovická\" a \"Na Staré cestě\"</p><p><strong style=\"color: rgb(230, 136, 53);\">Antala Staška:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 124 (směr Zelený pruh)(stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Ryšánka:&nbsp;</strong>v ul. Antala Staška, cca 45 m před křižovatkou s ul. Na Strži, 1 m za vchodem do domu č.&nbsp;410/27 (stávající výlukový stav</p><p class=\"ql-align-center\"><strong style=\"color: rgb(230, 136, 53);\">&nbsp;</strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(230, 136, 53);\">&nbsp;</strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(230, 136, 53);\"><u>Linka 124</u></strong></p><p class=\"ql-align-center\">&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Trasy:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Želivského:</u></strong> do zastávky \"Na Planině\" po své trase a dále Zelený pruh - přímo Antala Staška - <strong style=\"color: rgb(230, 136, 53);\">přes křižovatku s ul. Na Strži přímo</strong> <strong style=\"color: rgb(230, 136, 53);\">Antala Staška </strong>- vlevo Budějovická - vpravo Vyskočilova a dále po své trase (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Zelený pruh:</u></strong> nemění se</p><p><strong style=\"color: rgb(230, 136, 53);\">&nbsp;</strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Zastávky:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- ruší se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Krčská:&nbsp;<u>směr Želivského</u></strong>(stávající výlukový stav)</p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- přemisťuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Ryšánka:&nbsp;<u>směr Želivského:</u></strong> z ul. Na Strži do ul. Antala Staška, do zastávky linky 134 (směr Podolská vodárna) (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;<u>směr Želivského:</u></strong> z ul. Olbrachtovy o cca 180 m po směru jízdy do ul. Vyskočilovy, do&nbsp;zastávky linky 905 (směr Jižní Město)(stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- zřizuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Želivského:</u></strong></p><p>mezi zastávkami \"Ryšánka\" a \"Budějovická\"</p><p><strong style=\"color: rgb(230, 136, 53);\">Antala Staška:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 134 (směr Podolská vodárna)(stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Poliklinika Budějovická:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 134 (směr Podolská vodárna)<strong style=\"color: rgb(230, 136, 53);\"> (50/5)</strong> (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">&nbsp;</strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(230, 136, 53);\"><u>Linka 170</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Trasy:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Pražská čtvrť:</u></strong> do zastávky \"Brumlovka\" po své trase a dále Vyskočilova - <strong style=\"color: rgb(230, 136, 53);\">vlevo Budějovická</strong> - vpravo Antala Staška - vlevo Na Strži a dále po své trase (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Jižní Město:</u></strong> do zastávky \"Na Staré cestě\" po své trase a dále Na Strži - <strong style=\"color: rgb(230, 136, 53);\">vpravo Antala Staška</strong> - vlevo Budějovická - vpravo Vyskočilova a dále po své trase (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Zastávky:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- ruší se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Krčská:&nbsp;<u>oběma směry</u> (296/1,2)</strong> (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Na Strži:&nbsp;<u>směr Pražská čtvrť</u> (429/3)</strong> (stávající výlukový stav)</p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- přemisťuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;<u>směr Pražská čtvrť:</u></strong> z ul. Olbrachtovy do ul. Budějovické, do zastávky linky 124 (směr Zelený pruh) (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Ryšánka:&nbsp;<u>směr Jižní Město:</u></strong> z ul. Na Strži do ul. Antala Staška, do zastávky linky 134 (směr Podolská vodárna)stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;<u>směr Jižní Město:</u></strong> z ul. Olbrachtovy o cca 180 m po směru jízdy do ul. Vyskočilovy, do&nbsp;zastávky linky 905 (směr Jižní Město)<strong style=\"color: rgb(230, 136, 53);\"> (</strong>stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- zřizuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Pražská čtvrť:</u></strong></p><p>mezi zastávkami \"Budějovická\" a \"Na Staré cestě\"</p><p><strong style=\"color: rgb(230, 136, 53);\">Poliklinika Budějovická:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 134 (směr Dvorce) (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Antala Staška:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 134 (směr Dvorce)(stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Ryšánka: </strong>v ul. Antala Staška, cca 45 m před křižovatkou s ul. Na Strži, 1 m za vchodem do domu č.&nbsp;410/27 (stávající výlukový stav)</p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Jižní Město:</u></strong></p><p>mezi zastávkami \"Ryšánka“ a „Budějovická\"</p><p><strong style=\"color: rgb(230, 136, 53);\">Antala Staška:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 134 (směr Podolská vodárna) </p><p><strong style=\"color: rgb(230, 136, 53);\">Poliklinika Budějovická:&nbsp;</strong>v ul. Antala Staška, v zastávce linky 134 (směr Podolská vodárna) </p><p><strong style=\"color: rgb(230, 136, 53);\">&nbsp;</strong></p><p>&nbsp;</p><p class=\"ql-align-center\"><strong style=\"color: rgb(230, 136, 53);\"><u>Linka 904</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Trasy:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Sídliště Písnice:</u></strong> do zastávky \"Krčský hřbitov\" po své trase a dále Na Strži - <strong style=\"color: rgb(230, 136, 53);\">vlevo Olbrachtova </strong>- vpravo Budějovická - přímo Budějovická a dále po své trase (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Sídliště Řepy:</u></strong> do zastávky \"Lísek\" po své trase a dále Budějovická - <strong style=\"color: rgb(230, 136, 53);\">přímo Budějovická</strong> - vlevo Olbrachtova - vpravo Na Strži a dále po své trase (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">&nbsp;</strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>Zastávky:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- ruší se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>oběma směry:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Ryšánka, Antala Staška, Poliklinika Budějovická </strong>- (stávající výlukový stav)</p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- přemísťuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Na Strži:&nbsp;<u>směr Sídliště Písnice</u>: </strong>z&nbsp;ul. Na Strži do ul. Olbrachtovy, cca 40 m za&nbsp;křižovatku s&nbsp;ul. Na&nbsp;Strži (stávající výlukový stav) </p><p>&nbsp;</p><p><strong style=\"color: rgb(230, 136, 53);\"><u>- zřizuje se:</u></strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Sídliště Písnice:</u></strong></p><p>mezi zastávkami \"Na Strži\" a \"Lísek\"</p><p><strong style=\"color: rgb(230, 136, 53);\">Krčská:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 (směr Sídliště Spořilov) (stávající výlukový stav)</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 (směr Sídliště Spořilov) (stávající výlukový stav<strong style=\"color: rgb(230, 136, 53);\">)</strong></p><p><strong style=\"color: rgb(230, 136, 53);\"><u>směr Pražského povstání:</u></strong></p><p>mezi zastávkami \"Lísek\" a \"Na Strži\"</p><p><strong style=\"color: rgb(230, 136, 53);\">Budějovická:&nbsp;</strong>v ul. Olbrachtově, 2. sloupek od čela nástupiště, v zastávce linky 118 (směr Smíchovské nádraží) (stávající výlukový stav<strong style=\"color: rgb(230, 136, 53);\">)</strong></p><p><strong style=\"color: rgb(230, 136, 53);\">Krčská:&nbsp;</strong>v ul. Olbrachtově, v zastávce linky 118 (směr Smíchovské nádraží) (stávající výlukový stav<strong style=\"color: rgb(230, 136, 53);\">)</strong></p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>\t&nbsp;</p><p><br></p>",
-    "lon": 14.4384692850208,
+    "lon": 14.43846928502083,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2372,18 +2534,20 @@
     "name": "VÝSTAVBA METRO I.D - VEDENÍ LINEK BUS MHD",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cd4f5fb99d35a1e391abfc3af771cceef38883e8",
+    "sha1": "53c75dc65148da3e9c785798bb2a623b4d7b3c40",
     "start": "2023-04-01T00:00:00",
     "state": "ACTIVE",
     "street": "Na Strži",
     "subject": "OTHERS"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2416,17 +2580,20 @@
     "name": "Rekonstrukce komunikace Sládkovičova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "305c9a2b4dbda3160d87ecbb5f0bdd1d6301781c",
+    "sha1": "93d43e791d4706f93e280132a2e5bbf504900651",
     "start": "2024-07-10T00:00:00",
+    "state": "DONE",
     "street": "Sládkovičova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2447,9 +2614,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "257 015 111",
     "investor_responsible": "Koliska",
-    "lat": 50.0245450526242,
+    "lat": 50.024545052624156,
     "limitations": "<p class=\"ql-align-justify\"><span style=\"color: black;\">Akce proběhne v&nbsp;termínu 1. etapy a 2. etapy od 05.08.2024 do 18.08.2024 – zábor pravých jízdních pruhů v&nbsp;obou směrech jízdy u nároží křižovatky Zálesí x Nad lesním divadlem a uzavření daného přechodu, zřízen provizorní přechod pro chodce. </span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">V&nbsp;termínu 3. etapy od 19.08.2024 do 27.08.2024 – zábor levých jízdních pruhů v&nbsp;obou směrech jízdy u nároží dané křižovatky, zřízen provizorní přechod pro chodce.</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\"><span class=\"ql-cursor\">﻿﻿</span> V&nbsp;termínu 4. etapy od 28.08.2024 do 31.08.2024 dojde k&nbsp;záboru jízdního pásu ve směru od Zálesí</span></p><p><br></p><p><br></p><p><br></p>",
-    "lon": 14.4424386861256,
+    "lon": 14.442438686125598,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2459,17 +2626,20 @@
     "name": "Rekonstrukce přechodu Zálesí x Nad lesním divadlem",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "910db796a26b532063f1a495cf79ce072b4be601",
+    "sha1": "0ba92ae143dffd85a4441fdf73e1d0903bb93c25",
     "start": "2024-08-05T00:00:00",
+    "state": "DONE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2502,17 +2672,20 @@
     "name": "Havarijní oprava kanalizační stoky (UL. NOVODVORSKÁ)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "952d569159c261195690f745751cf524e5009a40",
+    "sha1": "59c29adf8f24af93c065b1723dc1d525ad1dae9b",
     "start": "2024-08-05T00:00:00",
+    "state": "DONE",
     "street": "Novodvorská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2545,17 +2718,20 @@
     "name": "Budějovická - údržba vozovky",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "0309339d5abaee2bd6455c7910326623a6e2965f",
+    "sha1": "4d3f7cbee0ff6fc2e80c3ad6166d94e4f374f3c2",
     "start": "2024-07-29T00:00:00",
+    "state": "DONE",
     "street": "Budějovická, od Michelské po metro Kačerov",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2588,17 +2764,20 @@
     "name": "Oprava opěrných stěn a výměna zábradlí v ulici Táborská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "7c82e8fe809c1e2cea3131eca0db9b36b89b12ea",
+    "sha1": "27358d681c1db6a16041f1259a44d3a4b261038a",
     "start": "2024-09-01T00:00:00",
+    "state": "DONE",
     "street": "Táborská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2631,17 +2810,20 @@
     "name": "Barrandovský most – nájezdová větev z Modřanské ulice – oprava vpustí ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "a5a20b1e494692969117ae43a0d6ee975bc77709",
+    "sha1": "918bbfebf9c0fcd8400cf221180bc1c0a74e2e52",
     "start": "2024-09-24T00:00:00",
+    "state": "DONE",
     "street": "nájezdová mvětev z Modřanské ulice na Barrandovský most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2674,17 +2856,20 @@
     "name": "DEMONTÁŽ STŘEDOVÉHO DĚLÍCÍHO OSTRŮVKU (ul. VYSKOČILOVA)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "f734b097f695573fdb316b419d26ef61a666ad2b",
+    "sha1": "94bf0fcecafe44a16f5868b0966cbcb7f419269c",
     "start": "2024-10-08T00:00:00",
+    "state": "DONE",
     "street": "VYSKOČILOVA",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2705,9 +2890,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "778 704 391",
     "investor_responsible": "Marcela Hudečková",
-    "lat": 50.024019255189,
+    "lat": 50.02401925518899,
     "limitations": "<p>Uzavírka proběhne po etapách:</p><p> 1. etapa: 30. 9. – 3. 11. 2024 – úplná uzavírka komunikace v ulici Polední v úseku Na Výspě – Vítovcova &nbsp;</p><p> 2. etapa: 4. 11. – 24. 11. 2024 – úplná uzavírka komunikace v ulici Vítovcova v úseku Havlovického – Polední</p>",
-    "lon": 14.4242077114514,
+    "lon": 14.424207711451373,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2717,17 +2902,20 @@
     "name": "Rekonstrukce vozovky a chodníků v ulicích Polední a Vítovcova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "df38ca987a1eb19f6bb2c30445743a969a8eba51",
+    "sha1": "f6d08ce86851b75c2b63cba06d794fbecc9c97e5",
     "start": "2024-09-30T00:00:00",
+    "state": "DONE",
     "street": "Polední, Vítovcova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -2762,17 +2950,20 @@
     "name": "VÝLUKA METRA C V ÚSEKU MUZEUM (C) - KAČEROV",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "a79d97fcc37d4cda31d85d52b9c6b508ddea8330",
+    "sha1": "21b80757b255d3aee9d35fe1bbe19a75574a50a8",
     "start": "2024-10-26T00:00:00",
+    "state": "DONE",
     "street": "Wilsonova, Legerova, Nuselský most, 5. května, Kongresová, Náměstí Hrdinů, Na Pankráci, Budějovická, Vyskočilova, Michelská, Podle Kačerova a místní komunikace v prostoru AO Kačerov",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "11"
@@ -2806,18 +2997,20 @@
     "name": "Kunratická spojka - uložení napájecího kabelu pro ražbu metra",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "7e01dfd2e95ca89bb0159f92e1d279a46cefa90d",
+    "sha1": "9379a5cc21ae105af364c650a6f0b04814b7e8c2",
     "start": "2024-11-12T00:00:00",
     "state": "ACTIVE",
     "street": "Kunratická spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2850,17 +3043,20 @@
     "name": "Havarijní oprava kaverny ve středovém pásu na Jižní spojce u revizní šachty dešťové kanalizace",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "08cf8013dbacbf2b5ca0940a018b75e8416f4370",
+    "sha1": "0013e19d68ba06464493643dc5df46c11b835051",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "Jižní spojka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2881,9 +3077,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": "Otakar Březina",
-    "lat": 50.0308703259111,
+    "lat": 50.03087032591106,
     "limitations": "<p>  Po dobu obnovy bude přechod pro chodce uzavřen.</p><p>  </p>",
-    "lon": 14.4876285436085,
+    "lon": 14.487628543608508,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2893,17 +3089,20 @@
     "name": "Obnova semaforů v ulici U Kunratického lesa u BUS zastáky Petýrkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9c96c50a796bcbe4642da191bc2c414631665780",
+    "sha1": "eb8dd28fdabdec795b1f58f3059973762cb7c3c2",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "U Kunratického lesa",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2936,17 +3135,20 @@
     "name": "Barrandovský most - ZATĚŽOVACÍ ZKOUŠKY",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "4705bbd5adf8aece5f934be0f8b4e8fa316bc1d7",
+    "sha1": "8c84012771a15a9e5b053e2200dce1549814b82f",
     "start": "2024-11-22T20:00:00",
+    "state": "DONE",
     "street": "Barrandovský most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -2967,9 +3169,9 @@
     "investor": "BB C Orion, a.s.",
     "investor_phone": "724 960 138",
     "investor_responsible": "Ing. Kolařík",
-    "lat": 50.0482626207869,
+    "lat": 50.04826262078694,
     "limitations": "<p>Ve směru a v&nbsp;úseku od křižovatky Michelská x Vyskočilova x V&nbsp;Zápolí na křižovatku Vyskočilova x Želetavská k&nbsp;částečnému záboru pravého jízdního pruhu. Průjezd bude umožněn jedním jízdním pruhem.&nbsp;</p><p><br></p><p><br></p>",
-    "lon": 14.4569979848957,
+    "lon": 14.456997984895708,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2979,17 +3181,20 @@
     "name": "MONTÁŽ JEŘÁBU",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "267511aa142138817b7c7c0d8d3ec2b6d105d6bb",
+    "sha1": "624ecc8e8afcf5b31468f3841f4c270f5d41531e",
     "start": "2024-11-09T00:00:00",
+    "state": "DONE",
     "street": "Vyskočilova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -3022,18 +3227,20 @@
     "name": "REKONSTRUKCE KANALIZACE ULICE ZÁLESÍ, PRAHA 4",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "d50089b28c73267786ff4a51ab32223a2a2f72fd",
+    "sha1": "e7046976ab5551164404c425eadf4683b56feff5",
     "start": "2024-12-16T00:00:00",
     "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -3066,17 +3273,20 @@
     "name": "VÝMĚNA ASFALTOVÉHO KRYTU V MÍSTĚ MOSTOVKY",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "11f0fcafdd6a3f94f96e21711fac0be76db2606f",
+    "sha1": "bf3bbdc5ebf6aee1c18d22d9290ae08586423c82",
     "start": "2024-12-02T00:00:00",
+    "state": "DONE",
     "street": "Kongresová",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -3109,17 +3319,20 @@
     "name": "VYSKOČILOVA - VYBUDOVÁNÍ NOVÉ OPTICKÉ SÍTĚ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "19805d652313a8dfa4def0d29bd07f61c6ac3979",
+    "sha1": "90c3a8ab80e963be3400aa9689562caded885166",
     "start": "2025-02-14T00:00:00",
+    "state": "FUTURE",
     "street": "Vyskočilova, Michelská, V Zápolí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -3152,18 +3365,20 @@
     "name": "FILMOVÁNÍ - VYSKOČILOVA",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "a858c19cce3215f22763a49070de8b6b5a769588",
+    "sha1": "a11def2437c83ea145afa23fc416a8ebcd551d54",
     "start": "2024-02-15T20:00:00",
     "state": "ACTIVE",
     "street": "Vyskočilova",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4"
     ],
@@ -3184,25 +3399,25 @@
     "investor": "BB C Orion, a.s.",
     "investor_phone": "724 960 138",
     "investor_responsible": "Ing. Kolařík",
-    "lat": 50.0483874916775,
-    "limitations": "<p class=\"ql-align-justify\">V&nbsp;termínu 3. etapy (zahájení prací na horkovodu) od 17.02.2025 do 28.02.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;ulici Vyskočilova ve směru na Michly, v&nbsp;úseku od křižovatky Václava Poláčka x Vyskočilova, resp. za zastávkou Vyskočilova na křižovatku Vyskočilova x Michelská x V&nbsp;Zápolí. Dojde též k&nbsp;záboru přilehlého chodníku – obchozí trasa vede po chodnících ulice Václava Poláčka – Hodonínská, resp. Želetavská – Jemnická.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">V&nbsp;termínu 4. etapy (odvodnění horkovodu a zahájení prací na vodovodu) od 01.03.2025 do 08.04.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;ulici Vyskočilova ve směru na Michli, v&nbsp;úseku od křižovatky Václava Poláčka x Vyskočilova, resp. za zastávkou Vyskočilova na křižovatku Vyskočilova x Michelská x V&nbsp;Zápolí. A k&nbsp;záboru pravého jízdního pruhu ulice Michelská za křižovatkou Vyskočilova x Michelská x V&nbsp;Zápolí ve směru na Kačerov. Dojde též k&nbsp;záboru přilehlého chodníku – obchozí trasa vede po chodnících ulice Václava Poláčka – Hodonínská, resp. Želetavská – Jemnická.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">V&nbsp;termínu 5. etapy (probíhající práce na horkovodu a vodovodu, zahájení prací na plynovodu) od 09.04.2025 do 30.04.2025 V&nbsp;termínu 4. etapy od 01.03.2025 do 08.04.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;ulici Vyskočilova ve směru na Michli, v&nbsp;úseku od křižovatky Václava Poláčka x Vyskočilova, resp. za zastávkou Vyskočilova na křižovatku Vyskočilova x Michelská x V&nbsp;Zápolí. A k&nbsp;záboru pravého jízdního pruhu v&nbsp;křižovatce Vyskočilova x Michelská x V&nbsp;Zápolí. Dojde též k&nbsp;záboru přilehlého chodníku – obchozí trasa vede po chodnících ulice Václava Poláčka – Hodonínská, resp. Želetavská – Jemnická.</p><p><br></p>",
-    "lon": 14.4595219435787,
+    "lat": 50.048387,
+    "limitations": "<p class=\"ql-align-justify\">V&nbsp;termínu 3. etapy (zahájení prací na horkovodu) od 17.02.2025 do 28.02.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;ulici Vyskočilova ve směru na Michly, v&nbsp;úseku od křižovatky Václava Poláčka x Vyskočilova, resp. za zastávkou Vyskočilova na křižovatku Vyskočilova x Michelská x V&nbsp;Zápolí. Dojde též k&nbsp;záboru přilehlého chodníku – obchozí trasa vede po chodnících ulice Václava Poláčka – Hodonínská, resp. Želetavská – Jemnická.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">V&nbsp;termínu 4. etapy (odvodnění horkovodu a zahájení prací na vodovodu) od 01.03.2025 do 08.04.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;ulici Vyskočilova ve směru na Michli, v&nbsp;úseku od křižovatky Václava Poláčka x Vyskočilova, resp. za zastávkou Vyskočilova na křižovatku Vyskočilova x Michelská x V&nbsp;Zápolí. A k&nbsp;záboru pravého jízdního pruhu ulice Michelská za křižovatkou Vyskočilova x Michelská x V&nbsp;Zápolí ve směru na Kačerov. Dojde též k&nbsp;záboru přilehlého chodníku – obchozí trasa vede po chodnících ulice Václava Poláčka – Hodonínská, resp. Želetavská – Jemnická.</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">V&nbsp;termínu 5. etapy (probíhající práce na horkovodu a vodovodu, zahájení prací na plynovodu) od 09.04.2025 do 30.04.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;ulici Vyskočilova ve směru na Michli, v&nbsp;úseku od křižovatky Václava Poláčka x Vyskočilova, resp. za zastávkou Vyskočilova na křižovatku Vyskočilova x Michelská x V&nbsp;Zápolí. A k&nbsp;záboru pravého jízdního pruhu v&nbsp;křižovatce Vyskočilova x Michelská x V&nbsp;Zápolí. Dojde též k&nbsp;záboru přilehlého chodníku – obchozí trasa vede po chodnících ulice Václava Poláčka – Hodonínská, resp. Želetavská – Jemnická.</p><p><br></p>",
+    "lon": 14.459522,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-01-30T08:45:53.133038",
+    "modified": "2025-01-31T13:37:55.300070",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "Polyfunkční objekt ORION, Vyskočilova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "383c1141a460be11eedb91d2297d7d2a0a0e8d15",
+    "sha1": "f94db4a38e47b8b7df39807572bf0d1b19dbf457",
     "start": "2025-02-17T00:00:00",
+    "state": "FUTURE",
     "street": "Vyskočilova",
     "subject": "CONSTRUCTION"
   }

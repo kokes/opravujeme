@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18",
       "19"
@@ -33,17 +36,20 @@
     "name": "Festival Prague Rocks na letišti Letňany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 00 4399",
     "severity": "GREEN",
-    "sha1": "300cde55b919ad94d6bf034f6ab89fe6d853ec15",
+    "sha1": "3eb039e479446fdbaa834bf8a40be6c14dcbf0dd",
     "start": "2022-06-22T00:00:00",
+    "state": "DONE",
     "street": "Tupolevova, Beladova a další komunikace v Letňanech a okolí",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18",
       "19"
@@ -77,17 +83,20 @@
     "name": "Koncert Guns N' Roses na letišti Letňany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "9db79cd75144ca129f80d232afa2240c90e61a39",
+    "sha1": "83cfac55283e1d0ee44f5bbfa959c89084708e58",
     "start": "2022-06-18T00:00:00",
+    "state": "DONE",
     "street": "Tupolevova, Beladova a další komunikace v Letňanech a okolí",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -120,17 +129,20 @@
     "name": "Rekonstrukce vozovky Kostelecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "917d858f5ab03359188142f2a238b2f175bb75a7",
+    "sha1": "fe0776608ee0bec0ef3fac0c6ff0ff1ec8475647",
     "start": "2022-07-02T00:00:00",
+    "state": "DONE",
     "street": "Kostelecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -163,17 +175,20 @@
     "name": "REKONSTRUKCE UL. SCHOELLEROVA ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "8639b9093361bf9c0f274f45bfa42ad1cc45b081",
+    "sha1": "6c94a9825d189ad35801779e2eafd76ed133d900",
     "start": "2022-07-25T00:00:00",
+    "state": "DONE",
     "street": "Schoellerova, U hřbitovů, Tryskovická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -206,17 +221,20 @@
     "name": "Rekonstrukce komunikace Ke Stadionu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1865b98b5dbc199a89ccb8f57836ece663a9272d",
+    "sha1": "19e555dc656edff209e3b9ad144bb21ed25f56ab",
     "start": "2022-09-26T00:00:00",
+    "state": "DONE",
     "street": "Ke Stadionu, Oderská, Dyjská, Vážská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -249,17 +267,20 @@
     "name": "Rekonstrukce komunikace NN 317 Čakovice - Miškovice",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "a619ea0096fb5ad34c0fe3c89feebc93e7b0ef88",
+    "sha1": "79ac42178bedbddd405b5fc7f6425a7cfc89163b",
     "start": "2022-10-17T00:00:00",
+    "state": "DONE",
     "street": "Čakovická, Všetatská, Přezletice",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -292,17 +313,20 @@
     "name": "Rekonstrukce komunikace Kostelecká včetně ramp",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "4e516e067ca16c0c430501be898bdaf2409ee5c9",
+    "sha1": "c5e02eddac770a289b92beada4da504f5e59a93e",
     "start": "2023-04-05T00:00:00",
+    "state": "DONE",
     "street": "Kostelecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -335,17 +359,20 @@
     "name": "Rekonstrukce komunikace Ke Stadionu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2395da717aeb5fe833c8f9143b41b498bf16f003",
+    "sha1": "0f54af035661184537178190b09eb47a5855aa64",
     "start": "2023-04-17T00:00:00",
+    "state": "DONE",
     "street": "Ke Stadionu, Cukrovarská, Jizerská, Něvská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -366,9 +393,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "733 782 615",
     "investor_responsible": "Bc. Petra Pavlasová",
-    "lat": 50.1370664498051,
+    "lat": 50.137066449805126,
     "limitations": "<p>Od 8. 8. do 3. 9. 2023 bude stavba realizována při úplné uzavírce v&nbsp;úseku Rychnovská – Toužimská, průjezd bude umožněn rezidentům.</p><p><br></p><p class=\"ql-align-justify\">Od 4. 9. do 1. 10. 2023 bude realizována 2. etapa při úplné uzavírce v úseku Rychnovská – Boletická, průjezd bude umožněn rezidentům.</p><p>  </p>",
-    "lon": 14.5165483894444,
+    "lon": 14.516548389444353,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -378,17 +405,20 @@
     "name": "Rekonstrukce komunikace Beranových",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "9d7557cb590da4f6c2b0ce04281a7109f88ec798",
+    "sha1": "76766c32cbb011e7171ca8df28cd0bf254d60f4d",
     "start": "2023-08-08T00:00:00",
+    "state": "DONE",
     "street": "Beranových v úseku Tupolevova – Veselská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -421,17 +451,20 @@
     "name": "Oprava povrchu  komunikace Kbelská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Václav Špilík",
     "responsible_email": "vaclav.spilik@praha.eu",
     "responsible_phone": "236004255",
     "severity": "GREEN",
-    "sha1": "f5839dc42ec610bbaa79ffe7d3292d6a075a7845",
+    "sha1": "3bbf9d884d266e1036077aa9828497b6c25c0533",
     "start": "2023-08-26T06:00:00",
+    "state": "DONE",
     "street": "Kbelská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -464,17 +497,20 @@
     "name": "Rekonstrukce komunikace Schoellerova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "23d8892f54458b2302e1d99cfbd31ffd7e87dd82",
+    "sha1": "362b1842f167da0ec5cbce84e6be04590dad71ac",
     "start": "2023-10-02T00:00:00",
+    "state": "DONE",
     "street": "Schoellerova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8",
       "9",
@@ -509,17 +545,20 @@
     "name": "Modernizace dopravního značení v ulici Cínovecká a Kbelská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "8a088246417d8faf77beb22bffd9dfed6a0283ba",
+    "sha1": "20c96d31e639687a9a52bb88fe6381e493767556",
     "start": "2023-10-16T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká, Kbelská, Novopacká, Prosecká, Veselská, Kostelecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "9",
       "18",
@@ -542,9 +581,9 @@
     "investor": "LIVE NATION CZECH REPUBLIC s.r.o.",
     "investor_phone": "777 868 757",
     "investor_responsible": "Miroslav Kerhart",
-    "lat": 50.1367520017534,
+    "lat": 50.13675200175344,
     "limitations": "<p>Viz přiložené situace dopravně inženýrského opatření.</p>",
-    "lon": 14.5165899636841,
+    "lon": 14.516589963684083,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -554,17 +593,20 @@
     "name": "Koncert skupiny Rammstein letiště Letňany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "656c4fb9c02e56c55a512f82a1c1aa524225a955",
+    "sha1": "46f4f1a4a869726f532404aed636520565098561",
     "start": "2024-05-11T11:00:00",
+    "state": "DONE",
     "street": "Tupolevova, Beladova, Listova, Prosecká, Ašská, Beranových, ....",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -597,17 +639,20 @@
     "name": "Rekonstrukce komunikace Beranových",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "71c9f5ea2ed72f75c88665dc0e9daa45bd88b3db",
+    "sha1": "f291f1a0e3806661a9b9085199d9334895bc8927",
     "start": "2024-06-29T00:00:00",
+    "state": "DONE",
     "street": "Beranových",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "9",
       "18"
@@ -641,17 +686,20 @@
     "name": "Oprava komunikace Kbelská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Pavla Šafránková",
     "responsible_email": null,
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "4a499b8c90c848c575a035a325658abcdfc83a3c",
+    "sha1": "5619a5e5467505e10555099198dfb1b17ebe9958",
     "start": "2024-07-20T06:00:00",
+    "state": "DONE",
     "street": "Kbelská (v úseku Veselská - Čakovická)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -684,17 +732,20 @@
     "name": "Rekonstrukce komunikace Na Zlaté",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b6370dbed1d8f6fada1da75c3190753957d2295e",
+    "sha1": "1098a48e5fa87ea46a318ce3473c2eb5d3ccc4b5",
     "start": "2024-07-08T00:00:00",
+    "state": "DONE",
     "street": "Na Zlaté",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18"
     ],
@@ -715,9 +766,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 972 531",
     "investor_responsible": "Peter Urbánek",
-    "lat": 50.132308742135,
+    "lat": 50.13230874213496,
     "limitations": "<p>Realizace při úplné uzavírce.</p>",
-    "lon": 14.5135976912907,
+    "lon": 14.513597691290698,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -727,13 +778,13 @@
     "name": "Rekonstrukce BUS zastávek Boletická v ulici Beranových",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0f2a5e4424d14e40ce02150041c8bf3124964805",
+    "sha1": "958f61549aef254dafd0b1bcc25aa360075f8c18",
     "start": "2024-07-20T00:00:00",
+    "state": "DONE",
     "street": "Beranových",
     "subject": "CONSTRUCTION"
   }

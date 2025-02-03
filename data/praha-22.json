@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "22"
     ],
@@ -32,17 +35,20 @@
     "name": "Výstavba kanalizace, zkapacitnění ČSOV - Přátelství",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Monika Vochozková",
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "YELLOW",
-    "sha1": "4c82e54bca3e7fa5cd90862e004e2e2421bbb404",
+    "sha1": "3715c85ec488ff9708be86faff9cd290e5266697",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Přátelství (nám. Bratří Jandusů - nám. Protifašistických bojovníků)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "22"
     ],
@@ -75,13 +81,13 @@
     "name": "Přechod pro chodce, Podleská ul.",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Vochozková",
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "GREEN",
-    "sha1": "10dd22f119b348d9a0443415ae4cc0be3cf13e55",
+    "sha1": "68b71a0d3e083248b9234a8e05e03fff0c095749",
     "start": "2024-09-02T00:00:00",
+    "state": "DONE",
     "street": "Podleská x Na Vrchách",
     "subject": "CONSTRUCTION"
   }

@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "21"
     ],
@@ -32,17 +35,20 @@
     "name": "Rekonstrukce cyklostezky Staroklánovická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dcfbc43a820d4b64a777e13cc1a897cbbb7e6997",
+    "sha1": "bb027efde8f2e98c526871034d8261e299615869",
     "start": "2022-08-15T00:00:00",
+    "state": "DONE",
     "street": "Staroklánovická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3",
       "9",
@@ -78,17 +84,20 @@
     "name": "Silniční běh Běchovice – Praha 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "d3f688c08968068057cc7234e1583f292fb0a185",
+    "sha1": "d828731755491858ebc45e5bfe14c7c8baea4690",
     "start": "2024-09-29T10:00:00",
+    "state": "DONE",
     "street": "Českobrodská, Hartigova",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "21"
     ],
@@ -121,17 +130,20 @@
     "name": "Rekonstrukce křižovatky V Lipách x K Běchovicům",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a966c75bbca894b115fdc4baf8959d0fde86737d",
+    "sha1": "092bea896327c90df92441dfb9552b946fc211b2",
     "start": "2024-07-29T00:00:00",
+    "state": "DONE",
     "street": "V Lipách, K Běchovicům",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "21"
     ],
@@ -164,17 +176,20 @@
     "name": "Rekonstrukce přechodu pro chodce v křižovatce V Lipách - K Běchovicům",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1f40be4f63ff784a112a5c0ca17f7aadb931d032",
+    "sha1": "4e061aa1b92cb1af8b67dd4e5a950a0c01cc50ab",
     "start": "2024-08-01T00:00:00",
+    "state": "DONE",
     "street": "V Lipách, K Běchovicům",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "21"
     ],
@@ -195,9 +210,9 @@
     "investor": "PREdistribuce a.s.",
     "investor_phone": "705869178",
     "investor_responsible": "p. Choc",
-    "lat": 50.0812571573011,
+    "lat": 50.08125715730111,
     "limitations": "<p>Zábor pravého, odbočovacího jízdního pruhu. Zůstane zachován směr přímo a levé odbočení.</p>",
-    "lon": 14.5969290607953,
+    "lon": 14.596929060795304,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -207,13 +222,13 @@
     "name": "Přeložka vysokého napětí VN 22kV",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Pavla Šafránková",
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "62f052015038251c2fe5aac667ee87360f8eb337",
+    "sha1": "f69a975e8868f721de38067ed163fcd8d108fa55",
     "start": "2025-02-05T00:00:00",
+    "state": "FUTURE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   }

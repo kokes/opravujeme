@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -32,17 +35,20 @@
     "name": "Rekonstrukce komunikace a chodníků\t \t",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jiří Tumpach",
     "responsible_email": "jiri.tumpach@praha.eu",
     "responsible_phone": "236 00 4389",
     "severity": "RED",
-    "sha1": "ef24f96f784aae86a8ce61969ef6ec448d3c4b8e",
+    "sha1": "a87ddcbd6c34b2b8ec40165c6403565ece552459",
     "start": "2020-07-01T07:57:00",
+    "state": "DONE",
     "street": "Prosecká v úseku U Pekařky -   Na rozhraní\t \t",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -75,17 +81,20 @@
     "name": "Oprava vodovodních armatur",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jiří Tumpach",
     "responsible_email": "jiri.tumpach@praha.eu",
     "responsible_phone": "236 004 389",
     "severity": "YELLOW",
-    "sha1": "c153cb8771fc945c38331b226d5cb4f30b582d07",
+    "sha1": "be221c3aa99276e307e501d49ec6786b9263c57d",
     "start": "2020-08-10T07:00:00",
+    "state": "DONE",
     "street": "Voctářova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "8"
@@ -119,17 +128,20 @@
     "name": "Úplná noční úzávěra tunelu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "c1f2200024b7c0d0e11bb1a05568d0b504c21276",
+    "sha1": "f3a6e439364b8ab0bf53dd659ae24aef2b6aac16",
     "start": "2023-08-24T23:00:00",
+    "state": "DONE",
     "street": "Těšnovský tunel",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -162,17 +174,20 @@
     "name": "Oprava mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "29d4ba4c907ce31513f75e23d6ad8f5c64cc6505",
+    "sha1": "58001a3e79f84d9a7fc266fabe8531f453b73d3c",
     "start": "2020-11-16T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "8"
@@ -206,17 +221,20 @@
     "name": "Částečná noční uzávěra tunelu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "e9f7cf03b1b5eee86293702e523cf9dd23d54f5f",
+    "sha1": "f2b56e0754c577547508301a200dce232e47eb74",
     "start": "2022-11-09T23:00:00",
+    "state": "DONE",
     "street": "Těšnovský tunel",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -249,17 +267,20 @@
     "name": "Obnova SSZ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "afbe334b093217209cb9020e621963a631982fc3",
+    "sha1": "7387de0a01072b3224b6a9ebe7c2cba1e0c33670",
     "start": "2021-05-24T00:00:00",
+    "state": "DONE",
     "street": "Ke Štvanici",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -292,17 +313,20 @@
     "name": "80. výročí operace Anthropoid",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "cf9f1567b56d066ac4824c85c715d10d3151abed",
+    "sha1": "18fcdca1346e8635840087f63a16ab53708434ec",
     "start": "2022-05-26T15:00:00",
+    "state": "DONE",
     "street": "Zenklova - V Holešovičkách",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -320,6 +344,7 @@
     "hidden": false,
     "id": 919,
     "internal_id": null,
+    "investor": null,
     "investor_phone": null,
     "investor_responsible": null,
     "lat": 50.1461,
@@ -334,17 +359,20 @@
     "name": "Realizace nového přechodu pro chodce.",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "53a56c597bee6ef6a7d6bf530dd45a8335ce0c03",
+    "sha1": "8c6b50c79c3bee95b30d0101a3cf38140eb5a7be",
     "start": "2022-06-13T00:00:00",
+    "state": "DONE",
     "street": "K Ďáblicům – Ládevská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -377,17 +405,20 @@
     "name": "BESIP U Parkánu ZŠ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "a45c83d07788c2c9b12391d748fb749d4baf216e",
+    "sha1": "e6a7f5c50299e140a7d19cd2c1aa9634469ab767",
     "start": "2022-07-04T00:00:00",
+    "state": "DONE",
     "street": "U Parkánu",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "7",
@@ -422,17 +453,20 @@
     "name": "Birell Grand Prix Praha 2022",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "0dd9633e9b1645e950572e416fb7fedc5778d998",
+    "sha1": "afb93086d3b7d4b5437a3635e757079055f87562",
     "start": "2022-09-03T18:00:00",
+    "state": "DONE",
     "street": "více komunikací na území MČ Praha 1, 7, 8",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -465,17 +499,20 @@
     "name": "Rekonstrukce chodníků v ulici Bedřichovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0787e5b90b1b648d7a3fe25dc174ff549014e16a",
+    "sha1": "2855d1f1233e3e87e44317280a6524920af63a0c",
     "start": "2022-09-06T00:00:00",
+    "state": "DONE",
     "street": "Bedřichovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -508,17 +545,20 @@
     "name": "Rekonstrukce komunikace U Dětského domova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6d1332e49dceb454d4689bc4afd541ff42ff1e19",
+    "sha1": "432ac728cf807f2a0236d6aae22374d589f3dd3a",
     "start": "2022-10-03T00:00:00",
+    "state": "DONE",
     "street": "U Dětského domova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8",
       "9"
@@ -552,17 +592,20 @@
     "name": "Rekonstrukce komunikace Prosecká v úseku mezi ul. Na Vyhlídce a Na Rozhraní",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Václav Špilík",
     "responsible_email": "vaclav.spilik@praha.eu",
     "responsible_phone": "236004255",
     "severity": "YELLOW",
-    "sha1": "c823b823248e60d87e8ad3256082911df30ce044",
+    "sha1": "abd4bc4ea38fcc1d6998002bfe42a7e8d3b99cfd",
     "start": "2022-10-17T00:00:00",
+    "state": "DONE",
     "street": "Prosecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -595,17 +638,20 @@
     "name": "Výměna zastávkových přístřešků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "255f613d1531cfd9e33f4eb14a0028b088ebdb9f",
+    "sha1": "b2a579eb1cbd9a8b11e23104573de72899f18bb2",
     "start": "2023-05-17T00:00:00",
+    "state": "DONE",
     "street": "Střelničná",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -638,17 +684,20 @@
     "name": "Údržba mostu a oprava odvodňovacího systému mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "7d895d5a08819056809628425bc458c95740f4bc",
+    "sha1": "cc223df036be2dfc8a75a5f1ca8d1ae5df8f2015",
     "start": "2023-03-27T00:00:00",
+    "state": "DONE",
     "street": "most Barikádníků",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -685,17 +734,20 @@
     "name": "1/2Maraton Praha 2023",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "YELLOW",
-    "sha1": "69b95e766f94046c1ac99fdff328807bbc1b209b",
+    "sha1": "e4cb4924b7cc9408eb90c6946ba15d61f8fff635",
     "start": "2023-04-01T10:00:00",
+    "state": "DONE",
     "street": "nábřežní komunikace v centrální části Prahy a dále v Praze 7 a 8",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -728,17 +780,20 @@
     "name": "Výměna zastávkových přístřešků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "ef235dfdd4ed4f78bea451006e44d6a6844c51ba",
+    "sha1": "3de1965a2306c02413c8fae5c768730cb39a48d8",
     "start": "2023-05-04T00:00:00",
+    "state": "DONE",
     "street": "Zenklova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -771,17 +826,20 @@
     "name": "Výměna zastávkových přístřešků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "a9d6186160f9e5fca37078811adcc50b5c405724",
+    "sha1": "46f58f87027f7bcddcea98f5570a00d5ac2499b2",
     "start": "2023-05-08T00:00:00",
+    "state": "DONE",
     "street": "Zenklova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -814,17 +872,20 @@
     "name": "Výměna zastávkového přístřešku",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "8db76dab83aea5912c85dba306999270a1407545",
+    "sha1": "be449282ec135bc4572b6e5486c4679b1ce1e304",
     "start": "2023-05-05T00:00:00",
+    "state": "DONE",
     "street": "Horňátecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -857,17 +918,20 @@
     "name": "Rekonstrukce stropní desky metra C - Florenc - pokračování",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "344cd9e9e95e367aece7530b178ac514b853843f",
+    "sha1": "64ca3254acfcad05e1358ae733957b11c9e3efcd",
     "start": "2023-04-15T00:00:00",
+    "state": "DONE",
     "street": "Křižíkova, Ke Štvanici, Na Florenci, Těšnov",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -905,17 +969,20 @@
     "name": "Prague International Marathon",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236004399",
     "severity": "GREEN",
-    "sha1": "e3f092732508b3fa4e4847bff74ebef8e2bd651b",
+    "sha1": "ad3789711211e42e73baa13cf6f55b5fd8e8399f",
     "start": "2023-05-07T09:00:00",
+    "state": "DONE",
     "street": "komunikace v centrální části Prahy",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -948,17 +1015,20 @@
     "name": "Uzavření podchodu pro pěší Povltavská – Kandertova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7b0a7b181fc69804364d3dac8face2fd2e1ac518",
+    "sha1": "4175a4661d3c963b9b8d9f3f88af15c99e91e693",
     "start": "2023-05-22T00:00:00",
+    "state": "DONE",
     "street": "Povltavská, Na Košince",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -991,17 +1061,20 @@
     "name": "Souvislá údržba komunikace Cínovecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "b834d2026b49bb2bdf11b9d101adf74c7edf435b",
+    "sha1": "27557cdb2963beced855b02d5a7fb4d0e5410fc9",
     "start": "2023-07-28T22:00:00",
+    "state": "DONE",
     "street": "Cínovecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1034,17 +1107,20 @@
     "name": "Negrelliho viadukt - pilotní oblouk (036)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "David Řehoř",
     "responsible_email": null,
     "responsible_phone": "602257633",
     "severity": "GREEN",
-    "sha1": "1821cae8117d8acdc59bbac7ba3464bded3738b3",
+    "sha1": "27e0aa106a2d2aa594a64089b246715d101f0ec3",
     "start": "2023-07-01T00:00:00",
+    "state": "DONE",
     "street": "jižně od křižovatky ulic Sokolovská a Prvního pluku",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1077,17 +1153,20 @@
     "name": "Oprava dilatací ul. V Holešovičkách, Most Barikádníků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "b6fe7dffff386398078fda5e3fbd13c2173fb13b",
+    "sha1": "28e53fcc904ea08d5585a1b70adfd96c2003215f",
     "start": "2023-08-19T00:00:00",
+    "state": "DONE",
     "street": "V Holešovičkách, Most Barikádníků",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1108,9 +1187,9 @@
     "investor": "HLAVNÍ MĚSTO PRAHA, Magistrát hl. m. Prahy",
     "investor_phone": null,
     "investor_responsible": "Správa služeb",
-    "lat": 50.1073892040687,
+    "lat": 50.10738920406866,
     "limitations": "<p>Kompletní uzavření průjezdní mostní komunikace s udanou objízdnou trasou</p>",
-    "lon": 14.4662784280872,
+    "lon": 14.466278428087236,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1120,17 +1199,20 @@
     "name": "Lávka Libeň",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "dd6f92ca1ebb17b24dab920a8bab90e0009ae93a",
+    "sha1": "b53de4e08d6d64c8d6805e6e2a9847abf4653cf9",
     "start": "2023-08-07T00:00:00",
+    "state": "DONE",
     "street": "Propojka mezi ulicemi Menclova a U Českých loděnic",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1163,17 +1245,20 @@
     "name": "Oprava přípojky uliční vpusti - ul. Zenklova, Praha 8",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "557c84eec48c72cf633367e34eb301a4a8e2c03f",
+    "sha1": "e4db08cc1d3e738bf1db928b56e35f12f52946a1",
     "start": "2023-09-06T00:00:00",
+    "state": "DONE",
     "street": "Zenklova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1206,17 +1291,20 @@
     "name": "Zažít město jinak 2023 - ul. Ke Štvanici",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "d5db6464149eec72b321d96356a4688713b91b11",
+    "sha1": "84ddbc5d9281f7b68e6171b0f9e4cf8fbd8e5fde",
     "start": "2023-09-16T08:00:00",
+    "state": "DONE",
     "street": "Ke Štvanici",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "7",
@@ -1251,17 +1339,20 @@
     "name": "Birell Grand Prix Praha 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": null,
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "c829a179491ba762a0884f42036722c2f1ce2d71",
+    "sha1": "5539166527f676bce431e6906b161c86704fa673",
     "start": "2024-09-07T18:00:00",
+    "state": "DONE",
     "street": "více komunikací na území MČ Praha 1, 7, 8",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1294,17 +1385,20 @@
     "name": "Rekonstrukce křižovatky Náhorní – U Školské zahrady",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1bb28bf29227b37402ef04424458afbf55e2a180",
+    "sha1": "7f0855417813f2e0ace76f5206d4c2589876b0e7",
     "start": "2023-09-11T00:00:00",
+    "state": "DONE",
     "street": "Náhorní, U Školské zahrady",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1337,17 +1431,20 @@
     "name": "Rekonstrukce komunikace Náměstí Na Stráži",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "cfeda7480120cec8c5fb4fef6f8af0478b83c6be",
+    "sha1": "10800507658e8b0796f6da63b890f16ed3bf0eae",
     "start": "2023-09-18T00:00:00",
+    "state": "DONE",
     "street": "Náměstí Na Stráži",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1380,17 +1477,20 @@
     "name": "Most Barikádníků – most X543..1 a X543..2 – výměna dilatací",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "RED",
-    "sha1": "278a0afc1e9a1bf32b0a8902b0d104665455e60e",
+    "sha1": "1534950a753709a13841eec64f088f97bf73a480",
     "start": "2023-10-02T00:00:00",
+    "state": "DONE",
     "street": "Most Barikádníků, V Holešovičkách",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "7",
       "8"
@@ -1424,17 +1524,20 @@
     "name": "Hlávkův most - oprava povrchu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "65ea3c474cb4a5ed803485dd4e766cea4bc01dc2",
+    "sha1": "5e91c4ce1473942c5a9806d455bf81adb0aabfcd",
     "start": "2023-10-22T00:00:00",
+    "state": "DONE",
     "street": "Hlávkův most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "3",
       "8"
@@ -1468,17 +1571,20 @@
     "name": "Oprava chodníku ul. Trocnovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "2e7201436f4e76052b510d02a7a743ffa56e86a4",
+    "sha1": "33947e9736debf0c4591deaee7bd5baf6e2abe53",
     "start": "2023-11-06T00:00:00",
+    "state": "DONE",
     "street": "Trocnovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8",
       "9",
@@ -1513,17 +1619,20 @@
     "name": "Modernizace dopravního značení v ulici Cínovecká a Kbelská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "8a088246417d8faf77beb22bffd9dfed6a0283ba",
+    "sha1": "20c96d31e639687a9a52bb88fe6381e493767556",
     "start": "2023-10-16T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká, Kbelská, Novopacká, Prosecká, Veselská, Kostelecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1556,17 +1665,20 @@
     "name": "Rekonstrukce vozovky v ulici Čimická a křižovatky Čimická x K Pazderkám",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "50ee5980eeb03357187a1d98f42dd1234ff96c81",
+    "sha1": "722953604b670764cbebfb7f310a8e758f23c73a",
     "start": "2023-10-23T00:00:00",
+    "state": "DONE",
     "street": "Čimická, K Pazderkám, Velká Skála",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1587,9 +1699,9 @@
     "investor": "Dopravní podnik hl. m. Prahy, a.s.",
     "investor_phone": "601 395 106",
     "investor_responsible": "p. Kostar ",
-    "lat": 50.0898572691818,
+    "lat": 50.08985726918183,
     "limitations": "<p class=\"ql-align-justify\">Ulice Křižíkova v&nbsp;úseku od křižovatky Křižíkova x Prvního pluku po křižovatku Křižíkova x Na Florenci a Křižíkova x Ke Štvanici&nbsp;průjezd umožněn pouze ve směru od ul. Ke Štvanici na ul. Na Florenci.</p><p><br></p>",
-    "lon": 14.4393745305634,
+    "lon": 14.439374530563356,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1599,17 +1711,20 @@
     "name": "Rekonstrukce stropní desky metra C - Florenc - 2b. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "52a389b1fca12bb01d37095f7e8fcb5259427981",
+    "sha1": "28420532863cab9a1ad9a79e897e7fba68e08ecf",
     "start": "2023-10-23T00:00:00",
+    "state": "DONE",
     "street": "Křižíkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "7",
       "8"
@@ -1643,17 +1758,20 @@
     "name": "Most Barikádníků - rekonstrukce mostu a mostových říms",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "24c5fc093184371642eb28227cfa8dec070a9222",
+    "sha1": "67f61ac617d976707b2938d4afc7d2ef647ea49a",
     "start": "2024-01-08T00:00:00",
+    "state": "DONE",
     "street": "Most Barikádníků ",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1674,9 +1792,9 @@
     "investor": "Rohan B Three s.r.o.",
     "investor_phone": "605205652",
     "investor_responsible": "Ing. Martin Mareš",
-    "lat": 50.0972048046116,
+    "lat": 50.09720480461156,
     "limitations": "<p class=\"ql-align-justify\">1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Střídavý zábor pravých nebo levých jízdních pruhů před, v&nbsp;prostoru křižovatky a za křižovatkou Rohanské nábřeží x Za Invalidovnou, dle technologického postupu prací (broušení VDZ, penetrace povrchu vozovky, provádění přechodného DZ). Průjezd umožněn jedním jízdním pruhem v&nbsp;šíři min. 3,5 m, dle situací DIO Etapa č.1 a 2 v&nbsp;termínu od 28.10.2023 (cca od 9:00 hod.) do 29.10.2023 (cca do 17:00 hod.).</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provoz v&nbsp;křižovatce </span>Rohanské nábřeží x Za Invalidovnou<span style=\"color: black;\"> bez omezení, vyznačený přechodnou úpravou provozu dle DIO Etapa č.3 v&nbsp;termínu od 29.10.2023 (cca od 17:05 hod.) do 04.11.2023 (cca do 8:55 hod.).</span></p><p>&nbsp;</p><p class=\"ql-align-justify\">3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Střídavý zábor pravých nebo levých jízdních pruhů před, v&nbsp;a za křižovatkou Rohanské nábřeží x Za Invalidovnou, dle technologického postupu prací (rušení přechodné úpravy, provádění definitivního DZ, realizace úprav SSZ). Průjezd umožněn jedním jízdním pruhem v&nbsp;šíři min. 3,5 m, dle situací DIO Etapa č.1 a 2 v&nbsp;termínu od 04.11.2023 (cca od 9:00 hod.) do 05.11.2023 (cca do 17:00 hod.).</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zábor pravých jízdních pruhů před, v&nbsp;a za křižovatkou Rohanské nábřeží x Za Invalidovnou, pro dokončení realizace dopravního značení a nového uspořádání 4. ramene křižovatky včetně SSZ. Průjezd umožněn jedním jízdním pruhem v&nbsp;šíři min. 3,5m, dle DIO Etapa&nbsp;4 v&nbsp;termínu od 05.11.2023 (cca od 17:05 hod.) do 07.11.2023 (cca do 8:30 hod.)</p><p class=\"ql-align-justify\"><br></p><p><br></p>",
-    "lon": 14.4619158151245,
+    "lon": 14.461915815124513,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1686,17 +1804,20 @@
     "name": "Rohanské nábřeží - realizace nového dopravního značení",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "fcc4f5905d4700c3878816d9af1f5809d482ad8e",
+    "sha1": "96d22bbab0ef7ae731c2b10fe9dab285dd4d2147",
     "start": "2023-10-28T09:00:00",
+    "state": "DONE",
     "street": "Rohanské nábřeží ",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1719,7 +1840,7 @@
     "investor_responsible": "Jan Dvořák",
     "lat": 50.1311603319265,
     "limitations": "<p><span style=\"color: black;\">Zábor části pravého jízdního pruhu u zastávek ve směru z&nbsp;centra – Sídliště Kobylisy a Mirovická, v&nbsp;opačném směru zastávky Sídliště Kobylisy a Kobylisy. Předmětné zastávky budou posunuty, průjezd bude umožněn levým jízdním pruhem.</span></p>",
-    "lon": 14.4526487829781,
+    "lon": 14.45264878297806,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1729,17 +1850,20 @@
     "name": "Oprava povrchu zastávek BUS MHD ul. Horňátecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "61a8e40a969fd87364a2a348e29588c57f94e33b",
+    "sha1": "c128b655cffd7f49392c24178eac9a3b9eeacde5",
     "start": "2023-11-13T00:00:00",
+    "state": "DONE",
     "street": "Horňátecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1760,9 +1884,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "602181525",
     "investor_responsible": "Ing. Pavel Novák",
-    "lat": 50.1175070506273,
+    "lat": 50.11750705062733,
     "limitations": "<p class=\"ql-align-justify\">1.Etapa v&nbsp;termínu od 13.11.2023 do 19.11.2023</p><p class=\"ql-align-justify\">– zábor pravého jízdního pruhu, průjezd umožněn levým jízdním pruhem</p><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">2.Etapa v&nbsp;termínu od 20.11.2023 do 26.11.2023</p><p class=\"ql-align-justify\">– zábor levého jízdního pruhu, průjezd umožněn pravým jízdním pruhem</p><p><br></p>",
-    "lon": 14.4673204662895,
+    "lon": 14.467320466289522,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1772,17 +1896,20 @@
     "name": "Oprava svodidel a výměna dilatace - sjízdná rampa z ul. V Holešovičkách na ul. Zenklova ve směru z centra",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "6b019299873a0507282a25836bcf792172105cf9",
+    "sha1": "613cf7dc3249ebcfdefa13d358a329dba62441ec",
     "start": "2023-11-13T00:00:00",
+    "state": "DONE",
     "street": "NN2182 ve směru z centra (sjízdná rampa z ul. V Holešovičkách do ul. Zenklova ve směru na Prahu 8)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1803,9 +1930,9 @@
     "investor": "Dopravní podnik hl. m. Prahy, a.s.",
     "investor_phone": "602 769 775",
     "investor_responsible": "Ing. Beneš",
-    "lat": 50.1160502958969,
+    "lat": 50.11605029589694,
     "limitations": null,
-    "lon": 14.4681868198013,
+    "lon": 14.468186819801332,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1815,17 +1942,20 @@
     "name": "Oprava tramvajové trati ulice Zenklova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Bc. Eva Vainerová",
     "responsible_email": null,
     "responsible_phone": "02364207",
     "severity": "GREEN",
-    "sha1": "fbd5b25705cced4b20d8a1a79b4b47113ecfecc4",
+    "sha1": "e8de2f60750b8142e7afb083682cae344df22eee",
     "start": "2023-11-17T00:00:00",
+    "state": "DONE",
     "street": "Zenklova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1858,17 +1988,20 @@
     "name": "Rekonstrukce stropní desky metra C Florenc - pokračování stavebních prací",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "d02ffa3fa3d196038221e7f5f37baa96684fe4c3",
+    "sha1": "a80b9ba1c086ea3043ce4385313c66fd6ae3889a",
     "start": "2023-11-25T00:00:00",
+    "state": "DONE",
     "street": "Křižíkova, Ke Štvanici, Na Florenci",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "7",
       "8"
@@ -1890,9 +2023,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": null,
-    "lat": 50.1134844162423,
+    "lat": 50.11348441624227,
     "limitations": "<p>Noční uzavírka pravého jízdního pruhu.</p><p>\tv termínu 23.1. - 24.1.2024 22:00 - 5:00 hod. - jízdní směr ve směru do centra</p><p>\tv termínu 24.1. - 25.1.2024 22:00 - 5:00 hod. - jízdní směr ve směru z centra</p>",
-    "lon": 14.4453313791165,
+    "lon": 14.445331379116496,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1902,17 +2035,20 @@
     "name": "Kontrola mostu - most Barikádníků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "e3880f606b2e665cc5755cabbe515e810af1e119",
+    "sha1": "d3742c2903b734c7df1e4e6f12edfad5c27f8779",
     "start": "2024-01-23T22:00:00",
+    "state": "DONE",
     "street": "most Barikádníků",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -1933,9 +2069,9 @@
     "investor": "Diamond Point, a.s.",
     "investor_phone": "602 367 335",
     "investor_responsible": "Kristýna Gellerová",
-    "lat": 50.0933608247299,
+    "lat": 50.09336082472986,
     "limitations": "<p>Uzavírka levého  a následně pravého jízdního pruhu ve směru do centra cca 60 m. od hranice křižovatky ul. Ke Štvanici x Těšnovská tunel.</p>",
-    "lon": 14.4382962825394,
+    "lon": 14.438296282539369,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1945,17 +2081,20 @@
     "name": "Výměna reklamního banneru - ul. Ke Štvanici",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "4e5c087675c05931c08f4f149733bcf9c875ca5f",
+    "sha1": "057916f7604fbf9773d071d9bf0bbc774b7ebddc",
     "start": "2024-02-25T00:00:00",
+    "state": "DONE",
     "street": "Ke Štvanici",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -1992,17 +2131,20 @@
     "name": "1/2Maraton Praha 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "YELLOW",
-    "sha1": "0fdd1149aff9fccccdfd452f486009d36159d528",
+    "sha1": "fcc31b1929f708d2086ddfc7d81910d8b61d77b4",
     "start": "2024-04-06T10:00:00",
+    "state": "DONE",
     "street": "nábřežní komunikace v centrální části Prahy a dále v Praze 7 a 8",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2035,18 +2177,20 @@
     "name": "Ďáblická, rekonstrukce ulice v úseku U Parkánu - K Lomu ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "c69a4a5ba045b00963fac9832072fc071bf205c7",
+    "sha1": "2b960fc59683b37ee2211618863b3b87ffbc188e",
     "start": "2024-04-15T00:00:00",
     "state": "ACTIVE",
     "street": "Ďáblická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "7",
       "8"
@@ -2080,18 +2224,20 @@
     "name": "Rekonstrukce Libeňského soumostí - 1. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "814b6f6d98bf38dcc73704b43efdd10e38d32948",
+    "sha1": "d2b0032965c773251dbe3ae8937c6a9488afc1fb",
     "start": "2024-04-04T00:00:00",
     "state": "ACTIVE",
     "street": "Libeňský most",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2124,17 +2270,20 @@
     "name": "Osazení zastávkového přístřešku - zastávka Třebenická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "5e21060f1515abd39076197ce5cd3cd6b8221b49",
+    "sha1": "2fe765668cdf12821dc0636f284e0455c4ec8578",
     "start": "2024-04-22T00:00:00",
+    "state": "DONE",
     "street": "Vysočanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2167,17 +2316,20 @@
     "name": "Libeňský most - demoliční práce",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "YELLOW",
-    "sha1": "e99e4414883a336f83b93f58f5ed8f851c134907",
+    "sha1": "fddaef4ac6d6e1ea456d9c3cf9a46be6c27406b4",
     "start": "2024-04-21T00:00:00",
+    "state": "DONE",
     "street": "Štorchova.",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8",
       "9"
@@ -2211,17 +2363,20 @@
     "name": "Rekonstrukce křižovatky Sokolovská – Českomoravská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "RED",
-    "sha1": "42428e784b2c4da0fd879d84476c29966725c292",
+    "sha1": "b85feefe92155d171395d043c29a971fa84f1668",
     "start": "2024-07-08T00:00:00",
+    "state": "DONE",
     "street": "Sokolovská, Českomorovská, Praha 8 a Praha 9",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "8"
@@ -2255,17 +2410,20 @@
     "name": "Rekonstrukce postřikového systému SAP Bulhar",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "e41e7420ef1ac57cff322ae7a797d6e28db2d3b6",
+    "sha1": "dbb2c775cdd71a428e7dd828ba6cc743664a9931",
     "start": "2024-07-01T08:00:00",
+    "state": "DONE",
     "street": "Wilsonova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2286,9 +2444,9 @@
     "investor": "MIA FILM s.r.o.",
     "investor_phone": "603 835 530",
     "investor_responsible": "p. Jurkovič",
-    "lat": 50.1151386526434,
+    "lat": 50.11513865264344,
     "limitations": "<p>Zábor vozovky v&nbsp;zálivu nevyužívané autobusové zastávky a části chodníku.</p>",
-    "lon": 14.4456947468479,
+    "lon": 14.445694746847948,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2298,17 +2456,20 @@
     "name": "Natáčení - Povltavská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "64bc3d9511dc74393ac50c64d179ee805c9038f0",
+    "sha1": "b4b839d7f7c54f469ef563bc3be2a1b26c991f49",
     "start": "2024-07-03T00:00:00",
+    "state": "DONE",
     "street": "Povltavská",
     "subject": "OTHERS"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "2",
@@ -2332,9 +2493,9 @@
     "investor": "Pražská plynárenská distribuce, a.s.",
     "investor_phone": "724 851 865",
     "investor_responsible": "p. Petrlík",
-    "lat": 50.0866689039685,
+    "lat": 50.086668903968544,
     "limitations": "<p>Zábor v prostoru vozovky a chodníků. V ul. Hybernská zachován obousměrný provoz 1+1. V&nbsp;prostoru MUK Bulhar doprava vedena jedním jízdním pruhem v&nbsp;každém směru. Průchod pro pěší zachován.</p>",
-    "lon": 14.4369821315292,
+    "lon": 14.436982131529192,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2344,17 +2505,20 @@
     "name": "Úprava STL plynovodu - Seifertova, Hybernská ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "1d6e5a407375c3ee87304f6737ab6869b0ab8224",
+    "sha1": "27001d692787bf76e98d529a30dbcf75565d7e5c",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Hybernská, Seifertova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2387,17 +2551,20 @@
     "name": "Rekonstrukce ulic Liberecká, Cínovecká, Kbelská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "6533297162de6715380fd7c29290f97281b115ec",
+    "sha1": "65009273f1e3506845a5238c9cb625e8bff459ac",
     "start": "2024-07-12T00:00:00",
+    "state": "DONE",
     "street": "Liberecká, Cínovecká, Kbelská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2430,17 +2597,20 @@
     "name": "Rekonstrukce komunikace Cínovecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "68c4a534c44d742a57ba008ff38598e491bdd097",
+    "sha1": "280a33ff3f17f7af0225896eb6601c619c8b42c7",
     "start": "2024-07-08T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2473,17 +2643,20 @@
     "name": "Rekonstrukce chodníku v ulici Štěpničná",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5674ab34da443eae9aa37f8bfc91e519819c2196",
+    "sha1": "f0b3a48fffcd4809801377061eb8fa3e0cbcc71a",
     "start": "2024-07-15T00:00:00",
+    "state": "DONE",
     "street": "Štěpničná",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2516,17 +2689,20 @@
     "name": "Stavební úpravy objektu Primátorská 172/3",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "a7e483ff3650e9a78ce5feb4dc301dc3195a6d8e",
+    "sha1": "4dc518217a73b4df41a0acfb0b590b430361eb88",
     "start": "2024-08-01T00:00:00",
+    "state": "DONE",
     "street": "Primátorská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2547,9 +2723,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "607023224",
     "investor_responsible": "Jan Dvořák",
-    "lat": 50.1159556999013,
+    "lat": 50.11595569990126,
     "limitations": "<p>Zábor levého jízdního pruhu komunikace Most Barikádníků v úseku U Hercovky - Povltavská ve směru do centra.</p>",
-    "lon": 14.4471073391533,
+    "lon": 14.447107339153291,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2559,17 +2735,20 @@
     "name": "Výměna asfaltových vrstev - Most Barikádníků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "7d3cb79a19ab817011200be240f1de88a4fc9559",
+    "sha1": "4045c3d49021ebea1687795bdbba8afeab6b17ee",
     "start": "2024-07-27T05:00:00",
+    "state": "DONE",
     "street": "Most Barikádníků",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2602,17 +2781,20 @@
     "name": "Red Bull Showrun",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "RED",
-    "sha1": "48bf28158abc967c7fe91b2a5ada8ccef7b87eee",
+    "sha1": "5716f7e2391f5f90a1f25d9cc28c3a57f9b39aca",
     "start": "2024-08-16T15:00:00",
+    "state": "DONE",
     "street": "Rohanské nábřeží",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2645,17 +2827,20 @@
     "name": "Most Barikádníků - rekonstrukce mostu a sjízdné rampy",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "28d42cf4dcd0e8bde09ce412c452b70748982eab",
+    "sha1": "786988a3e61845575f9a9655d0706e32fd64eebb",
     "start": "2024-07-15T00:00:00",
+    "state": "DONE",
     "street": "Mostu Barikádníků, Povltavská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2676,9 +2861,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "702 189 739",
     "investor_responsible": "p. Černohorský",
-    "lat": 50.1144423201823,
+    "lat": 50.11444232018234,
     "limitations": "<p>V první etapě zábor chodníku v celé šíři a pravého jízdního pruhu na sjízdné rampě k ul. Povltavská ve směru z centra. Ve druhé etapě zábor levého jízdního pruhu na sjízdné rampě k ul. Povltavská ve směru z centra.</p>",
-    "lon": 14.446310784926,
+    "lon": 14.446310784925998,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2688,17 +2873,20 @@
     "name": "Rekonstrukce mostu a mostových říms - most Barikádníků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "8924686e1c0d51ec65721194db617461d4ed600a",
+    "sha1": "e6171c2eeddda27e16904b47e3cc07c080c0e200",
     "start": "2024-07-15T00:00:00",
+    "state": "DONE",
     "street": "most Barikádníků",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8",
       "9"
@@ -2720,9 +2908,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "607023224",
     "investor_responsible": "Jan Dvořák",
-    "lat": 50.1406578232133,
+    "lat": 50.14065782321332,
     "limitations": "<p><strong>1. etapa: od 27.07.2024 (od 05:00 hod.) – 28.07.2024&nbsp;</strong></p><p class=\"ql-align-justify\">Dopravní omezení na ul. Cínovecká: zábor levého a prostřední jízdního pruhu ve směru z&nbsp;centra před ČS PHM Moll (sjezd Kostelecká)</p><p class=\"ql-align-justify\"><br></p><p><strong>2. etapa:&nbsp;od 10.08.2024 (od 05:00 hod.) – 11.08.2024&nbsp;</strong></p><p class=\"ql-align-justify\">Dopravní omezení na ul. Cínovecká: zábor pravého a odstavného jízdního pruhu ve směru z&nbsp;centra před ČS PHM Moll (sjezd Kostelecká).</p><p class=\"ql-align-justify\">Dopravní omezení na ul. Kbelská: zábor pravého jízdního pruhu ve směru od ul. Cínovecká (v místě připojení od ul. Cínovecká/Kbelská),</p><p class=\"ql-align-justify\">dále zábor odstavného pruhu při nájezdu z&nbsp;ul. Cínovecká/Veselská do ul. Kbelská.</p><p>&nbsp;</p><p><br></p><p>&nbsp;</p><p><br></p>",
-    "lon": 14.4944027307129,
+    "lon": 14.494402730712892,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2732,17 +2920,20 @@
     "name": "Výměna asfaltových vrstev na komunikacích Cínovecká, Kbelská.",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "eb988b72f99f1b85ac87f8abe922bfdc7a2d8eb4",
+    "sha1": "ca5b2e6650de6fd98ecb456f8b0ad265c3e1f551",
     "start": "2024-07-27T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká, Kbelská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2775,17 +2966,20 @@
     "name": "Rekonstrukce komunikace Kostelecká - vložená etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "967f20675b68b1d90e14249effe119150cf1e59d",
+    "sha1": "62dbe7bbf25ea40ad7754758e8cb5ab069a6a3bc",
     "start": "2024-08-05T00:00:00",
+    "state": "DONE",
     "street": "Kostelecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2808,7 +3002,7 @@
     "investor_responsible": "Jan Lojek",
     "lat": 50.1290605703946,
     "limitations": "<p>Vzhledem k rozsahu prací bude <strong>úsek ulice Klapkova mezi ulicemi Březiněveská a Mašínova</strong> od 12. srpna do 15. listopadu 2024 částečně uzavřen pro individuální automobilovou dopravu. Tramvajový provoz bude bez omezení.</p><p>Průjezdnost bude zajištěna jednosměrně, přičemž směr průjezdu se bude v průběhu stavby střídat. Řidiče žádáme o zvýšenou opatrnost a respektování dopravního značení. </p><p><br></p><ul><li><strong>Fáze 1:</strong> komunikace bude průjezdná jednosměrně ve směru od ulice Líbeznické směrem k ulici Březiněveská.</li><li><strong>Fáze 2:</strong> komunikace bude průjezdná jednosměrně ve směru od ulice Březiněveská směrem k ulici Mašínova.</li></ul><p><br></p>",
-    "lon": 14.455246502409,
+    "lon": 14.455246502408983,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2818,17 +3012,20 @@
     "name": "Rekonstrukce komunikace Klapkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7fc9e611ebe3f4e6e7c3fd90510195adbbdeac44",
+    "sha1": "59cd13d36073cbb6975556d0d914b3436305ead3",
     "start": "2024-08-12T00:00:00",
+    "state": "DONE",
     "street": "Klapkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2861,17 +3058,20 @@
     "name": "OPRAVA POVRCHU VOZOVKY (Nájezdná rampa z ul. Davídkova na ul. Liberecká ve směru z centra)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "e15d1d2a8355dc4fef27909a65e3ece58a24fa37",
+    "sha1": "254af7110489dae0caf8e7566141fd914cca33bd",
     "start": "2024-08-23T00:00:00",
+    "state": "DONE",
     "street": "Nájezdná rampa z ul. Davídkova na ul. Liberecká ve směru z centra",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2904,17 +3104,20 @@
     "name": "Rekonstrukce ulic Liberecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "YELLOW",
-    "sha1": "d3217bdf5bff183a1859b3d854f1c8d888fbd98e",
+    "sha1": "96883524b6f4e6ab04313a26218087b8cbb23010",
     "start": "2024-08-24T00:00:00",
+    "state": "DONE",
     "street": "Liberecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2947,17 +3150,20 @@
     "name": "Zažít město jinak 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "jaroslav.lehky@praha.eu",
     "responsible_phone": "236004389",
     "severity": "RED",
-    "sha1": "187d1661fadfb5d2fa54158950b6fdf3454a3d69",
+    "sha1": "f0a7416377958301b2e027f9bb97d39774ff057e",
     "start": "2024-09-21T08:00:00",
+    "state": "DONE",
     "street": "Ke Štvanici",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -2990,17 +3196,20 @@
     "name": "Rekonstrukce mostu - Cínovecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "3ff77161137da88730aa06731fa7fab18a55adb9",
+    "sha1": "6e31f9546b76154d415555d3acda5dd7b24b3991",
     "start": "2024-06-17T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká, Ďáblická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3033,17 +3242,20 @@
     "name": "Rekonstrukce křižovatky Křižíkova x Urxova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5cc551699088ebe813724f2e3f6e8c6019a4a6d5",
+    "sha1": "b268042f3082b1f0fadf7271b1e6fbb7c2b15189",
     "start": "2024-08-30T00:00:00",
+    "state": "DONE",
     "street": "Křižíkova, Urxova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3076,18 +3288,20 @@
     "name": "Rekonstrukce stropní desky metra C - Florenc - realizace 3a2. etapy",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Vopava Lukáš",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "RED",
-    "sha1": "5540657b3b1357b8cf565bc8101c19930d162d33",
+    "sha1": "6cd0cc3088e95b79c57256e45587b74afd35f7e2",
     "start": "2024-10-01T00:00:00",
     "state": "ACTIVE",
     "street": "Ke Štvanici",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3108,9 +3322,9 @@
     "investor": "Pražské vodovody a kanalizace, a.s.",
     "investor_phone": null,
     "investor_responsible": null,
-    "lat": 50.1219323634342,
+    "lat": 50.12193236343419,
     "limitations": "<p>Uzavírka levých jízdních pruhů v každém směru jízdy, průjezd umožněn dvěma jízdními pruhy v každém směru jízdy (pravý jízdní pruh + odstavný pruh).</p>",
-    "lon": 14.4768351521149,
+    "lon": 14.476835152114859,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -3120,17 +3334,20 @@
     "name": "Oprava havárie kanalizace - ul. Liberecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "fbe48027b7138e9820d0f43f034629df45bbb6c4",
+    "sha1": "1bb50bf3482fee6398a6d74b68d90109a53f795c",
     "start": "2024-09-13T00:00:00",
+    "state": "DONE",
     "street": "Liberecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3151,9 +3368,9 @@
     "investor": "PROFI EMG s.r.o.",
     "investor_phone": "603 216 208",
     "investor_responsible": "p. Volf",
-    "lat": 50.1353681230829,
+    "lat": 50.135368123082884,
     "limitations": "<p>Zábor vyhrazených jízdních pruhů&nbsp;v obou směrech jízdy v okolí křižovatky s ul. K Ládví. Provoz zachován ve standartních jízdních pruzích bez omezení.</p>",
-    "lon": 14.4524482993911,
+    "lon": 14.452448299391136,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -3163,17 +3380,20 @@
     "name": "Rekonstrukce nadzemního elektrického vedení - Ústecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "cc5634284b4e042e9fea40e5402dc956ef0207de",
+    "sha1": "8c416ef7391d0579c163ea3550e9b2e8c86e2993",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "Ústecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3206,17 +3426,20 @@
     "name": "Oprava vozovky - NN2181 (nájezdná rampa na ul. Liberecká)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "594f3532785adce48e37b970b4a682700460aac4",
+    "sha1": "c251881e832e6459ba2ce7b98fd9403b3243807c",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "NN2181 (nájezdná rampa na ul. Liberecká)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3237,9 +3460,9 @@
     "investor": "PROFI EMG s.r.o.",
     "investor_phone": "603 216 208",
     "investor_responsible": "p. Volf",
-    "lat": 50.1361099820146,
+    "lat": 50.136109982014574,
     "limitations": "<p>V ul. Cínovecká ve směru centrum zábor připojovacího/odbočovacího pruhu z ul. Kbelská/do ul. Veselská. Doprava vedena ve dvou jízdních pruzích. Na komunikaci NN7091zábor vozovky v místě snížení počtu jízdních pruhů na nájezdné rampě do ul. Veselská ze směru z ul. Cínovecká. Doprava vedena jedním jízdním pruhem.</p>",
-    "lon": 14.4927402921844,
+    "lon": 14.492740292184408,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -3249,17 +3472,20 @@
     "name": "Rekonstrukce nadzemního elektrického vedení - Cínovecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "6a47c94ae2a03bacc84c9c8d97e5cd32f95d90e6",
+    "sha1": "e13205af59733fb6bf7be5ec653e192935249161",
     "start": "2024-11-25T00:00:00",
+    "state": "DONE",
     "street": "Cínovecká, NN 7091",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3280,9 +3506,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "702 189 739",
     "investor_responsible": "p. Černohorský",
-    "lat": 50.1034706254891,
+    "lat": 50.10347062548907,
     "limitations": "<p>Zábor části vozovky pod Libeňským mostem. Zachován jednosměrný provoz ve směru jízdy Libeňský most. Opačný směr jízdy je veden po objízdné trase.</p>",
-    "lon": 14.4663422804089,
+    "lon": 14.466342280408881,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -3292,17 +3518,20 @@
     "name": "Štorchova - rekonstrukce Libeňského soumostí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "d945dd79756253499ca3fb1a0eb3ae0b3bd36527",
+    "sha1": "26a3a8e492b9bf3877407b2382057e298297ec3e",
     "start": "2025-02-01T00:00:00",
+    "state": "ACTIVE",
     "street": "Štorchova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "8"
     ],
@@ -3323,7 +3552,7 @@
     "investor": "PROFI EMG s.r.o.",
     "investor_phone": "603 216 208",
     "investor_responsible": "p. Volf",
-    "lat": 50.1379666322983,
+    "lat": 50.13796663229826,
     "limitations": "<p>V ul. Cínovecká ve směru centrum zábor připojovacího/odbočovacího pruhu z ul. Kbelská/do ul. Veselská. Doprava vedena ve dvou jízdních pruzích. V ul. Cínovecká ve směru z centra zábor odstavného jízdního pruhu. Na komunikaci NN7091 zábor vozovky v místě snížení počtu jízdních pruhů na nájezdné rampě do ul. Veselská ze směru z ul. Cínovecká. Doprava vedena jedním jízdním pruhem.</p>",
     "lon": 14.4937848322282,
     "max_lat": null,
@@ -3335,14 +3564,13 @@
     "name": "Rekonstrukce nadzemního elektrického vedení V 113/114 - Cínovecká, NN7091",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "3f1151f569bb95ffab159fb6424eedffa4688f76",
+    "sha1": "cf54528b316e7721e633e079355cf90b11314808",
     "start": "2025-01-27T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Cínovecká, NN7091",
     "subject": "CONSTRUCTION"
   }

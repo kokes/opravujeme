@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "20"
     ],
@@ -32,17 +35,20 @@
     "name": "Rekonstrukce mostu X 503 - Božanovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Dagmar Jeníková",
     "responsible_email": "urad@pocernice.cz",
     "responsible_phone": "271071633",
     "severity": "YELLOW",
-    "sha1": "4572756b4b4dc502c593f0dcd44fa3600faf786a",
+    "sha1": "3bf6b5116583cda97b9012e4eadde21e9b8f1d88",
     "start": "2023-03-31T00:00:00",
+    "state": "DONE",
     "street": "Božanovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-02-03T10:31:30.761738",
+    "approvedby": 34,
     "city_part": [
       "20"
     ],
@@ -55,7 +61,7 @@
     "description": "<p class=\"ql-align-justify\"><span style=\"color: windowtext;\">Rekonstrukce části komunikace Bystrá, včetně výstavby nového podjezdu pod železniční tratí.</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Podjezd vzniká v&nbsp;koordinaci s optimalizací železniční trati, kdy dojde v&nbsp;dané lokalitě k&nbsp;vybudování nového železničního mostu (podjezdu), který nahradí stávající úrovňový přejezd. Díky tomu dojde k&nbsp;zahloubení ulic Bystrá a Jiřího z&nbsp;Vtelna a okolní pozemky budou nově zajištěny novými zárubními zdmi.</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><span style=\"color: black;\">Součástí této rozsáhlé přestavby bude rovněž úprava systému odvodnění, doplnění veřejného osvětlení, přeložky kabelových vedení, vodovodu a plynovodu. Budou vybudovány komunikace pro pěší a cyklisty, zastávky autobusu MHD a vysázena zeleň.</span></p>",
     "detours": "<p class=\"ql-align-justify\">Jsou navrženy dva objízdné směry k ul. Náchodské a směrem k dálnici D10:</p><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">pro osobní vozidla a nákladní vozidla, jejichž výška nepřesahuje 3,4 m: z centra po ul. Náchodská a dále ulicí Ve Žlíbku. V opačném směru ulicí Ve Žlíbku a dále po ul. Náchodská směr centrum,</li></ul><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">pro nákladní vozidla, jejichž výška přesahuje 3,4 m: z centra po ulici Chlumecká, Pražském okruhu D0, Novopacké (D10, exit 3) a dále ulicí Ve Žlíbku. V opačném směru – směr centrum ulicí Ve Žlíbku, Novopacké (D10, exit 3), Pražském okruhu D0, ulicí Chlumecká a dále směrem do centra.</li></ul><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Během uzavírky ul. Bystrá budou odkloněny linky MHD č. 209 a č. 220:</p><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">Odklon linky 209 povede obousměrně ulicemi F. V. Veselého a Ve Žlíbku. Během výluky nebudou v&nbsp;obou směrech obsluhovány zastávky Vojická, Nádraží Horní Počernice, Lukavecká, Komárovská. Po dobu výluky se obousměrně zřídí zastávky Paceřická a Františka Veselého. Na dočasně zřízených zastávkách budou využity existující zastávkové označníky. V&nbsp;rámci výluky bude dočasně zřízen druhý směr zastávky Paceřická v&nbsp;momentálně nevyužívané zastávce, resp. v&nbsp;zálivu naproti stávající zastávce Paceřická. Přenosný zastávkový označník zajistí ROPID.</li></ul><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">Výluková trasa linky 220 povede z&nbsp;Chlumecké ul. odbočením na Pražský okruh, D10 (Novopacká), výjezdem do ul. Ve Žlíbku, dále ul. F. V. Veselého, U Tabulky, Bystrá, Vlastibořská, Do Čertous, Ve Žlíbku (po mostu přes dálnici D10), odbočením na D10 (Novopacká), Pražský okruh, ul. Chlumecká do zast. Černý Most. Během výluky nebude obousměrně obsluhována zastávka Chvaly. Obslužnost zastávek v&nbsp;P3 parku zůstane zachována, závlek do zastávky „Logistická zóna Horní Počernice“.</li></ul><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Více informací o výluce MHD naleznete <a href=\"https://pid.cz/vyluky/bystra-ulice-036-23/\" rel=\"noopener noreferrer\" target=\"_blank\">zde</a>.</p>",
     "dt_format": "DAY",
-    "end": "2025-12-31T23:59:00",
+    "end": "2026-07-31T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.602127309060165,\r\n              50.114855538721315\r\n            ],\r\n            [\r\n              14.602073287516589,\r\n              50.11451159833834\r\n            ],\r\n            [\r\n              14.601834049249561,\r\n              50.113583689298565\r\n            ],\r\n            [\r\n              14.601922798928996,\r\n              50.11360101043218\r\n            ],\r\n            [\r\n              14.602158178513747,\r\n              50.114484379929394\r\n            ],\r\n            [\r\n              14.602181330604623,\r\n              50.1146105742414\r\n            ],\r\n            [\r\n              14.602212200058233,\r\n              50.11485801310337\r\n            ],\r\n            [\r\n              14.602127309060165,\r\n              50.114855538721315\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 1228,
@@ -64,29 +70,31 @@
     "investor_phone": "777 364 462",
     "investor_responsible": "Ing. Jaroslav Hobza",
     "lat": 50.118016,
-    "limitations": "<p class=\"ql-align-justify\">Stavební práce budou probíhat v&nbsp;období od 24. 2. 2023 až do roku 2025. Dopravní omezení jsou rozdělena na jednotlivé fáze dle stavebních prací, s&nbsp;ohledem na zajištění příjezdu k průmyslovým areálům a na hřbitov. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Úsek komunikace křižující železniční přejezd bude uzavřen po celou dobu výstavby.</strong></p>",
+    "limitations": "<p class=\"ql-align-justify\">Stavební práce budou probíhat v&nbsp;období od 24. 2. 2023 až do roku 2026. Dopravní omezení jsou rozdělena na jednotlivé fáze dle stavebních prací, s&nbsp;ohledem na zajištění příjezdu k průmyslovým areálům a na hřbitov. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Úsek komunikace křižující železniční přejezd bude uzavřen po celou dobu výstavby.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Momentálně je stavba pozastavena z důvodu čekání na pravomocné povolení stavby pro pokračování navazujících stavebních prací. Z toho důvodu byl posunut předpokládaný termín dokončení rekonstrukce části komunikace Bystrá, včetně výstavby nového podjezdu pod železniční tratí, a to do 07/2026.</p>",
     "lon": 14.602678,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-08-16T09:50:51.021568",
+    "modified": "2025-02-03T10:31:30.761712",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Bystrá, výstavba podjezdu pod železniční tratí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "1dcb180a1d543ec6da3b8ea8d3c5d5080456eeb0",
+    "sha1": "0858a82071fb804cba387c885d436a72fe2b7f5c",
     "start": "2023-02-24T00:00:00",
     "state": "ACTIVE",
     "street": "Bystrá",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "20"
     ],
@@ -119,17 +127,20 @@
     "name": "Optimalizace traťového úseku Mstětice (mimo) - Praha Vysočany (včetně) - přemostění dálnice D0",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ministerstvo dopravy ČR",
     "responsible_email": null,
     "responsible_phone": "225131241",
     "severity": "GREEN",
-    "sha1": "dbfe94d6b36ff3481586d3a508f7065b008f40b6",
+    "sha1": "c7c7db6125aaa4032f5289bb385cbd0840901c29",
     "start": "2023-07-30T00:00:00",
+    "state": "DONE",
     "street": "Dálnice D0",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "20"
     ],
@@ -162,17 +173,20 @@
     "name": "Oprava komunikace Chlumecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "0cdf0296462aaa0134609f67a77fbeedccc6528a",
+    "sha1": "f0c46c6fb17c92a4291f3df9f1ba39a1e4de6575",
     "start": "2024-03-04T00:00:00",
+    "state": "DONE",
     "street": "Chlumecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "20"
     ],
@@ -205,13 +219,13 @@
     "name": "Obnova vysokého a nízkého napětí, vč. optických sítí v ulici Náchodská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Pavla Šafránková",
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "2797b4dfada1af7568648ac1a242f606e54c3817",
+    "sha1": "a9fa534fd13246c495cc0975b64cf68fb438ca2e",
     "start": "2024-09-02T00:00:00",
+    "state": "DONE",
     "street": "Náchodská",
     "subject": "CONSTRUCTION"
   }

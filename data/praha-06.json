@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -32,17 +35,20 @@
     "name": "Rekonstrukce ul. Horoměřická + rekonstrukce mostu S016",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "9f087355042d48d850561d57a49d964234b291c0",
+    "sha1": "6ddcd96eacdd88847043125ebedf604e385e9490",
     "start": "2022-03-14T00:00:00",
+    "state": "DONE",
     "street": "Horoměřická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -75,17 +81,20 @@
     "name": "Rekonstrukce vozovky Na Hutích",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "29203241fb7e0f1a2acc37be2f3e4d142d90795a",
+    "sha1": "28d9c1a2309ef8c2b3bc52d4726aa3c10aa77d85",
     "start": "2022-04-01T00:00:00",
+    "state": "DONE",
     "street": "Na Hutích",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -118,17 +127,20 @@
     "name": "Rekonstrukce ul. Horoměřická ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "bc81ab3452b62549f000908cc2282b5aabdec9a7",
+    "sha1": "0aee6ba107e43eb92ea2dff034f54ed8ab191815",
     "start": "2022-07-02T00:00:00",
+    "state": "DONE",
     "street": "Horoměřická v úseku V Šáreckém údolí - Na Krutci",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -161,17 +173,20 @@
     "name": "Údržba lávky X072 přes ul. Patočkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "98bbe5e39143c4798883b0eb6d766f9fc1dc5ccb",
+    "sha1": "71d49d4da6c0c8851ed1400842e55808d17902f0",
     "start": "2022-07-04T00:00:00",
+    "state": "DONE",
     "street": "Patočkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -204,17 +219,20 @@
     "name": "Rekonstrukce vozovky Roztocká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "db03aa73c6158173dbcba21a6902a36ca42332d7",
+    "sha1": "a2fab23dd0dda433a55dd3c203b1a472f57be6f1",
     "start": "2022-07-26T00:00:00",
+    "state": "DONE",
     "street": "Roztocká v úseku křižovatka V Podbabě - kruhový objezd",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -247,17 +265,20 @@
     "name": "Tuchoměřická, chodníky, P6",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6f700963b863c4c6e12c9073a9774704d4dd56f2",
+    "sha1": "704731765fb9218709986dd8e8e53838e25b29c3",
     "start": "2022-08-09T00:00:00",
+    "state": "DONE",
     "street": "ul. Tuchoměřická (Nebušice).",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -290,17 +311,20 @@
     "name": "Rekonstrukce vozovky Na Bateriích",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "74893004995f54932cf2bd09275f3b66fb19a8b5",
+    "sha1": "387f945ee61b20071958c586b0f0086ee9290aaa",
     "start": "2022-09-14T00:00:00",
+    "state": "DONE",
     "street": "Na Bateriích",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -333,17 +357,20 @@
     "name": "Rekonstrukce vozovky ul. Střešovická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "fe5fe7cf620f0b9daf5b8e773198a2c18607578f",
+    "sha1": "aec87920ac36af0578bf5bb31d7e4ab028c2cfd8",
     "start": "2022-10-14T00:00:00",
+    "state": "DONE",
     "street": "Střešovická, Sibeliova, U Laboratoře",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -376,17 +403,20 @@
     "name": "Rekonstrukce vozovky a chodníku v ul. Sibiřské náměstí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "62700acab8457df1983f689639ee79dd2cf66188",
+    "sha1": "6aa33ca064a01c16ae7212e80619f0e7888b6785",
     "start": "2022-10-10T00:00:00",
+    "state": "DONE",
     "street": "Sibiřské náměstí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -419,17 +449,20 @@
     "name": "Rekonstrukce komunikace Wolkerova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "8af3228400c67bc3867d4d0c677854df2d7580c7",
+    "sha1": "0ce7ae7603989b31d210d07e3f4f9189d15a95aa",
     "start": "2022-10-24T00:00:00",
+    "state": "DONE",
     "street": "Wolkerova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -462,17 +495,20 @@
     "name": "Rekonstrukce chodníku v ul. Pod Marjánkou ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "896cc16142aa3b017afb51047e78119b227d98ad",
+    "sha1": "d5a073cea1cd83f33fb9dfcefefcb1397a811001",
     "start": "2022-10-24T00:00:00",
+    "state": "DONE",
     "street": "Pod Marjánkou",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -505,17 +541,20 @@
     "name": "Rekonstrukce komunikace Ve Struhách",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "af8b74c776c5eb7cf7bfb9ac22d2d3173784c1fe",
+    "sha1": "456728d7b71c866a17c375b293f8abd66470e458",
     "start": "2022-10-31T00:00:00",
+    "state": "DONE",
     "street": "Ve Struhách",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -548,17 +587,20 @@
     "name": "Rekonstrukce komunikace v ul. Na Sekyrce",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b7e6e4ad5d012298a993fcfc7fec8ae976031dbc",
+    "sha1": "47484d9bb0c0babb45830cfcc3e11ad22f27e648",
     "start": "2022-10-28T00:00:00",
+    "state": "DONE",
     "street": "Na Sekyrce",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -591,17 +633,20 @@
     "name": "Rekonstrukce chodníku v ulici Čs. armády",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "33743da108c78b039007642a0a1dee8e9ca5f7d0",
+    "sha1": "f8810cf73628760ac6c7ad9f1377796fa444c1ed",
     "start": "2023-04-11T00:00:00",
+    "state": "DONE",
     "street": "Čs. armády",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -634,17 +679,20 @@
     "name": "Rekonstrukce chodníku v ulici Dejvická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "b3ddb8d83d200f9abcd562b7d3dac5553256d1b9",
+    "sha1": "858928093d76dd17eda3ee9e48c1885488d8b8da",
     "start": "2023-03-20T00:00:00",
+    "state": "DONE",
     "street": "Dejvická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -677,17 +725,20 @@
     "name": "Rekonstrukce chodníku v ulici Jaselská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "f35f941cbe81cc8b3d669e8a882ddc4d453db307",
+    "sha1": "792eab1dbfea08830d9d9c6d43fe0ede43bf92d9",
     "start": "2022-11-19T00:00:00",
+    "state": "DONE",
     "street": "Jaselská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -720,17 +771,20 @@
     "name": "Rekonstrukce chodníku v ulici Pod Kaštany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d0ea2c23402ccc83928cd348537f0ece75caf003",
+    "sha1": "d0caaa486df9ddb7ee7f8eea28dbfb0e43eafab2",
     "start": "2022-11-28T00:00:00",
+    "state": "DONE",
     "street": "Pod Kaštany",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -763,17 +817,20 @@
     "name": "Výstavba TT Dědina - Divoká Šárka - ul. Drnovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": null,
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "09669d17419a0f99328cc7b660e14386c31b6c2c",
+    "sha1": "cdbe46dc090467b31e3d2a7d804eb3bbf467738e",
     "start": "2023-09-04T00:00:00",
+    "state": "DONE",
     "street": "Drnovská v úseku Dědinská - Vlastina",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -806,17 +863,20 @@
     "name": "Rekonstrukce komunikace ve Struhách",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "95feccc760fe91dcf52b178f3b2c898c7e32f47f",
+    "sha1": "55601a4203ae24c16bbdd95c63df05114483e3dd",
     "start": "2023-02-27T00:00:00",
+    "state": "DONE",
     "street": "Ve Struhách",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -849,17 +909,20 @@
     "name": "Elektrifikace BUS linky 119",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Luděk Důra",
     "responsible_email": null,
     "responsible_phone": "236 004 392",
     "severity": "YELLOW",
-    "sha1": "c6d1d45f331228e9780bfad1799151067a62f297",
+    "sha1": "48863f5b1ccd05a8686c1d23740ac07f271966bb",
     "start": "2023-02-27T00:00:00",
+    "state": "DONE",
     "street": "Evropská v úseku Drnovská - Vokovická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "6",
@@ -894,17 +957,20 @@
     "name": "Rekonstrukce komunikace Badeniho ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6ae85fe5b454443c51d8bb8ac2118ba8715afa6c",
+    "sha1": "1ca0f9b4cf2c472650ebd3cf91a160eca5e39431",
     "start": "2023-04-11T00:00:00",
+    "state": "DONE",
     "street": "Badeniho",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -937,17 +1003,20 @@
     "name": "Rekonstrukce vozovky a chodníků v ulici V Tišině",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b2b3fc4ae9b26dceafa2fccafeecf4d709fd6dd1",
+    "sha1": "6ba4dc7f46b720c829c6b0a80283ab2270fa52d9",
     "start": "2023-04-24T00:00:00",
+    "state": "DONE",
     "street": "V Tišině, Pod Kaštany, Romaina Rollanda",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -980,17 +1049,20 @@
     "name": "Výstavba TT Dědina - Nová Šárka 3. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": null,
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "ebdb6096b4557e7e20deb724672c6f1227a997e8",
+    "sha1": "b3f2d2cc3329ce984e42c64bdab8223d1ac70ffe",
     "start": "2023-09-16T00:00:00",
+    "state": "DONE",
     "street": "Evropská v úseku Do Vozovny - Osamocená",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1023,17 +1095,20 @@
     "name": "Rekonstrukce chodníku v ulici Romaina Rollanda",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0a00b4d55353a3425d350c92963ba87a4caeee92",
+    "sha1": "196348326edebc90b4b72fc52de275d0944e5229",
     "start": "2023-06-05T00:00:00",
+    "state": "DONE",
     "street": "Romaina Rollanda",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "6",
@@ -1056,9 +1131,9 @@
     "investor": "Kolo pro život, z.s.",
     "investor_phone": "731613593",
     "investor_responsible": "Mgr. Přemysl Novák",
-    "lat": 50.0783543790396,
+    "lat": 50.078354379039574,
     "limitations": "<p class=\"ql-align-justify\">15.&nbsp;6. 2024 dojde k uzavírce následujících pozemních komunikací v&nbsp;trase závodu na území jednotlivých správních obvodů městských částí Praha 5, 6, 17 (ul. Vaníčkova bude z&nbsp;důvodu výstavby zázemí v místě startu a cíle závodu uzavřena již od 14. 6. 2024):</p><p><br></p><p><strong>Praha 5</strong></p><p>Plzeňská (směr z&nbsp;centra): 12:15 – 15:30 h</p><p>Kukulova (směr Plzeňská): 12:20 – 15:35 h</p><p>Podbělohorská, Spiritka: 12:25 – 15:45 h</p><p><strong>Praha 6</strong></p><p>Vaníčkova: 14. 6. od 14:30 do 24:00 h mimo MHD, 15. 6. od 00:01 do 20:00 h vč. MHD, od&nbsp;20:00 do 24:00 h mimo MHD</p><p>Atletická: 9:30 – 9:40 h, 10:30 – 10:50 h, 12:00 – 12:10 h, 12:25 – 15:45 h</p><p>Skokanská: 9:30 – 9:40 h, 10:30 – 10:55 h, 12:00 – 12:10 h</p><p>Tomanova: 9:30 – 9:45 h, 10:30 – 11:00 h, 12:00 – 12:15 h</p><p>Bělohorská: 9:35 – 9:55 h, 10:35 – 11:10 h, 12:05 – 12:25 h</p><p>Kukulova (směr Plzeňská): 12:20 – 15:35 h</p><p>Podbělohorská, Běžecká, Maratonská, Diskařská, účelové komunikace severně od stadionu Evžena Rošického a&nbsp;Strahovského stadionu: 12:25 – 15:45 h</p><p><strong>Praha 17</strong></p><p>Karlovarská, Na hůrce: 9:35 – 9:55 h, 10:40 – 11:10 h, 12:05 – 12:30 h</p><p>Ke Břvům, Hostivická, Hrozenkovská, Strojírenská, Engelmüllerova, Na Chobotě, Makovského (směr z&nbsp;centra), Plzeňská (směr z&nbsp;centra): 12:15 – 15:30 h</p><p>&nbsp;</p><p class=\"ql-align-justify\">Uvedené časy jsou přibližné. Komunikace se budou otevírat postupně po posledním účastníkovi závodu, nejpozději po uplynutí příslušného časového limitu. Linkové vedení MHD bude upraveno dle&nbsp;příslušného dopravního opatření Dopravního podniku hl. m. Prahy, a.s. (DPP)</p><p><br></p><p>Z&nbsp;důvodu zajištění bezpečnosti a&nbsp;plynulosti provozu v&nbsp;průběhu akce bude na&nbsp;dotčených pozemních komunikacích dočasně zakázáno zastavení silničních vozidel.</p><p><br></p>",
-    "lon": 14.3794640210926,
+    "lon": 14.379464021092588,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1068,17 +1143,20 @@
     "name": "L'Etape Czech Republic by Tour de France 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "acaa3a79f690a78681d35b57bc751a6f7df2a915",
+    "sha1": "4bf0cf3894df14c8944ddd8c7970c4267d89df88",
     "start": "2024-06-15T09:15:00",
+    "state": "DONE",
     "street": "komunikace na území správních obvodů MČ Praha 5, 6, 17",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1111,17 +1189,20 @@
     "name": "Rekonstrukce komunikace Tuchoměřická a Nebušická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c11370dc96b5d97098cc6b4581a30873d7d370cb",
+    "sha1": "2d180354d3befc67633985976f1c073d80dc77a1",
     "start": "2023-07-01T00:00:00",
+    "state": "DONE",
     "street": "Tuchoměřická, Nebušická, náměstí Padlých",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1154,17 +1235,20 @@
     "name": "Rekonstrukce komunikace Přerušená",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "af7d968268e3bd46eeafcb91563873e56659e9fd",
+    "sha1": "b630a4571a70951d053a0bfd66b8bca82ecf04cb",
     "start": "2023-07-13T00:00:00",
+    "state": "DONE",
     "street": "Přerušená",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1197,17 +1281,20 @@
     "name": "Rekonstrukce vozovky a chodníku v ulici Romaina Rollanda",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4a20e79de9cd4a7553ba5e5a64626d982b6a1c89",
+    "sha1": "1090f1b6588aa6a9e612a9b539e068cfcd53b989",
     "start": "2023-09-18T00:00:00",
+    "state": "DONE",
     "street": "Romaina Rollanda",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1240,17 +1327,20 @@
     "name": "Vybudování přípojky NN k zastávkovému přístřešku - Patočkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "fcc33df1c0e9e24fc454831fabb9762ba0ba0bf1",
+    "sha1": "26d999c42aa48df43688fb8ddc1362bf92b2a100",
     "start": "2023-10-04T00:00:00",
+    "state": "DONE",
     "street": "Patočkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1273,7 +1363,7 @@
     "investor_responsible": "Peter Urbánek",
     "lat": 50.0908944562947,
     "limitations": "<p>1. etapa: uzavřena komunikace směr náměstí Před Bateriemi.</p><p>2. etapa: uzavřena komunikace směr z náměstí Před Bateriemi.</p>",
-    "lon": 14.3736939373112,
+    "lon": 14.373693937311174,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1283,17 +1373,20 @@
     "name": "Realizace nového přechodu pro chodce na náměstí Před Bateriemi",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fa6853f3de91b3ec52fa13c170c869f62546a7a4",
+    "sha1": "b449ca7995c185a2b18d193887e601d67b7e6058",
     "start": "2023-11-06T00:00:00",
+    "state": "DONE",
     "street": "náměstí Před Bateriemi",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6",
       "7"
@@ -1327,17 +1420,20 @@
     "name": "Cvičení jednotek IZS - tunelový komplex Blanka",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Lukáš Vopava",
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "8d1c738d213e4f350a14aafe456679673f6ec44e",
+    "sha1": "b108964ab802f37b2c765b412a0cbc3b92046808",
     "start": "2023-11-11T22:00:00",
+    "state": "DONE",
     "street": "Tunelový komplex Blanka",
     "subject": "OTHERS"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "6"
@@ -1359,9 +1455,9 @@
     "investor": "MPA MOTORSPORT KLUB v AČR, Bellušova 1804/7, Praha ",
     "investor_phone": "602359559",
     "investor_responsible": "Petr Mihule",
-    "lat": 50.0820964422071,
+    "lat": 50.08209644220705,
     "limitations": "<p>úplná uzavírka výše uvedených komunikací</p>",
-    "lon": 14.3859820714385,
+    "lon": 14.385982071438491,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1371,17 +1467,20 @@
     "name": "PRAŽSKÝ RALLYSPRINT STRAHOV XXVIII. TipCars",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "2360004392",
     "severity": "GREEN",
-    "sha1": "40a5063b5ddda9cc23a56dc409e71fe42bf0659f",
+    "sha1": "35f882d26c5639d62504d78eb72ffcfc140a0745",
     "start": "2023-12-02T08:30:00",
+    "state": "DONE",
     "street": "Bělohorská, Podbělohorská, Diskařská, Vaníčkova, Atletická, Běžecká, Olympijská, Jezdecká, Šermířská, Maratonská, Nad Závěrkou, Turistická, Pod Stadiony, Zátopkova, Holečkova, parkoviště Chaloupeckého",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "6"
@@ -1403,9 +1502,9 @@
     "investor": "Dopravní podnik hl. m. Prahy, a.s.",
     "investor_phone": "724321366",
     "investor_responsible": "Ing. Němeček",
-    "lat": 50.0948276074808,
+    "lat": 50.09482760748082,
     "limitations": "<p>Zákaz vjezdu do ul. Chotkova/Mariánské hradby ve směru k Pražskému hradu; nařízena objížďka; provoz v&nbsp;opačném směru zachován; provoz TRAM vyloučen v&nbsp;obou směrech</p>",
-    "lon": 14.4080434691781,
+    "lon": 14.408043469178097,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1415,17 +1514,20 @@
     "name": "Oprava tramvajové trati Chotkova, Mariánské hradby",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236004399",
     "severity": "GREEN",
-    "sha1": "7daf78c6a6d1ebad282376c11367669094ceb4eb",
+    "sha1": "e2a5c4c505357898f28a65343b730edb6c3730ed",
     "start": "2024-01-26T18:00:00",
+    "state": "DONE",
     "street": "Chotkova, Mariánské hradby",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1458,17 +1560,20 @@
     "name": "Oprava vozovky v ulici K Letišti",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "2360004392",
     "severity": "YELLOW",
-    "sha1": "0f8087eae75604c275ecdfa659ae48a99d9467f7",
+    "sha1": "40fcc3090ae15ccc2dbb642e3169542d5e5eb7f4",
     "start": "2024-02-19T00:00:00",
+    "state": "DONE",
     "street": "K Letišti",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1501,17 +1606,20 @@
     "name": "Rekonstrukce vozovky a chodníku v ulici Nikoly Tesly",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e6d0afc419d50a183348bf4d2c7b81792c1bc106",
+    "sha1": "bef6079d3dd56a866a5bde45004a3fe59911a8ec",
     "start": "2024-03-11T00:00:00",
+    "state": "DONE",
     "street": "Nikoly Tesly",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1532,9 +1640,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": null,
-    "lat": 50.0855453222637,
+    "lat": 50.08554532226368,
     "limitations": "<p class=\"ql-align-justify\">Během realizace bude uzavřen most, a vyznačená obchozí trasa pro pěší. Dále zde dojde k instalaci značení zákaz zastavení pro veřejnou automobilovou dopravu.</p><p>  </p>",
-    "lon": 14.3849570552254,
+    "lon": 14.384957055225385,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1544,17 +1652,20 @@
     "name": "Oprava mostu přes ulici Diskařská na Dlabačově",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a0411a4cb289a99d7089bec8312fe002c8bde6a2",
+    "sha1": "1fd684bb4f7d6f82a27a6734017bc047dac6506a",
     "start": "2024-03-05T00:00:00",
+    "state": "DONE",
     "street": "Diskařská ",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1587,17 +1698,20 @@
     "name": "Zřízení BUS zastávek v ulici Bubenečská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a0ea6f0a101fb54bdeccd88752ad5c382b19aac0",
+    "sha1": "a26711678ac6f8e3bf5e2e890f7dafbb32879760",
     "start": "2024-03-16T00:00:00",
+    "state": "DONE",
     "street": "Bubenečská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1630,17 +1744,20 @@
     "name": "Oprava tramvajové trati v ulici Bělohorská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Bc. Lenka Čechová",
     "responsible_email": null,
     "responsible_phone": "236 004 392",
     "severity": "GREEN",
-    "sha1": "3d3054fb31779c87e5c32605cd5d53fda5b2e061",
+    "sha1": "5bd5dc7723af480645bdb9111a911c8448ca6095",
     "start": "2024-03-22T00:00:00",
+    "state": "DONE",
     "street": "Bělohorská x Pod Královkou ",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1661,9 +1778,9 @@
     "investor": "Dopravní podnik hl. m. Prahy, a.s.",
     "investor_phone": "601395106",
     "investor_responsible": "Jan Kostnar",
-    "lat": 50.0927339871647,
+    "lat": 50.09273398716472,
     "limitations": "<p>zúžení vozovky od 9 do 15 hodin</p>",
-    "lon": 14.3208195510006,
+    "lon": 14.320819551000596,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1673,17 +1790,20 @@
     "name": "zrušení přejezdu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "236004392",
     "severity": "GREEN",
-    "sha1": "49e5fdf5805466d94d9b4caef1f16c4c8ec5b87f",
+    "sha1": "9b57197e7f2c5245b6d3249ac9cf30ce4d2ac64b",
     "start": "2024-04-04T00:00:00",
+    "state": "DONE",
     "street": "Evropská (Divoká Šárka)",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1716,17 +1836,20 @@
     "name": "Oprava chodníku v ulici Dělostřelecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7df2c1dc90b7c7f86cf4cb5fda894593311b488e",
+    "sha1": "93b7a0f98c94e47dc9854c6045097062ad18764e",
     "start": "2024-05-23T00:00:00",
+    "state": "DONE",
     "street": "Dělostřelecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1747,9 +1870,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "602 181 525",
     "investor_responsible": "Pavel Novák",
-    "lat": 50.0925396804031,
+    "lat": 50.09253968040314,
     "limitations": "<p>Úplná uzavírka mostu (lávky).</p>",
-    "lon": 14.3413757326535,
+    "lon": 14.34137573265346,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1759,17 +1882,20 @@
     "name": "Oprava lávky přes Litovicko-Šárecký potok ve Vokovicích",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "31b01188be59ed61e1408fd09a6a4d9ff3b01a91",
+    "sha1": "24f03a2653e80424f1010866c0bfef63279f230b",
     "start": "2024-05-20T00:00:00",
+    "state": "DONE",
     "street": "Lávka přes Litovicko-Šárecký potok",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1802,17 +1928,20 @@
     "name": "Most (S021) - Divoká Šárka - Nad Dívčím skokem",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4e9a8161316492e358dd3faaa79c40beaa615248",
+    "sha1": "e8cb5a377c8cac16315e726ee5fd5d9e00ed97ce",
     "start": "2024-06-03T00:00:00",
+    "state": "DONE",
     "street": "Divoká Šárka",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1845,17 +1974,20 @@
     "name": "Pokládka kabelů v ulici Badeniho",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "2360004392",
     "severity": "GREEN",
-    "sha1": "5bd23c3b91ffd5150f7e1cd5048f620ed0148382",
+    "sha1": "dfce835cebb929902da6334a4d0b6f5d2b2c50d2",
     "start": "2024-05-27T00:00:00",
+    "state": "DONE",
     "street": "Badeniho ",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1888,17 +2020,20 @@
     "name": "Realizace bezbariérového přechodu pro chodce v křižovatce Drnovská x Stochovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d066a4b0bb51a8b3e06865dd767f6d3e20b5b7ec",
+    "sha1": "6ae87745db24a49fc9a49e18f5dde6141fff5a7b",
     "start": "2024-05-27T00:00:00",
+    "state": "DONE",
     "street": "Drnovská, Stochovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -1931,17 +2066,20 @@
     "name": "Před Bateriemi - realizace nároží a vozovky křižovatky",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "5fb4da8174b73da20721d98e42911b953e355eaa",
+    "sha1": "1706cf55b2a8a6e3ad95f432577ca4cc5120c124",
     "start": "2024-06-26T00:00:00",
+    "state": "DONE",
     "street": "Sibeliova, Pod Andělkou, náměstí Před Bateriemi",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "6"
@@ -1975,17 +2113,20 @@
     "name": "Strahovský tunel - úprava povrchu vozovky",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "45b6938a0aa5cb41c8a5e3a9e5d49fd261bcc37f",
+    "sha1": "22e7742f1b38150e7d131753c4f4e00ad2f5a456",
     "start": "2024-06-03T00:00:00",
+    "state": "DONE",
     "street": "Strahovský tunel",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2006,9 +2147,9 @@
     "investor": "Pražská vodohospodářská společnost a.s.",
     "investor_phone": "236004392",
     "investor_responsible": "Ing. Andrea Hrobská",
-    "lat": 50.0873528594051,
+    "lat": 50.08735285940509,
     "limitations": "<p>zábor komunikace ve směru z centra, doprava zachována dvěma jízdními pruhy s převedením jednoho jízdního pruhu do protisměru. Ve směru do centra zachován jeden jízdní pruh.</p>",
-    "lon": 14.377985471735,
+    "lon": 14.377985471735002,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2018,17 +2159,20 @@
     "name": "obnova vodovodního řadu Patočkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "236004392",
     "severity": "YELLOW",
-    "sha1": "a7ae2e97c5a6241abec8c71049deb1b99b664bcc",
+    "sha1": "31d973a738d50a6e4f5c5d46f9d7985acb6ca898",
     "start": "2024-07-15T00:00:00",
+    "state": "DONE",
     "street": "Patočkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2061,17 +2205,20 @@
     "name": "Rekonstrukce komunikace Štěpnice",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bb5b852f588fcae9d05620b4b896b2ea77cf6a85",
+    "sha1": "33878514bc8f05388375fc60958f279043c70c71",
     "start": "2024-08-19T00:00:00",
+    "state": "DONE",
     "street": "Štěpnice",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2104,17 +2251,20 @@
     "name": "Nový přechod pro chodce a úprava komunikace Drnovská ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c2d0c251b8f471c6fa0c8b65cc51a793adf4013d",
+    "sha1": "6f11beb5a088be8c86d7f405497e95882686a606",
     "start": "2024-10-08T00:00:00",
+    "state": "DONE",
     "street": "Drnovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2135,9 +2285,9 @@
     "investor": "Veolia Energie Praha a.s., Na Florenci 15, Praha 1",
     "investor_phone": "739347014",
     "investor_responsible": "p. Viduna",
-    "lat": 50.1113301039657,
+    "lat": 50.11133010396567,
     "limitations": "<p>uzavírka jízdního pásu ve směru z centra</p>",
-    "lon": 14.394191378603,
+    "lon": 14.394191378602983,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2147,17 +2297,20 @@
     "name": "oprava teplovodní šachty a kanálu Podbabská ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "2360004392",
     "severity": "RED",
-    "sha1": "a3f440743ee65e726ac547cee2c56037ab5c8b4f",
+    "sha1": "6c754d7e3c59a62ba9efa2c66dfe83476f90e282",
     "start": "2024-07-29T00:00:00",
+    "state": "DONE",
     "street": "Podbabská p.č.2082/6",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "1",
       "6"
@@ -2179,9 +2332,9 @@
     "investor": "Dopravní podnik hl. m. Prahy, a.s.",
     "investor_phone": "724 321 366",
     "investor_responsible": "Ing. Martin Němeček",
-    "lat": 50.0947728307743,
+    "lat": 50.09477283077427,
     "limitations": "<p>Zábor ve vozovce a na tramvajovém pásu v&nbsp;úrovni vozovky; obousměrný zákaz vjezdu do ul. Chotkova/Mariánské hradby; nařízena objížďka; provoz TRAM vyloučen v&nbsp;obou směrech</p>",
-    "lon": 14.4079390695316,
+    "lon": 14.407939069531608,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2191,17 +2344,20 @@
     "name": "Krátkodobá oprava tramvajové trati Chotkova, Mariánské hradby",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "28b3215130375f33aa393c943559596bc648ef28",
+    "sha1": "347ce85c675e98c8db8554d1413911e0d305dcbd",
     "start": "2024-09-06T18:00:00",
+    "state": "DONE",
     "street": "Chotkova, Mariánské hradby",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2222,9 +2378,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 974 753",
     "investor_responsible": "Zdeněk März",
-    "lat": 50.0921211872495,
+    "lat": 50.09212118724946,
     "limitations": "<p><span style=\"color: black;\">Po celou dobu rekonstrukce</span><strong style=\"color: black;\"> </strong><span style=\"color: black;\">bude úplná uzávěra chodníku a částečná uzávěra komunikace pro rekonstrukci inženýrských sítí.</span></p>",
-    "lon": 14.3709277751459,
+    "lon": 14.37092777514593,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2234,18 +2390,20 @@
     "name": "Pokládka inženýrských sítí a rekonstrukce chodníku v ulici Pod Bateriemi",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6d6d6be4bbf506508582246cfd30d07378ae83f7",
+    "sha1": "2090923a86278bbda2dcbac40b16c8f090a5fc5b",
     "start": "2024-09-10T00:00:00",
     "state": "ACTIVE",
     "street": "Pod Bateriemi",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2266,9 +2424,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "725 955 521",
     "investor_responsible": "Ing. Ondřej Pašek",
-    "lat": 50.101318104372,
+    "lat": 50.10131810437197,
     "limitations": "<p>  <span style=\"color: windowtext;\">Úplné uzavření opravovaného chodníku.</span></p><p> </p>",
-    "lon": 14.4111804905033,
+    "lon": 14.411180490503313,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2278,17 +2436,20 @@
     "name": "Oprava chodníku v ulici Romaina Rollanda",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3bfa427e995a3b4245b4e8e4648a95bd2e18cd61",
+    "sha1": "ab8cb1ac5d68c2ecb609fd7e3852355e92bf41a4",
     "start": "2024-10-26T00:00:00",
+    "state": "DONE",
     "street": "Romaina Rollanda",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2309,9 +2470,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "725 955 521 ",
     "investor_responsible": "Ing. Ondřej Pašek",
-    "lat": 50.0894873030486,
+    "lat": 50.089487303048564,
     "limitations": "<p>Úplné uzavření opravovaného chodníku.</p>",
-    "lon": 14.3776982071331,
+    "lon": 14.377698207133136,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2321,17 +2482,20 @@
     "name": "Oprava chodníků v ulici U Střešovických hřišť",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "beb2e824f456849544353963da8996d21e97c819",
+    "sha1": "e5eb637cb928826901d47bd8b5a2736cb06f431b",
     "start": "2024-10-21T00:00:00",
+    "state": "DONE",
     "street": "U Střešovických hřišť",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2364,17 +2528,20 @@
     "name": "Oprava vozovky v ulici Na Petynce",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fdd941aed33a18c760f2bd6ec24aacae32503df6",
+    "sha1": "e38b33c465134ca21b01af8c5b4132d1f21eae31",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "Na Petynce",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2395,9 +2562,9 @@
     "investor": "Letiště Praha, a.s.",
     "investor_phone": "777 943 487  ",
     "investor_responsible": "Hoffmann",
-    "lat": 50.1095308507479,
+    "lat": 50.10953085074786,
     "limitations": "<p>Uzavírka jízdního pasu ve směru k Terminálům letiště. Doprava svedena do jednoho jízdního pruhu s převedením před mostem do protisměrného jízdního pasu  a za mostem po provizorní komunikaci zpět na původní komunikaci. Pro odjezd z letiště zachován jeden  jízdní pruh. </p>",
-    "lon": 14.2743261399364,
+    "lon": 14.274326139936448,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2407,18 +2574,20 @@
     "name": "Aviatická - rozšíření mostu MÚK s ul. K letišti",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Mgr. Ivan Javašov",
     "responsible_email": "ivan.javasov@praha.eu",
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "94f3702030b6354f5dbe065c0c5c9f8efe6f8b20",
+    "sha1": "877d511fac9d24a1e4eae2800be1468bcdeaa14e",
     "start": "2024-10-01T00:00:00",
     "state": "ACTIVE",
     "street": "Aviatická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2451,17 +2620,20 @@
     "name": "Aviatická - oprava odjezdové komunikace",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Mgr. Ivan Javašov",
     "responsible_email": "ivan.javasov@praha.eu",
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "eacb198977fe34da77cb977a62cab1a9e65d290a",
+    "sha1": "fa004ebd2d088b40a0dd7ea604bcb11b324deb36",
     "start": "2024-10-31T00:00:00",
+    "state": "DONE",
     "street": "Aviatická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2494,18 +2666,20 @@
     "name": "Oprava uličních vpustí v ulici Evropská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1703a8dfef21f8167addc46d74cf95ab1221ebd1",
+    "sha1": "6aed0bc7d917b648eda1b0a8cdac68fdc224ee94",
     "start": "2024-11-04T00:00:00",
     "state": "ACTIVE",
     "street": "Evropská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2538,17 +2712,20 @@
     "name": "Evropská - oprava uličních spustí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Bc. Lenka Čechová",
     "responsible_email": null,
     "responsible_phone": "236 004 392",
     "severity": "GREEN",
-    "sha1": "293508843a8d454eee57f1d3ab965b5cccb76243",
+    "sha1": "739fdfb2de3fcaed4cd592273c394246808ff3c0",
     "start": "2024-11-04T00:00:00",
+    "state": "DONE",
     "street": "Evropská v úseku nádraží Veleslavín - Osamocená",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "6"
     ],
@@ -2569,9 +2746,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "236004392",
     "investor_responsible": "Ing. Jindřich Kaliba",
-    "lat": 50.0979250433592,
+    "lat": 50.097925043359155,
     "limitations": "<p>dopravní omezení v křižovatce s ulicí Gen. Píky</p>",
-    "lon": 14.395687782996,
+    "lon": 14.39568778299602,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -2581,12 +2758,11 @@
     "name": "rekonstrukce kanalizace Svatovítská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "236004392",
     "severity": "YELLOW",
-    "sha1": "9a3d6b029fcb3453196a125b978b2c5abff1f45c",
+    "sha1": "6bbdb307e096e488b66ebb6fe247784198a8c25e",
     "start": "2025-01-15T00:00:00",
     "state": "ACTIVE",
     "street": "Svatovítská (u křižovatky s Gen. Píky)",

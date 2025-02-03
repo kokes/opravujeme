@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18",
       "19"
@@ -33,17 +36,20 @@
     "name": "Festival Prague Rocks na letišti Letňany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 00 4399",
     "severity": "GREEN",
-    "sha1": "300cde55b919ad94d6bf034f6ab89fe6d853ec15",
+    "sha1": "3eb039e479446fdbaa834bf8a40be6c14dcbf0dd",
     "start": "2022-06-22T00:00:00",
+    "state": "DONE",
     "street": "Tupolevova, Beladova a další komunikace v Letňanech a okolí",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "18",
       "19"
@@ -77,17 +83,20 @@
     "name": "Koncert Guns N' Roses na letišti Letňany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "9db79cd75144ca129f80d232afa2240c90e61a39",
+    "sha1": "83cfac55283e1d0ee44f5bbfa959c89084708e58",
     "start": "2022-06-18T00:00:00",
+    "state": "DONE",
     "street": "Tupolevova, Beladova a další komunikace v Letňanech a okolí",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "19"
     ],
@@ -120,17 +129,20 @@
     "name": "Vybudování nového mostního objektu Rosická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "25ebfa1ef134fd3f88cab735766ce5e7f0004f20",
+    "sha1": "7e854593346c1fdf1737dfc1e27579790a84df75",
     "start": "2023-05-22T00:00:00",
+    "state": "DONE",
     "street": "Rosická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "9",
       "18",
@@ -153,9 +165,9 @@
     "investor": "LIVE NATION CZECH REPUBLIC s.r.o.",
     "investor_phone": "777 868 757",
     "investor_responsible": "Miroslav Kerhart",
-    "lat": 50.1367520017534,
+    "lat": 50.13675200175344,
     "limitations": "<p>Viz přiložené situace dopravně inženýrského opatření.</p>",
-    "lon": 14.5165899636841,
+    "lon": 14.516589963684083,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -165,17 +177,20 @@
     "name": "Koncert skupiny Rammstein letiště Letňany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jaroslav Lehký",
     "responsible_email": "Jaroslav.Lehky@praha.eu",
     "responsible_phone": "+420236004389",
     "severity": "GREEN",
-    "sha1": "656c4fb9c02e56c55a512f82a1c1aa524225a955",
+    "sha1": "46f4f1a4a869726f532404aed636520565098561",
     "start": "2024-05-11T11:00:00",
+    "state": "DONE",
     "street": "Tupolevova, Beladova, Listova, Prosecká, Ašská, Beranových, ....",
     "subject": "CULTURAL"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "19"
     ],
@@ -196,9 +211,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": null,
-    "lat": 50.1444646004033,
+    "lat": 50.14446460040326,
     "limitations": "<p>Zákaz vjezdu všech vozidel z ul. Mladoboleslavská do ul. Chaltická. Přesun autobusové zastávky MHD z ul. Chaltická do ul. Klenovská. </p>",
-    "lon": 14.5789563437463,
+    "lon": 14.578956343746285,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -208,13 +223,13 @@
     "name": "Obnova inženýrských sítí před výstavbou okružní křižovatky Mladoboleslavská x Chaltická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Pavla Šafránková",
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "481228ed1227edbec5c134223246c071ad8c011c",
+    "sha1": "20557efb7606f54a2c39729fb72e92a2f1d63c18",
     "start": "2024-10-14T06:00:00",
+    "state": "DONE",
     "street": "Mladoboleslavská, Chaltická, Klenovská, Bohdanečská, Živanická, Velínská",
     "subject": "CONSTRUCTION"
   }

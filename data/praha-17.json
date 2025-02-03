@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "17"
     ],
@@ -32,17 +35,20 @@
     "name": "Rekonstrukce komunikace Žalanského",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "45efb7f2b274337807005fba27a52a1feebaab6b",
+    "sha1": "354c784203c9d12dd1dfb61b27ef476df7032727",
     "start": "2022-04-19T00:00:00",
+    "state": "DONE",
     "street": "Žalanského",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "6",
@@ -65,9 +71,9 @@
     "investor": "Kolo pro život, z.s.",
     "investor_phone": "731613593",
     "investor_responsible": "Mgr. Přemysl Novák",
-    "lat": 50.0783543790396,
+    "lat": 50.078354379039574,
     "limitations": "<p class=\"ql-align-justify\">15.&nbsp;6. 2024 dojde k uzavírce následujících pozemních komunikací v&nbsp;trase závodu na území jednotlivých správních obvodů městských částí Praha 5, 6, 17 (ul. Vaníčkova bude z&nbsp;důvodu výstavby zázemí v místě startu a cíle závodu uzavřena již od 14. 6. 2024):</p><p><br></p><p><strong>Praha 5</strong></p><p>Plzeňská (směr z&nbsp;centra): 12:15 – 15:30 h</p><p>Kukulova (směr Plzeňská): 12:20 – 15:35 h</p><p>Podbělohorská, Spiritka: 12:25 – 15:45 h</p><p><strong>Praha 6</strong></p><p>Vaníčkova: 14. 6. od 14:30 do 24:00 h mimo MHD, 15. 6. od 00:01 do 20:00 h vč. MHD, od&nbsp;20:00 do 24:00 h mimo MHD</p><p>Atletická: 9:30 – 9:40 h, 10:30 – 10:50 h, 12:00 – 12:10 h, 12:25 – 15:45 h</p><p>Skokanská: 9:30 – 9:40 h, 10:30 – 10:55 h, 12:00 – 12:10 h</p><p>Tomanova: 9:30 – 9:45 h, 10:30 – 11:00 h, 12:00 – 12:15 h</p><p>Bělohorská: 9:35 – 9:55 h, 10:35 – 11:10 h, 12:05 – 12:25 h</p><p>Kukulova (směr Plzeňská): 12:20 – 15:35 h</p><p>Podbělohorská, Běžecká, Maratonská, Diskařská, účelové komunikace severně od stadionu Evžena Rošického a&nbsp;Strahovského stadionu: 12:25 – 15:45 h</p><p><strong>Praha 17</strong></p><p>Karlovarská, Na hůrce: 9:35 – 9:55 h, 10:40 – 11:10 h, 12:05 – 12:30 h</p><p>Ke Břvům, Hostivická, Hrozenkovská, Strojírenská, Engelmüllerova, Na Chobotě, Makovského (směr z&nbsp;centra), Plzeňská (směr z&nbsp;centra): 12:15 – 15:30 h</p><p>&nbsp;</p><p class=\"ql-align-justify\">Uvedené časy jsou přibližné. Komunikace se budou otevírat postupně po posledním účastníkovi závodu, nejpozději po uplynutí příslušného časového limitu. Linkové vedení MHD bude upraveno dle&nbsp;příslušného dopravního opatření Dopravního podniku hl. m. Prahy, a.s. (DPP)</p><p><br></p><p>Z&nbsp;důvodu zajištění bezpečnosti a&nbsp;plynulosti provozu v&nbsp;průběhu akce bude na&nbsp;dotčených pozemních komunikacích dočasně zakázáno zastavení silničních vozidel.</p><p><br></p>",
-    "lon": 14.3794640210926,
+    "lon": 14.379464021092588,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -77,17 +83,20 @@
     "name": "L'Etape Czech Republic by Tour de France 2024",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "acaa3a79f690a78681d35b57bc751a6f7df2a915",
+    "sha1": "4bf0cf3894df14c8944ddd8c7970c4267d89df88",
     "start": "2024-06-15T09:15:00",
+    "state": "DONE",
     "street": "komunikace na území správních obvodů MČ Praha 5, 6, 17",
     "subject": "SPORT"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "17"
     ],
@@ -120,17 +129,20 @@
     "name": "Rekonstrukce komunikace Hrozenkovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b47ddc1b0f2e6b549dc35116b62dbd7990d7abc7",
+    "sha1": "0429f936a6edb2204099a0b6b81017952f813955",
     "start": "2023-08-21T00:00:00",
+    "state": "DONE",
     "street": "Hrozenkovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "17"
     ],
@@ -163,12 +175,11 @@
     "name": "rekonstrukce kanalizace Plzeňská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Lenka Čechová",
     "responsible_email": "lenka.cechova@praha.eu",
     "responsible_phone": "236004392",
     "severity": "GREEN",
-    "sha1": "26bdc8e1b11c1b94ab61504ebdecdac9b5ddbecc",
+    "sha1": "b7b022fcfdf57ec3869d75366fafe9a7715f06f5",
     "start": "2024-10-15T00:00:00",
     "state": "ACTIVE",
     "street": "Plzeňská",

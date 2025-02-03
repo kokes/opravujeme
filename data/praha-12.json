@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -32,17 +35,20 @@
     "name": "Úprava křižovatky Generála Šišky x Komořanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana,nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "33fd6f79531a5247f698d2b028fb649db12357e9",
+    "sha1": "aeafbc66f7411d93b4c2f83d004790f3e90cfff4",
     "start": "2021-06-12T00:00:00",
+    "state": "DONE",
     "street": "Generála Šišky, Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -75,17 +81,20 @@
     "name": "Pokládka kabelů kNN, kVN",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f8e5868033da811fec4e0f3c9dd1d2fdcee49115",
+    "sha1": "f06f807235a41e7c7fc15f22e38198160ac76299",
     "start": "2021-10-16T00:00:00",
+    "state": "DONE",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -118,17 +127,20 @@
     "name": "Pokládka kabelů kNN, kVN",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1e64b30ffd3d0835b3d1ad9fc8343d1d6ea89e40",
+    "sha1": "432c628d9d78773bb85821c4452be53c75a4e422",
     "start": "2021-10-23T00:00:00",
+    "state": "DONE",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -161,17 +173,20 @@
     "name": "Pokládka kabelů kNN, kVN",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cf6f6ab980cefad7a2568babf336e7be01ca2519",
+    "sha1": "6ddd9fd680b4fd8bb863e0943a3cb61c6de2bbf1",
     "start": "2021-10-30T00:00:00",
+    "state": "DONE",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -204,17 +219,20 @@
     "name": "Výměna přístřešku zastávky BUS MHD Chýnovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4bed0936c93f34473136efee3bfc79feda97f88a",
+    "sha1": "5eda7e2e7a738c96b5e31a20ca538a119a3048c7",
     "start": "2022-01-10T00:00:00",
+    "state": "DONE",
     "street": "Novodvorská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -247,17 +265,20 @@
     "name": "zastávka tram Poliklinika Modřany",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c25622dd8bb02fe88563074519411e074f5c1e33",
+    "sha1": "7bc55bc29f478512c9f40c78afbc77cbb4ea9d0c",
     "start": "2022-06-27T07:00:00",
+    "state": "DONE",
     "street": "Generála Šišky",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -290,17 +311,20 @@
     "name": "Zrušení podchodu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4dee5acac03fbc356f88c7f24e881c2649d84f6d",
+    "sha1": "b6050eb9af37664ce258f46ba790117153e9a5ce",
     "start": "2022-06-16T00:00:00",
+    "state": "DONE",
     "street": "Novodvorská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -333,17 +357,20 @@
     "name": "Výstavba nové cyklostezky Komořany - Lahovice",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1a96d283cdcb2a715ccc532018be6c294a93e0a4",
+    "sha1": "6a4fa056d06e0ae0307b7073b9ca8d0f2cb81b01",
     "start": "2022-09-05T00:00:00",
+    "state": "DONE",
     "street": "",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -376,17 +403,20 @@
     "name": "Výměna přístřešku zastávky BUS MHD",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7274694c7f46368902b1fc67e42d6d31f37fd4b0",
+    "sha1": "cf182d2c89a585934f765be7b5a7790615110bac",
     "start": "2022-09-23T00:00:00",
+    "state": "DONE",
     "street": "Generála Šišky",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -419,17 +449,20 @@
     "name": "Výměna přístřešku zastávky BUS MHD",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "02954bf6387f983e71152a554f2026896d785615",
+    "sha1": "06caa4b21cef3387d9f1108badad64fed4f67d2f",
     "start": "2022-09-30T00:00:00",
+    "state": "DONE",
     "street": "Generála Šišky",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -462,17 +495,20 @@
     "name": "Generála Šišky - oprava trolejového vedení",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8ec47897a0c5e7a49d5a1a464f3388210f26245d",
+    "sha1": "4fa896b0d2cf6f96a84b5d151b9820b1cbd56938",
     "start": "2023-03-03T00:00:00",
+    "state": "DONE",
     "street": "Generála Šišky",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -505,17 +541,20 @@
     "name": "Obnova plynovodu a rekonstrukce komunikace Komořanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "42bb943951677a0bb268990e7a629c8b1c7cf372",
+    "sha1": "4d74c15ef5d245c1d9b23d00ad04484c78f77573",
     "start": "2023-04-17T00:00:00",
+    "state": "DONE",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -548,17 +587,20 @@
     "name": "Výměna přístřešku zastávky bus Sídliště Lhotka (směr Lhotka)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "27b07c6e3c3342d34da24ac8a235b54f6816187e",
+    "sha1": "ee6bd976412098ab7cd42d11c3affa689e8c4755",
     "start": "2023-06-05T00:00:00",
+    "state": "DONE",
     "street": "Mariánská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -591,17 +633,20 @@
     "name": "Výměna přístřešku zastávky bus Lhotka (směr Sídliště Lhotka)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "67b1e34ee1279e71107581a8c680056b12bf7c4e",
+    "sha1": "1625d7f733659d2a0f9b671b5d3563b54876de64",
     "start": "2023-06-05T00:00:00",
+    "state": "DONE",
     "street": "Mariánská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -634,17 +679,20 @@
     "name": "Pokládka kabelů a výstavba veřejného osvětlení u přechodu pro chodce v ul. Lhotecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "24e6402032fa19cdd4de36acc9edfdda2c43dddd",
+    "sha1": "e816a76b5594c11b9f8f3946f5a07644e2d21e6a",
     "start": "2023-05-02T00:00:00",
+    "state": "DONE",
     "street": "Lhotecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -677,17 +725,20 @@
     "name": "Výkop v ul. Mariánská pro pokládku kabelů ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0e46fa43aea5fd365b16106759050a7afec0c1b8",
+    "sha1": "3e74c4a2cee779fcac3560491060afdd13a18dfa",
     "start": "2023-05-13T00:00:00",
+    "state": "DONE",
     "street": "Mariánská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -720,17 +771,20 @@
     "name": "Výkop a protlak pro uložení chrániček pro pokládku kabelů v ul. Modřanská - Čs. exilu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "1b307f1646ae7e300b58c21843136e2cef93cb17",
+    "sha1": "c081987aa2edc7224fd04dce383622b1d6c9e7ec",
     "start": "2023-06-19T00:00:00",
+    "state": "DONE",
     "street": "Československého exilu",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -751,9 +805,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 972 531",
     "investor_responsible": "Peter Urbánek",
-    "lat": 50.0002399064499,
+    "lat": 50.00023990644989,
     "limitations": "<p>Úplná uzavírka vozovky a dílčí omezení pro chodce.</p>",
-    "lon": 14.4308974089718,
+    "lon": 14.430897408971788,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -763,17 +817,20 @@
     "name": "Rekonstrukce křižovatky Pavelkova x Božetická včetně chodníků",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2b98e048e2f16ba226ff5f1b2a8f6c107599ebca",
+    "sha1": "e470ac6552afac12c14d0a663de5baadd7f4c767",
     "start": "2023-09-25T00:00:00",
+    "state": "DONE",
     "street": "Pavelkova, Božetická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -794,9 +851,9 @@
     "investor": "YIT Stavo s.r.o.",
     "investor_phone": "224 318 261",
     "investor_responsible": "Ing. Procházka",
-    "lat": 50.0220170257408,
+    "lat": 50.022017025740766,
     "limitations": "<p>Zábor pravého jízdního pruhu a přilehlého chodníku z důvodu výstavby stavebního jeřábu v rámci předmětného projektu.</p>",
-    "lon": 14.4394938888645,
+    "lon": 14.439493888864519,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -806,17 +863,20 @@
     "name": "Výstavba BD Hodkovická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "98791264e718deedee08806692b2d37057b90a2c",
+    "sha1": "5d1f1e38fc306d1f632439aa1477d734bc617628",
     "start": "2024-04-22T00:00:00",
+    "state": "DONE",
     "street": "Mariánská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -849,17 +909,20 @@
     "name": "Rekonstrukce zastávek NA ŠABATCE v ulici Komořanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "5af1a6e078d9f783e8daa5eb03e14f480e401ade",
+    "sha1": "a0136ef6f9ae210e8ca0da5e1924b8ce40d91f9c",
     "start": "2024-06-29T00:00:00",
+    "state": "DONE",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -892,17 +955,20 @@
     "name": "OPRAVA PLYNOVODU (ul. GENERÁLA ŠIŠKY, KOMOŘANSKÁ)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "988759b8d8dae449c635fcc2f21a00ce4a1fe6b7",
+    "sha1": "fb148b273792abc4aabff6bda4c35cad24fcd1f5",
     "start": "2024-07-08T00:00:00",
+    "state": "DONE",
     "street": "Komořanská, Generála Šišky",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -935,17 +1001,20 @@
     "name": "Oprava horkovodu v ulici Lhotecká",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "84a96cd93b110bccb90fc7d89d7754049d47977a",
+    "sha1": "45a8a6ba2699af11998b1f8225d2c967a3541b31",
     "start": "2024-07-19T00:00:00",
+    "state": "DONE",
     "street": "Lhotecká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -978,17 +1047,20 @@
     "name": "Rekonstrukce přechodu pro chodce v ulici Československého exilu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e94c0973d4b58a3be3c954b497a792b334a2b595",
+    "sha1": "f3a9d76008b5c34f26d25366d6c021fcea541f5d",
     "start": "2024-07-01T00:00:00",
+    "state": "DONE",
     "street": "Československého exilu",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -1021,17 +1093,20 @@
     "name": "Rekonstrukce komunikace Dolnocholupická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2075b608239032a228ba42fee928b6f943a836c8",
+    "sha1": "ecd2ffa147576cc013603d2624174d170b701f4f",
     "start": "2024-08-09T00:00:00",
+    "state": "DONE",
     "street": "Dolnocholupická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -1052,9 +1127,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 972 531",
     "investor_responsible": "Peter Urbánek",
-    "lat": 50.0013325310768,
+    "lat": 50.00133253107683,
     "limitations": "<p>Úplná uzavírka vozovky v daném úseku.</p>",
-    "lon": 14.4313694777584,
+    "lon": 14.431369477758409,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1064,17 +1139,20 @@
     "name": "Bezbarierová úprava přechodu pro chodce v Ulici Pertoldova u ZŠ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c2a91f25460c04f462db7fe986e1ec7aa03214ed",
+    "sha1": "45e0a34130915f73733100c511f2aba4e46bcb67",
     "start": "2024-08-05T00:00:00",
+    "state": "DONE",
     "street": "Pertoldova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "12"
     ],
@@ -1107,12 +1185,11 @@
     "name": "Oprava uliční vpusti",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Luděk Kortus",
     "responsible_email": "ludek.kortus@praha.eu",
     "responsible_phone": "236004255",
     "severity": "YELLOW",
-    "sha1": "99173b611b8424386d3710491982c0b8b4a400c0",
+    "sha1": "c40cab4e6a25d36a5b53ade40be5a5bff9dfd4f7",
     "start": "2025-01-27T00:00:00",
     "state": "ACTIVE",
     "street": "Lhotecká",

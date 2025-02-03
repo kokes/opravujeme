@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -32,17 +35,20 @@
     "name": "Bezbariérová úprava přechodu pro chodce v ulici Tatarkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d2a41010090919709c06deb795e5848261c05011",
+    "sha1": "2b176e0d3dce78e72bd01d6444fb3588d0f201bf",
     "start": "2022-04-19T00:00:00",
+    "state": "DONE",
     "street": "Tatarkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -75,17 +81,20 @@
     "name": "Výměna přístřešku zastávky BUS MHD Horčičkova (ve směru na Háje)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "4c2ed2065a3d94d35296002ca224cc612bd65820",
+    "sha1": "91e57d33474fb9ccbc18ed8032dee302b85b287f",
     "start": "2023-04-03T00:00:00",
+    "state": "DONE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -118,17 +127,20 @@
     "name": "Oprava lávky pro pěší u stanice metra Háje",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "SSÚ MČ Praha 11 - Ing. Janda",
     "responsible_email": "janda@praha11.cz",
     "responsible_phone": "267 902 559",
     "severity": "YELLOW",
-    "sha1": "c493b863dc7b2caaae7f015b8c542d5c743c0b15",
+    "sha1": "1c8cd688ac908c47648f94edcb05e600d6ad6116",
     "start": "2023-06-01T06:01:00",
+    "state": "DONE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -161,17 +173,20 @@
     "name": "Rekonstrukce schodiště v ul. Šalounova k P+R",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9b3d4731446206e882e6655a397bdd2737bee8c1",
+    "sha1": "38f97835f8b242d420bc2ce398431f6bb7ac01ba",
     "start": "2023-07-03T00:00:00",
+    "state": "DONE",
     "street": "Šalounova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -204,17 +219,20 @@
     "name": "Oprava lávky x582 přes ulici Opatovská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ea175620fe21bf7bb63f20214800c71529f0689e",
+    "sha1": "8e1cc816e2492a0566898b726bc144473585902b",
     "start": "2023-05-23T00:00:00",
+    "state": "DONE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -247,17 +265,20 @@
     "name": "Oprava povrchu zastávky BUS MHD Jarníkova (ul. Roztylská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "41c561d883ec22cf8a6df82aad8ee3da49de60cf",
+    "sha1": "00b4ce432e3e77edd796f41bb2d0c7f4fa993359",
     "start": "2023-09-18T00:00:00",
+    "state": "DONE",
     "street": "Roztylská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -290,17 +311,20 @@
     "name": "Výstavba protihlukové stěny Šeberov (ul. Brněnská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "d28e64ee28f515cde875e25d6a699da82ce87d29",
+    "sha1": "dc1abb554d9b6b4052461529122c70c000acb48f",
     "start": "2023-09-17T00:00:00",
+    "state": "DONE",
     "street": "Brněnská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -333,17 +357,20 @@
     "name": "Rekonstrukce parkovací plochy v ulici Radimovická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d199b8517991ba6e07e0a1a8c0d5e2cd0c0cc6c0",
+    "sha1": "8afcc2f6204503365ff1d704881049d61a713690",
     "start": "2023-09-15T00:00:00",
+    "state": "DONE",
     "street": "Radimovická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -376,17 +403,20 @@
     "name": "Výstavba protihlukové stěny Formanská (ul. Brněnská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "4d3bb61cac8b92f7ecd00179511e47d61cd77f12",
+    "sha1": "a0e885851a7d8e81ce23b8fc92537f6d44d22428",
     "start": "2023-10-09T00:00:00",
+    "state": "DONE",
     "street": "Brněnská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -419,17 +449,20 @@
     "name": "Brněnská - dobíjecí stanice PRE",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236004397",
     "severity": "GREEN",
-    "sha1": "f7bf43f66e5ae7231766efdad459cb91acb9305a",
+    "sha1": "4953794c52874e31c0264600d20503cdb5c1f342",
     "start": "2024-03-16T00:00:00",
+    "state": "DONE",
     "street": "Brněnská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -450,9 +483,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 972 531",
     "investor_responsible": "Peter Urbánek",
-    "lat": 50.015100716176,
+    "lat": 50.01510071617601,
     "limitations": "<p>Částečná uzavírka části komunikace (po polovinách) a úplná uzavírka části chodníku v místě stavebních prací.</p>",
-    "lon": 14.5404144170216,
+    "lon": 14.540414417021594,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -462,17 +495,20 @@
     "name": "Nový přechod pro chodce včetně přisvětlení u ZŠ v ulici Formanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9c95a429ba0cda53ea81db0d10d6db9b111b8e59",
+    "sha1": "1750448cc31ec6d3ee5baaaa577e47b1ad282220",
     "start": "2023-10-20T00:00:00",
+    "state": "DONE",
     "street": "Formanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -505,17 +541,20 @@
     "name": "Protihluková stěna Formanská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "42621957bc6e6d2f6f55f1ac16dba715537fa565",
+    "sha1": "d4f5a9d8cf86331230f9be6a4deef2ed5029b8ff",
     "start": "2024-02-26T00:00:00",
+    "state": "DONE",
     "street": "Brněnská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -536,9 +575,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "724 053 757",
     "investor_responsible": "Ždichová",
-    "lat": 50.0393175752112,
+    "lat": 50.03931757521116,
     "limitations": "<p>Zábor pravého jízdního pruhu na předmětném sjezdu.</p>",
-    "lon": 14.4816206636524,
+    "lon": 14.48162066365245,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -548,17 +587,20 @@
     "name": "Stavební úpravy uliční vpusti - NN21 (sjezd z 5. května do ul. Ryšavého)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "bf0c6b19d26b8430c455f42c381b8cc5374dde83",
+    "sha1": "eb04ed6ebabd81619a2df01e5c95fae4179ab602",
     "start": "2024-03-11T00:00:00",
+    "state": "DONE",
     "street": "Ryšavého",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -591,17 +633,20 @@
     "name": "Obytný soubor Výstavní",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "6ae38f444f72e5d09d2fc4f31680664c0d418e4a",
+    "sha1": "b7aabb507954b0d46b7125a8271b54a6bc01cccc",
     "start": "2024-07-08T00:00:00",
+    "state": "DONE",
     "street": "Výstavní",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -634,18 +679,20 @@
     "name": "Rekonstrukce podchodu pod ulicí Türkova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "50d3e2d4b61babeab8bbb6e6194029e2a5362657",
+    "sha1": "3c762c84d2f40a59e522c7d46ec0326ba87801da",
     "start": "2024-06-08T00:00:00",
     "state": "ACTIVE",
     "street": "Türkova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -678,17 +725,20 @@
     "name": "Oprava horkovodu v oblasti ulice Pod Chodovem",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "77a883efecd101f1146065d1a7f454f6995a170a",
+    "sha1": "739611bd3d44745f01aa713cd3fc619eac13b7d3",
     "start": "2024-06-12T00:00:00",
+    "state": "DONE",
     "street": "Pod Chodovem, sjízdná rampa Pod Chodevem z 5.května/Brněnská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -709,9 +759,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "257 015 111",
     "investor_responsible": "Zach",
-    "lat": 50.0318371144756,
+    "lat": 50.03183711447558,
     "limitations": "<p><span style=\"color: black;\">Během této akce dojde v&nbsp;daném směru k&nbsp;záboru pravého jízdního pruhu a zálivu zastávky. Daná zastávka bude posunuta proti směru jízdy.&nbsp;</span></p>",
-    "lon": 14.5338191332912,
+    "lon": 14.533819133291246,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -721,17 +771,20 @@
     "name": "Oprava zastávky Horčičkova (v ul. Opatovská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "962682bf7c4910197458f668f42062ad994ebb26",
+    "sha1": "0a59fa24350bb10bb776cff9f4e118e673a8d292",
     "start": "2024-07-17T00:00:00",
+    "state": "DONE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -764,17 +817,20 @@
     "name": "Realizace bezbariérových přechodů pro chodce v ulici Mírového hnutí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "90fbe9df3337f6349579cce2a4bdf1f1af5809b4",
+    "sha1": "5cca1ed1511a7acf5cf0fcc114dc0029d9d87312",
     "start": "2024-08-26T00:00:00",
+    "state": "DONE",
     "street": "Mírového hnutí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -807,17 +863,20 @@
     "name": "OPRAVA SEMAFORŮ - OPATOVSKÁ X BAJKONURSKÁ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e9244faaaa342b19f4fe4b82d69125497f032357",
+    "sha1": "889ce313c5eccaafa387200772a367234f191f7b",
     "start": "2024-10-02T09:00:00",
+    "state": "DONE",
     "street": "Opatovská, Bajonruská, Arkalycká",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -850,17 +909,20 @@
     "name": "Oprava zastávky Na Jelenách (v ul. Roztylská)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "9433781509f5fb3709f90f1fdbbe5aac90ea6dfd",
+    "sha1": "0be1cb0a23c26b129f78a89d57c08a5dd26ca794",
     "start": "2024-10-14T00:00:00",
+    "state": "DONE",
     "street": "Roztylská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -893,17 +955,20 @@
     "name": "Realizace bezbariérových přechodů pro chodce v ulici U Chodovského hřbitova",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8ee715fcb16988fe466d9a75a0ac57082143c035",
+    "sha1": "cb0a67d1746410518025a72060e429541d6d54f9",
     "start": "2024-09-30T00:00:00",
+    "state": "DONE",
     "street": "U Chodovského hřbitova",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "11"
     ],
@@ -936,17 +1001,20 @@
     "name": "NOVÁ PĚŠÍ LÁVKA OPATOVSKÁ",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "de5a7b1dfd6036ad806a69848a59d56a585b8908",
+    "sha1": "88c14112217ed45ef65a1500905a6dcd943d9f72",
     "start": "2024-11-30T04:30:00",
+    "state": "DONE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "4",
       "11"
@@ -980,12 +1048,11 @@
     "name": "Kunratická spojka - uložení napájecího kabelu pro ražbu metra",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "7e01dfd2e95ca89bb0159f92e1d279a46cefa90d",
+    "sha1": "9379a5cc21ae105af364c650a6f0b04814b7e8c2",
     "start": "2024-11-12T00:00:00",
     "state": "ACTIVE",
     "street": "Kunratická spojka",

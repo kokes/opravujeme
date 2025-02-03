@@ -1,5 +1,8 @@
 [
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -32,17 +35,20 @@
     "name": "Rekonstrukce křižovatky - Pod Klapicí, Karlická",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236004436",
     "severity": "YELLOW",
-    "sha1": "22e520e6f3ac4c1d7cd69c110ab72190f19adb10",
+    "sha1": "5a8338b0ee29828555aeb460bc9d1b141ff9eab3",
     "start": "2021-03-15T00:00:00",
+    "state": "DONE",
     "street": "Náměstí Osvoboditelů, Pod Klapicí, Karlická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -75,17 +81,20 @@
     "name": "Oprava opěrné zdi",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a8b47b5d4d2e4101c22df22e238b1a2d4b4bdb59",
+    "sha1": "27922b696caa4716fde900b5d99916861a764e8d",
     "start": "2021-04-01T00:00:00",
+    "state": "DONE",
     "street": "Zderazská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -118,17 +127,20 @@
     "name": "Oprava komunikace",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "73d16daf9bba311a8bbbde06a8f39c2ed56608cc",
+    "sha1": "70da8326494e4ec7d22565e1d092d26122f0db1e",
     "start": "2021-07-01T00:00:00",
+    "state": "DONE",
     "street": "Strakonická - nájezdové rampy na Pražský okruh",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -161,17 +173,20 @@
     "name": "Optimalizace trati Praha-Smíchov - Černošice",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "efb486bc9ff29ae40fefdf09152dfaf70255dd17",
+    "sha1": "d99a9c16cf970fc14e61516f72918ee53655fcba",
     "start": "2021-04-16T22:00:00",
+    "state": "DONE",
     "street": "Horymírovo náměstí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -204,17 +219,20 @@
     "name": "Oprava opěrné zdi a zpevnění skály",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "7fb801a1263c62e5de84deb729324fd3f4e19dc3",
+    "sha1": "87ee70708656bf3940c029a42b722a46ef688694",
     "start": "2022-03-02T00:00:00",
+    "state": "DONE",
     "street": "Komořanská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -247,17 +265,20 @@
     "name": "Údržba mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8f3abe3be00f809909a39b967a6f45c3aed92dd8",
+    "sha1": "216a3d9059e252cde5f5f7dc4b1e69d2e9f80f80",
     "start": "2021-10-22T00:00:00",
+    "state": "DONE",
     "street": "K Cementárně",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -290,17 +311,20 @@
     "name": "Přípojky inž. sítí k RD",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "07dc4ecbde97ef0db0fd0f7ebd1b51198f4576df",
+    "sha1": "49aa237ebbeca2ef3a37ff0accb0d17570ccdd1b",
     "start": "2021-10-25T00:00:00",
+    "state": "DONE",
     "street": "K Cementárně",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -333,17 +357,20 @@
     "name": "Oprava AB vozovky MÚK Zbraslav",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ministerstvo dopravy - Ing. Martin Janeček",
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1846132ccfe1cef510a310fb81efced57b119d91",
+    "sha1": "46bd95e84d535f1e161e7c4c4c4fc8910edc4a01",
     "start": "2021-10-30T00:00:00",
+    "state": "DONE",
     "street": "D0 MÚK Zbraslav Exit 10, Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -376,17 +403,20 @@
     "name": "Výměna přístřešku zastávky BUS MHD Dostihová",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "eda459933fed3ecfbda04c826bc216ac28fc8cd2",
+    "sha1": "cbb7ed5ee0790abca561ab5f2d0db40a7d30d27b",
     "start": "2022-01-17T00:00:00",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -419,17 +449,20 @@
     "name": "Odstranění billboardu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "a928f00efed89412b198694e8fe57cedc19880dc",
+    "sha1": "ada2da979420a5a64efebc0f1658035ea7d03f8c",
     "start": "2022-04-23T06:00:00",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -462,17 +495,20 @@
     "name": "Stavební údržba mostu V034",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "13f117418c07a8382eb9d550ba279c627962b3e0",
+    "sha1": "3776de15d11426f6a23fba50be1f316af916a1df",
     "start": "2022-04-27T00:00:00",
+    "state": "DONE",
     "street": "K Přehradám",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -505,17 +541,20 @@
     "name": "Rekonstrukce tlakové kanalizace",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3e21af405c8a71b06fd288e74301fc982dbc08cb",
+    "sha1": "72e7b27542fde32a9bc3adc3a0facc9339548358",
     "start": "2022-07-04T00:00:00",
+    "state": "DONE",
     "street": "Zderazská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -548,17 +587,20 @@
     "name": "rekonstrukce mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "29ae0184fa4e4dceedfd5bdc5913003af2d66932",
+    "sha1": "cede29edc8fea7a3c97b10ac66a6d5346bf36342",
     "start": "2022-07-13T00:00:00",
+    "state": "DONE",
     "street": "K Cementárně",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "16"
@@ -592,17 +634,20 @@
     "name": "Strakonická - rozšíření komunikace - II. etapa",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "7bd3bcb0b89ccf0387b1cdbe04f3d9d11a09c39e",
+    "sha1": "b6454f254344ae686a2511637f1d47fc49ff4c77",
     "start": "2022-07-27T00:00:00",
+    "state": "DONE",
     "street": "Strakonická, Mezichuchelská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -635,17 +680,20 @@
     "name": "Rekonstrukce parkoviště Nám. Osvoboditelů",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8b87032d846c6270ee6246d41b2c1b16688d8801",
+    "sha1": "0db71014e5e323aed8dca30f2431adcb27dca57f",
     "start": "2022-08-22T00:00:00",
+    "state": "DONE",
     "street": "Náměstí Osvoboditelů",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -678,17 +726,20 @@
     "name": "Rekonstrukce komunikace K Radotínu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cb17b6adc720bc9ec9888d863723a639cc50b697",
+    "sha1": "1cf9fd3e6da6ea622cca84d934ac9dbed462990f",
     "start": "2022-10-25T00:00:00",
+    "state": "DONE",
     "street": "K Radotínu",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -721,17 +772,20 @@
     "name": "cvičení stavby mobilních hrazení PPO",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "60822d3c9a44c81ba4c0cd8ff8a5144bed517a91",
+    "sha1": "5450a607b7cbea54c2372ef66e28584dc7239880",
     "start": "2022-10-21T18:00:00",
+    "state": "DONE",
     "street": "Výpadová, Věštínská, U Jankovky, Šárovo kolo",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -764,17 +818,20 @@
     "name": "Stavební údržba mostu Závodu Míru",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "cac2a486ed59724b2da9001244a565971143afd6",
+    "sha1": "80a0e593cad1c76825f96ca944868ce518b620da",
     "start": "2023-02-27T00:00:00",
+    "state": "DONE",
     "street": "Most Závodu Míru",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -807,17 +864,20 @@
     "name": "Strakonická - demontáž billboardu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0d65a836b53f98beb65e13d8eec2b62bf32fc388",
+    "sha1": "88c6e0ef88f854ab403ccc0e794f059542c70198",
     "start": "2023-03-18T07:00:00",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -850,17 +910,20 @@
     "name": "Uložení inženýrských sítí - ul. Strakonická (Zbraslav)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b6d965efc7f434029499dd640c857482816f72af",
+    "sha1": "9a656c9a2935bd06eae4d8b2731a43a21c7911a4",
     "start": "2023-04-12T00:00:00",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -893,17 +956,20 @@
     "name": "Výstavba lávky pro pěší na nám. Osvoboditelů",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "c47e2ae480c7fadcc75f9f28d69a34b73d42f2f9",
+    "sha1": "72de29572c883dd774739d7d60313107bb6f6346",
     "start": "2023-05-06T00:00:00",
+    "state": "DONE",
     "street": "náměstí Osvoboditelů",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -936,17 +1002,20 @@
     "name": "Cvičení výstavby mobilních hrazení PPO v ul. Strakonická (Velká Chuchle)",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "16c94453206fa0f46604f0a45132377dbab056a3",
+    "sha1": "1ce23973f34e1927ef8ab452e622fa46e9a89f37",
     "start": "2023-05-27T14:00:00",
+    "state": "DONE",
     "street": "Strakonická, Mezichuchelská, Dostihová",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -979,17 +1048,20 @@
     "name": "Doplnění VO podél ul. K Přehradám v lokalitě Strnady",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Ing. Jana Nedbalová",
     "responsible_email": "jana.nedbalova@praha.eu",
     "responsible_phone": "236 004 436",
     "severity": "GREEN",
-    "sha1": "949b70c56948162353e0fb7a981cc436d0bd47d5",
+    "sha1": "a878a49887811161b5602f0a08d451e5d8c64bd4",
     "start": "2023-05-22T00:00:00",
+    "state": "DONE",
     "street": "K Přehradám",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -1022,17 +1094,20 @@
     "name": "Stavební údržba mostu Závodu míru",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Bc. Denisa Kolářová",
     "responsible_email": "denisa.kolarova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "9adc339ca6a5ac029ef20d2694ac4f9b27c4b695",
+    "sha1": "9e061a3bf9757e6efafbca92e125ba861d7defff",
     "start": "2023-08-01T00:00:00",
+    "state": "DONE",
     "street": "most Závodu míru",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -1065,17 +1140,20 @@
     "name": "Výstavba protihlukových stěn v ulici Strakonická a Dostihová",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e7c14868142244ba2cddaefb007bc4bf904678b3",
+    "sha1": "a43f2b7d8e2d113cde01d6c260f2dbbdc3fc79ea",
     "start": "2023-09-18T00:00:00",
+    "state": "DONE",
     "street": "Strakonická, Dostihová",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "16"
@@ -1109,17 +1187,20 @@
     "name": "Zdvojkolejnění Branického mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Mgr. Ivan Javašov",
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "8f2c4ce1784cace8981da47538a9fd28a6d6ebca",
+    "sha1": "122f22541b0eace62b098df19138ad800b25a4b2",
     "start": "2023-09-26T00:00:00",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "5",
       "16"
@@ -1153,17 +1234,20 @@
     "name": "Zdvojkolejnění Branického mostu",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Mgr. Ivan Javašov",
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "8831ac1f1098b0bc226d8c478332f0ffe9ded0b8",
+    "sha1": "636adf2232081b9c5d90c8ff1e32ef18aa90b951",
     "start": "2023-09-26T00:00:00",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -1196,17 +1280,20 @@
     "name": "Lahovický most - stavební údržba",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2cd423792ad2926d0cd0a615c8275e48b36bdcb6",
+    "sha1": "324476ca7dd9a24968cd9e9be4391a1325fc1f94",
     "start": "2024-04-06T00:00:00",
+    "state": "DONE",
     "street": "Lahovický most, Lahovičky - přes Berounku..1,2, Praha 16",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -1239,17 +1326,20 @@
     "name": "Stavba podchodu pod ulicí Strakonická spojující ulice Lesáků a Za Dálnicí",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dd74b591d08fd049fed37207f21bce905068e325",
+    "sha1": "053cb60ef75858958f9ea395532c9b496549e965",
     "start": "2024-04-16T00:00:00",
+    "state": "DONE",
     "street": "Strakonická, Lesáků, Za Dálnicí",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -1270,9 +1360,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": "722 972 531",
     "investor_responsible": "Peter Urbánek",
-    "lat": 49.9672639494044,
+    "lat": 49.96726394940441,
     "limitations": "<p>Omezení průchodu nárožím Paškova – Elišky Přemyslovny.</p>",
-    "lon": 14.3863456489971,
+    "lon": 14.38634564899715,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1282,17 +1372,20 @@
     "name": "Přisvícení přechodu Elišky Přemyslovny – Lomařská",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f3b6d41645e457ef3d16df0f82ba4631441777cc",
+    "sha1": "73a7878f92944928be5daab0d01527cf848ef3bb",
     "start": "2024-10-14T00:00:00",
+    "state": "DONE",
     "street": "Elišky Přemyslovny, Lomařská",
     "subject": "CONSTRUCTION"
   },
   {
+    "approved": true,
+    "approvedat": "2025-01-31T15:28:24.547182",
+    "approvedby": null,
     "city_part": [
       "16"
     ],
@@ -1313,9 +1406,9 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": null,
-    "lat": 49.9537758731361,
+    "lat": 49.95377587313609,
     "limitations": null,
-    "lon": 14.3769259991741,
+    "lon": 14.37692599917412,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
@@ -1325,13 +1418,13 @@
     "name": "Strakonická - výstavba podchodu Baně",
     "priority": false,
     "promoted": false,
-    "resource_uri": "",
     "responsible": "Mgr. Ivan Javašov",
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "6692787130122b6a2b9119b95b05a6063d23ec4a",
+    "sha1": "3b34c1414ca0ca669b4e0f65596f14c32c19b6db",
     "start": "2024-10-28T00:00:00",
+    "state": "DONE",
     "street": "Strakonická ",
     "subject": "CONSTRUCTION"
   }
