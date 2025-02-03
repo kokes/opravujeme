@@ -1,12 +1,12 @@
-import json
 import hashlib
+import json
 import logging
 import os
 from collections import defaultdict
 from glob import glob
-from urllib.request import urlopen, Request
+from urllib.request import urlopen
 
-URL = "https://opravujeme.to/api/action/"
+URL = "https://opravujeme.to/api/action"
 TDIR = "data"
 
 if __name__ == "__main__":
@@ -23,24 +23,12 @@ if __name__ == "__main__":
     existing_ids = set(existing_data.keys())
     logging.info("Nahral jsem %d ids z existujiciho dumpu", len(existing_ids))
 
-    qs = "?limit=100"
-    data = []
-    total = None
-    while True:
-        r = Request(URL + qs)
-        logging.info("oteviram %s", r.full_url)
-        with urlopen(r) as req:
-            page = json.load(req)
-            data.extend(page["objects"])
-            if not total:
-                total = page["meta"]["total_count"]
-
-            if not page["meta"]["next"]:
-                break
-            qs = page["meta"]["next"]
-
-    if len(data) != total:
-        raise IOError(f"cekali jsme {total} elementu, mame {len(data)}")
+    logging.info("oteviram %s", URL)
+    with urlopen(URL) as req:
+        raw = json.load(req)
+        assert raw.keys() == {"count", "data"}, raw.keys()
+        data = raw["data"]
+        total = raw["count"]
 
     downloaded_data = {j["id"]: j for j in data}
     downloaded_ids = set(downloaded_data.keys())
