@@ -5831,9 +5831,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236004399",
     "severity": "GREEN",
-    "sha1": "e0c2c2451cfef457ed3c3d2511ae7dec94f4a62c",
+    "sha1": "d25ac847b9e29221a779279848654c83f55d98d7",
     "start": "2025-02-08T06:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Chotkova",
     "subject": "CONSTRUCTION"
   }
