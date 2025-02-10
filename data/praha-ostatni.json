@@ -37,9 +37,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a34b6d0505fecdced05ef32e916366752ab002c9",
+    "sha1": "a15c697e162b79463af681ee0e955dd217bb162b",
     "start": "2025-02-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Rohanské nábřeží",
     "subject": "CONSTRUCTION"
   }
