@@ -3572,7 +3572,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-02-11T13:09:02.990797",
+    "approvedat": "2025-02-12T10:15:33.715671",
     "approvedby": 12,
     "city_part": [
       "7"
@@ -3591,7 +3591,7 @@
     "hidden": false,
     "id": 2020,
     "internal_id": null,
-    "investor": "Nový investor",
+    "investor": "Akademie múzických umění v Praze",
     "investor_phone": "234 244  511",
     "investor_responsible": "Mgr. et MgA. Tereza Czesany Dvořáková, Ph.D.",
     "lat": 50.10085025678448,
@@ -3601,7 +3601,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-02-11T13:09:02.990770",
+    "modified": "2025-02-12T10:15:33.715646",
     "modifiedby": "monika.vochozkova@praha.eu",
     "name": "Parkování vozidel zásobování - FAMUFEST 2025",
     "priority": false,
@@ -3610,7 +3610,7 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "40d5c97c73842830a9c1e506a622e8692c83da74",
+    "sha1": "d4d85f161ee14e69b9618e7dcf766207515b2406",
     "start": "2025-03-01T00:00:00",
     "state": "FUTURE",
     "street": "Veletržní",
