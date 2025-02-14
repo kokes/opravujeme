@@ -2133,7 +2133,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-02-07T12:38:33.943563",
+    "approvedat": "2025-02-13T07:35:01.795951",
     "approvedby": 52,
     "city_part": [
       "9",
@@ -2153,7 +2153,7 @@
     "hidden": false,
     "id": 2013,
     "internal_id": null,
-    "investor": "Nový investor",
+    "investor": "PROFI EMG s.r.o.",
     "investor_phone": "725279990",
     "investor_responsible": "Martin Urban",
     "lat": 50.125709772277645,
@@ -2163,7 +2163,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-02-07T12:38:33.943518",
+    "modified": "2025-02-13T07:35:01.795925",
     "modifiedby": "pavla.safrankova@praha.eu",
     "name": "Demontáž vodičů nadzemního el.vedení VN",
     "priority": false,
@@ -2172,9 +2172,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236 00 7499",
     "severity": "GREEN",
-    "sha1": "bc5854eb99d3dcddd73ab31700cfad80c5b67230",
+    "sha1": "ad677a07b1fcfdc133f498b7972bf7b3a659502c",
     "start": "2025-02-12T08:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Kbelská",
     "subject": "CONSTRUCTION"
   },
