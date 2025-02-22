@@ -3469,7 +3469,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-02-13T13:38:39.908862",
+    "approvedat": "2025-02-21T10:29:00.176147",
     "approvedby": 34,
     "city_part": [
       "4"
@@ -3492,13 +3492,13 @@
     "investor_phone": null,
     "investor_responsible": "Petr Koliska",
     "lat": 50.000063985674316,
-    "limitations": "<p>Realizace stezky bude rozdělena na tři etapy.</p>",
+    "limitations": "<p>Realizace stezky bude rozdělena na tři etapy:</p><p>1. etapa: Na Okruhu: 24. 2. – 30. 4. 2025 (zábor vozovky v jižní části proti objektu č. p. 389/13 bude ukončen dříve, a to do 2. 3. 2025)</p><p>2. etapa: Na Okruhu: 3. 3. – 3. 4. 2025</p><p>3. etapa: Hoštická: 4. 4. – 30. 4. 2025</p>",
     "lon": 14.461714625358583,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-02-13T13:38:39.908837",
+    "modified": "2025-02-21T10:29:00.176121",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Vybudování nové stezky pro pěší a cyklisty Hoštická - Na Okruhu",
     "priority": false,
@@ -3507,7 +3507,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "60439ca8d02325fd4c1dad55058314d65a95bd0f",
+    "sha1": "0e61fec4ef129c8bcacab2115749ce4db3f0e1b3",
     "start": "2025-02-24T00:00:00",
     "state": "FUTURE",
     "street": "Hoštická, Na Okruhu",
