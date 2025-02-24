@@ -3614,9 +3614,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "39620b7add83607eb27a5674138bb3d5b2a67fa2",
+    "sha1": "aa0ba022993b30e38414d2ffd008976adeef6de5",
     "start": "2025-02-22T06:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Rohanské nábřeží",
     "subject": "CULTURAL"
   },

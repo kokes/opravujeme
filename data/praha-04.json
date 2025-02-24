@@ -3507,9 +3507,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0e61fec4ef129c8bcacab2115749ce4db3f0e1b3",
+    "sha1": "691b7dc46a4ab21d4d54aae5d87c4334f2ce5d39",
     "start": "2025-02-24T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Hoštická, Na Okruhu",
     "subject": "CONSTRUCTION"
   },
