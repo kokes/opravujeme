@@ -2226,7 +2226,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-02-21T10:59:27.213062",
+    "approvedat": "2025-02-24T08:57:41.321347",
     "approvedby": 34,
     "city_part": [
       "9"
@@ -2249,13 +2249,13 @@
     "investor_phone": null,
     "investor_responsible": "Bc. Petra Pavlasová",
     "lat": 50.09370098221204,
-    "limitations": "<p>Po etapách - bude upřesněno.</p>",
+    "limitations": "<p>1. etapa: úsek Pod Táborem – most přes železniční trať (po křížení s&nbsp;ulicí Jahodnická:</p><ul><li>3. 3.&nbsp;– 10. 4. 2025: pravý jízdní pruh ve směru z centra</li><li>11. 4. – 1. 5. 2025: prostřední pruh</li><li>2. 5. – 13. 7. 2025: pravý jízdní pruh ve směru do centra</li></ul><p><br></p>",
     "lon": 14.52171564102173,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-02-21T10:59:27.213037",
+    "modified": "2025-02-24T08:57:41.321320",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Českobrodská",
     "priority": false,
@@ -2264,7 +2264,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "0ead5d7bd8d15ea9affa1477ff2c9733c0d5fc62",
+    "sha1": "d8a76004c94551bb50646ef7165d7fed41aa9daa",
     "start": "2025-03-03T00:00:00",
     "state": "FUTURE",
     "street": "Českobrodská",
