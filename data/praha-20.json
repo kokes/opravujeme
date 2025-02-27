@@ -231,7 +231,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-02-25T08:04:16.201429",
+    "approvedat": "2025-02-26T08:54:24.030324",
     "approvedby": 52,
     "city_part": [
       "20"
@@ -260,16 +260,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-02-25T08:04:16.201390",
+    "modified": "2025-02-26T08:54:24.030297",
     "modifiedby": "pavla.safrankova@praha.eu",
-    "name": "Obnova kVN, kNN, OPTO",
+    "name": "Obnova inženýrských sítí v ul. Náchodská",
     "priority": false,
     "promoted": false,
     "responsible": "Pavla Šafránková",
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "8907ab6bffaa8e518b84fb11a642ef1c3dcb2cde",
+    "sha1": "cb15f6353ed626fa26bdae4f3d86ac91f370d344",
     "start": "2025-03-01T00:00:00",
     "state": "FUTURE",
     "street": "Náchodská",
