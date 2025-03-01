@@ -2670,9 +2670,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6aed0bc7d917b648eda1b0a8cdac68fdc224ee94",
+    "sha1": "1bee70e693bacaaa60c7fbd22f5ea514302cb68d",
     "start": "2024-11-04T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Evropská",
     "subject": "CONSTRUCTION"
   },

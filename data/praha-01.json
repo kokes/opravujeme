@@ -5321,9 +5321,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "2d8834263b0892fbcec50b4f11f7573d3df9dd13",
+    "sha1": "4293e2a64bda0b630c752b96698a65ff6e279fb0",
     "start": "2024-07-29T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Divadelní",
     "subject": "OTHERS"
   },
@@ -5831,9 +5831,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236004399",
     "severity": "GREEN",
-    "sha1": "d25ac847b9e29221a779279848654c83f55d98d7",
+    "sha1": "cf9126c02ac1d9253f6531805bb0c2c6bde91511",
     "start": "2025-02-08T06:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Chotkova",
     "subject": "CONSTRUCTION"
   },
