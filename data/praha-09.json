@@ -2264,9 +2264,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "08532c68bda5277e6976a786ed284212fc0db16c",
+    "sha1": "b700c2225dfe459a457cd93c5007042574377bb8",
     "start": "2025-03-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },
@@ -2356,9 +2356,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "ed94bc10f8f03add7c8034a9d8d52e03c7304b88",
+    "sha1": "acf7c4c3e2b2373174b18b7c78f48182b261547f",
     "start": "2025-03-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Českobrodská, úsek Pod Táborem - Jahodnická",
     "subject": "CONSTRUCTION"
   },

@@ -3312,9 +3312,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "tel 267 093 291",
     "severity": "GREEN",
-    "sha1": "ac40bb7ee3bf3bce24d06e2402c923848e869963",
+    "sha1": "b9162a39844bf480c568cc0461337595526952a2",
     "start": "2025-03-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   },
@@ -3358,9 +3358,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "tel 267 093 291",
     "severity": "YELLOW",
-    "sha1": "6d99258e2a648cd82213262d491f16914497aaf6",
+    "sha1": "c099a92ab8201749c3ca40cdc85f48d72097f6c2",
     "start": "2025-03-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "U Záběhlického zámku",
     "subject": "CONSTRUCTION"
   }
