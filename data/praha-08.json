@@ -2143,7 +2143,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-03-05T18:13:29.022535",
+    "approvedat": "2025-03-10T14:21:32.723172",
     "approvedby": 34,
     "city_part": [
       "8"
@@ -2154,7 +2154,7 @@
     "created": "2024-04-05T11:13:00.697117",
     "createdby": "ivan.siler@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p class=\"ql-align-justify\">Rekonstrukce komunikace <strong>Ďáblická, v&nbsp;úseku U Parkánu&nbsp;- K&nbsp;Lomu</strong>, včetně&nbsp;příslušných křižovatek,&nbsp;v&nbsp;zastavěné části obce. V&nbsp;rámci akce bude vyměněna konstrukce vozovky stávající komunikace s krytem z&nbsp;asfaltového betonu, provedeno vyrovnání a výměna poškozených obrub vč. opravy prvků odvodnění (uličních vpustí a jejich přípojek), stavební úprava plochy ve styku&nbsp;ulic Ďáblická - U Parkánu, nové přechody pro chodce a úprava veřejného osvětlení (posun&nbsp;1 stožáru veřejného osvětlení, úprava kabel. vedení veřejného osvětlení).&nbsp;Součástí stavby je rekonstrukce zastávky&nbsp;MHD BUS „K Letňanům“ ve směru do centra a obnova dopravního značení. Úpravy chodníků (ve správě MČ Ďáblice) nejsou předmětem stavby TSK.</p><p>  </p><p><br></p><p>V roce 2024 byl zrealizován úsek K lomu Konětopská.</p><p>Úsek Konětopská – U Parkánu (Kostelecká) se již&nbsp;v&nbsp;2024 realizovat nestihl (z&nbsp;důvodu odstraňování havarijních soukromých objektů v&nbsp;blízkosti komunikace). Tento úsek bude proveden v&nbsp;roce 2025, předpoklad zahájení prací 30. 4. 2025. </p><p>Kolaudace&nbsp;celého plánovaného úseku K&nbsp;Lomu – U Parkánu je v průběhu&nbsp;2025.&nbsp;</p>",
+    "description": "<p class=\"ql-align-justify\">Rekonstrukce komunikace <strong>Ďáblická, v&nbsp;úseku U Parkánu&nbsp;– K&nbsp;Lomu</strong>, včetně&nbsp;příslušných křižovatek,&nbsp;v&nbsp;zastavěné části obce. V&nbsp;rámci akce bude vyměněna konstrukce vozovky stávající komunikace s krytem z&nbsp;asfaltového betonu, provedeno vyrovnání a výměna poškozených obrub vč. opravy prvků odvodnění (uličních vpustí a jejich přípojek), stavební úprava plochy ve styku&nbsp;ulic Ďáblická - U Parkánu, nové přechody pro chodce a úprava veřejného osvětlení (posun&nbsp;1 stožáru veřejného osvětlení, úprava kabel. vedení veřejného osvětlení).&nbsp;Součástí stavby je rekonstrukce zastávky&nbsp;MHD BUS „K Letňanům“ ve směru do centra a obnova dopravního značení. Úpravy chodníků (ve správě MČ Ďáblice) nejsou předmětem stavby TSK.</p><p>  </p><p><br></p><p>V roce 2024 byl zrealizován úsek K Lomu – Konětopská.</p><p>Úsek Konětopská – U Parkánu (Kostelecká) se již&nbsp;v&nbsp;2024 realizovat nestihl (z&nbsp;důvodu odstraňování havarijních soukromých objektů v&nbsp;blízkosti komunikace). Tento úsek bude proveden v&nbsp;roce 2025, předpoklad zahájení prací 30. 4. 2025. </p><p>Kolaudace&nbsp;celého plánovaného úseku K&nbsp;Lomu – U Parkánu je v průběhu&nbsp;2025.&nbsp;</p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2025-07-15T23:59:00",
@@ -2172,7 +2172,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-03-05T18:13:29.022502",
+    "modified": "2025-03-10T14:21:32.723145",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Ďáblická, rekonstrukce ulice v úseku U Parkánu - K Lomu ",
     "priority": false,
@@ -2181,7 +2181,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "e10d103ff0aac1a5430f8c83d76c65b3d424d573",
+    "sha1": "c981b2f263e081cf72f9a3b8e7aff7d5e7707cf7",
     "start": "2024-04-15T00:00:00",
     "state": "ACTIVE",
     "street": "Ďáblická",
