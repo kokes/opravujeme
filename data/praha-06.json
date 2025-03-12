@@ -2908,7 +2908,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-03-10T15:56:47.579208",
+    "approvedat": "2025-03-11T08:59:51.621045",
     "approvedby": 34,
     "city_part": [
       "6"
@@ -2919,7 +2919,7 @@
     "created": "2025-03-10T15:56:47.579667",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Oprava východního chodníku v ulici U Střešovických hřišť mezi ulicemi Na Petynce a Ve Střešovičkách. Asfaltobetonový povrch bude nahrazen vápencovou mozaikovou dlažbou. Obruby budou lokálně vyrovnány, poškozené budou vyměněny. Povrchové znaky inženýrských sítí budou rektifikovány. </p><p><br></p><p>Práce proběhnou po etapách:</p><p>1. etapa: 17. 3. – 6. 4. 2025</p><p>2. etapa: 7. 4. – 27. 4. 2025</p><p>3. etapa: 28. 4. – 25. 5. 2025</p>",
+    "description": "<p>Oprava chodníku v ulici U Střešovických hřišť mezi ulicemi Na Petynce a Ve Střešovičkách. Asfaltobetonový povrch bude nahrazen vápencovou mozaikovou dlažbou. Obruby budou lokálně vyrovnány, poškozené budou vyměněny. Povrchové znaky inženýrských sítí budou rektifikovány. </p><p><br></p><p>Práce proběhnou po etapách:</p><p>1. etapa: 17. 3. – 6. 4. 2025 – západní chodník v úseku mezi ulicemi NN 105 – Ve Střešovičkách</p><p>2. etapa: 7. 4. – 27. 4. 2025 – východní chodník v úseku mezi ulicemi  Ve Střešovičkách – NN 105</p><p>3. etapa: 28. 4. – 25. 5. 2025 – východní chodník v úseku mezi ulicemi NN 105 – Na Petynce</p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2025-05-25T23:59:00",
@@ -2937,7 +2937,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-03-10T15:56:47.579164",
+    "modified": "2025-03-11T08:59:51.621020",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava chodníku v ulici U Střešovických hřišť",
     "priority": false,
@@ -2946,7 +2946,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "61f64220242821316e1e2baa42594b3b8cd399a5",
+    "sha1": "b6a8158657c9da66d2e0bd387282c36963bce923",
     "start": "2025-03-17T00:00:00",
     "state": "FUTURE",
     "street": "U Střešovických hřišť",
