@@ -1795,9 +1795,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f83a37aaf7395806364ebc4c154927668480d286",
+    "sha1": "ba8d71a298fe653a8bd779f7aaf0b7fb65db0708",
     "start": "2025-03-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Ostromečská, Roháčova, Jeseniova",
     "subject": "CONSTRUCTION"
   },
