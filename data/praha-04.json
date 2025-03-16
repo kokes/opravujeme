@@ -3599,9 +3599,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "77efad46389cce12dc2e28142d8085c86cf8887f",
+    "sha1": "ec37959d0ef2357b48114f35af70ee6fe4be3d11",
     "start": "2025-03-15T20:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vyskočilova",
     "subject": "CONSTRUCTION"
   }
