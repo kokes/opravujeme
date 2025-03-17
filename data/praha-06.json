@@ -2854,9 +2854,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "913da262b815823354fef65dc8f1043252f91ca6",
+    "sha1": "e7d6024c5855852f5dcc1c2c196dde91fe044fa1",
     "start": "2025-03-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Jílkova",
     "subject": "CONSTRUCTION"
   },
@@ -2946,9 +2946,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b6a8158657c9da66d2e0bd387282c36963bce923",
+    "sha1": "bafea6f5b77876d0b9813d7950bd342fe1c614d1",
     "start": "2025-03-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "U Střešovických hřišť",
     "subject": "CONSTRUCTION"
   }
