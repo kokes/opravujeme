@@ -1243,7 +1243,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-03-14T10:25:28.341757",
+    "approvedat": "2025-03-19T14:56:39.409146",
     "approvedby": 34,
     "city_part": [
       "12"
@@ -1254,8 +1254,8 @@
     "created": "2025-03-14T10:25:28.342180",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Rekonstrukce mostu na ulici K Tuchoměřicům.</p>",
-    "detours": "<p>Dle přiložené situace.</p>",
+    "description": "<p>Rekonstrukce mostu na ulici K Tuchoměřicům.</p><p>V rámci stavební údržby objektu proběhne výměna izolačního systému včetně vozovkového souvrství a příslušenství. Budou vyměněna ložiska s&nbsp;částečným ubouráním a nahrazením obou opěr. Na most budou osazeny nové mostní závěry a bude provedena sanace nosné konstrukce, spodní stavby a opevnění koryta.&nbsp;</p>",
+    "detours": "<p>Směr dálnice D7 – Přední Kopanina: Lipská → K Letišti → Lipská → Do Horoměřic → silnice III/2404 → K Tuchoměřicům </p><p>Směr Přední Kopanina – dálnice D7: K Tuchoměřicům → silnice III/2404 → Do Horoměřic → Lipská</p>",
     "dt_format": "DAY",
     "end": "2025-10-31T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.290020411650573,\r\n              50.11619764989521\r\n            ],\r\n            [\r\n              14.289940401740097,\r\n              50.116161003472286\r\n            ],\r\n            [\r\n              14.29035950126854,\r\n              50.11586050174441\r\n            ],\r\n            [\r\n              14.290420461200057,\r\n              50.1158995915068\r\n            ],\r\n            [\r\n              14.290020411650573,\r\n              50.11619764989521\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
@@ -1272,7 +1272,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-03-14T10:25:28.341715",
+    "modified": "2025-03-19T14:56:39.409121",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce mostu K Tuchoměřicům",
     "priority": false,
@@ -1281,7 +1281,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dcd77e01c282b7c514dd4bc1210b55ae512b2159",
+    "sha1": "56d253bb39c7a21e38120dc5f38971c1f9aaa00b",
     "start": "2025-04-01T00:00:00",
     "state": "FUTURE",
     "street": "K Tuchoměřicům",
