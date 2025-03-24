@@ -2402,9 +2402,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "f870669446e10537951dd127961fa56d0219e0cb",
+    "sha1": "dcd331d705c2fca46f7b6771b5e8a1d498923ea6",
     "start": "2025-03-24T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská",
     "subject": "CONSTRUCTION"
   },
@@ -2448,9 +2448,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "d2d42dadbe569dfcab633471a1925382246ec14b",
+    "sha1": "a0be04546a2cc945c68065a47f6a4f4186258789",
     "start": "2025-03-24T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská",
     "subject": "CONSTRUCTION"
   }
