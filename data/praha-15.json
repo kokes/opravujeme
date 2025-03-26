@@ -973,7 +973,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-03-24T09:53:24.420500",
+    "approvedat": "2025-03-25T15:55:42.215184",
     "approvedby": 34,
     "city_part": [
       "15"
@@ -996,13 +996,13 @@
     "investor_phone": null,
     "investor_responsible": "Roman Pištora",
     "lat": 50.046295582078756,
-    "limitations": null,
+    "limitations": "<p><strong>1. etapa: 24. 3. – 8. 4. 2025</strong>:</p><ul><li>uzavírka ul. Doupovská v&nbsp;úseku Dobropolská – K&nbsp;Horkám (severní polovina)</li><li>uzavírka ulice K&nbsp;Horkám v&nbsp;úseku K&nbsp;Horkám – Doupovská</li><li>uzavírka sjízdné rampy K Horkám</li><li>uzavírka ulice K&nbsp;Jezeru v&nbsp;úseku Doupovská – K&nbsp;obecním hájovnám (západní polovina)</li><li>na komunikacích Doupovská, K Horkám a K Jezeru bude v dotčených úsecích provoz omezen.</li><li>ulice Doupovská v úseku K jezeru – K Horkám bude jednosměrný provoz od ulice K Horkám. Provoz bude řízen světelnou signalizací.</li><li>K Horkám – nájezdná a sjízdná rampa – bude zaveden jednosměrný provoz ve směru od ulice K Jezeru</li><li>Ulice K Jezeru v úseku Doupovská – K Obecním hájovnám bude zaveden jednosměrný provoz od ulice Doupovská</li></ul><p><br></p><p><strong>2. etapa: 9. 4. – 22. 4. 2025</strong>:</p><ul><li>uzavírka ul. Doupovská v&nbsp;úseku K Jezeru – K&nbsp;Horkám (jižní polovina)</li><li>nájezdová rampa K&nbsp;Horkám </li><li>uzavírka ulice K&nbsp;Jezeru v&nbsp;úseku Doupovská – K&nbsp;obecním hájovnám (východní polovina)</li><li>na komunikacích Doupovská, K Horkám a K Jezeru bude v dotčených úsecích provoz omezen.</li><li>ulice Doupovská v úseku K jezeru – K Horkám bude jednosměrný provoz od ulice K Horkám.</li><li>K Horkám – nájezdná a sjízdná rampa – bude zaveden jednosměrný provoz ve směru od ulice K Jezeru</li><li>Ulice K Jezeru v úseku Doupovská – K Obecním hájovnám bude zaveden jednosměrný provoz od ulice Doupovská</li></ul><p><br></p><p><strong>3. etapa: 23. 4. – 4. 5. 2025</strong>:</p><ul><li>uzavírka křižovatky Doupovská x K&nbsp;Jezeru – východní polovina</li><li>uzavírka ulice K&nbsp;Jezeru v&nbsp;úseku NN 3499 – K&nbsp;Horkám (východní polovina)</li><li>na komunikacích Doupovská, K Horkám a K Jezeru bude v dotčených úsecích provoz omezen.</li><li>K Horkám – nájezdná a sjízdná rampa – bude zaveden jednosměrný provoz ve směru od ulice K Jezeru</li><li>Ulice K Jezeru v úseku Doupovská – K Obecním hájovnám bude zaveden jednosměrný provoz od ulice Doupovská</li></ul><p><br></p><p>Z důvodu stavebních prací dojde dočasnému přemístění zastávek \"Hostivařský hřbitov\" pro linky 177, 901 a 906.</p>",
     "lon": 14.524151086807253,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-03-24T09:53:24.420475",
+    "modified": "2025-03-25T15:55:42.215124",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava vozovky a chodníků v ulicích K Jezeru a Doupovská",
     "priority": false,
@@ -1011,7 +1011,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5d82a9c21ccc4e9d5657db2d36cbeed96432680b",
+    "sha1": "8af49d501440fd296b9e402da99a69b63c4d9622",
     "start": "2025-03-24T00:00:00",
     "state": "ACTIVE",
     "street": "K Jezeru, Doupovská",
