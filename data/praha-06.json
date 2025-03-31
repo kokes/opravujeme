@@ -3038,9 +3038,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "cc6d855cad0e6e6cc65ebb2a90c573b977598ed9",
+    "sha1": "d4c91f063f314ceafb78a6b6fc6249ad9ac9de85",
     "start": "2025-03-31T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Lipská (silnice S I/7)",
     "subject": "CONSTRUCTION"
   },
@@ -3084,9 +3084,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "3190cbb6cddff45076677bbb53c1191faa6d30e9",
+    "sha1": "41a09e661a3a3afdee83f7bb820ce3e0c33bee3c",
     "start": "2025-03-31T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Lipská (silnice S I/7)",
     "subject": "CONSTRUCTION"
   },
