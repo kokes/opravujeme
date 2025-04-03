@@ -1098,9 +1098,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a9b04dd960a5b46f22a014398dbbd673fbc0a8d6",
+    "sha1": "e68aec16bde19be31ee43ded8d74153b6b91e5d2",
     "start": "2025-04-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Chilská",
     "subject": "CONSTRUCTION"
   }
