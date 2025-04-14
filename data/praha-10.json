@@ -3496,9 +3496,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "tel. 267 093 291",
     "severity": "GREEN",
-    "sha1": "9540aeaf1fbc50ec42015426623ad7f6d34d48da",
+    "sha1": "0dbd233697669dfb136fc1f55e0433c4d82b9199",
     "start": "2025-04-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Želivecká",
     "subject": "CONSTRUCTION"
   },
@@ -3542,9 +3542,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "tel. 267 093 291",
     "severity": "GREEN",
-    "sha1": "75c67420f24add8389ab8d843ef0d4578cf302b5",
+    "sha1": "b71b6033fb021959264887dc0985432c69ca80cf",
     "start": "2025-04-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "V Korytech, Na Vinobraní",
     "subject": "CONSTRUCTION"
   }
