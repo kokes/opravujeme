@@ -226,9 +226,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1051539ab413a734e8f3b22d06b6e5eb65d0d38b",
+    "sha1": "e02b7e168219d95a01a15504e57f7380fffddb61",
     "start": "2025-03-17T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Mladých Běchovic",
     "subject": "CONSTRUCTION"
   },
