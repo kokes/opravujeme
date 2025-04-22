@@ -3588,9 +3588,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "800aa93e532615b6a0ace6c205349253df07c4c5",
+    "sha1": "3850f6c938bb9a4792e02e8fbe36fc9d83cf9358",
     "start": "2025-04-22T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Dolnoměcholupská, U Střediska",
     "subject": "CONSTRUCTION"
   }
