@@ -919,9 +919,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "YELLOW",
-    "sha1": "691892cad9fc3f267421b162764d5ee5e1f51c39",
+    "sha1": "78f673e3c402681b8bdb08dbb662d3810a798aee",
     "start": "2025-02-24T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Švehlova, Průmyslová",
     "subject": "CONSTRUCTION"
   },
@@ -1058,9 +1058,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "fa68820b72854721cabd56144e7e068c3abf8afd",
+    "sha1": "49fc3633522b0a10c175ca00789631a71f69d44d",
     "start": "2025-05-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Průmyslová, Švehlova",
     "subject": "CONSTRUCTION"
   }

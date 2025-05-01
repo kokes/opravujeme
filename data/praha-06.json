@@ -2394,9 +2394,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2090923a86278bbda2dcbac40b16c8f090a5fc5b",
+    "sha1": "e6671075032c7fe03cab01acd3a867d9be15b6eb",
     "start": "2024-09-10T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pod Bateriemi",
     "subject": "CONSTRUCTION"
   },
@@ -2808,9 +2808,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236004399",
     "severity": "GREEN",
-    "sha1": "a1a8cc449f38f2c730bbae97888206c2fdb34814",
+    "sha1": "cf64b37945d034747eb9e882d0c289b836d79f5f",
     "start": "2025-01-20T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Evropská v úseku od nádr. Veleslavín směrem k ul. Osamocená",
     "subject": "CONSTRUCTION"
   },

@@ -3749,9 +3749,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "50c39c73856ded46f1e7c557c5a697a2ec83fa19",
+    "sha1": "c5e650a41e0c86a4c899506f7fbc3ce41cc9eb26",
     "start": "2025-03-31T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Bubenská",
     "subject": "CONSTRUCTION"
   },
