@@ -1011,9 +1011,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8af49d501440fd296b9e402da99a69b63c4d9622",
+    "sha1": "aee9d41d3c68c4cd2ef362346c0a264134384ed1",
     "start": "2025-03-24T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "K Jezeru, Doupovská",
     "subject": "CONSTRUCTION"
   },
