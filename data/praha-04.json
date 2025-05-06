@@ -3607,12 +3607,12 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-04-25T12:13:00.211670",
+    "approvedat": "2025-05-05T08:06:17.188991",
     "approvedby": 15,
     "city_part": [
       "4"
     ],
-    "contractor": "MČ Praha 4 ",
+    "contractor": "MČ Praha 4 + KVH GARDEKORPS",
     "contractor_phone": "776 314 933",
     "contractor_responsible": "Michal Hu",
     "created": "2025-04-25T11:56:45.615680",
@@ -3636,7 +3636,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-04-25T12:13:00.211642",
+    "modified": "2025-05-05T08:06:17.188967",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "BARIKÁDA 2025",
     "priority": false,
@@ -3645,7 +3645,7 @@
     "responsible_email": "petr.vlasak@praha4.cz",
     "responsible_phone": "261 192 426",
     "severity": "RED",
-    "sha1": "46a5f4f915d2d5168440a3c7d4e6a68be426b872",
+    "sha1": "67d785dd263f44848f7abded70ca066d6b7e35fd",
     "start": "2025-05-07T12:00:00",
     "state": "FUTURE",
     "street": " Petra Rezka, Žateckých, Pod Sokolovnou,  Na Květnici, Táborská, Lounských",
