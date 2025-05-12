@@ -3841,9 +3841,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "eb6f904434704dafc6764b8dcbd13918ec58035e",
+    "sha1": "ed4e87e2535cf95551b0dc99da018acc5eada43d",
     "start": "2025-05-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Milady Horákové",
     "subject": "CONSTRUCTION"
   }

@@ -3845,9 +3845,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "c363a339f69a9dda71e3ac8ba1d6c4772d5a5e12",
+    "sha1": "e6f0371474e9a79142bf1edd15cac003c73322cb",
     "start": "2025-05-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Křižíkova, Prvního pluku, Sokolovská",
     "subject": "CONSTRUCTION"
   },
@@ -3891,9 +3891,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "b616f8bb11a8630d78f7fdc09219e36df7c7bf4c",
+    "sha1": "49d60f6f82ffb00d23cbe104b33373074bf84baf",
     "start": "2025-05-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ústecká",
     "subject": "CONSTRUCTION"
   }

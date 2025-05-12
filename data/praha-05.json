@@ -3383,9 +3383,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "35593c292df33d4a9be7684b25d9d50cad31d47a",
+    "sha1": "c5d74e725a668cd90d02a950ecc0df743091486f",
     "start": "2025-05-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Řevnická",
     "subject": "CONSTRUCTION"
   },
