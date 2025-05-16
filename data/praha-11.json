@@ -1060,7 +1060,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-04-08T15:54:11.192203",
+    "approvedat": "2025-05-15T10:56:27.853169",
     "approvedby": 15,
     "city_part": [
       "11"
@@ -1083,13 +1083,13 @@
     "investor_phone": "725 769 408",
     "investor_responsible": "Ing. Genčúr",
     "lat": 50.02958682666459,
-    "limitations": "<p>V termínu 1. etapy od 03.04.2025 do 22.04.2025 dojde k&nbsp;záborům převážně v&nbsp;zeleni a v&nbsp;přilehlých chodnících. Silniční provoz v&nbsp;ulici Chilská bude bez omezení. Pěší trasa bude umožněna koridorem pro pěší. Přechod přes ulici Chilská bude i nadále uzavřen. Obchozí trasa vede ve k&nbsp;terminálu Opatov, podchodem, přilehlým parkem do ulice Starochodovská a dále. Popřípadě po chodníku k&nbsp;ulici Hviezdoslavova. </p><p><br></p><p>V termínu 2. etapy od 22.04.2025 do 28.04.2025 dojde k&nbsp;záborům na nároží dané křižovatky. Silniční provoz v&nbsp;ulici Chilská bude zúženými jízdními pruhy, ve směru od Litochlebského náměstí dojde ke změně řazení do ulice Líbalova. Pěší omezení zůstane stejné jako v&nbsp;předchozí etapě. </p><p><br></p><p>V&nbsp;termínu 3. a 4. etapy od 28.4.2025 do 19.05.2025 dojde nad rámec omezení z&nbsp;2. etapy i k&nbsp;záboru v&nbsp;samotné křižovatce a dále k&nbsp;úpravám omezení v&nbsp;ulici Bartůňkova.</p>",
+    "limitations": "<p>V termínu 1. etapy od 03.04.2025 do 22.04.2025 dojde k&nbsp;záborům převážně v&nbsp;zeleni a v&nbsp;přilehlých chodnících. Silniční provoz v&nbsp;ulici Chilská bude bez omezení. Pěší trasa bude umožněna koridorem pro pěší. Přechod přes ulici Chilská bude i nadále uzavřen. Obchozí trasa vede ve k&nbsp;terminálu Opatov, podchodem, přilehlým parkem do ulice Starochodovská a dále. Popřípadě po chodníku k&nbsp;ulici Hviezdoslavova. </p><p><br></p><p>V termínu 2. etapy od 22.04.2025 do 28.04.2025 dojde k&nbsp;záborům na nároží dané křižovatky. Silniční provoz v&nbsp;ulici Chilská bude zúženými jízdními pruhy, ve směru od Litochlebského náměstí dojde ke změně řazení do ulice Líbalova. Pěší omezení zůstane stejné jako v&nbsp;předchozí etapě. </p><p><br></p><p>V&nbsp;termínu 3. a 4. etapy od 28.4.2025 do 26.05.2025 dojde nad rámec omezení z&nbsp;2. etapy i k&nbsp;záboru v&nbsp;samotné křižovatce a dále k&nbsp;úpravám omezení v&nbsp;ulici Bartůňkova.</p><p><br></p><p>V termínu 5. až 8. etapy v&nbsp;termínu od 26.05.2025 do 15.06.2025 dojde k&nbsp;záborům převážně v&nbsp;zeleni a v&nbsp;přilehlých chodnících. Ve směru od Litochlebského náměstí na Opatov dojde k&nbsp;záboru levého odbočovacího pruhu do ulice Líbalova, odbočení bude umožněno levým jízdním pruhem. Pěší trasa bude umožněna koridorem pro pěší. Přechod přes ulici Chilská bude i nadále uzavřen. Obchozí trasa vede ve k&nbsp;terminálu Opatov, podchodem, přilehlým parkem do ulice Starochodovská a dále. Popřípadě po chodníku k&nbsp;ulici Hviezdoslavova.&nbsp;</p>",
     "lon": 14.507438242435457,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-04-08T15:54:11.192175",
+    "modified": "2025-05-15T10:56:27.853143",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "VÝSTAVBA SVĚTELNĚ SIGNALIZAČNÍHO ZAŘÍZENÍ NA KŘIŽOVATCE CHILSKÁ X LÍBALOVA",
     "priority": false,
@@ -1098,7 +1098,7 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "97c3bd9f574f5ad56ab2ef50802cf532168566f6",
+    "sha1": "9f11177a7967fb9149cd0d6986583d0703279726",
     "start": "2025-04-03T00:00:00",
     "state": "DONE",
     "street": "Chilská",
