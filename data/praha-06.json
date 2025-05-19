@@ -3222,9 +3222,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "901231afb1e4001fcb8793f739a99378990a9152",
+    "sha1": "86bcc8133d3583c769e7f5ee3982c439ec6fb3c8",
     "start": "2025-05-19T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Generála Píky",
     "subject": "CONSTRUCTION"
   },
