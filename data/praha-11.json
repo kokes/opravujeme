@@ -1144,9 +1144,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "56f6c7902484c186a5d39cb5c80bc3705be487eb",
+    "sha1": "e1cf96f796109849b5598505bc303e17ecaeb896",
     "start": "2025-04-28T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Kunratického lesa, Klírova",
     "subject": "CONSTRUCTION"
   }
