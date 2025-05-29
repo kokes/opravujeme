@@ -5969,9 +5969,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2143fe8f16af00a90e68af88130291cc04042b0a",
+    "sha1": "b98bed70de347c56b6e10ceb62b1c1ff4d4839e2",
     "start": "2025-05-08T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Rašínovo nábřeží",
     "subject": "CONSTRUCTION"
   },

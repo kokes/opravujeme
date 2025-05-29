@@ -2356,8 +2356,8 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-01-31T15:28:24.547182",
-    "approvedby": null,
+    "approvedat": "2025-05-28T09:31:22.345050",
+    "approvedby": 34,
     "city_part": [
       "6"
     ],
@@ -2370,7 +2370,7 @@
     "description": "<p>Celková rekonstrukce chodníku včetně nutných opěrných konstrukcí a rekonstrukce dotčených sítí.</p><p class=\"ql-align-justify\">  </p><p class=\"ql-align-justify\">Stavba je koordinována s&nbsp;dalšími investory: </p><ul><li class=\"ql-align-justify\">CETIN – přeložka sítí</li><li class=\"ql-align-justify\">DPP – dozor křížení napájení tramvají</li></ul><p>  </p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-04-30T23:59:00",
+    "end": "2025-06-30T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.37162085988436,\r\n            50.09213895895675\r\n          ],\r\n          [\r\n            14.371351065361523,\r\n            50.0921301078651\r\n          ],\r\n          [\r\n            14.371007690516166,\r\n            50.09213502513819\r\n          ],\r\n          [\r\n            14.370765488615632,\r\n            50.09218813165643\r\n          ],\r\n          [\r\n            14.370440508850862,\r\n            50.092223535969225\r\n          ],\r\n          [\r\n            14.37047423316534,\r\n            50.09238875574917\r\n          ],\r\n          [\r\n            14.370462557812658,\r\n            50.092491714541865\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 1919,
@@ -2385,7 +2385,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2024-09-11T13:31:28.371030",
+    "modified": "2025-05-28T09:31:22.345021",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Pokládka inženýrských sítí a rekonstrukce chodníku v ulici Pod Bateriemi",
     "priority": false,
@@ -2394,9 +2394,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e6671075032c7fe03cab01acd3a867d9be15b6eb",
+    "sha1": "64f387ce02875f22858a0b2c74e73197056d7336",
     "start": "2024-09-10T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "Pod Bateriemi",
     "subject": "CONSTRUCTION"
   },
