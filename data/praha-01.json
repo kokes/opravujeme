@@ -6107,9 +6107,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "b8079ee4d3adbee0e7e84a7f6c928686bd89d5b9",
+    "sha1": "5c7ef59bc46fd2425d974be5c2fc9341f5804e9d",
     "start": "2025-05-31T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Divadelní",
     "subject": "OTHERS"
   },
@@ -6153,9 +6153,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "27e96bbc32d7613b101a60b598424255003bfa59",
+    "sha1": "6fe41c98663d353f283ab12a34e838c054e18f0a",
     "start": "2025-05-31T04:30:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Klárov",
     "subject": "CONSTRUCTION"
   }
