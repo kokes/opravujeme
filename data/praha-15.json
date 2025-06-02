@@ -965,9 +965,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e2357bf31611209f9a6ef5cd7d59f7c12e02ea31",
+    "sha1": "23105a6cbbe782135fbac0963ce81b5e52027b56",
     "start": "2025-06-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Archeologická, Zvoncovitá",
     "subject": "CONSTRUCTION"
   },

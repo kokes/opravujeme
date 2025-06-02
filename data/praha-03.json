@@ -1841,9 +1841,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "562821ebc1212b9db08e8bfa4948847100d63d49",
+    "sha1": "24b784ed1e50dd7407bad0123d961c8165a6d846",
     "start": "2025-04-07T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Baranova",
     "subject": "CONSTRUCTION"
   }
