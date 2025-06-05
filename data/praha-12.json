@@ -1327,9 +1327,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "bd2df9ae4ebbf5d508e42977d7ac220e28d072d0",
+    "sha1": "756c7a0a369605e60df19f77c952e1aea424e3e3",
     "start": "2025-05-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Mariánská",
     "subject": "CONSTRUCTION"
   }
