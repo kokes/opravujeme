@@ -3496,9 +3496,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "tel. 267 093 291",
     "severity": "GREEN",
-    "sha1": "e4a8f3b9102f64fae1294131cefffbbeb97fc081",
+    "sha1": "c9aff03fb1231f69fd110fe8e40f77799d0346a9",
     "start": "2025-04-14T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Želivecká",
     "subject": "CONSTRUCTION"
   },
@@ -3588,9 +3588,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3850f6c938bb9a4792e02e8fbe36fc9d83cf9358",
+    "sha1": "8f4e8034eb85cd5423ce1a1c85ba7abd123854fc",
     "start": "2025-04-22T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Dolnoměcholupská, U Střediska",
     "subject": "CONSTRUCTION"
   },
@@ -3865,9 +3865,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "YELLOW",
-    "sha1": "2324c04420471f034b458c0acebfc68086d89bd3",
+    "sha1": "aa5396ca114f3202b1b7b3d3bfcb13e9c00a7002",
     "start": "2025-06-09T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   }

@@ -2866,9 +2866,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "7df56f2a13a067616d63cb59001dd09b99f0a584",
+    "sha1": "62ef8eea22b8feff18a2aaf284ff2629443cadba",
     "start": "2025-06-09T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "",
     "subject": "CULTURAL"
   },
