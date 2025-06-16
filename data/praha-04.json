@@ -3645,9 +3645,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2a751ea2a3ea956c39f9ef6ef086ad064c50a7f8",
+    "sha1": "c196fde4e47d928eacd3252d2f00eb98cabbb4b9",
     "start": "2025-06-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },

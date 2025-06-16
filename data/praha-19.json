@@ -417,9 +417,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "50da2ba0076df6514bfd4dff89feb6358e4afca2",
+    "sha1": "d356b2c8b47c5f1203672483e1d28c3d23ddf07a",
     "start": "2025-06-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "",
     "subject": "CULTURAL"
   },

@@ -3891,9 +3891,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8df5c690019718807be87e1fc7b71558616530f0",
+    "sha1": "1dee8e814c4f36b2474d7d8fcbcc9c409e1468aa",
     "start": "2025-06-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Klapkova",
     "subject": "CONSTRUCTION"
   },

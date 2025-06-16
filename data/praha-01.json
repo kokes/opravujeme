@@ -6291,9 +6291,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "11d7dde7413bc01eae65a5a002935066ff6415e1",
+    "sha1": "15c20a7a18aaccb6e13c1d8dc89d35695fec51c6",
     "start": "2025-06-15T10:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Řásnovka",
     "subject": "OTHERS"
   },
@@ -6338,9 +6338,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "82b913bb4774e1e724ff230892458b14dd8ccbe3",
+    "sha1": "04406fcca1ca0400df9aa7bf15f84c352b64421e",
     "start": "2025-06-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Legerova",
     "subject": "CONSTRUCTION"
   }
