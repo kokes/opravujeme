@@ -3130,9 +3130,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d4863171252e563968741e976939c4818e6125a0",
+    "sha1": "04644a2cc0d8efc3c63292cd803081e4379c7d6a",
     "start": "2025-04-11T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "V Sedlci",
     "subject": "CONSTRUCTION"
   },
