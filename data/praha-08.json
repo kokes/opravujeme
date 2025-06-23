@@ -4121,9 +4121,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3df180d6d835478804096f58fdfac13e640b2760",
+    "sha1": "440c5d3c139515e7e90da01f27a6dc5399c2a7dd",
     "start": "2025-06-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Nad Strání, Nad Popelářkou",
     "subject": "CONSTRUCTION"
   }
