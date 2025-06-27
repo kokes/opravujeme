@@ -465,9 +465,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "feef7ef597a51e3c9a290c9d3c85c3cece72f0ae",
+    "sha1": "f859cf1c5ab5ddaeecacc495eb787fcb1daffa04",
     "start": "2025-06-26T09:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "",
     "subject": "CULTURAL"
   }
