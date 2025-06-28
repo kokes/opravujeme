@@ -1887,9 +1887,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c021d99ae9cece2266258ef37e502a21e749d0c4",
+    "sha1": "a015ac38fc6e035dd7dae77dd9bba30a712ec703",
     "start": "2025-06-28T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Pod Krejcárkem, Pražačka",
     "subject": "CONSTRUCTION"
   },
