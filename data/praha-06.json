@@ -3361,9 +3361,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fddcfd8e735c7dde67e818aaee4c4d284ed1eb1a",
+    "sha1": "467ed6fdf238bde0cc97a4e26fd5c6ac6e1cf1ee",
     "start": "2025-06-30T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Horoměřická",
     "subject": "CONSTRUCTION"
   }
