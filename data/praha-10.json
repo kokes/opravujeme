@@ -2346,9 +2346,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "079dd306fd85347ade0626c826f579998370eef5",
+    "sha1": "0e7e1819db557ddce8936d38fb6f4192c053e3d9",
     "start": "2025-04-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Košická",
     "subject": "CONSTRUCTION"
   },

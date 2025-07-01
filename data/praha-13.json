@@ -1051,9 +1051,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "62ca8eb584304c44b8041627adc1175f635981d0",
+    "sha1": "237eedaab9f4805bb6a31a9f6a88ccd3e5fc334e",
     "start": "2025-07-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Oistrachova",
     "subject": "CONSTRUCTION"
   }

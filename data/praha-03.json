@@ -1933,9 +1933,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f4da8167082a8755421933fba06b404e37184918",
+    "sha1": "d42915b8b09dcb3a0af8dd7e7ed06d9ff5f5c97e",
     "start": "2025-07-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   }

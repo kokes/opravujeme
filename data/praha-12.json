@@ -867,9 +867,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "76d1ea6267176527077b619bb8c8e249142eb890",
+    "sha1": "fe0d972e2c7c080e30eb73cf14d1ce1feb182dbe",
     "start": "2025-07-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Mariánská",
     "subject": "CONSTRUCTION"
   },

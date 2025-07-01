@@ -3983,9 +3983,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4fab3950d675d4c7fe49e5fc8f44042fe20e4073",
+    "sha1": "d531e3fd50397806abf9e2ec5c8d64baf18fc0e5",
     "start": "2025-07-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ovenecká, U Akademie, nad Královskou oborou",
     "subject": "CONSTRUCTION"
   }

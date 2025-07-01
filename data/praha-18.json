@@ -1019,9 +1019,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5bec1ef0d78add249adb00b24947369ec4f582ab",
+    "sha1": "a376d132402eae00c00f9a3a102621230a8a9008",
     "start": "2025-07-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Tupolevova, Beranových",
     "subject": "CONSTRUCTION"
   },
