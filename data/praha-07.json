@@ -2927,7 +2927,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-06-23T14:16:15.946834",
+    "approvedat": "2025-07-03T16:09:23.558645",
     "approvedby": 34,
     "city_part": [
       "7"
@@ -2950,13 +2950,13 @@
     "investor_phone": "733 164 122",
     "investor_responsible": "pí. Hronová",
     "lat": 50.102891,
-    "limitations": "<p><strong>29. 6. - 10. 12. 2024</strong> – kompletní uzavírka ulice Dukelských hrdinů v úseku Strossmayerovo&nbsp;nám. - U Výstaviště s místním omezením průjezdu na vybraných ulicích, pouze pro místní dopravu. </p><p>V křižovatce Veletržní – Dukelských hrdinů je již doprava spuštěna.</p><p><br></p><p><strong>10. 12. 2024 – 27. 1. 2025</strong> – uzavírka ul. Dukelských hrdinů (od ul. Veletržní po ul. U Výstaviště) a ul. U Výstaviště (od TRAM točky po vjezd do parkoviště Výstaviště). Po dobu uzavírky bude průjezdná komunikace Strojnická. </p><p><br></p><p class=\"ql-align-justify\">2025 – 2026 bude realizováno dokončení ul. Dukelských hrdinů a ul. U Výstaviště, uzavírky budou upřesněny.</p><p class=\"ql-align-justify\"><br></p><p>  </p>",
+    "limitations": "<p><strong>29. 6. - 10. 12. 2024</strong> – kompletní uzavírka ulice Dukelských hrdinů v úseku Strossmayerovo&nbsp;nám. - U Výstaviště s místním omezením průjezdu na vybraných ulicích, pouze pro místní dopravu. </p><p>V křižovatce Veletržní – Dukelských hrdinů je již doprava spuštěna.</p><p><br></p><p><strong>10. 12. 2024 – 27. 1. 2025</strong> – uzavírka ul. Dukelských hrdinů (od ul. Veletržní po ul. U Výstaviště) a ul. U Výstaviště (od TRAM točky po vjezd do parkoviště Výstaviště). Po dobu uzavírky bude průjezdná komunikace Strojnická. </p><p><br></p><p class=\"ql-align-justify\"><strong>27. 1. 2025 – 24. 6. 2025</strong> – uzavírka ul. Dukelských hrdinů (od ul. Veletržní po ul. U Výstaviště) a ul. U Výstaviště po křižovatku s ul. Bubenská. Po dobu uzavírky je průjezdná komunikace Strojnická, kde dojde během uzavírky k jejímu uzavření při realizaci vozovek.</p><p class=\"ql-align-justify\"><br></p><p><strong>25. 6. 2025 – srpen 2025</strong> – bude uzavřena ul. U Výstaviště a omezen průjezd křižovatkou s ul. Bubenská (jízdní pruh na Dej přednost). V závěru tohoto omezení dojde k uzavírce křižovatky na 3 pracovní dny.</p><p><br></p><p><strong>září – prosinec 2025</strong> – bude uzavřena komunikace U Výstaviště, křižovatky již budou plně průjezdné.</p><p>  </p>",
     "lon": 14.432327,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-06-23T14:16:15.946803",
+    "modified": "2025-07-03T16:09:23.558618",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Dukelských hrdinů a U Výstaviště",
     "priority": false,
@@ -2965,7 +2965,7 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "2626a4099561fe40942f085b16d7db1fa1890098",
+    "sha1": "5e38834d30cee6eebd0e5e7baa9dcde76a9e4e3a",
     "start": "2024-06-03T00:00:00",
     "state": "ACTIVE",
     "street": "Dukelských hrdinů, U Výstaviště",
