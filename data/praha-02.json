@@ -2690,9 +2690,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "7a60ff2e8cea098aacefaeb8ab8553964e170888",
+    "sha1": "b8c103c1a3b7c3d988e97c0a0977b8b60efd4a13",
     "start": "2025-07-05T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Rašínovo nábřeží",
     "subject": "CONSTRUCTION"
   }
