@@ -1567,9 +1567,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c9061e17a7184b036657ea552519e1393f7348a3",
+    "sha1": "95d5965ac8787acb4d90512307af302828f14ed2",
     "start": "2025-06-02T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Klánovická, Čertouská",
     "subject": "CONSTRUCTION"
   }

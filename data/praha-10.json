@@ -4233,9 +4233,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "daa494dd1be643c0e5124da5a09d13d41a1fd138",
+    "sha1": "687869202503f300db930b695034e887bd10de10",
     "start": "2025-07-07T06:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vršovická",
     "subject": "CULTURAL"
   },
@@ -4279,9 +4279,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c0db0322e8451fab7de3421ca2c728cc0b1b7602",
+    "sha1": "b12c3257cf087097310d176b279641df1f77925f",
     "start": "2025-07-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vladivostocká, Karpatská",
     "subject": "CONSTRUCTION"
   }
