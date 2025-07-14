@@ -2264,9 +2264,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "a7d4e5f98b51b507a70e1128bd1ca480ac9e450c",
+    "sha1": "4ef30cdc7dd9dbbbb2f69d50a7ea77211d14fafa",
     "start": "2025-03-03T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },
@@ -3147,9 +3147,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "d9f55611b2be1b5fa4ab701fb1269e857a563085",
+    "sha1": "69036440ebc5f4a1130005df384eb53cbc6671f4",
     "start": "2025-07-05T17:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Levínská",
     "subject": "CONSTRUCTION"
   },

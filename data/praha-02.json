@@ -2736,9 +2736,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e934b3a3d6b7183e9fca8815383eff85621a473c",
+    "sha1": "1b02e1dfca4a68e14b3936ce3c18b97651c06c79",
     "start": "2025-07-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Lublaňská",
     "subject": "CONSTRUCTION"
   }

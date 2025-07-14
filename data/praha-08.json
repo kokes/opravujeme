@@ -4217,9 +4217,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "c4b6a34822b92131a7e42c2ed78de07c754a5941",
+    "sha1": "a25b73b36d023718023598661b385f60e27ce77b",
     "start": "2025-07-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Prvního pluku, Pernerova",
     "subject": "CONSTRUCTION"
   },
@@ -4263,9 +4263,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "6ff34cee92a53941aae00c2228e984165385a8a9",
+    "sha1": "ae5c9dac6fe354e71db3865a1f6b04faac41b0ce",
     "start": "2025-07-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Primátorská",
     "subject": "CONSTRUCTION"
   },
@@ -4447,9 +4447,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d8396ec59291fa5f8a90014085a32d17d85b07dd",
+    "sha1": "9ce7c72621e1e79839da4e76d907875f639a91c2",
     "start": "2025-07-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Dolákova, Hackerova",
     "subject": "CONSTRUCTION"
   }

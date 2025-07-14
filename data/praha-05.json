@@ -3613,9 +3613,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "d1355009e4be2d15ddd8f65d974eed2a70be7030",
+    "sha1": "061035fb2588d75e1498b1986d4bcf77bc6d2d16",
     "start": "2025-07-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Barrandovu",
     "subject": "CONSTRUCTION"
   },
