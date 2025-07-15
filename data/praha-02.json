@@ -2606,7 +2606,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-07-03T17:54:36.551350",
+    "approvedat": "2025-07-14T17:05:38.639166",
     "approvedby": 34,
     "city_part": [
       "2"
@@ -2617,7 +2617,7 @@
     "created": "2025-06-19T14:39:20.868268",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Oprava vozovky v ulici U Nemocnice.</p><p><br></p><p>Stavební práce proběhnou po etapách:</p><p>1. etapa 28. 6. – 31. 7. 2025 </p><p>2. etapa 1. 8. – 31. 8. 2025</p>",
+    "description": "<p>Oprava vozovky v ulici U Nemocnice.</p><p><br></p><p>Stavební práce proběhnou po etapách:</p><p>1. etapa 28. 6. – 14. 7. 2025 (oproti původnímu plánu se podařilo první etapu dokončit o více jak 2 týdny dříve)</p><p>2. etapa 1. 8. – 31. 8. 2025</p>",
     "detours": "<p class=\"ql-align-justify\">Objízdná trasa bude vedena ulicemi Vyšehradská – Benátská – Kateřinská.</p><p>  </p>",
     "dt_format": "DAY",
     "end": "2025-08-31T23:59:00",
@@ -2635,7 +2635,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-07-03T17:54:36.551322",
+    "modified": "2025-07-14T17:05:38.639142",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava vozovky v ulici U Nemocnice",
     "priority": false,
@@ -2644,7 +2644,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d74aef3e7a38b8b48aac26817ab72a6eaa5b1180",
+    "sha1": "ed072b23dadb105e1d7ab01606a875c4626355d5",
     "start": "2025-06-28T00:00:00",
     "state": "ACTIVE",
     "street": "U Nemocnice",
