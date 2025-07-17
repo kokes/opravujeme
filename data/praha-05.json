@@ -3659,9 +3659,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "a3723dcad21f6009dee93d7893975669022edfe0",
+    "sha1": "096c305e14c2af88a39445aba66c2e1ce0647520",
     "start": "2025-07-10T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hořejší nábřeží",
     "subject": "CONSTRUCTION"
   },
