@@ -2782,9 +2782,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "1f6194ec8895d451dd3b199d7a8343a736cd19ee",
+    "sha1": "3bcd9bbcfd6581e565a07d563cdc2d4627dfc14f",
     "start": "2025-07-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Legerova 5",
     "subject": "OTHERS"
   },
