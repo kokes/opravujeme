@@ -4647,9 +4647,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "fdabd26307e3c2b6408b6e30b8be6b5d29f0a605",
+    "sha1": "2423745248aba24500427cc8a1e7d9120bca7077",
     "start": "2025-07-21T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "U Trati, Pod Altánem, Na Spádu, Nad Svahy, Železniční",
     "subject": "CONSTRUCTION"
   },
@@ -4693,9 +4693,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "6249708994fa900d5cd160bd041891c21845439f",
+    "sha1": "cd5d36bb9f50c0f4f26933a682c9a2354a7cb72a",
     "start": "2025-07-21T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Strančická",
     "subject": "CONSTRUCTION"
   }
