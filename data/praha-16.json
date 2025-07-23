@@ -1514,9 +1514,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7de40427f5a4b5731f1a2b86d6e17efe58e30f05",
+    "sha1": "232e999305896ccc9e3989ac6893ff1007c81bde",
     "start": "2025-07-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Zderazská",
     "subject": "CONSTRUCTION"
   },
