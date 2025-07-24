@@ -3751,9 +3751,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "4e5544f0f9071fe8d1f1f1ed394e0b4aa79cce6a",
+    "sha1": "ac61a080175dd1fc0e5a30f1eb73dce955fc9af3",
     "start": "2025-07-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   },
