@@ -2874,9 +2874,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "0e7a448e212ea46fd383886aa2ffaa8d6fc5e5af",
+    "sha1": "f11baf860846bc1084c70ec57121de42d2476318",
     "start": "2025-07-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Sokolská",
     "subject": "CONSTRUCTION"
   },
