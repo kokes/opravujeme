@@ -3705,9 +3705,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "3904e19e7e19b77113f49e9c864e4f0055803173",
+    "sha1": "d01aead297b3f002ca6aea5aa244ea53c0ec6c29",
     "start": "2025-07-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   },
@@ -3797,9 +3797,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "91333710a50605ee461b362e469f2edb96ff36ad",
+    "sha1": "815c47cc9cd756c06fd332d6c79392785b527bed",
     "start": "2025-07-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nádražní v úseku Ostrovského - U Královské louky",
     "subject": "CONSTRUCTION"
   },

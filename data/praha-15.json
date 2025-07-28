@@ -1196,9 +1196,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "79ecba681268aa9746dbc778ed35da245b3db973",
+    "sha1": "24a43a2b8cf74601246987c2657433106f25f44a",
     "start": "2025-07-28T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Sklářská",
     "subject": "CONSTRUCTION"
   }

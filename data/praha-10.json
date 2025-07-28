@@ -4279,9 +4279,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "83724cebf7885706ec7e228ffda7591c13a08478",
+    "sha1": "38b50e5d7a0ba929cec2e907b45a1298768b15cb",
     "start": "2025-07-28T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vladivostocká, Karpatská",
     "subject": "CONSTRUCTION"
   },
