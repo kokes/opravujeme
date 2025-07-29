@@ -2830,9 +2830,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "84326eb059f2810f226aec0026162542497bb6e6",
+    "sha1": "0fee9174edb1f8e18f75b8152085bb745e3cf9a4",
     "start": "2025-07-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Legerova",
     "subject": "CONSTRUCTION"
   },
