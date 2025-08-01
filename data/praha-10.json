@@ -3957,9 +3957,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "9d0d217abc6ab320a088c4feb1c85b5eaf670bb6",
+    "sha1": "d4b3338c2b721848e59c6394b297b817c8f99328",
     "start": "2025-06-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Zdravotního ústavu",
     "subject": "CONSTRUCTION"
   },
@@ -4785,9 +4785,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "10c16a1f319ed1b540ed0e3a79b88d24b18417be",
+    "sha1": "df4c724fb6cde2e0089086178452b82a4198f44e",
     "start": "2025-08-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Bělocerkevská x Vršovická x Čeljabinská",
     "subject": "CONSTRUCTION"
   }
