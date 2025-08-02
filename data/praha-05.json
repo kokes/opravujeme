@@ -3843,9 +3843,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "688ab39a9a2be7c9d2cfbe99fc7191da9bc392e5",
+    "sha1": "8a2c2a42dd28fdde7dbac9c4199e65339af41bbe",
     "start": "2025-07-07T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Plzeňská ( u vozovny Motol)",
     "subject": "CONSTRUCTION"
   }
