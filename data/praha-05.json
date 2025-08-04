@@ -3521,9 +3521,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cd1fe5a4dbffafcd862a2c9eb72673d5ec1a06e4",
+    "sha1": "273dfb54de044a144452238f7ef2f3370d5f0b44",
     "start": "2025-06-23T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Zapova",
     "subject": "CONSTRUCTION"
   },
