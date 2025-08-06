@@ -4077,9 +4077,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "fa103c067548071dc5523cdb2f6ef188f2f6b247",
+    "sha1": "b82a938b19ba90a77c580bc706da266e791fa9c1",
     "start": "2025-07-28T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Uranie",
     "subject": "CONSTRUCTION"
   },
@@ -4126,9 +4126,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "03519216d7fda10d78d6565df35a89048cca8a72",
+    "sha1": "36ea0287c67b04401715406f2243f4d7d49a50aa",
     "start": "2025-08-06T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Trojský most, Lahovický most, Vysočanská, 5. května",
     "subject": "CONSTRUCTION"
   }
