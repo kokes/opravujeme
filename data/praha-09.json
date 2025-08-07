@@ -2922,7 +2922,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-06-03T12:29:17.852168",
+    "approvedat": "2025-08-06T14:58:54.360241",
     "approvedby": 29,
     "city_part": [
       "9"
@@ -2945,13 +2945,13 @@
     "investor_phone": "770153245",
     "investor_responsible": "Jan Lojek",
     "lat": 50.11612714483016,
-    "limitations": "<p>Úplná uzavírka ulice Nad Krocínkou:</p><p>v úseku Vysočanská - U Vysočanského cukrovaru, v termínu 2.6. - 30.9.2025</p><p>v úseku U Vysočanského cukrovaru - Čakovická, v termínu 1.10. - 15.12.2025 </p>",
+    "limitations": "<p>Úplná uzavírka ulice Nad Krocínkou:</p><p>v úseku Vysočanská - U Vysočanského cukrovaru, v termínu 2.6. - 15.8.2025</p><p>v úseku U Vysočanského cukrovaru - Čakovická, v termínu 16.8. - 30.11.2025 </p>",
     "lon": 14.502843618392944,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-06-03T12:29:17.852141",
+    "modified": "2025-08-06T14:58:54.360208",
     "modifiedby": "gabrielovap@praha9.cz",
     "name": "Rekonstrukce ulice Nad Krocínkou",
     "priority": false,
@@ -2960,7 +2960,7 @@
     "responsible_email": null,
     "responsible_phone": "283091359",
     "severity": "YELLOW",
-    "sha1": "5b722a1f35849314a4d09d55dbd31cc4068e260c",
+    "sha1": "538113d1d3825cf4e51a99cefb10476df5c5f52c",
     "start": "2025-06-02T00:00:00",
     "state": "ACTIVE",
     "street": "Nad Krocínkou",
