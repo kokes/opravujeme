@@ -2277,9 +2277,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "ee5ca6c2219dcecb62fda3c72e4b1a70b4ca4804",
+    "sha1": "866d313ab0a6a9de46d48609e3985557c90847e6",
     "start": "2025-08-02T01:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Zelenkova, NN3369 (parkoviště u ulice Zelenkova), Roztylská, Tomíčkova, Budějovická, NN2016(sjízdná rampa z ulice 5. května na ulici Vyskočilova), Vyskočilova, NN2039 (autobusové obratiště Kačerov), náměstí Hrdinů, 5. května, Nuselský most, Kongresová, Legerova, Wilsonova, Hlávkův most, nábřeží Kapitána Jaroše, Argentinská, NN2595 (autobusové obratiště Nádraží Holešovice)",
     "subject": "CONSTRUCTION"
   },
@@ -2922,9 +2922,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "c432f92aa879d7e711205398f6572a4a79fc0c78",
+    "sha1": "5175f1d4c44fd152ad91c8341f31e47a13b9da92",
     "start": "2025-08-11T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Nuselský most",
     "subject": "CONSTRUCTION"
   },
@@ -2968,9 +2968,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d2624373dc9b6dabc03443456904831720724d74",
+    "sha1": "3b86555ecb496df4ac764a73bb98d654d29e73e2",
     "start": "2025-08-11T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Kleovce",
     "subject": "CONSTRUCTION"
   }

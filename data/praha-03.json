@@ -1887,9 +1887,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a015ac38fc6e035dd7dae77dd9bba30a712ec703",
+    "sha1": "964666b1ecfb4d93cf1c4401226ea93f46ac3b06",
     "start": "2025-06-28T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pod Krejcárkem, Pražačka",
     "subject": "CONSTRUCTION"
   },
@@ -1933,9 +1933,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "96d50335bcff5ab476527799593df5f3e9c400ba",
+    "sha1": "20ebc13a5e3aa92b108a1868b58655ef5b73cc4e",
     "start": "2025-07-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   },
