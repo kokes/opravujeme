@@ -4541,9 +4541,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "32691c99e946d20732a29f1a52d280016785b8d8",
+    "sha1": "4116ecd05926a978d96fcc7b67aa5a257e656210",
     "start": "2025-08-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Střelničná",
     "subject": "CONSTRUCTION"
   },
