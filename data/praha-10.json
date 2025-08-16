@@ -4371,9 +4371,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "7216fe797a8cd5946f463981ba19fb9e85aaea68",
+    "sha1": "e9afa0153153b50a240e59731545fcd345c338fd",
     "start": "2025-07-15T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Počernická",
     "subject": "CONSTRUCTION"
   },

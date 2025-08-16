@@ -6572,9 +6572,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "280be4cacc9f7dd6e124f0993209bd7ffb9b22d2",
+    "sha1": "4e502ea155cd2565d67e01e61483e07b773c8da8",
     "start": "2025-08-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Křižovnická",
     "subject": "CONSTRUCTION"
   },
@@ -6618,9 +6618,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "3b59b680b4e2d280c3841bfe35a62404e8814bca",
+    "sha1": "3fdc2c55df05528abb493bc056edeed8a3e85e52",
     "start": "2025-08-16T00:15:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Smetanovo nábřeží",
     "subject": "CONSTRUCTION"
   }
