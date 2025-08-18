@@ -4311,9 +4311,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "f7e50cce6f8ae648bae4625bc822db62a0bc1497",
+    "sha1": "6810c6f1a07141a9270cefc7a7a417b0ca69215f",
     "start": "2025-08-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Zenklova",
     "subject": "CONSTRUCTION"
   },
@@ -4495,9 +4495,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "78da8d540b90295295b2c560722f27caa7bc9538",
+    "sha1": "aa7d708af8572541e76cf50883165a3df72e4b5a",
     "start": "2025-08-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ďáblická, Střelničná, Žernosecká, Hřenská",
     "subject": "CONSTRUCTION"
   },
