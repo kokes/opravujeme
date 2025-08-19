@@ -927,7 +927,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-04-29T14:45:19.729270",
+    "approvedat": "2025-08-18T15:43:20.512264",
     "approvedby": 34,
     "city_part": [
       "15"
@@ -941,7 +941,7 @@
     "description": "<p>Oprava lávky nad ulicemi Archeologická a Zvoncovitá.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-08-25T23:59:00",
+    "end": "2025-09-15T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.336033093982081,\r\n            50.045010274503596\r\n          ],\r\n          [\r\n            14.336444894862495,\r\n            50.04535381450941\r\n          ],\r\n          [\r\n            14.336537261415202,\r\n            50.045442788498605\r\n          ],\r\n          [\r\n            14.336652719606889,\r\n            50.045484803935864\r\n          ],\r\n          [\r\n            14.33681051246657,\r\n            50.04549963290506\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2046,
@@ -956,7 +956,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-04-29T14:45:19.729246",
+    "modified": "2025-08-18T15:43:20.512240",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava lávky nad ulicí Archeologická",
     "priority": false,
@@ -965,7 +965,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "23105a6cbbe782135fbac0963ce81b5e52027b56",
+    "sha1": "a72ea15b32b608b671c30ef94ed0332d54f9065e",
     "start": "2025-06-02T00:00:00",
     "state": "ACTIVE",
     "street": "Archeologická, Zvoncovitá",
