@@ -3054,9 +3054,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "1864e6f6ff82dcc9600620465603af677256918d",
+    "sha1": "ed1197dd2fbf5fdbf7508c6ac54ffe02a2031af0",
     "start": "2025-08-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kbelská",
     "subject": "CONSTRUCTION"
   },
@@ -3473,9 +3473,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "771517323",
     "severity": "GREEN",
-    "sha1": "6ff2bc64d1a8f320d28fd06a2cafe3cb17c8fbcc",
+    "sha1": "dd078da11fbed7297e83397e21a0c4ecae765606",
     "start": "2025-08-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská, Podkovářská - Čerpadlová, směr do centra",
     "subject": "CONSTRUCTION"
   },
