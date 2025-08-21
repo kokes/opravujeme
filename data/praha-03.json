@@ -1803,7 +1803,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-07-03T16:04:36.775446",
+    "approvedat": "2025-08-20T08:49:02.024504",
     "approvedby": 34,
     "city_part": [
       "3"
@@ -1817,7 +1817,7 @@
     "description": "<p>Rekonstrukce chodníku a části vozovky v ulici Baranova, v&nbsp;koordinaci s&nbsp;údržbou zeleně, kde bude probíhat částečná výměna stromů a nové kořenové cesty.</p><p>Chodníky na ulici Baranově vykazují deformace ve formě místních i podélných poklesů, které se vyskytují v celé délce úseků. Dále vykazují ztrátu stability na pochozí vrstvě chodníků, nespočet trhlin a propadlé obruby. Stávající povrch chodníků je živičný a s ohledem na povrchy ostatních chodníků v přilehlých lokalitách budou povrchy nově dlážděné.</p><p>  </p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-08-17T23:59:00",
+    "end": "2025-09-07T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.457566551536758,\r\n            50.07996955107487\r\n          ],\r\n          [\r\n            14.457232251318857,\r\n            50.080830670427616\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2055,
@@ -1832,7 +1832,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-07-03T16:04:36.775420",
+    "modified": "2025-08-20T08:49:02.024466",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce chodníku a části vozovky v ulici Baranova",
     "priority": false,
@@ -1841,9 +1841,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2c348e60c58319c90cf61d2e58baa9a90835a0c9",
+    "sha1": "4344af1ccaf879906853983c9f56eaa26bd5112e",
     "start": "2025-04-07T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "Baranova",
     "subject": "CONSTRUCTION"
   },

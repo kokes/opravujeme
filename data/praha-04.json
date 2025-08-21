@@ -3795,7 +3795,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-07-18T11:48:14.371445",
+    "approvedat": "2025-08-20T08:54:27.896671",
     "approvedby": 34,
     "city_part": [
       "4"
@@ -3809,7 +3809,7 @@
     "description": "<p>Oprava chodníku v ulici Podolské nábřeží.</p><p>Jedná se odstranění stávajícího chodníkového krytu, který je nesourodý a značně zničený a nahrazení velkoformátovou betonovou dlažbou a úpravou přilehlých obrub.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-07-30T23:59:00",
+    "end": "2025-08-30T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.415822996892672,\r\n            50.05035649431568\r\n          ],\r\n          [\r\n            14.417312502041142,\r\n            50.05306503734954\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2182,
@@ -3824,7 +3824,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-07-18T11:48:14.371401",
+    "modified": "2025-08-20T08:54:27.896597",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce chodníku v ulici Podolské nábřeží",
     "priority": false,
@@ -3833,9 +3833,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1bf51373eb55faf0325720ddf90a0c8f2b034374",
+    "sha1": "0966c68b2f38ac9b14e5ead62d319c9cca3b6a2b",
     "start": "2025-05-26T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },

@@ -4135,7 +4135,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-06-20T13:39:12.427630",
+    "approvedat": "2025-08-20T09:03:25.123573",
     "approvedby": 34,
     "city_part": [
       "8"
@@ -4149,7 +4149,7 @@
     "description": "<p>Rekonstrukce jednosměrné komunikace Nad Strání, včetně opěrných zdí a odvodnění.</p><p>Stavební práce zahrnují úpravy vozovky, vjezdů na přilehlé pozemky, parkovacích stání s veřejným přístupem, opěrné zdi a odvodnění komunikace pomocí odvodňovacích žlabů do dešťových vpustí s připojením kanalizačními přípojkami do 2 vsakovacích objektů. Zároveň budou provedeny bezbariérové úpravy a definitivní dopravní značení.</p><p>  </p>",
     "detours": "<p>Objížďka po místních komunikacích.</p>",
     "dt_format": "DAY",
-    "end": "2025-08-25T23:59:00",
+    "end": "2025-08-31T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.437984756623422,\r\n            50.118905361249546\r\n          ],\r\n          [\r\n            14.437857336791097,\r\n            50.11886236062699\r\n          ],\r\n          [\r\n            14.437750035879048,\r\n            50.118772059194356\r\n          ],\r\n          [\r\n            14.437575671897037,\r\n            50.11872475837572\r\n          ],\r\n          [\r\n            14.43739460160873,\r\n            50.11863445668311\r\n          ],\r\n          [\r\n            14.43711293671467,\r\n            50.11827754832677\r\n          ],\r\n          [\r\n            14.437032461030668,\r\n            50.11808404268362\r\n          ],\r\n          [\r\n            14.437019048416659,\r\n            50.11787333564982\r\n          ],\r\n          [\r\n            14.437059286258688,\r\n            50.11752932217283\r\n          ],\r\n          [\r\n            14.43710623040701,\r\n            50.11743901822541\r\n          ],\r\n          [\r\n            14.437200118704993,\r\n            50.11735731450719\r\n          ],\r\n          [\r\n            14.437307419617014,\r\n            50.11734441390732\r\n          ],\r\n          [\r\n            14.437475077292731,\r\n            50.11736161470634\r\n          ],\r\n          [\r\n            14.437622616045388,\r\n            50.11735731450719\r\n          ],\r\n          [\r\n            14.438306659359455,\r\n            50.11751642161934\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2134,
@@ -4164,7 +4164,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-06-20T13:39:12.427589",
+    "modified": "2025-08-20T09:03:25.123545",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Nad Strání",
     "priority": false,
@@ -4173,7 +4173,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "440c5d3c139515e7e90da01f27a6dc5399c2a7dd",
+    "sha1": "872111e158f5d10b4a057d5f6b4d718f99a98f93",
     "start": "2025-06-23T00:00:00",
     "state": "ACTIVE",
     "street": "Nad Strání, Nad Popelářkou",
