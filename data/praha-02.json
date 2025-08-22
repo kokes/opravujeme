@@ -3060,9 +3060,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "260bc9f1696106e5a3e67a7da3a94e29750b5d88",
+    "sha1": "88f81d7510fedfa0386063e825b399ba6927a7bb",
     "start": "2025-08-21T10:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Vinohradská",
     "subject": "CULTURAL"
   }
