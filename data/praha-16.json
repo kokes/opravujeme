@@ -1655,9 +1655,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "d4866adf2f104fc0e21fb6c292f63ea02ca09509",
+    "sha1": "28aa0cfbcd03d2d9e5e32af12bf3880c1d436b1d",
     "start": "2025-08-23T07:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Karlická",
     "subject": "CONSTRUCTION"
   },
@@ -1701,9 +1701,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "RED",
-    "sha1": "243ade6eea150db72e0887c159c2c4be7163c6f2",
+    "sha1": "c822f8b1b9db442d1a7d1488b16f4a5a7cff7cde",
     "start": "2025-08-23T07:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Karlická , obousměrná uzavírka komunikace",
     "subject": "CONSTRUCTION"
   }
