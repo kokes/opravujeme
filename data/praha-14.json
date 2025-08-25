@@ -1707,9 +1707,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fbeaf524c7463d1d3b1f0334dc564baaecb0c038",
+    "sha1": "b600665cc0105a9ef48aa801ee214a4676233d35",
     "start": "2025-08-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Průmyslová, Teplárenská",
     "subject": "CONSTRUCTION"
   }
