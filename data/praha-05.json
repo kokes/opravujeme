@@ -3475,9 +3475,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "a031a329b850ac625157476779a2b522389e3d78",
+    "sha1": "768603025373921354e8d9c7db8b9fd7a0dc8034",
     "start": "2025-06-26T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Plzeňská",
     "subject": "CONSTRUCTION"
   },

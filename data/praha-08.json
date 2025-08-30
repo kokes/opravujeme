@@ -4449,9 +4449,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9ce7c72621e1e79839da4e76d907875f639a91c2",
+    "sha1": "300d5fc603be8100e7f3f2d6361d9cd19cfac0a6",
     "start": "2025-07-14T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Dolákova, Hackerova",
     "subject": "CONSTRUCTION"
   },
