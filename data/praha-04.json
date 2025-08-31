@@ -3833,9 +3833,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0966c68b2f38ac9b14e5ead62d319c9cca3b6a2b",
+    "sha1": "e467506ba5c7c88b147b165a7d56a9b801befbfc",
     "start": "2025-05-26T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },

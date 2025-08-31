@@ -2692,9 +2692,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "e4da8032bec8e345d86a37e4dec183d241df976c",
+    "sha1": "d05b8e90f8ed44bdce3e7cc26013692d33d17f2f",
     "start": "2025-07-05T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Rašínovo nábřeží",
     "subject": "CONSTRUCTION"
   },
@@ -2738,9 +2738,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1b02e1dfca4a68e14b3936ce3c18b97651c06c79",
+    "sha1": "9232a966d0c88f3e7026f5321b3dfdf131b6fb49",
     "start": "2025-07-14T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Lublaňská",
     "subject": "CONSTRUCTION"
   },
