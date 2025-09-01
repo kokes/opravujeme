@@ -2646,9 +2646,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ed072b23dadb105e1d7ab01606a875c4626355d5",
+    "sha1": "efc2cb667a4acd1ddd55eeed550c4fe40c1d5a77",
     "start": "2025-06-28T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Nemocnice",
     "subject": "CONSTRUCTION"
   },

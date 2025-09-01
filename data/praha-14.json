@@ -1476,9 +1476,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "b14b2ded9a29acd235c803a07c380b4a5c9c339f",
+    "sha1": "c99a8758df875630dd93b676e6ff8478ac9443e6",
     "start": "2025-09-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },
@@ -1568,9 +1568,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "70215a7996a59537fba464267af2d400bb23af0f",
+    "sha1": "f74cc3e8ccfa0531acd03cc7b37a5c9bc29e95cc",
     "start": "2025-05-30T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Slévačská",
     "subject": "CONSTRUCTION"
   },
