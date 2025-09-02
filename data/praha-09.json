@@ -3290,9 +3290,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "36ea0287c67b04401715406f2243f4d7d49a50aa",
+    "sha1": "617b2ce8645481fb6b535558349607c1f8a47a84",
     "start": "2025-08-06T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Trojský most, Lahovický most, Vysočanská, 5. května",
     "subject": "CONSTRUCTION"
   },
@@ -3382,9 +3382,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "771517323",
     "severity": "YELLOW",
-    "sha1": "fff63e98f8e512b0d9259d510e859624395e883f",
+    "sha1": "314a6f64425dec414c46d00ba5fb976cc7e13a2d",
     "start": "2025-08-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Kolbenova, u křižovatky Kolbenova x Hindlova",
     "subject": "CONSTRUCTION"
   },

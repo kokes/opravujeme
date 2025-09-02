@@ -4563,7 +4563,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-07-18T12:29:47.399117",
+    "approvedat": "2025-09-01T16:00:25.770604",
     "approvedby": 34,
     "city_part": [
       "10"
@@ -4577,7 +4577,7 @@
     "description": "<p>Rekonstrukce chodníku v ulici Solidarity.</p><p>Jedná se odstranění stávajícího chodníkového krytu, který je nesourodý a značně zničený a nahrazení velkoformátovou betonovou dlažbou a sjednocení rázu okolí. </p><p>Akce je v&nbsp;koordinaci s&nbsp;pracemi společnosti CETIN.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-08-31T23:59:00",
+    "end": "2025-09-30T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.499191823012723,\r\n            50.07572984799998\r\n          ],\r\n          [\r\n            14.499315476394344,\r\n            50.07491163688093\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2183,
@@ -4592,7 +4592,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-07-18T12:29:47.399090",
+    "modified": "2025-09-01T16:00:25.770574",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce chodníku v ulici Solidarity",
     "priority": false,
@@ -4601,9 +4601,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ae78b4f7a8f72754917bac0fcdeeeefe81ae8143",
+    "sha1": "b0612bb93ad2227dae5165fb49e681289f6876e0",
     "start": "2025-07-18T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "Solidarity",
     "subject": "CONSTRUCTION"
   },
