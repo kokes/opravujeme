@@ -3937,7 +3937,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-09-04T12:19:52.154166",
+    "approvedat": "2025-09-05T09:35:08.840072",
     "approvedby": 34,
     "city_part": [
       "4"
@@ -3948,7 +3948,7 @@
     "created": "2025-08-22T10:59:24.287242",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Modernizace (rozšíření) cyklotrasy A2 v úseku Přístaviště – Vyšehradský tunel.</p><p>V 1. etapě bude provedena úprava v úseku od mostu na Veslařský ostrov po restauraci SOHO. </p><p>Na jaře roku 2026 se bude pokračovat úsekem od restaurace SOHO po čerpací stanici MOL.</p><p><br></p>",
+    "description": "<p>Modernizace (rozšíření) cyklotrasy A2 v úseku od mostu na Veslařský ostrov po čerpací stanici MOL. Stávající cyklostezka je v&nbsp;tomto úseku úzká, proto dojde k jejímu rozšíření, místy téměř až na 5 m. Dále dojde k&nbsp;výměně povrchu na probarvený žlutý asfalt.</p><p>Součástí rekonstrukce bude i vybudování odpočívadel s odpovídajícím mobiliářem, bezbariérové úpravy a zlepšení chodníkového prostoru na Dvorcích. Následně budou v místě vysazeny 4 nové stromy.</p><p><br></p><p>V 1. etapě bude provedena úprava v úseku od mostu na Veslařský ostrov po restauraci SOHO. </p><p>Na jaře roku 2026 se bude pokračovat úsekem od restaurace SOHO po čerpací stanici MOL. </p><p><br></p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2025-11-30T23:59:00",
@@ -3966,7 +3966,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-09-04T12:19:52.154136",
+    "modified": "2025-09-05T09:35:08.840046",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rozšíření cyklotrasy A2 v úseku od Veslařského ostrova po čerpací stanici MOL",
     "priority": false,
@@ -3975,7 +3975,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1a80f69384186985ebdea191453f1c236759bb8d",
+    "sha1": "98bc3a9606adb766f11faef238a1f50e6acd1361",
     "start": "2025-09-10T00:00:00",
     "state": "FUTURE",
     "street": "Podolské nábřeží",
