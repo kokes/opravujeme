@@ -1169,7 +1169,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-08-22T14:39:16.306317",
+    "approvedat": "2025-09-08T12:05:21.404935",
     "approvedby": 34,
     "city_part": [
       "18"
@@ -1184,7 +1184,7 @@
     "detours": null,
     "dt_format": "DAY",
     "end": "2025-10-30T23:59:00",
-    "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.516567209506206,\r\n            50.13717280429367\r\n          ],\r\n          [\r\n            14.515560277198688,\r\n            50.13688882963157\r\n          ],\r\n          [\r\n            14.514573483537418,\r\n            50.13678556570022\r\n          ],\r\n          [\r\n            14.514432513014043,\r\n            50.136604853283984\r\n          ],\r\n          [\r\n            14.513888769568126,\r\n            50.134474976950656\r\n          ],\r\n          [\r\n            14.51373160377429,\r\n            50.13355357543625\r\n          ],\r\n          [\r\n            14.513550355958273,\r\n            50.13146229161566\r\n          ],\r\n          [\r\n            14.513389246789586,\r\n            50.13107500680425\r\n          ],\r\n          [\r\n            14.511311570984304,\r\n            50.12916087142298\r\n          ],\r\n          [\r\n            14.511069907230336,\r\n            50.128773567986144\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
+    "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.516941736773987,\r\n            50.141467397657806\r\n          ],\r\n          [\r\n            14.517224188175732,\r\n            50.139571398322204\r\n          ],\r\n          [\r\n            14.517179590585613,\r\n            50.13871388650756\r\n          ],\r\n          [\r\n            14.517105261269876,\r\n            50.138332765211715\r\n          ],\r\n          [\r\n            14.516703882961252,\r\n            50.13725608114723\r\n          ],\r\n          [\r\n            14.516391699832809,\r\n            50.13710362834797\r\n          ],\r\n          [\r\n            14.515559211489915,\r\n            50.13690353331174\r\n          ],\r\n          [\r\n            14.51466725969351,\r\n            50.136789192915245\r\n          ],\r\n          [\r\n            14.51445913760864,\r\n            50.136646267035474\r\n          ],\r\n          [\r\n            14.513998295846534,\r\n            50.135016881826886\r\n          ],\r\n          [\r\n            14.513684985633859,\r\n            50.13350106386795\r\n          ],\r\n          [\r\n            14.513580924591423,\r\n            50.13150945461106\r\n          ],\r\n          [\r\n            14.513447131822232,\r\n            50.13117592342661\r\n          ],\r\n          [\r\n            14.511195682942429,\r\n            50.129035106591914\r\n          ],\r\n          [\r\n            14.511017292583148,\r\n            50.128777798008116\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2227,
     "internal_id": null,
@@ -1198,7 +1198,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-08-22T14:39:16.306289",
+    "modified": "2025-09-08T12:05:21.404908",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Beranových",
     "priority": false,
@@ -1207,7 +1207,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d43517fa5fa419fd95b12e31d78175e59c063e73",
+    "sha1": "c562a26ef3f0635138e0af3f60c3292e128be893",
     "start": "2025-08-30T00:00:00",
     "state": "ACTIVE",
     "street": "Beranových",
