@@ -3437,7 +3437,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-05-26T18:33:44.840051",
+    "approvedat": "2025-09-09T13:45:22.863745",
     "approvedby": 34,
     "city_part": [
       "5"
@@ -3466,16 +3466,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-05-26T18:33:44.840024",
+    "modified": "2025-09-09T13:45:22.863720",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Plzeňská",
     "priority": false,
-    "promoted": true,
+    "promoted": false,
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "768603025373921354e8d9c7db8b9fd7a0dc8034",
+    "sha1": "605dd4ecd073f36ab4774bf6b9d8f403ed1d6817",
     "start": "2025-06-26T00:00:00",
     "state": "DONE",
     "street": "Plzeňská",
