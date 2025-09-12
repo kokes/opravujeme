@@ -3621,7 +3621,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-08-29T16:36:20.447860",
+    "approvedat": "2025-09-11T13:18:48.998428",
     "approvedby": 34,
     "city_part": [
       "9"
@@ -3650,7 +3650,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-08-29T16:36:20.447835",
+    "modified": "2025-09-11T13:18:48.998400",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Mladoboleslavská - výstavba BUS zastávky, oprava chodníku a komunikace",
     "priority": false,
@@ -3658,8 +3658,8 @@
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
-    "severity": "GREEN",
-    "sha1": "51fb7a729f854a6fb9f62af93bd62f0969e71fc1",
+    "severity": "YELLOW",
+    "sha1": "7102f5abac59f53d9a5d22fdefb1759d10212981",
     "start": "2025-09-15T00:00:00",
     "state": "FUTURE",
     "street": "Mladoboleslavská, Semtínská",
