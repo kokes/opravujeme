@@ -1660,9 +1660,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "a2043449097a22c64477da4ba6f386d02efaa57d",
+    "sha1": "51dc68268e4adb91feb8208ac0c3998c1b527152",
     "start": "2025-07-28T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Poděbradská, Slévačská",
     "subject": "CONSTRUCTION"
   },
@@ -1801,9 +1801,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "7dc14150b06e43fcbb12b3f1ae8fa06c68508cf7",
+    "sha1": "afe035552ba54680d3a5ee6d806ebebd16e3c57f",
     "start": "2025-09-15T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská x Průmyslová x Kbelská, oprava vodovodních armatur",
     "subject": "CONSTRUCTION"
   }

@@ -3659,9 +3659,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "7102f5abac59f53d9a5d22fdefb1759d10212981",
+    "sha1": "a26e53fc39695335b1d11ccfeca347c4319c3ddb",
     "start": "2025-09-15T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Mladoboleslavská, Semtínská",
     "subject": "CONSTRUCTION"
   },
@@ -3706,9 +3706,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "7dc14150b06e43fcbb12b3f1ae8fa06c68508cf7",
+    "sha1": "afe035552ba54680d3a5ee6d806ebebd16e3c57f",
     "start": "2025-09-15T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská x Průmyslová x Kbelská, oprava vodovodních armatur",
     "subject": "CONSTRUCTION"
   }
