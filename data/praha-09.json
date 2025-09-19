@@ -3621,7 +3621,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-09-11T13:18:48.998428",
+    "approvedat": "2025-09-18T12:29:04.674256",
     "approvedby": 34,
     "city_part": [
       "9"
@@ -3632,7 +3632,7 @@
     "created": "2025-08-25T16:08:54.936104",
     "createdby": "ivan.siler@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p class=\"ql-align-justify\">Výstavba nové BUS zastávky v ulici Mladoboleslavská, oprava chodníku a komunikace.</p><p class=\"ql-align-justify\">Akcí bude dotčen uliční prostor v&nbsp;křižovatce Mladoboleslavská x Semtínská, včetně doplnění úseků chodníků, autobusových nástupišť a úpravy přechodu pro chodce a místa pro přecházení.</p><p>  </p>",
+    "description": "<p class=\"ql-align-justify\">Výstavba nové BUS zastávky \"Vinořský zámek\" v ulici Mladoboleslavská, oprava chodníku a komunikace.</p><p class=\"ql-align-justify\">Akcí bude dotčen uliční prostor v&nbsp;křižovatce Mladoboleslavská x Semtínská, včetně doplnění úseků chodníků, autobusových nástupišť a úpravy přechodu pro chodce a místa pro přecházení.</p><p>  </p>",
     "detours": "<p>Nejsou určeny.</p>",
     "dt_format": "DAY",
     "end": "2025-11-30T23:59:00",
@@ -3650,7 +3650,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-09-11T13:18:48.998400",
+    "modified": "2025-09-18T12:29:04.674230",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Mladoboleslavská - výstavba BUS zastávky, oprava chodníku a komunikace",
     "priority": false,
@@ -3659,7 +3659,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "a26e53fc39695335b1d11ccfeca347c4319c3ddb",
+    "sha1": "a26b7decc1d576828660bba40faf5c5690f5232b",
     "start": "2025-09-15T00:00:00",
     "state": "ACTIVE",
     "street": "Mladoboleslavská, Semtínská",
@@ -3752,9 +3752,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "28d5697b4225aba695b49b454f66354c9db6f88b",
+    "sha1": "30eeb3ad214096d4c2bb877d527b5c2e4216981e",
     "start": "2025-09-19T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Krocínce",
     "subject": "CONSTRUCTION"
   },

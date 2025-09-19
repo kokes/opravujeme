@@ -3905,7 +3905,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-06-04T08:11:17.762015",
+    "approvedat": "2025-09-18T12:22:36.878615",
     "approvedby": 34,
     "city_part": [
       "8"
@@ -3919,7 +3919,7 @@
     "description": "<p>Rekonstrukce ulice Klapkova v úseku mezi ulicemi Mašínova a Horňátecká.</p><p>V rámci této etapy proběhne <strong>kompletní rekonstrukce silnice a chodníků</strong> v celé šířce ulice, s výjimkou tramvajového pásu. Součástí stavby bude také přestavba parkovacích míst, kdy stávající stání nahradí nové zálivy přímo v chodnících. Tyto úpravy mají za cíl zvýšit bezpečnost a komfort pro všechny, kteří se v ulici pohybují.</p>",
     "detours": "<p>Objízdné trasy budou vyznačeny.</p>",
     "dt_format": "DAY",
-    "end": "2025-12-31T23:59:00",
+    "end": "2025-11-15T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.453193309695905,\r\n            50.132747221426115\r\n          ],\r\n          [\r\n            14.454445414805576,\r\n            50.13074663621009\r\n          ],\r\n          [\r\n            14.455342445393654,\r\n            50.129165271389496\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2110,
@@ -3934,7 +3934,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-06-04T08:11:17.761973",
+    "modified": "2025-09-18T12:22:36.878590",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce ulice Klapkova",
     "priority": false,
@@ -3943,7 +3943,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1dee8e814c4f36b2474d7d8fcbcc9c409e1468aa",
+    "sha1": "b0d6acef9325719989536ea40d86e54a46fcc539",
     "start": "2025-06-16T00:00:00",
     "state": "ACTIVE",
     "street": "Klapkova",
