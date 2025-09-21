@@ -2163,9 +2163,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "df835c6019fd0fa1dce184ccd9b377db47a6ee01",
+    "sha1": "a20a33a210a6ed0797327a4f19a77566b1680e42",
     "start": "2025-09-21T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vinohradská",
     "subject": "CONSTRUCTION"
   }
