@@ -3935,9 +3935,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "b915ddcb6d5af3573672efbc957afdadb1a69eff",
+    "sha1": "0bfa706df5a803f1531329fc53f5c47944b868cf",
     "start": "2025-09-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Strakonická",
     "subject": "CONSTRUCTION"
   },
