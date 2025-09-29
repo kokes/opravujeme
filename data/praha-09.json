@@ -3798,9 +3798,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9771a6a19df2b379534e446261d26a6ff2b8ee21",
+    "sha1": "ca552b0e98ea1ef82cdd89b2f49cc425857c0ba6",
     "start": "2025-09-22T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pod Jankovem ",
     "subject": "CONSTRUCTION"
   },

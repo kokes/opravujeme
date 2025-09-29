@@ -6756,9 +6756,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "2ea2c6d815cf36f00a7fa196edac46317187cd0c",
+    "sha1": "cc4e87dae73d170d00171c96b521a54616e58a29",
     "start": "2025-09-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Pohořelec, Dlabačov",
     "subject": "CONSTRUCTION"
   }
