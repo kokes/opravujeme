@@ -4113,9 +4113,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "f6efc9895fcc0002ba1c2dcdccbcc287bd032e68",
+    "sha1": "c83602c5eadff6a979dec14c1af181938c6d7608",
     "start": "2025-10-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   }

@@ -4601,9 +4601,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b0612bb93ad2227dae5165fb49e681289f6876e0",
+    "sha1": "2ac16383735323b88c6d1c1805534458c1c509b8",
     "start": "2025-07-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Solidarity",
     "subject": "CONSTRUCTION"
   },
