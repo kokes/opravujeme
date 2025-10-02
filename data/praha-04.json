@@ -4021,9 +4021,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cab2ab298817d20e5a969e4e6c3f5a9a3a1bfb62",
+    "sha1": "48209e61311f8917059236ec0204ee6b82d18c13",
     "start": "2025-10-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
