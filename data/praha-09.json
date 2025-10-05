@@ -3752,9 +3752,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "30eeb3ad214096d4c2bb877d527b5c2e4216981e",
+    "sha1": "5520e0e5ff979dc78ca4593e55258e3981ce7293",
     "start": "2025-09-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Krocínce",
     "subject": "CONSTRUCTION"
   },
