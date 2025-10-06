@@ -2071,9 +2071,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "6708389e306da3918e171ddd32e5576197a307ea",
+    "sha1": "0cd4db97a3073cdbde5c2b3e88b4902f8173a38c",
     "start": "2025-07-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Vinohradská",
     "subject": "CONSTRUCTION"
   },
@@ -2117,9 +2117,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ab158d1d12e53fc18ecbde5c13c5e67869bb2539",
+    "sha1": "4a59db286a78a283fcc4a66107b71df03a5db9a9",
     "start": "2025-10-06T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Jeseniova",
     "subject": "CONSTRUCTION"
   },

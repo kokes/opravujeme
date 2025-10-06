@@ -6804,9 +6804,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "7edc98142ede5d2cc3ec9202fee45b53ef6943f3",
+    "sha1": "deb854c82d1d3924119bbd9a2e571508d378f5ac",
     "start": "2025-10-04T10:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Wilsonova",
     "subject": "CONSTRUCTION"
   }
