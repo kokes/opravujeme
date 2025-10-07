@@ -3455,9 +3455,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d2e8cd9695d31840a92792db0c7317dadaf14a97",
+    "sha1": "1847755300d6af7e0b621fe006d1aef0c2e211bd",
     "start": "2025-10-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Strahovský tunel",
     "subject": "CONSTRUCTION"
   }

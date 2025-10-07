@@ -1143,9 +1143,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8ad9c7b1856afcc0de73e5ea47fc43480f1b943f",
+    "sha1": "bac82f03cb4e3370e60f3a240f9640b4f6494c92",
     "start": "2025-10-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Armády, Náměstí Na Lužinách",
     "subject": "CONSTRUCTION"
   },
@@ -1189,9 +1189,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "9b0e216e9bb24b6e00c78bc5804fc7f282b1ce40",
+    "sha1": "f841d0d384e2cede563e2f6f97815f70ef0fcdd4",
     "start": "2025-10-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Jeremiášova",
     "subject": "CONSTRUCTION"
   }

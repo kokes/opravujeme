@@ -3851,7 +3851,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-08-18T10:57:53.987995",
+    "approvedat": "2025-10-06T10:57:04.434774",
     "approvedby": 34,
     "city_part": [
       "5"
@@ -3873,14 +3873,14 @@
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
     "investor_phone": null,
     "investor_responsible": "Peter Urbánek",
-    "lat": 50.088,
+    "lat": 50.06753877507334,
     "limitations": "<p>Lokální zúžení ul. U Santošky. </p><p>V&nbsp;rámci etap jednotlivých lokalit bude lokální zúžení a částečná uzavírka ul. Na Březince, U Nikolajky, Ostrovského a Na Zatlance.</p>",
-    "lon": 14.42076,
+    "lon": 14.399245977401733,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-08-18T10:57:53.987942",
+    "modified": "2025-10-06T10:57:04.434732",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Úprava křižovatek U Santošky x Na Březince, U Santošky x U Nikolajky a Ostrovského x U Santošky",
     "priority": false,
@@ -3889,7 +3889,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "7914b826b921bf13aa447e3609472fdad14c1d9c",
+    "sha1": "9fc2470a9002a9b1c16f26c7b5ab5c338565775f",
     "start": "2025-08-01T00:00:00",
     "state": "ACTIVE",
     "street": "U Santošky, Na Březince, U Nikolajky, Ostrovského",
@@ -4028,9 +4028,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d2e8cd9695d31840a92792db0c7317dadaf14a97",
+    "sha1": "1847755300d6af7e0b621fe006d1aef0c2e211bd",
     "start": "2025-10-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Strahovský tunel",
     "subject": "CONSTRUCTION"
   }
