@@ -1425,9 +1425,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8d2fcf9857559b023dc0101c6b7141b667ec8d5c",
+    "sha1": "ee9c77b8b940f554a7d91d51b057bd5ec887f4e9",
     "start": "2025-10-25T00:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Lhotecká",
     "subject": "CONSTRUCTION"
   }
