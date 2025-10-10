@@ -1387,7 +1387,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-09-24T14:54:35.396975",
+    "approvedat": "2025-10-09T14:12:01.615551",
     "approvedby": 15,
     "city_part": [
       "12"
@@ -1416,7 +1416,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-09-24T14:54:35.396933",
+    "modified": "2025-10-09T14:12:01.615525",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "VÝMĚNA PŘÍSTŘEŠKU NA ZASTÁVCE HASOVA",
     "priority": false,
@@ -1425,8 +1425,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ee9c77b8b940f554a7d91d51b057bd5ec887f4e9",
-    "start": "2025-10-25T00:00:00",
+    "sha1": "875917d171074721c8846a52504ab0fbe92b19a6",
+    "start": "2025-09-25T00:00:00",
     "state": "DONE",
     "street": "Lhotecká",
     "subject": "CONSTRUCTION"
