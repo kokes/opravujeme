@@ -4449,9 +4449,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "6dcb77fc30a8abaa51f1bd789bea3efb8c0712d9",
+    "sha1": "ae58dbe65a033b10a945eb81a73c6344d47a38e2",
     "start": "2025-10-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Hlávkův most",
     "subject": "CONSTRUCTION"
   }
