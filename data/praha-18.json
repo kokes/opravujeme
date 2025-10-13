@@ -1207,9 +1207,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "db33bab136308bf24a1dfcbbd2b994ff947c8b98",
+    "sha1": "b66e658c551937d5d9282594faf9d2ccdc8d2a72",
     "start": "2025-08-30T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Beranových",
     "subject": "CONSTRUCTION"
   },

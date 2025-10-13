@@ -1335,9 +1335,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "5b43651f7fa5f191fc0b151338cf3d52734c3f69",
+    "sha1": "bf89d20e31f54643a0f620cc4753fb87c29bc20d",
     "start": "2025-08-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Zálesí, Modřanská, Opatovská",
     "subject": "CONSTRUCTION"
   },
@@ -1565,9 +1565,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "a345e8921dd3c6059241ebcba8b92cdf22976fbb",
+    "sha1": "6a74f52436c22fc081b0f8c887bfc17a146a64bc",
     "start": "2025-10-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Roztylská",
     "subject": "CONSTRUCTION"
   },
@@ -1657,9 +1657,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "325566d3b9d45ad5643e74ca84fcbf034b207e59",
+    "sha1": "513d891e0f24b2124d0a6a444ce2a8d04163fab1",
     "start": "2025-10-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ryšavého",
     "subject": "CONSTRUCTION"
   }

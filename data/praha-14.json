@@ -1847,9 +1847,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8492bdfe85704ec1e0d892a413400b725e573b89",
+    "sha1": "edf0d07a6ee6c4e6dac874ac95be2f6d097c74bf",
     "start": "2025-10-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská",
     "subject": "CONSTRUCTION"
   },
