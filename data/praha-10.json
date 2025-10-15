@@ -5069,7 +5069,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-09T12:15:49.602001",
+    "approvedat": "2025-10-14T11:02:44.967860",
     "approvedby": 34,
     "city_part": [
       "10"
@@ -5080,7 +5080,7 @@
     "created": "2025-09-22T11:06:57.126298",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Vybudování nové společné stezky pro chodce a cyklisty mezi ulicemi Doupovská a U Záběhlického zámku, podél vodní nádrže Košík, směrem k sídlišti Košík.</p><p><br></p><p>Kvůli bezpečnému pohybu chodců a cyklistů bude upravena křižovatka ulic K&nbsp;Horkám a Doupovská. V&nbsp;ulici Doupovská před křižovatkou vznikne nový přechod a bude opraven ostrůvek v&nbsp;ulici K&nbsp;Horkám, což vyžaduje úpravu a obnovu světelného signalizačního zařízení. V&nbsp;místech přechodů pro chodce dojde i k&nbsp;bezbariérovým úpravám obrub a chodníků a k&nbsp;opravě povrchu komunikací.</p><p><br></p><p>Projekt řeší vybudování vhodného vedení trasy společné stezky pro chodce a cyklisty včetně bezpečného převedení cyklistů a chodců přes ulici Doupovská a ulici K Horkám. Navrhovaná stezka je i vzhledem ke zjištěným frekvencím chodců a cyklistů navržena jako společná s částí, která umožňuje průjezd vozidel údržby vodních nádrží. Vzhledem ke zpevnění stávajících vyježděných / vyšlapaných pěšin dojde ke zlepšení bezpečnosti a komfortu pohybů chodců i cyklistů.</p>",
+    "description": "<p>Vybudování nové společné stezky pro chodce a cyklisty mezi ulicemi Doupovská a U Záběhlického zámku, podél vodní nádrže Košík, směrem k sídlišti Košík.</p><p><br></p><p>Kvůli bezpečnému pohybu chodců a cyklistů bude upravena křižovatka ulic K&nbsp;Horkám a Doupovská. V&nbsp;ulici Doupovská před křižovatkou vznikne nový přechod a bude opraven ostrůvek v&nbsp;ulici K&nbsp;Horkám, což vyžaduje úpravu a <a href=\"https://opravujeme.to/action/2300/\" rel=\"noopener noreferrer\" target=\"_blank\">obnovu světelného signalizačního zařízení</a>. V&nbsp;místech přechodů pro chodce dojde i k&nbsp;bezbariérovým úpravám obrub a chodníků a k&nbsp;opravě povrchu komunikací.</p><p><br></p><p>Projekt řeší vybudování vhodného vedení trasy společné stezky pro chodce a cyklisty včetně bezpečného převedení cyklistů a chodců přes ulici Doupovská a ulici K Horkám. Navrhovaná stezka je i vzhledem ke zjištěným frekvencím chodců a cyklistů navržena jako společná s částí, která umožňuje průjezd vozidel údržby vodních nádrží. Vzhledem ke zpevnění stávajících vyježděných / vyšlapaných pěšin dojde ke zlepšení bezpečnosti a komfortu pohybů chodců i cyklistů.</p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2026-06-30T23:59:00",
@@ -5098,7 +5098,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-09T12:15:49.601975",
+    "modified": "2025-10-14T11:02:44.967832",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Prodloužení cyklotrasy A225 podél vodní nádrže Košík",
     "priority": false,
@@ -5107,7 +5107,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e960814329d053808de3753625daf688149f184d",
+    "sha1": "54c6120521fe46e41d05929c79cbe923c88ce8a0",
     "start": "2025-09-22T00:00:00",
     "state": "ACTIVE",
     "street": "Doupovská, U Záběhlického zámku",
@@ -5797,9 +5797,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "01009c4da7c0352ef1172541db1167bea9e6bbb4",
+    "sha1": "e8ca0d9fd90d76c52575311d79da9ded34fc5ebc",
     "start": "2025-10-15T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vinohradská ",
     "subject": "CONSTRUCTION"
   },
@@ -5935,9 +5935,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "30a2c5f2bbdd159b66f829666058c458fc8ac8ef",
+    "sha1": "67bd3a9aa72f5cecaa744da511fb81e9657ed369",
     "start": "2025-10-14T08:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Vodě",
     "subject": "CONSTRUCTION"
   }
