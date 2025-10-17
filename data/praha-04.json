@@ -4121,8 +4121,8 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-07T15:14:57.247026",
-    "approvedby": 34,
+    "approvedat": "2025-10-16T13:34:18.009820",
+    "approvedby": 15,
     "city_part": [
       "4"
     ],
@@ -4150,18 +4150,18 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-07T15:14:57.246997",
-    "modifiedby": "eva.vesela@tsk-praha.cz",
+    "modified": "2025-10-16T13:34:18.009793",
+    "modifiedby": "leos.kubin@praha.eu",
     "name": "Vybudování zastávky BUS MHD \"Přístaviště\"",
     "priority": false,
     "promoted": false,
-    "responsible": null,
-    "responsible_email": null,
-    "responsible_phone": null,
+    "responsible": "Kubín",
+    "responsible_email": "leos.kubin@praha.eu",
+    "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "87861715c5c680f7ce1b08b1bb687ed096955be9",
+    "sha1": "370ee1e61872dd1d2da25a89ed276d484d2b5798",
     "start": "2025-10-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ke Krči, Branická",
     "subject": "CONSTRUCTION"
   }

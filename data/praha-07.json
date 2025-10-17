@@ -4403,9 +4403,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "a1af60ee11e114df6ef0862681b1449406cb6d8a",
+    "sha1": "ba0ab7bb21cf89958c56c3db4c978523b33c0d54",
     "start": "2025-10-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "nábřeží Kpt. Jaroše, Bubenské nábřeží",
     "subject": "CONSTRUCTION"
   },
@@ -4495,9 +4495,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236004247",
     "severity": "GREEN",
-    "sha1": "3738216f5ac48db0ba4f5c03d4a1bb5adc18a77d",
+    "sha1": "d63ab0183f55c5d317c6add43297a22a881c2eed",
     "start": "2025-10-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "nábřeží Kpt. Jaroše",
     "subject": "CONSTRUCTION"
   }
