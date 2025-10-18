@@ -139,7 +139,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-09-17T11:56:45.146146",
+    "approvedat": "2025-10-17T13:53:12.703958",
     "approvedby": 12,
     "city_part": [
       "22"
@@ -153,7 +153,7 @@
     "description": "<p>Z důvodu realizace dálnice D0 stavba 511, Běchovice - D1 a nutnosti vybudování MÚK Říčany bude realizována přeložka ulice Přátelství v místě budoucí mimoúrovňové křižovatky.</p><p>Z uvedeného důvodu bude po dobu výstavby přeložky komunikace uzavřen jízdní pruh ve směru jízdy Říčany - Praha v úseku ulic Málkovská - Pánkova.</p>",
     "detours": "<p>Přátelství - Málkovská - Pánkova - Přátelství</p>",
     "dt_format": "DAY",
-    "end": "2025-10-31T23:59:00",
+    "end": "2025-11-10T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.651588818802452,\r\n            50.00790858357968\r\n          ],\r\n          [\r\n            14.635820005969151,\r\n            50.01673398404063\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2244,
@@ -168,7 +168,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-09-17T11:56:45.146105",
+    "modified": "2025-10-17T13:53:12.703931",
     "modifiedby": "monika.vochozkova@praha.eu",
     "name": "Přeložka komunikace ul. Přátelství",
     "priority": false,
@@ -177,7 +177,7 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "e3d4c6a6ff0ea7a33d754ec39a38722849ae29e4",
+    "sha1": "49a8c9af7b7ac8a212f43064f5fa5d30f637ef88",
     "start": "2025-09-28T00:00:00",
     "state": "ACTIVE",
     "street": "Přátelství ",
