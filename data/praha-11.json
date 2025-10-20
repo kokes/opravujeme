@@ -1473,9 +1473,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9c116b4e73f21d34c2633db97f81f3b7c657f0f1",
+    "sha1": "99d3211264411de24d5b9efe63b57251d4be44e9",
     "start": "2025-10-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ryšavého",
     "subject": "CONSTRUCTION"
   },
