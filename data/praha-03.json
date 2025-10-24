@@ -2309,8 +2309,8 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-21T11:22:48.522713",
-    "approvedby": 15,
+    "approvedat": "2025-10-23T10:46:35.695122",
+    "approvedby": 34,
     "city_part": [
       "3"
     ],
@@ -2329,8 +2329,8 @@
     "id": 2309,
     "internal_id": null,
     "investor": "Technická správa komunikací hl. m. Prahy, a.s.",
-    "investor_phone": "724 201 252",
-    "investor_responsible": "Semický",
+    "investor_phone": null,
+    "investor_responsible": "Jiří Semecký",
     "lat": 50.09743137572077,
     "limitations": "<p><span style=\"color: black;\">V&nbsp;termínu 1. etapy od 22.10.2025 do 29.10.2025 dojde k&nbsp;záboru pravého jízdního pruhu v&nbsp;jízdním pásu od křižovatky K&nbsp;Žižkovu x Spojovací po křižovatku Spojovací x U Kněžské luky. Průjezd bude umožněn levým jízdním pruhem. V&nbsp;termínu 2. etapy od 30.10.2025 do 06.11.2025 dojde k dojde k&nbsp;záboru levého jízdního pruhu v&nbsp;jízdním pásu od křižovatky K&nbsp;Žižkovu x Spojovací po</span> křižovatku Spojovací x U Kněžské luky. Průjezd bude umožněn pravým jízdním pruhem. Odbočení a připojení do a z&nbsp;ulice Pod Šancemi bude umožněno.&nbsp;</p>",
     "lon": 14.495215415954592,
@@ -2338,19 +2338,19 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-21T11:22:48.522671",
-    "modifiedby": "leos.kubin@praha.eu",
-    "name": "OPRAVA OBRUSNÉ VRSTVY ŽIVIČNÉHO KRYTU - SPOJOVACÍ",
+    "modified": "2025-10-23T10:46:35.695085",
+    "modifiedby": "eva.vesela@tsk-praha.cz",
+    "name": "Oprava obrusné vrstvy živičného krytu v ulici Spojovací",
     "priority": false,
     "promoted": false,
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "b153dd50f9258f0c928cdb965b6e5138ce5d0ce1",
+    "sha1": "1a9952415cafa5a725960f9d54fae58e00384e6d",
     "start": "2025-10-22T00:00:00",
     "state": "ACTIVE",
-    "street": "SPOJOVACÍ",
+    "street": "Spojovací",
     "subject": "CONSTRUCTION"
   }
 ]
