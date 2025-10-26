@@ -1701,9 +1701,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "49ffc0b56659a0e5899e97c4c859b3480f6f841c",
+    "sha1": "62061b3d95fadf964a170698608a5b159087a13e",
     "start": "2025-10-25T07:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Karlická , obousměrná uzavírka komunikace",
     "subject": "CONSTRUCTION"
   },
@@ -1747,9 +1747,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "3cbd1a968041ef357da98e85a2344623a2a11d8a",
+    "sha1": "d2ee9596316a4766922f0d6d73284e460e330c61",
     "start": "2025-10-26T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "STRAKONICKÁ",
     "subject": "CONSTRUCTION"
   },
