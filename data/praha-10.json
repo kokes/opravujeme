@@ -4417,9 +4417,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "56856eb4cbcf54d51108b24e74183b006b7d859b",
+    "sha1": "8bfab966bd14cef9d6c4211af3e5ca71068d5368",
     "start": "2025-07-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "V Olšinách",
     "subject": "CONSTRUCTION"
   },
@@ -5199,9 +5199,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "608647515",
     "severity": "GREEN",
-    "sha1": "6e9e4af78cccba425215a71e3a8b0acbfe4eb576",
+    "sha1": "9acef36585e4cbc19e51396da49a402b1f820abe",
     "start": "2025-10-06T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Výstupní",
     "subject": "CONSTRUCTION"
   },
