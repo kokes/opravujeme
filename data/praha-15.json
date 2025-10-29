@@ -1381,9 +1381,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6287e15a3939fde1fc7fdcbbb5bd7bef86720e5e",
+    "sha1": "1df905d0cb0dbdaf1500fde8c667d8a422286c0c",
     "start": "2025-10-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "K Horkám, Doupovská",
     "subject": "CONSTRUCTION"
   },
