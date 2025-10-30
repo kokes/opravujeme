@@ -5659,9 +5659,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "GREEN",
-    "sha1": "31f11139483379598cff88b0e6c514de48d93513",
+    "sha1": "7ba1a988eee11d9e791927868d9baf8d7c72a9cd",
     "start": "2025-10-23T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Strašnická",
     "subject": "CONSTRUCTION"
   },
@@ -5935,9 +5935,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "67bd3a9aa72f5cecaa744da511fb81e9657ed369",
+    "sha1": "0c1f087b0b000da348cb35099926356ccd9c8681",
     "start": "2025-10-14T08:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "K Vodě",
     "subject": "CONSTRUCTION"
   }
