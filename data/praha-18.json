@@ -1300,9 +1300,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3c9bb01f55ef7684742c9c0d85621f0bd5e82af9",
+    "sha1": "a10f0da2cb176df18bb56b0e713da242d1dc313e",
     "start": "2025-11-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kostelecká",
     "subject": "CONSTRUCTION"
   }

@@ -1374,9 +1374,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "99d3211264411de24d5b9efe63b57251d4be44e9",
+    "sha1": "89dc3a5bd90336b15e2ef85b4f008101ab8756b1",
     "start": "2025-10-20T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Ryšavého",
     "subject": "CONSTRUCTION"
   },
@@ -1604,9 +1604,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "69248608ec43db03faf3705339d6306a979191b9",
+    "sha1": "758416c2fd7168f5e68feea63ccc02400c319b50",
     "start": "2025-11-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Türkova",
     "subject": "CONSTRUCTION"
   },

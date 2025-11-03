@@ -3003,9 +3003,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1e816fd64928ba795225401f5e2924a796a8d48a",
+    "sha1": "ebf59085c690a4497f35f97f9da62d2abe98f7e3",
     "start": "2025-11-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kunratická spojka",
     "subject": "CONSTRUCTION"
   },
