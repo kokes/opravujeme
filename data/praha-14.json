@@ -1939,9 +1939,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "21625a3eaa9b6f37fffd062d75f680a5c94b3d2e",
+    "sha1": "594295955c4a36c8e5f66465f50b37604d2ddc49",
     "start": "2025-11-06T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Chlumecká",
     "subject": "CONSTRUCTION"
   }
