@@ -1262,7 +1262,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-29T10:46:04.680160",
+    "approvedat": "2025-11-06T12:33:25.364330",
     "approvedby": 34,
     "city_part": [
       "18"
@@ -1291,7 +1291,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-29T10:46:04.680114",
+    "modified": "2025-11-06T12:33:25.364303",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Kostelecká - 3. etapa",
     "priority": false,
@@ -1299,8 +1299,8 @@
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
-    "severity": "GREEN",
-    "sha1": "a10f0da2cb176df18bb56b0e713da242d1dc313e",
+    "severity": "YELLOW",
+    "sha1": "c35125724a6c864a0c70bdd60083da5680405768",
     "start": "2025-11-03T00:00:00",
     "state": "ACTIVE",
     "street": "Kostelecká",
