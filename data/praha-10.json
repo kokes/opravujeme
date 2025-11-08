@@ -5153,9 +5153,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "4e739c50632f5131a9214840f28bea2a6d3c1b5f",
+    "sha1": "7c35dc0a2968a2254a1a7f7cc6df7e925a04ed98",
     "start": "2025-09-22T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Práčská, Hledíková",
     "subject": "CONSTRUCTION"
   },
@@ -5291,9 +5291,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "608 647 515",
     "severity": "GREEN",
-    "sha1": "2c447f306521b2fc763d6c7d93172e7500aadb59",
+    "sha1": "216921cf3746aed85bcf1bccfc603f8f821d2297",
     "start": "2025-10-01T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Louži",
     "subject": "CONSTRUCTION"
   },

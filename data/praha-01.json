@@ -6810,7 +6810,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-15T22:29:45.382303",
+    "approvedat": "2025-11-07T14:30:13.220300",
     "approvedby": 5,
     "city_part": [
       "1"
@@ -6824,7 +6824,7 @@
     "description": "<p>Obnova povrchu chodníku.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-11-09T23:59:00",
+    "end": "2025-11-10T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.429140155845943,\r\n              50.07784726371776\r\n            ],\r\n            [\r\n              14.429037061012849,\r\n              50.07723763608777\r\n            ],\r\n            [\r\n              14.429176975428561,\r\n              50.07725181356261\r\n            ],\r\n            [\r\n              14.429316889845637,\r\n              50.077856715247776\r\n            ],\r\n            [\r\n              14.429140155845943,\r\n              50.07784726371776\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2302,
@@ -6839,7 +6839,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-15T22:29:45.382262",
+    "modified": "2025-11-07T14:30:13.220272",
     "modifiedby": "lukas.vopava@praha.eu",
     "name": "Obnova povrchu chodníků - Mezibranská",
     "priority": false,
@@ -6848,7 +6848,7 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236004247",
     "severity": "GREEN",
-    "sha1": "d5c4f46a6660aa5258f3c373608ab825b263172c",
+    "sha1": "7a6a593587043f14ea8d87b03b6020244730ae80",
     "start": "2025-10-17T00:00:00",
     "state": "ACTIVE",
     "street": "Mezibranská",
