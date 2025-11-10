@@ -4217,9 +4217,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "a6a9d268560a3466a169d7b927312c0a063ef041",
+    "sha1": "6a54f916fa46c3e317a1e53b641a19b18348714a",
     "start": "2025-07-14T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Prvního pluku, Pernerova",
     "subject": "CONSTRUCTION"
   },
@@ -5002,9 +5002,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236004247",
     "severity": "GREEN",
-    "sha1": "a69f26d04803a468b2100bcd975085bee4e45166",
+    "sha1": "aa2ceafe79ec1cb0d5b73de6f98729b51c2181b3",
     "start": "2025-11-08T17:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Rohanské nábřeží, Sokolovská",
     "subject": "OTHERS"
   }

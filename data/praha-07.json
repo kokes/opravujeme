@@ -4539,9 +4539,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "912466fc9358edabf54988ff44eae65a2b806423",
+    "sha1": "385c50b355ac0503b81bba047fb5a1445bc11a1d",
     "start": "2025-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "nábřeží Kapitána Jaroše, Bubenská",
     "subject": "CONSTRUCTION"
   },
@@ -4585,9 +4585,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236004247",
     "severity": "GREEN",
-    "sha1": "6abd9145ad622fb6f9d394d9d4016b6e6144e72b",
+    "sha1": "8bbb4ec8c9a26ecd246f2d812a25002027bef376",
     "start": "2025-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "nábřeží Kapitána Jaroše, Bubenská",
     "subject": "CONSTRUCTION"
   },
@@ -4631,9 +4631,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236004247",
     "severity": "GREEN",
-    "sha1": "b76fd1a27e9007535eb0ad3e13032dbad0045460",
+    "sha1": "5feeb003d8af29aa0f49609f9302af136176b6d9",
     "start": "2025-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vrbenského, Bondyho",
     "subject": "CONSTRUCTION"
   }

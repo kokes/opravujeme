@@ -3501,9 +3501,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "09f9d2e390fe73e12778c98df3af5ba8dcfca934",
+    "sha1": "f73f02a5dfbdadc7069ef724cb4c5894d137bd47",
     "start": "2025-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Dlouhém lánu",
     "subject": "CONSTRUCTION"
   }

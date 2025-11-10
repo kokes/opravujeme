@@ -3647,9 +3647,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bd4af949f59c38767d49b29007071e93951b3dd0",
+    "sha1": "f9853cd5c4bcf907f28a07e04ed5ac42aef26bde",
     "start": "2025-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
@@ -4203,9 +4203,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "b16f22f7d4d363f34ce580a7e665ff2072fcd411",
+    "sha1": "cc30b68bc095ad33fa2198a2ba915b802f690c46",
     "start": "2025-10-27T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },

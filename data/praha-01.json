@@ -6942,9 +6942,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5f35e7ea24a61be34578742f583b04a60f0f88fd",
+    "sha1": "4e7437731655be7a6f7116dac4657bd90fef5ec9",
     "start": "2025-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Poříčí",
     "subject": "CONSTRUCTION"
   }
