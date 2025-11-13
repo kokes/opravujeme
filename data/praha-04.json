@@ -4295,9 +4295,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d63ebb6f189e041a91fd250bc5b0a80763cead7d",
+    "sha1": "d60722faad0a44813b0709b411fcd2446ac852dd",
     "start": "2025-11-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Pankráci, U Jedličkova ústavu",
     "subject": "CONSTRUCTION"
   }
