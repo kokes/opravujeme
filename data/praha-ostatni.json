@@ -81,9 +81,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "29a62b4f5e03a1c0b08d4917e4288e45cf0df40e",
+    "sha1": "9bee1274d2b555934582f977090ba9ec520bd94c",
     "start": "2025-11-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   }
