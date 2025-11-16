@@ -4263,9 +4263,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "b2246102196378a7cb8d7ad952df2525263aaa6b",
+    "sha1": "3f52b2819c83afc3ee70269aaf4d1fa99d7242bd",
     "start": "2025-09-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Argentinská",
     "subject": "CONSTRUCTION"
   },
@@ -4309,9 +4309,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "ca766cc88a986e632fb7ba04d86f9efda9e1cba9",
+    "sha1": "b2ef167ed5ee46ed5fa4501a7e3caeb7e7c079c3",
     "start": "2025-09-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Argentinská",
     "subject": "CONSTRUCTION"
   },
