@@ -1604,9 +1604,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "758416c2fd7168f5e68feea63ccc02400c319b50",
+    "sha1": "8716c4efcb41c255fd07acf28279b72f0e31391c",
     "start": "2025-11-03T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Türkova",
     "subject": "CONSTRUCTION"
   },

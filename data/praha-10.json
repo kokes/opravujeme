@@ -5843,9 +5843,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "GREEN",
-    "sha1": "65c30d059fa54fae2b976d3cdf415aa4ef6dd822",
+    "sha1": "bec07eff7590e9c04332716148da433635884bec",
     "start": "2025-10-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Švehlova",
     "subject": "CONSTRUCTION"
   },
@@ -5889,9 +5889,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "ac3277521be38c18440061c25c3407607ec0d172",
+    "sha1": "b5e80f117c7873d4559be0aaf56409405d956082",
     "start": "2025-11-17T04:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Počernická, Na Palouku, Slunečná, Ovčárská, Dřevčická a okolí",
     "subject": "CONSTRUCTION"
   },
