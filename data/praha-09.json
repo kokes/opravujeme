@@ -2265,9 +2265,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "593db3f2db59c076a8bbb1d8ca392c2b34d8f606",
+    "sha1": "c454c6c83c891fa7b3d4ca9a41f085c8e1a5c1db",
     "start": "2025-09-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },

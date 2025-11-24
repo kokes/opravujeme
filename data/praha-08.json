@@ -3388,9 +3388,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "889872cd6fd749d7838b51762047faa818e986ca",
+    "sha1": "8f67b1d6a2ffa01b49692e2d2a44f0e02f0b280e",
     "start": "2025-11-15T04:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": " 5. května, Legerova, Hlávkův most, , místní komunikace nižších tříd – Na Bojišti, Na Hřebenech II, Děkanská vinice I, Dačického a na komunikaci NN2595 (AO Nádraží Holešovice",
     "subject": "CONSTRUCTION"
   },
@@ -4770,9 +4770,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "94be4d0881ecc1395e884a7f1d273efcd5bae8c3",
+    "sha1": "91539345db64b527a6b262d4757597c781ed0bd2",
     "start": "2025-10-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Střelničná",
     "subject": "CONSTRUCTION"
   },
