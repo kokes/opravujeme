@@ -2117,9 +2117,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b1ccfc42adc320a32f72f53c7428d380bb951e25",
+    "sha1": "844dd50eab986fa9e754b62219357308a59dc25a",
     "start": "2025-10-06T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jeseniova",
     "subject": "CONSTRUCTION"
   },
