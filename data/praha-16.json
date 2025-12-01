@@ -1793,9 +1793,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "83692d1b5b995b52eb6f8625162ec573e50c7ce3",
+    "sha1": "e58fa10a8d2f70e594e2ef63ccf1ac5ff274f42f",
     "start": "2025-11-03T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Cyklotrasa A1",
     "subject": "CONSTRUCTION"
   }

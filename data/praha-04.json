@@ -3739,9 +3739,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "12667cf66e1fc6ce984af6c362a20e431536e8a6",
+    "sha1": "841c74f7217123cba9fdc5ba5f9996c4f56f24d0",
     "start": "2025-05-12T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },
@@ -3973,9 +3973,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "56f9241dd9fcacc9cde609660b7c764873303ebd",
+    "sha1": "1b6056c44c3a4b1c6594c1f85dc50f39f36e2a5b",
     "start": "2025-09-10T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },

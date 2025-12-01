@@ -6754,9 +6754,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "8498925d7887d3af32bb51144860aa8d8e78f5f5",
+    "sha1": "cc45492c003c664fdb62caba3870b33e5d63b084",
     "start": "2025-09-29T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pohořelec, Dlabačov",
     "subject": "CONSTRUCTION"
   },
@@ -6896,9 +6896,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "85ddc6299608928f66593dc9ce66a413557a6ce8",
+    "sha1": "2201110f6adc15f69d751675a5c41c3832c3c083",
     "start": "2025-10-27T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jindřišská, Nám. Míru, I. P. Pavlova, Štěpánská, Anděl",
     "subject": "CONSTRUCTION"
   },
