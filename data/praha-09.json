@@ -3621,7 +3621,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-06T10:58:35.402797",
+    "approvedat": "2025-12-03T07:38:56.247995",
     "approvedby": 34,
     "city_part": [
       "9"
@@ -3635,7 +3635,7 @@
     "description": "<p class=\"ql-align-justify\">Výstavba nové BUS zastávky \"Vinořský zámek\" v ulici Mladoboleslavská, oprava chodníku a komunikace.</p><p class=\"ql-align-justify\">Akcí bude dotčen uliční prostor v&nbsp;křižovatce Mladoboleslavská x Semtínská, včetně doplnění úseků chodníků, autobusových nástupišť a úpravy přechodu pro chodce a místa pro přecházení.</p><p>  </p>",
     "detours": "<p>Nejsou určeny.</p>",
     "dt_format": "DAY",
-    "end": "2025-11-30T23:59:00",
+    "end": "2025-12-13T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {\r\n        \"stroke\": \"#84e87d\",\r\n        \"stroke-width\": 10,\r\n        \"stroke-opacity\": 1\r\n      },\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.577020532603484,\r\n            50.14065776046945\r\n          ],\r\n          [\r\n            14.577484150399215,\r\n            50.14087998697087\r\n          ],\r\n          [\r\n            14.5776906356364,\r\n            50.14105726804647\r\n          ],\r\n          [\r\n            14.577756866750633,\r\n            50.1411896041958\r\n          ],\r\n          [\r\n            14.577826993811556,\r\n            50.14161906993161\r\n          ],\r\n          [\r\n            14.577725699167502,\r\n            50.14163155434309\r\n          ],\r\n          [\r\n            14.57772959511533,\r\n            50.141711454499074\r\n          ],\r\n          [\r\n            14.577601028836028,\r\n            50.14173142951691\r\n          ],\r\n          [\r\n            14.577569861252925,\r\n            50.14153667273487\r\n          ],\r\n          [\r\n            14.577371167911537,\r\n            50.14155415093978\r\n          ],\r\n          [\r\n            14.577343896276261,\r\n            50.14147425052147\r\n          ],\r\n          [\r\n            14.577741282959039,\r\n            50.14143679715448\r\n          ],\r\n          [\r\n            14.577682843740632,\r\n            50.141194598005626\r\n          ],\r\n          [\r\n            14.57760492478397,\r\n            50.1410472803976\r\n          ],\r\n          [\r\n            14.577421815234146,\r\n            50.140899962336306\r\n          ],\r\n          [\r\n            14.576973781228702,\r\n            50.140695214446765\r\n          ],\r\n          [\r\n            14.577024428551368,\r\n            50.140662754334784\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      },\r\n      \"id\": 0\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2229,
@@ -3650,7 +3650,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-06T10:58:35.402771",
+    "modified": "2025-12-03T07:38:56.247968",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Mladoboleslavská - výstavba BUS zastávky, oprava chodníku a komunikace",
     "priority": false,
@@ -3659,9 +3659,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6ea4fb5be57911bafa454d03472ab2992cb64131",
+    "sha1": "d6becd0af1f1cdeacdd00e785581dc3ba882c6ea",
     "start": "2025-09-15T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "Mladoboleslavská, Semtínská",
     "subject": "CONSTRUCTION"
   },
