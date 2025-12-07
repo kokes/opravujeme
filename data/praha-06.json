@@ -1471,9 +1471,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "2360004399",
     "severity": "GREEN",
-    "sha1": "2dec87ab89ef7885ecd8430c54393cd1d458287e",
+    "sha1": "2a7832b04b9bc22d2d8b919a5fbc4171d2af9165",
     "start": "2025-12-06T09:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Vaníčkova, Turistická, Motoristická, Atletická, Diskařská, Maratónská, Zátopkova",
     "subject": "SPORT"
   },
@@ -3455,9 +3455,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1847755300d6af7e0b621fe006d1aef0c2e211bd",
+    "sha1": "c6037e66a4cc1bac72f97ad8489fdf350c666075",
     "start": "2025-10-07T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Strahovský tunel",
     "subject": "CONSTRUCTION"
   },
