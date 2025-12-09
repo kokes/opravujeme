@@ -2485,9 +2485,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "11486e2233e5060edd90aabdccb23b5fb760b741",
+    "sha1": "8bf470b61b9fe098248c3881b1e0f9591c859669",
     "start": "2025-11-25T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   }
