@@ -3659,9 +3659,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "d6becd0af1f1cdeacdd00e785581dc3ba882c6ea",
+    "sha1": "fb13cd193e7c7be6e671e7a77e2bb68473916df8",
     "start": "2025-09-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Mladoboleslavská, Semtínská",
     "subject": "CONSTRUCTION"
   },
