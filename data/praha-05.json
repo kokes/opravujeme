@@ -3889,9 +3889,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "c8f2c813b905c44e307110348011de10e8e57e7e",
+    "sha1": "97ffb3a74ec1b30ee60514c4601808c82cd28158",
     "start": "2025-08-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Santošky, Na Březince, U Nikolajky, Ostrovského",
     "subject": "CONSTRUCTION"
   },
