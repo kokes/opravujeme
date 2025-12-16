@@ -2961,9 +2961,9 @@
     "responsible_email": null,
     "responsible_phone": "283091359",
     "severity": "YELLOW",
-    "sha1": "538113d1d3825cf4e51a99cefb10476df5c5f52c",
+    "sha1": "de6e11ef0cf3fa9b7245d2d858949090630c8117",
     "start": "2025-06-02T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nad Krocínkou",
     "subject": "CONSTRUCTION"
   },
