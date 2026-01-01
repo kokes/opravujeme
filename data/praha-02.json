@@ -2413,9 +2413,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "921159cda02a3404b3cd9634b4fe83b547d0df19",
+    "sha1": "756055a89b988edac10fb586a609c26fbf4b8f9d",
     "start": "2024-11-05T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Legerova",
     "subject": "CONSTRUCTION"
   },
@@ -3012,9 +3012,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "fff123cde4645a752de8a9490b0b6c3e76e33d08",
+    "sha1": "80a047e0fa0eb0355d31ed9dd5730c0ea67f9b8c",
     "start": "2025-08-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Sokolská",
     "subject": "CONSTRUCTION"
   },

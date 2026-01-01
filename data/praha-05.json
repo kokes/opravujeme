@@ -2785,9 +2785,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "40fe2d3c18883bbf6762ab88be36217ca61581bf",
+    "sha1": "59915e614056c8ec8b3ffa23377e97d7278dbe25",
     "start": "2024-07-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Peroutkova",
     "subject": "CONSTRUCTION"
   },
