@@ -1890,9 +1890,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e4db619e9f1daabc3b3769d10ed439de73592c22",
+    "sha1": "0ce058017819f0d9f41f9c996689b47188df049b",
     "start": "2024-12-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Strži, Na Pankráci, Hvězdova",
     "subject": "CONSTRUCTION"
   },
