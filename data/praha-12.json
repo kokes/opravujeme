@@ -1468,9 +1468,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "9d8deca25ae5b71c3421343970ef64e029a272e4",
+    "sha1": "98e203de517f8d5a155a84e040ee1b28ce97a06f",
     "start": "2026-01-10T00:30:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": " Svobodova, Podolské nábřeží, Modřanská, Pikovická, Generála Šišky, Novodvorská, ",
     "subject": "CONSTRUCTION"
   }
