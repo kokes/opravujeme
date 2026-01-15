@@ -2263,7 +2263,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-15T09:46:56.226068",
+    "approvedat": "2026-01-14T12:38:54.226439",
     "approvedby": 15,
     "city_part": [
       "3"
@@ -2286,13 +2286,13 @@
     "investor_phone": "607 026 120",
     "investor_responsible": "Totušek",
     "lat": 50.07811553379154,
-    "limitations": "<p>V termínu od 14. 10. 2025 do 14. 08. 2026 dojde v úseku ulice Vinohradská ve směru do centra, od křižovatky Vinohradská × Písecká po křižovatku Vinohradská × Hradecká,</p><p> k&nbsp;záboru pravého jízdního pruhu a přilehlého vyhrazeného cyklopruhu. Průjezd bude umožněn levým jízdním pruhem.&nbsp;Předmětnýzáborbudevyužívánjakomanipulačníplochaprozařízenístaveništěa dále pro vjezd a výjezd vozidel na staveniště a ze staveniště a dále pro vjezd a výjezd vozidel na a z&nbsp;něj.</p>",
+    "limitations": "<p>V termínu od 14. 10. 2025 do 14. 08. 2026 dojde v úseku ulice Vinohradská ve směru do centra, od křižovatky Vinohradská × Písecká po křižovatku Vinohradská × Hradecká,</p><p> k&nbsp;záboru pravého jízdního pruhu a přilehlého vyhrazeného cyklopruhu. Průjezd bude umožněn levým jízdním pruhem.&nbsp;Předmětnýzáborbudevyužívánjakomanipulačníplochaprozařízenístaveništěa dále pro vjezd a výjezd vozidel na staveniště a ze staveniště a dále pro vjezd a výjezd vozidel na a z&nbsp;něj.</p><p><br></p><p>5. etapa v&nbsp;termínu 26.1. – 2.2.2026, 6. etapa v&nbsp;termínu 2.2. – 14.8.2026.&nbsp;</p><p>Tyto etapy se liší záborem přilehlého chodníku a jízdního pruhu před křižovatkou Vinohradská x Jičínská - viz. situace v příloze.</p>",
     "lon": 14.463881850242617,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-15T09:46:56.226024",
+    "modified": "2026-01-14T12:38:54.226414",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "VÝTAH DO STANICE METRA FLORA",
     "priority": false,
@@ -2301,7 +2301,7 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "fa48440229c3a7ec1e8722347ab2953879b1eeb2",
+    "sha1": "672555e5f7c4b6c0384a022ecb7b8471c79d56e2",
     "start": "2025-10-14T00:00:00",
     "state": "ACTIVE",
     "street": "Vinohradská",
