@@ -5989,7 +5989,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-01-06T08:54:32.719668",
+    "approvedat": "2026-01-19T17:24:56.761511",
     "approvedby": 23,
     "city_part": [
       "10"
@@ -6012,13 +6012,13 @@
     "investor_phone": "737  235 913",
     "investor_responsible": "Ing. K. Černý",
     "lat": 50.05752451157626,
-    "limitations": "<p>Od 12.1.2026 do 9.2.2026 v 1. et úplná uzavírka ul. Jahodová: v úseku naproti objektu č. 2708/115 uzavřen provoz.</p>",
+    "limitations": "<p>Od 26.1.2026 do 9.2.2026 v 1. et úplná uzavírka ul. Jahodová: v úseku naproti objektu č. 2708/115 uzavřen provoz.</p>",
     "lon": 14.508425295352938,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-01-06T08:54:32.719641",
+    "modified": "2026-01-19T17:24:56.761485",
     "modifiedby": "jan.hlousek@praha10.cz",
     "name": "Jahodová 1.et: úsek Topolová - Jasmínová",
     "priority": false,
@@ -6027,9 +6027,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "b70faf52b9ca71b8c3662227ce3b6b14f6e3e8ce",
-    "start": "2026-01-12T07:00:00",
-    "state": "ACTIVE",
+    "sha1": "97213470bd17fb04805bed199bdab23b542e2d8b",
+    "start": "2026-01-26T07:00:00",
+    "state": "FUTURE",
     "street": "Jahodová",
     "subject": "CONSTRUCTION"
   },
@@ -6119,9 +6119,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "6aa5ff9835af8124763f26a14fd60cf1238765d0",
+    "sha1": "1dcfe1aba11909ba8173575b3c4b12e6a0658d86",
     "start": "2026-01-19T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Oblouková",
     "subject": "CONSTRUCTION"
   }
