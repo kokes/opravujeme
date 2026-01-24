@@ -936,8 +936,8 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-01-31T15:28:24.547182",
-    "approvedby": null,
+    "approvedat": "2026-01-23T13:21:47.290467",
+    "approvedby": 34,
     "city_part": [
       "5"
     ],
@@ -950,7 +950,7 @@
     "description": "<p>Rekonstrukce schodiště propojujícího ulice Barrandovská a Skalní na Praze 5. V rámci realizace akce dojde k sanaci stávajícího ramene schodiště z ulice Barrandovská, na které pak naváže nově vybudované rameno do ulice Skalní.</p><p><br></p><p>Stávající schodiště bude opraveno a nově obloženo kamenem s drsněným povrchem. Přilehlá betonová opěrná zídka bude sanována. Dojde k doplnění trubkového zábradlí po celé délce. To vše tak, aby došlo k obnovení původního vzhledu schodiště.&nbsp;Zábradlí bude mít v celé délce schodiště jednotnou výšku.&nbsp;&nbsp;</p><p><br></p><p>Nově navrhované schodiště bude překonávat výškový rozdíl na 8 ramenech a 8 podestách s povrchem z mozaikové dlažby.&nbsp;V přilehlém zeleném pásu budou nově osazeny 3 sloupy veřejného osvětlení, jejichž montáž zajistí investor THMP.&nbsp;Veškeré zelené plochy přilehlé ke schodišti budou osety travou.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2023-10-31T23:59:00",
+    "end": "2026-03-31T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.398766084621712,\r\n              50.0338381729581\r\n            ],\r\n            [\r\n              14.398745893637539,\r\n              50.03382628436009\r\n            ],\r\n            [\r\n              14.398973042215403,\r\n              50.03365876289618\r\n            ],\r\n            [\r\n              14.3991732694804,\r\n              50.033609046736444\r\n            ],\r\n            [\r\n              14.399117744272985,\r\n              50.03352042215536\r\n            ],\r\n            [\r\n              14.399148030749188,\r\n              50.03351285663385\r\n            ],\r\n            [\r\n              14.399225429524535,\r\n              50.03361877381525\r\n            ],\r\n            [\r\n              14.398989868036267,\r\n              50.03367713624661\r\n            ],\r\n            [\r\n              14.398766084621712,\r\n              50.0338381729581\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 1393,
@@ -965,7 +965,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2023-10-09T15:43:28.879591",
+    "modified": "2026-01-23T13:21:47.290441",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce schodiště Barrandovská - Skalní",
     "priority": false,
@@ -974,9 +974,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "31ea5c9b62512858750f14d8786b83d597ba3b0d",
-    "start": "2023-06-12T00:00:00",
-    "state": "DONE",
+    "sha1": "ad9d409b08af8e2ca8cc4965b0d5138de6c70a26",
+    "start": "2026-01-02T00:00:00",
+    "state": "ACTIVE",
     "street": "Barrandovská, Skalní",
     "subject": "CONSTRUCTION"
   },
@@ -4168,9 +4168,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "607dcf0e86dbc033b1fc46215755c615caee2c2d",
+    "sha1": "e2d4495d2d156e11f87be73fb1a6ba30d3a45eb9",
     "start": "2026-01-23T21:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   }
