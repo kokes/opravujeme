@@ -550,9 +550,9 @@
     "responsible_email": null,
     "responsible_phone": "236 00 4325, 236 00 4397",
     "severity": "YELLOW",
-    "sha1": "0ee79d1e8ce10c75a9701a8abb83a2054fb05f16",
+    "sha1": "b9753f8c326e37d118eee950a0035520c016236b",
     "start": "2022-09-20T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Strakonická, Nádražní, Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },

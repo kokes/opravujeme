@@ -3196,9 +3196,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7cb0a3d5d9231b40a754efe851c5f8721e51f9bb",
+    "sha1": "c47207c722992f1521f9758845ce429eefcff429",
     "start": "2025-10-08T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Krkonošská",
     "subject": "CONSTRUCTION"
   },

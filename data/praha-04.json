@@ -226,9 +226,9 @@
     "responsible_email": null,
     "responsible_phone": "236 00 4325, 236 00 4397",
     "severity": "YELLOW",
-    "sha1": "0ee79d1e8ce10c75a9701a8abb83a2054fb05f16",
+    "sha1": "b9753f8c326e37d118eee950a0035520c016236b",
     "start": "2022-09-20T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Strakonická, Nádražní, Podolské nábřeží",
     "subject": "CONSTRUCTION"
   },
@@ -1890,9 +1890,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "d00c48d261b36446b875ba87c608a40ef4706787",
+    "sha1": "f856802dc25130795b5f3bd425422848d7c177d9",
     "start": "2026-02-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Strži, Na Pankráci, Hvězdova",
     "subject": "CONSTRUCTION"
   },
