@@ -6165,9 +6165,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "434c72b31a53a191065a144a545bf0dfbc198eff",
+    "sha1": "207243c890abd7b85a9d7f6484afdf1aac031eae",
     "start": "2026-02-02T04:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Počernická, Slunečná, Ovčárská, Dřevčická (DPP/TT, Etapy 4a a 4b)",
     "subject": "CONSTRUCTION"
   }
