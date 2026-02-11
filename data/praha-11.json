@@ -1428,7 +1428,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-01-21T15:16:05.015514",
+    "approvedat": "2026-02-10T11:32:58.473419",
     "approvedby": 34,
     "city_part": [
       "11"
@@ -1442,7 +1442,7 @@
     "description": "<p class=\"ql-align-justify\">Oprava podchodu Roztylská P550, u zastávky BUS MHD Jarníkova. </p><p>Během opravy bude provedena výměna kompletního vybavení mostu, přeizolace objektu a sanace nosné konstrukce i spodní stavby.</p><p class=\"ql-align-justify\">  </p>",
     "detours": "<p>Z&nbsp;ulice Jarníkova nebude možné levé odbočení do ulice Roztylská. Bude značena objízdná trasa ulicemi Vojtíškova x Láskova.</p>",
     "dt_format": "DAY",
-    "end": "2026-03-24T23:59:00",
+    "end": "2026-03-31T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.492819089433482,\r\n              50.0272504337116\r\n            ],\r\n            [\r\n              14.493011250597078,\r\n              50.0270691179596\r\n            ],\r\n            [\r\n              14.493359542708362,\r\n              50.0268800859144\r\n            ],\r\n            [\r\n              14.493725849928069,\r\n              50.02666983511281\r\n            ],\r\n            [\r\n              14.494062131965734,\r\n              50.02653674009255\r\n            ],\r\n            [\r\n              14.494239280538807,\r\n              50.02675084929194\r\n            ],\r\n            [\r\n              14.493915008573737,\r\n              50.02684343675807\r\n            ],\r\n            [\r\n              14.493434605662827,\r\n              50.02708454911391\r\n            ],\r\n            [\r\n              14.493041275779092,\r\n              50.027360380164396\r\n            ],\r\n            [\r\n              14.492819089433482,\r\n              50.0272504337116\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2287,
@@ -1457,7 +1457,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-01-21T15:16:05.015488",
+    "modified": "2026-02-10T11:32:58.473393",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava podchodu Roztylská",
     "priority": false,
@@ -1466,7 +1466,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ef1c6d05ce0d01336ce3f08394f89b5ae231b75f",
+    "sha1": "832c1b2f99b80fcdcca394fa2124828bfa0ac903",
     "start": "2025-10-13T00:00:00",
     "state": "ACTIVE",
     "street": "Roztylská",

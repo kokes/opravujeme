@@ -5989,7 +5989,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-02-06T13:34:26.249185",
+    "approvedat": "2026-02-10T08:05:14.478282",
     "approvedby": 23,
     "city_part": [
       "10"
@@ -6018,7 +6018,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-02-06T13:34:26.249160",
+    "modified": "2026-02-10T08:05:14.478256",
     "modifiedby": "jan.hlousek@praha10.cz",
     "name": "Jahodová 1.et: úsek Topolová - Jasmínová",
     "priority": false,
@@ -6027,8 +6027,8 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "b3d48d4d1bb982a10ec72144e9b600d2ecc06d3e",
-    "start": "2026-01-26T07:00:00",
+    "sha1": "e8c6014e72a5278fcf1e575e4958dd4820c8284a",
+    "start": "2026-02-02T07:00:00",
     "state": "ACTIVE",
     "street": "Jahodová",
     "subject": "CONSTRUCTION"
