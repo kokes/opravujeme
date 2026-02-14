@@ -4214,9 +4214,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "5bb86cf8b34340f316dce5ea2579aae390299f98",
+    "sha1": "a84d2452685336c2e6711c2fba77454c922ba08a",
     "start": "2026-02-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Plzeňská, Podbělohorská, Holečkova",
     "subject": "CONSTRUCTION"
   },
