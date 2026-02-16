@@ -5048,9 +5048,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "540bd474a5b332ac2747f68473c075fb280e4508",
+    "sha1": "4acd2accbe47ea4b7e6d6a975b58d8254f873d5a",
     "start": "2026-02-14T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Cínovecká",
     "subject": "CONSTRUCTION"
   },
@@ -5094,9 +5094,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "20a61bc7b3bbfb326900ad62254e32021e4213b4",
+    "sha1": "fe772946537c57e41fe402082aaeefa4d586aaf5",
     "start": "2026-02-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Davídkova, Na Slovance, Pod Vodárenskou věží",
     "subject": "CONSTRUCTION"
   }

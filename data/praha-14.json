@@ -1985,9 +1985,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0e2eb4e909a6df05751f152e1034ba3cb79a7ed6",
+    "sha1": "8f99c2d14be602fc4bb449b2a571b18dab5b2326",
     "start": "2026-02-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Slévačská, Poříčanská",
     "subject": "CONSTRUCTION"
   }

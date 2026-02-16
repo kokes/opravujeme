@@ -3361,9 +3361,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "906b79d6ac10bb850b29b597e9640676a0187b18",
+    "sha1": "7887bc2e3a73618c02a1cc02a102e3710aa4a17c",
     "start": "2026-02-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Šárecká, Na Pískách",
     "subject": "CONSTRUCTION"
   },
@@ -3639,9 +3639,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8d6f7105e859430deec829fc6a8efa1ff6e06e41",
+    "sha1": "66e035e862082ada609b3f86f30aa688c7edf55b",
     "start": "2026-02-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Šárecká, Na Kodymce",
     "subject": "CONSTRUCTION"
   },
@@ -3685,9 +3685,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "016a6d5ca439037c35a8c63e8ae9ed23f957da20",
+    "sha1": "782bb7b2e9353e688c3e7db290b6901254ef3dbc",
     "start": "2026-02-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Šárecká, Matějská",
     "subject": "CONSTRUCTION"
   }
