@@ -3323,7 +3323,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-01-27T09:27:02.924368",
+    "approvedat": "2026-02-16T14:57:11.055606",
     "approvedby": 34,
     "city_part": [
       "6"
@@ -3346,13 +3346,13 @@
     "investor_phone": null,
     "investor_responsible": "Ing. Zdeněk März",
     "lat": 50.11135928164287,
-    "limitations": "<p>16. 2. - 30. 6. 2026 úplná uzavírka komunikace v úseku Na Pískách – Natanaelka/Matějská.</p>",
+    "limitations": "<p>16. 2. - 30. 6. 2026 úplná uzavírka komunikace v úseku Na Pískách – Natanaelka a Na Pískách – Matějská.</p>",
     "lon": 14.378829002380371,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-01-27T09:27:02.924344",
+    "modified": "2026-02-16T14:57:11.055582",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Šárecká",
     "priority": false,
@@ -3361,7 +3361,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7887bc2e3a73618c02a1cc02a102e3710aa4a17c",
+    "sha1": "d168e8bb00d38c51cce7a98f286c7c48a3806f63",
     "start": "2026-02-16T00:00:00",
     "state": "ACTIVE",
     "street": "Šárecká, Na Pískách",
