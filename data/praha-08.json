@@ -4826,7 +4826,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2025-10-02T14:35:35.731120",
+    "approvedat": "2026-02-17T11:04:09.318697",
     "approvedby": 34,
     "city_part": [
       "8"
@@ -4840,7 +4840,7 @@
     "description": "<p>Vybudování nové stezky pro pěší a cyklisty Březiněves - Třeboradice.</p><p>Stezka je navržena ve dvou úsecích, které propojuje koordinovaná akce stezky pro pěší a cyklisty v rámci investice Městské části Praha-Čakovice. </p><p>První úsek je navržen v délce 417,00 m, druhý úsek pak v délce 258,12 m. Šířka stezky je v celé délce 3,0 m se sklonem 2.0 %. </p><p>Povrch bude proveden z asfaltového krytu.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2025-11-14T23:59:00",
+    "end": "2026-06-30T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.488308047569376,\r\n            50.16590846000301\r\n          ],\r\n          [\r\n            14.489124047363788,\r\n            50.165712446233215\r\n          ],\r\n          [\r\n            14.489940047158285,\r\n            50.1654619830243\r\n          ],\r\n          [\r\n            14.490756046952697,\r\n            50.16525507764479\r\n          ],\r\n          [\r\n            14.49272804645662,\r\n            50.16489571354046\r\n          ],\r\n          [\r\n            14.495788045686453,\r\n            50.16412252706482\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    },\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.517999106188768,\r\n            50.16092880929949\r\n          ],\r\n          [\r\n            14.517786189389682,\r\n            50.16100406530907\r\n          ],\r\n          [\r\n            14.51722820053908,\r\n            50.161084024689956\r\n          ],\r\n          [\r\n            14.516655527769672,\r\n            50.16122042567747\r\n          ],\r\n          [\r\n            14.516361849427142,\r\n            50.16127686735172\r\n          ],\r\n          [\r\n            14.515495498316653,\r\n            50.16129097775996\r\n          ],\r\n          [\r\n            14.515341317186767,\r\n            50.161314495097315\r\n          ],\r\n          [\r\n            14.51526055564176,\r\n            50.16143678506663\r\n          ],\r\n          [\r\n            14.51526055564176,\r\n            50.161530854060686\r\n          ],\r\n          [\r\n            14.51514308430501,\r\n            50.16168136406628\r\n          ],\r\n          [\r\n            14.515040296884024,\r\n            50.16175191546844\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2279,
@@ -4855,7 +4855,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2025-10-02T14:35:35.731069",
+    "modified": "2026-02-17T11:04:09.318672",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Vybudování nové stezky pro pěší a cyklisty Březiněves - Třeboradice",
     "priority": false,
@@ -4864,9 +4864,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fd1a2b00896b2c362e61e4335e1ef08b7f399af9",
+    "sha1": "1d0db158575b4b320ceea190b2c5f8298853f24d",
     "start": "2025-10-15T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "",
     "subject": "CONSTRUCTION"
   },
