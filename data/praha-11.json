@@ -1512,9 +1512,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "bf21e98bb2e961ef739f27ffb7c8e5dd93c79b85",
+    "sha1": "261eb3dcbd0087e5efd4f6ebd0085f482e23519b",
     "start": "2026-02-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Opatovská",
     "subject": "CONSTRUCTION"
   },

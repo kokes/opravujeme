@@ -6257,9 +6257,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "ea573837e8f99a215afbf079f1ac171a555bb657",
+    "sha1": "87ed81bc9a20009f245c7a75fd17279cff7f73b7",
     "start": "2026-02-23T04:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Počernická, Ovčárská, Dřevčická (DPP/TT, Etapy 5a a 5b)",
     "subject": "CONSTRUCTION"
   },
@@ -6303,9 +6303,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "028c46fed1b316880e6941f79d46063c793fbe6f",
+    "sha1": "5012165a488b4f9517067c617fd4a4cc4bba53c0",
     "start": "2026-02-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vinohradská ",
     "subject": "CONSTRUCTION"
   }
