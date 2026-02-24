@@ -4350,7 +4350,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-02-11T15:56:03.870265",
+    "approvedat": "2026-02-23T14:18:53.045658",
     "approvedby": 15,
     "city_part": [
       "4"
@@ -4361,7 +4361,7 @@
     "created": "2026-01-28T15:07:17.935389",
     "createdby": "leos.kubin@praha.eu",
     "custom_template": null,
-    "description": "<p class=\"ql-align-justify\">V&nbsp;termínu 30.1.2026 – 20.2.2026 (po dobu rekonstrukce vodovodu) bude provoz v&nbsp;místě prací v&nbsp;ulici Sulická veden v&nbsp;délce cca 160 m jedním jízdním pruhem v&nbsp;každém směru jízdy. Ve směru jízdy Na Strži – Sulická dojde k&nbsp;uzavření řadicích pruhů před křižovatkou s&nbsp;ulicí Před Nádražím a ve směru jízdy Sulická – Na Strži dojde k&nbsp;uzavření části pravého jízdního pruhu pod mostem Jižní spojky. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Zastávka autobusů MHD „Nádraží Krč“ při východní straně komunikace (směr Poliklinika Budějovická) bude dočasně přemístěna cca o 100 m ve směru jízdy. U provizorní zastávky bude vybudováno provizorní nástupiště. Stávající chodník při východní straně komunikace bude z&nbsp;důvodu podpěry mostu částečně uzavřen a chodcům bude vyznačena trasa pro obcházení po druhé straně komunikace. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Při západní straně komunikace bude v&nbsp;krátkém úseku uzavřen chodník v&nbsp;bezprostřední blízkosti vozovky z důvodu prací na rekonstrukci vodovodu, chodci budou uzavřené místo obcházet sousedním stávajícím chodníkem. V&nbsp;termínu 20.&nbsp;2.&nbsp;2026 – 28.&nbsp;2.&nbsp;2026 budou probíhat jen práce spojené s&nbsp;podepřením mostu.&nbsp;</p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">V&nbsp;termínu 2. etapy od 1.3.2026 do 31.3.2026 dojde ve směru na Budějovickou k&nbsp;záboru pravého jízdního pruhu, průjezd bude umožněn levým jízdním pruhem. V&nbsp;opačném směru dojde také k&nbsp;záboru pravého jízdního pruhu. Průjezd bude umožněn levým jízdním pruhem. Průchod bude umožněn po obchozí trase</span></p><p><br></p>",
+    "description": "<p class=\"ql-align-justify\">V&nbsp;termínu 30.1.2026 – 28.2.2026 (po dobu rekonstrukce vodovodu) bude provoz v&nbsp;místě prací v&nbsp;ulici Sulická veden v&nbsp;délce cca 160 m jedním jízdním pruhem v&nbsp;každém směru jízdy. Ve směru jízdy Na Strži – Sulická dojde k&nbsp;uzavření řadicích pruhů před křižovatkou s&nbsp;ulicí Před Nádražím a ve směru jízdy Sulická – Na Strži dojde k&nbsp;uzavření části pravého jízdního pruhu pod mostem Jižní spojky. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Zastávka autobusů MHD „Nádraží Krč“ při východní straně komunikace (směr Poliklinika Budějovická) bude dočasně přemístěna cca o 100 m ve směru jízdy. U provizorní zastávky bude vybudováno provizorní nástupiště. Stávající chodník při východní straně komunikace bude z&nbsp;důvodu podpěry mostu částečně uzavřen a chodcům bude vyznačena trasa pro obcházení po druhé straně komunikace. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Při západní straně komunikace bude v&nbsp;krátkém úseku uzavřen chodník v&nbsp;bezprostřední blízkosti vozovky z důvodu prací na rekonstrukci vodovodu, chodci budou uzavřené místo obcházet sousedním stávajícím chodníkem. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">V&nbsp;termínu 2. etapy od 1.3.2026 do 31.3.2026 dojde ve směru na Budějovickou k&nbsp;záboru pravého jízdního pruhu, průjezd bude umožněn levým jízdním pruhem. V&nbsp;opačném směru dojde také k&nbsp;záboru pravého jízdního pruhu. Průjezd bude umožněn levým jízdním pruhem. Průchod bude umožněn po obchozí trase</span></p><p><br></p>",
     "detours": "<p>Je vyznačena obchozí trasa pro chodce. Po protější straně ulice.</p>",
     "dt_format": "TIME",
     "end": "2026-03-31T23:59:00",
@@ -4379,7 +4379,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-02-11T15:56:03.870231",
+    "modified": "2026-02-23T14:18:53.045633",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "PODEPŘENÍ MOSTU PŘES ULICI SULICKÁ A OBNOVA VODOVODU",
     "priority": false,
@@ -4388,7 +4388,7 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 00 4355",
     "severity": "YELLOW",
-    "sha1": "36e925d43d9fbaaea4ab706f0da86f77909cf6ef",
+    "sha1": "a8c612c1438a7d5ea7a430cc55ddf92a30d7e1e6",
     "start": "2026-01-30T00:00:00",
     "state": "ACTIVE",
     "street": "Sulická",

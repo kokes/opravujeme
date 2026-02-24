@@ -3252,7 +3252,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-02-05T11:50:11.704730",
+    "approvedat": "2026-02-23T14:41:58.799793",
     "approvedby": 34,
     "city_part": [
       "2"
@@ -3275,13 +3275,13 @@
     "investor_phone": null,
     "investor_responsible": "Jan Lojek",
     "lat": 50.06512493648857,
-    "limitations": "<p><strong>9. 2. – 31. 5. 2026</strong> bude komunikace průjezdná <strong>pouze po tramvajovém pásu, a to jednosměrně</strong> ve směru od křižovatky Jaromírova x Nezamyslova po křižovatku Jaromírova x Na Filimance.</p><p><br></p>",
+    "limitations": "<p><strong>9. 2. – 31. 5. 2026</strong> bude komunikace průjezdná <strong>pouze po tramvajovém pásu, a to jednosměrně</strong> ve směru od křižovatky Jaromírova x Nezamyslova po křižovatku Jaromírova x Na Folimance.</p><p><br></p>",
     "lon": 14.430944323539736,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-02-05T11:50:11.704691",
+    "modified": "2026-02-23T14:41:58.799766",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Jaromírova",
     "priority": false,
@@ -3290,8 +3290,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9f39357d9370b5a7a1280b3dff6e2b742c5fb5a0",
-    "start": "2026-01-03T00:00:00",
+    "sha1": "b5fb99d844bcaeb88799c0a1d64dc9a7b6a2d130",
+    "start": "2026-02-09T00:00:00",
     "state": "ACTIVE",
     "street": "Jaromírova",
     "subject": "CONSTRUCTION"
