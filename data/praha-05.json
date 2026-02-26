@@ -4176,7 +4176,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-02-24T14:32:25.446318",
+    "approvedat": "2026-02-25T10:34:17.677496",
     "approvedby": 34,
     "city_part": [
       "5"
@@ -4205,7 +4205,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-02-24T14:32:25.446293",
+    "modified": "2026-02-25T10:34:17.677469",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Plzeňská v úseku Mozartova - Pod Kotlářkou",
     "priority": false,
@@ -4213,8 +4213,8 @@
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
-    "severity": "YELLOW",
-    "sha1": "597e0ae04ce9745b96854baf1fee7442fccd4e7e",
+    "severity": "RED",
+    "sha1": "e6cf026da8b114a2ce3352bd82cb87038bc82361",
     "start": "2026-02-16T00:00:00",
     "state": "ACTIVE",
     "street": "Plzeňská, Podbělohorská, Holečkova",
