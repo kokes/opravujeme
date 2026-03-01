@@ -4398,9 +4398,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "613cb030ec837c68aea54bc22b75cd38c316a0b0",
+    "sha1": "3ba316708f24f35d86130f1a445c92e6973616d8",
     "start": "2026-03-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Barrandovu",
     "subject": "CONSTRUCTION"
   }

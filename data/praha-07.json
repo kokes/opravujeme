@@ -4677,9 +4677,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "032324bbabf6a85937619aedf621f7db4c54e36b",
+    "sha1": "b184f4fde6522dd4f2c9ea65306344251e38a83c",
     "start": "2026-03-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Ovenecká",
     "subject": "CONSTRUCTION"
   },
