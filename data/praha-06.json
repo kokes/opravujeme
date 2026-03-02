@@ -3731,9 +3731,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "0f859dfbf7ddf6648215c317a45e3cb4fc23dd09",
+    "sha1": "c168054b8105cff1d4c19a6c7af0d499021854d1",
     "start": "2026-03-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Kocínce",
     "subject": "CONSTRUCTION"
   },
