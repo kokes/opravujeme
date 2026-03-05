@@ -47,7 +47,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-01-19T09:31:46.753434",
+    "approvedat": "2026-03-04T08:51:49.814698",
     "approvedby": 34,
     "city_part": [
       "20"
@@ -62,7 +62,7 @@
     "detours": "<p class=\"ql-align-justify\">Jsou navrženy dva objízdné směry k ul. Náchodské a směrem k dálnici D10:</p><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">pro osobní vozidla a nákladní vozidla, jejichž výška nepřesahuje 3,4 m: z centra po ul. Náchodská a dále ulicí Ve Žlíbku. V opačném směru ulicí Ve Žlíbku a dále po ul. Náchodská směr centrum,</li></ul><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">pro nákladní vozidla, jejichž výška přesahuje 3,4 m: z centra po ulici Chlumecká, Pražském okruhu D0, Novopacké (D10, exit 3) a dále ulicí Ve Žlíbku. V opačném směru – směr centrum ulicí Ve Žlíbku, Novopacké (D10, exit 3), Pražském okruhu D0, ulicí Chlumecká a dále směrem do centra.</li></ul><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Během uzavírky ul. Bystrá budou odkloněny linky MHD č. 209 a č. 220:</p><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">Odklon linky 209 povede obousměrně ulicemi F. V. Veselého a Ve Žlíbku. Během výluky nebudou v&nbsp;obou směrech obsluhovány zastávky Vojická, Nádraží Horní Počernice, Lukavecká, Komárovská. Po dobu výluky se obousměrně zřídí zastávky Paceřická a Františka Veselého. Na dočasně zřízených zastávkách budou využity existující zastávkové označníky. V&nbsp;rámci výluky bude dočasně zřízen druhý směr zastávky Paceřická v&nbsp;momentálně nevyužívané zastávce, resp. v&nbsp;zálivu naproti stávající zastávce Paceřická. Přenosný zastávkový označník zajistí ROPID.</li></ul><p class=\"ql-align-justify\">&nbsp;</p><ul><li class=\"ql-align-justify\">Výluková trasa linky 220 povede z&nbsp;Chlumecké ul. odbočením na Pražský okruh, D10 (Novopacká), výjezdem do ul. Ve Žlíbku, dále ul. F. V. Veselého, U Tabulky, Bystrá, Vlastibořská, Do Čertous, Ve Žlíbku (po mostu přes dálnici D10), odbočením na D10 (Novopacká), Pražský okruh, ul. Chlumecká do zast. Černý Most. Během výluky nebude obousměrně obsluhována zastávka Chvaly. Obslužnost zastávek v&nbsp;P3 parku zůstane zachována, závlek do zastávky „Logistická zóna Horní Počernice“.</li></ul><p class=\"ql-align-justify\">&nbsp;</p><p class=\"ql-align-justify\">Více informací o výluce MHD naleznete <a href=\"https://pid.cz/vyluky/bystra-ulice-036-23/\" rel=\"noopener noreferrer\" target=\"_blank\">zde</a>.</p>",
     "dt_format": "DAY",
     "end": "2026-12-31T23:59:00",
-    "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.602127309060165,\r\n              50.114855538721315\r\n            ],\r\n            [\r\n              14.602073287516589,\r\n              50.11451159833834\r\n            ],\r\n            [\r\n              14.601834049249561,\r\n              50.113583689298565\r\n            ],\r\n            [\r\n              14.601922798928996,\r\n              50.11360101043218\r\n            ],\r\n            [\r\n              14.602158178513747,\r\n              50.114484379929394\r\n            ],\r\n            [\r\n              14.602181330604623,\r\n              50.1146105742414\r\n            ],\r\n            [\r\n              14.602212200058233,\r\n              50.11485801310337\r\n            ],\r\n            [\r\n              14.602127309060165,\r\n              50.114855538721315\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
+    "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.60184528666818,\r\n              50.11358406261817\r\n            ],\r\n            [\r\n              14.601956972972431,\r\n              50.11358923099996\r\n            ],\r\n            [\r\n              14.601945401450308,\r\n              50.11371166815019\r\n            ],\r\n            [\r\n              14.602131144955479,\r\n              50.11448550420951\r\n            ],\r\n            [\r\n              14.602211382062904,\r\n              50.11485379436246\r\n            ],\r\n            [\r\n              14.602642689548674,\r\n              50.11493381819247\r\n            ],\r\n            [\r\n              14.602632215523045,\r\n              50.11506388625213\r\n            ],\r\n            [\r\n              14.602244587796747,\r\n              50.114991986644725\r\n            ],\r\n            [\r\n              14.6022647235786,\r\n              50.115043079357434\r\n            ],\r\n            [\r\n              14.60254284811296,\r\n              50.11668555965852\r\n            ],\r\n            [\r\n              14.602733091935562,\r\n              50.117869858011375\r\n            ],\r\n            [\r\n              14.602598335894896,\r\n              50.11782411312507\r\n            ],\r\n            [\r\n              14.602447725888624,\r\n              50.11681826990673\r\n            ],\r\n            [\r\n              14.602170286531418,\r\n              50.11522083073194\r\n            ],\r\n            [\r\n              14.602027603664766,\r\n              50.11450411617673\r\n            ],\r\n            [\r\n              14.60184528666818,\r\n              50.11372639250115\r\n            ],\r\n            [\r\n              14.60184528666818,\r\n              50.11358406261817\r\n            ]\r\n          ]\r\n        ],\r\n        \"type\": \"Polygon\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 1228,
     "internal_id": null,
@@ -76,7 +76,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-01-19T09:31:46.753406",
+    "modified": "2026-03-04T08:51:49.814673",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Bystrá, výstavba podjezdu pod železniční tratí",
     "priority": false,
@@ -85,7 +85,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "1af799689f0cf9c4cbc377ec7f1394d72ebe114d",
+    "sha1": "6f5f3e8add35648d08a604e1076e8f7e9a5841f8",
     "start": "2023-02-24T00:00:00",
     "state": "ACTIVE",
     "street": "Bystrá",
