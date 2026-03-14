@@ -4306,9 +4306,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "fd6688c6aae9ffbc82787574df942b3a6aa8235e",
+    "sha1": "77a202822c1d9da576d7c8b800012c03dd4723b7",
     "start": "2026-02-02T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Radlická",
     "subject": "CONSTRUCTION"
   },
