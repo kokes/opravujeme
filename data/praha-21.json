@@ -318,9 +318,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "a62846c4f0455adb67a8e8e6f87048e32992ccdf",
+    "sha1": "306526b5a3feb6923dcd88fbef2ab4f836e43e9b",
     "start": "2025-07-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Slavětínská",
     "subject": "CONSTRUCTION"
   }
