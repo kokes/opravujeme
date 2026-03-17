@@ -6533,9 +6533,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "8a41ee5884ba53e6a104872efe0b430ba9b57fca",
+    "sha1": "3acbe3f6c2e3209efeb5201721b72a42ece120d3",
     "start": "2026-03-16T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "U Hranic",
     "subject": "CONSTRUCTION"
   }
