@@ -2577,9 +2577,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3608f9e795f42a430cc4cf570237c148206180ea",
+    "sha1": "1de5ba423d1f26c35249e8571059449ea8c7e1c4",
     "start": "2026-03-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Soběslavská",
     "subject": "CONSTRUCTION"
   }
