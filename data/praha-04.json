@@ -4480,9 +4480,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8f331cbf130cdd6e8a593e3086e9ce57149836e7",
+    "sha1": "e92b9ec97a347239a1cf11ac4a8b02cfdf24d2a5",
     "start": "2026-03-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "VRBOVA",
     "subject": "CONSTRUCTION"
   },
