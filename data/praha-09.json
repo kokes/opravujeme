@@ -4028,9 +4028,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "00589a5c70fa9f829ea169a8346840cbe7898397",
+    "sha1": "8fd4da42dbffc8cc68e960cdc14c385ef6a9e695",
     "start": "2026-03-24T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Českomoravská, Sokolovská, Freyova",
     "subject": "CONSTRUCTION"
   }
