@@ -4352,9 +4352,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "fd435eac36cbf3d4d6733a5026ce6cf17bf1f770",
+    "sha1": "b4e16bbbadf1ea740c63e698bf963086eea6783d",
     "start": "2026-02-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Holečkova",
     "subject": "CONSTRUCTION"
   },

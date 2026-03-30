@@ -4074,9 +4074,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8fd4da42dbffc8cc68e960cdc14c385ef6a9e695",
+    "sha1": "18e4fd9043b8c26618bef328a487925d884201bc",
     "start": "2026-03-24T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Českomoravská, Sokolovská, Freyova",
     "subject": "CONSTRUCTION"
   }
