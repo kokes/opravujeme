@@ -6165,9 +6165,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "838d99e212349945e72824c92f296b0bec0de05f",
+    "sha1": "f7496af0fb622bb285d3a01457358bde63927c48",
     "start": "2026-01-19T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Oblouková",
     "subject": "CONSTRUCTION"
   },
@@ -6901,9 +6901,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "5582d34b582afae34fef42dee5420a93c194138a",
+    "sha1": "f51e2a0736400919ea46d18cb0f23a6a490ca7f0",
     "start": "2026-03-30T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Sportovní",
     "subject": "CONSTRUCTION"
   }

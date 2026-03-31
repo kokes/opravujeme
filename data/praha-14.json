@@ -1846,9 +1846,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "802e94a72c592abb41844749a0875166ef2fa081",
+    "sha1": "2311d0c827ba41bc1ec57c4c5a90b57e03b81df2",
     "start": "2025-10-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Ocelkova",
     "subject": "CONSTRUCTION"
   },
