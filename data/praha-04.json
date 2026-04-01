@@ -4342,9 +4342,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "596ebd3290b54aad5decce7d836534284023d74d",
+    "sha1": "9ad1ef48a07a4e3c1457a13cdf768c0f7f08672c",
     "start": "2026-01-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jižní spojka",
     "subject": "CONSTRUCTION"
   },

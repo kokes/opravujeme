@@ -1466,9 +1466,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "832c1b2f99b80fcdcca394fa2124828bfa0ac903",
+    "sha1": "19bf4d97da43b08c93dcccac98ebc316c6379d00",
     "start": "2025-10-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Roztylská",
     "subject": "CONSTRUCTION"
   },

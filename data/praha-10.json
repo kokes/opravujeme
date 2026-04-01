@@ -4923,9 +4923,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "38328eb8a85de4ce02fddb760f547389b60308f9",
+    "sha1": "1e7d0ed71d87c8ba80cf14eedffcb1f4f92dd226",
     "start": "2026-02-23T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Teplárenská",
     "subject": "CONSTRUCTION"
   },

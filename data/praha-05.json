@@ -974,9 +974,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ad9d409b08af8e2ca8cc4965b0d5138de6c70a26",
+    "sha1": "d09035f1218b50eb74b1f0963989f8eb629cf74d",
     "start": "2026-01-02T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Barrandovská, Skalní",
     "subject": "CONSTRUCTION"
   },
