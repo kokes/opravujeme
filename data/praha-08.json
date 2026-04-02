@@ -3254,7 +3254,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-02-27T11:13:35.091943",
+    "approvedat": "2026-04-01T18:15:14.835189",
     "approvedby": 5,
     "city_part": [
       "8"
@@ -3277,13 +3277,13 @@
     "investor_phone": "601 395 106",
     "investor_responsible": "p. Kostar",
     "lat": 50.09039018679551,
-    "limitations": "<p>3b1. etapa: (15.9.2025 - 12.11.2025, 21.11.2025 - 11.5.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase.</p><p>Na komunikací Křižíkova v úseku Wilsonova - Ke Štvanici obnoven obousměrný provoz v samostatných jízdních pruzích.</p><p><br></p><p>3b2. etapa: (13.11.2025 - 20.11.2025)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase.</p><p>Částečné uzavírka komunikace Křižíkova v úseku Wilsonova - Ke Štvanici. Zaveden kyvadlový provoz řízený SSZ. </p><p><br></p><p>3b3. etapa: (31.1.2026 - 1.2.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská a ul. Křižíkova v úseku Ke Štvanici - Na Florenci. Doprava včetně MHD vedena po objízdné trase.</p><p><br></p><p>3b4. etapa (7.2.2026 - 8.2.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase</p><p>Částečné uzavírka komunikace Křižíkova v úseku Wilsonova - Ke Štvanici. Po ul. Křižíkova vedena pouze MHD a IZS. Ostatní doprava vedena po objízdné trase.</p>",
+    "limitations": "<p>3b1. etapa: (15.9.2025 - 12.11.2025, 21.11.2025 - 11.5.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase.</p><p>Na komunikací Křižíkova v úseku Wilsonova - Ke Štvanici obnoven obousměrný provoz v samostatných jízdních pruzích.</p><p><br></p><p>3b2. etapa: (13.11.2025 - 20.11.2025)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase.</p><p>Částečné uzavírka komunikace Křižíkova v úseku Wilsonova - Ke Štvanici. Zaveden kyvadlový provoz řízený SSZ. </p><p><br></p><p>3b3. etapa: (31.1.2026 - 1.2.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská a ul. Křižíkova v úseku Ke Štvanici - Na Florenci. Doprava včetně MHD vedena po objízdné trase.</p><p><br></p><p>3b4. etapa (7.2.2026 - 8.2.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase</p><p>Částečné uzavírka komunikace Křižíkova v úseku Wilsonova - Ke Štvanici. Po ul. Křižíkova vedena pouze MHD a IZS. Ostatní doprava vedena po objízdné trase.</p><p><br></p><p>3b5, 3b6. etapa: (30.3.2026 - 15.4.2026)</p><p>Úplná uzavírka komunikace Ke Štvanici v úseku Křižíkova - Sokolovská. Doprava vedena po objízdné trase.</p><p>Částečné uzavírka komunikace Křižíkova v úseku Wilsonova - Ke Štvanici. Zaveden kyvadlový provoz řízený SSZ.</p><p>Poté návrat do etapy 3b1</p><p><br></p>",
     "lon": 14.439017772674562,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-02-27T11:13:35.091916",
+    "modified": "2026-04-01T18:15:14.835164",
     "modifiedby": "lukas.vopava@praha.eu",
     "name": "Rekonstrukce stropní desky metra C - Florenc - realizace 3b1. + 3b2 + 3b3 +3b4 etapy",
     "priority": false,
@@ -3292,7 +3292,7 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "YELLOW",
-    "sha1": "186d30e395d6e44d3f167ba52c153b8b9c63f82a",
+    "sha1": "21b535b583a0ae8b812c57e1f852d4ab7c97efe5",
     "start": "2024-10-01T00:00:00",
     "state": "ACTIVE",
     "street": "Ke Štvanici, Křižíkova",
