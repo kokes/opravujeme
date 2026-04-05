@@ -4909,9 +4909,9 @@
     "responsible_email": "lukas.vopava@praha.cz",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "effadc63231b3f872edab8ca838b513605866588",
+    "sha1": "ef4432b96840748d98f57dd8cd082a9956f23b7a",
     "start": "2026-04-03T23:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Letenský tunel",
     "subject": "CONSTRUCTION"
   }
