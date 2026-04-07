@@ -5278,9 +5278,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "18649da6ea5d65018a91dc3c26193a7a0707ef35",
+    "sha1": "b4cb27dd845aaa9d6bac7007d7017cc3a8af43fb",
     "start": "2026-04-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Ládví",
     "subject": "CONSTRUCTION"
   }

@@ -4480,9 +4480,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e92b9ec97a347239a1cf11ac4a8b02cfdf24d2a5",
+    "sha1": "a2682332b6c0b0bb8058051ef3d8274fe87c507f",
     "start": "2026-03-23T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "VRBOVA",
     "subject": "CONSTRUCTION"
   },
@@ -4526,9 +4526,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c3b0520b08d49b05536551ecbc2fd7f4af4c0bd7",
+    "sha1": "6ec1e28ca23efe25e6905b97361637b45333c40b",
     "start": "2026-04-07T06:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Otakarova",
     "subject": "CONSTRUCTION"
   },

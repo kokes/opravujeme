@@ -6625,9 +6625,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "4b9968394bcb0a515dfb9a8b1a5a421341ab6ba6",
+    "sha1": "b1d00d4606649a112872d4cdd1cecb1af1d9a412",
     "start": "2026-03-23T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   },
@@ -6671,9 +6671,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "99dd53d9449afd8f3a943d55095952d34c3fda1c",
+    "sha1": "2cbbb223d276fe61993b1a42a67dc018f0697883",
     "start": "2026-04-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   },
