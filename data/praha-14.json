@@ -1808,7 +1808,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-01-19T15:15:01.372059",
+    "approvedat": "2026-04-07T11:21:03.374929",
     "approvedby": 34,
     "city_part": [
       "14"
@@ -1819,7 +1819,7 @@
     "created": "2025-10-10T18:40:59.472388",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Oprava lávky pro pěší přes ulici Ocelkova. Během prací bude provedena údržba mostního svršku a sanace nosné konstrukce a spodní stavby.</p><p><br></p>",
+    "description": "<p>Oprava lávky pro pěší přes ulici Ocelkova. Během prací bude provedena údržba mostního svršku a sanace nosné konstrukce a spodní stavby.</p><p><br></p><p>Lávka byla spuštěna do provozu v pondělí 6. 4. 2026.</p><p><br></p>",
     "detours": "<p>Obchozí trasa bude vyznačena.</p>",
     "dt_format": "DAY",
     "end": "2026-03-30T23:59:00",
@@ -1837,7 +1837,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-01-19T15:15:01.372033",
+    "modified": "2026-04-07T11:21:03.374903",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava lávky přes ulici Ocelkova",
     "priority": false,
@@ -1846,7 +1846,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2311d0c827ba41bc1ec57c4c5a90b57e03b81df2",
+    "sha1": "edd38a9035884ffc57410494db66cc33ab72a742",
     "start": "2025-10-09T00:00:00",
     "state": "DONE",
     "street": "Ocelkova",
