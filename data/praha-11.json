@@ -1742,9 +1742,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "49153410ef6dc0dbf62015aa2c46ff62fb27a65f",
+    "sha1": "d28e2cfa725a8fe1d729c3e746e0c85ba374b208",
     "start": "2026-04-09T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Výstavní",
     "subject": "CONSTRUCTION"
   }

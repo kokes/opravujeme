@@ -281,7 +281,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-04-03T18:31:00.234976",
+    "approvedat": "2026-04-08T18:24:16.536462",
     "approvedby": 11,
     "city_part": [
       "6",
@@ -311,7 +311,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-04-03T18:31:00.234935",
+    "modified": "2026-04-08T18:24:16.536437",
     "modifiedby": "filip.kolerus@praha.eu",
     "name": "Bělohorská u TRAM Vypich - havárie kanalizace",
     "priority": false,
@@ -319,8 +319,8 @@
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
-    "severity": "GREEN",
-    "sha1": "cd103defcb032cf476cbf994eee334bb87dca7f5",
+    "severity": "YELLOW",
+    "sha1": "69eba4b14a68e09a147aa40759996356fc72237d",
     "start": "2026-04-01T00:00:00",
     "state": "ACTIVE",
     "street": "Bělohorská",
