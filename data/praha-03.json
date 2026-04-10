@@ -2539,12 +2539,12 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-03-30T10:00:07.651958",
+    "approvedat": "2026-04-09T11:29:00.662913",
     "approvedby": 34,
     "city_part": [
       "3"
     ],
-    "contractor": null,
+    "contractor": "Stavby mostů a.s.",
     "contractor_phone": null,
     "contractor_responsible": null,
     "created": "2026-03-03T11:38:17.111216",
@@ -2568,7 +2568,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-03-30T10:00:07.651935",
+    "modified": "2026-04-09T11:29:00.662884",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce silničního mostu v ulici Pod Krejcárkem",
     "priority": false,
@@ -2577,7 +2577,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "5e7cd3efa0806ca1f9f2f40eb9d8f518d6d39ea7",
+    "sha1": "a23236f31df3142233340850a4d7e7341aaa8a29",
     "start": "2026-04-15T00:00:00",
     "state": "FUTURE",
     "street": "Pod Krejcárkem",
