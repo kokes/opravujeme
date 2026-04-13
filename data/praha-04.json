@@ -4618,9 +4618,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cea2d48220ea1201b872851ed218817008b9519e",
+    "sha1": "f6d3147922fae8d0c52619f06f3ead66ab4b3401",
     "start": "2026-04-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Cyklotrasa A2",
     "subject": "CONSTRUCTION"
   }
