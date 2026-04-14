@@ -281,7 +281,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-04-08T18:24:16.536462",
+    "approvedat": "2026-04-13T12:10:31.091695",
     "approvedby": 11,
     "city_part": [
       "6",
@@ -293,10 +293,10 @@
     "created": "2026-04-03T18:31:00.235407",
     "createdby": "filip.kolerus@praha.eu",
     "custom_template": null,
-    "description": "<p>Havarijní oprava kanalizace v&nbsp;prostoru tramvajové zastávky Vypich.</p>",
+    "description": "<p>Havarijní oprava kanalizace v&nbsp;prostoru tramvajové zastávky Vypich.</p><p><br></p><p><strong><u>AKCE DOKONČENA O 4 DNY DŘÍVE</u> (namísto původního předpokládaného termínu 17.4. skončily práce na havarijní opravě v pondělí 13.4.2026).</strong></p>",
     "detours": null,
-    "dt_format": "DAY",
-    "end": "2026-04-17T23:59:00",
+    "dt_format": "TIME",
+    "end": "2026-04-13T12:00:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.349044754047583,\r\n            50.080333239968525\r\n          ],\r\n          [\r\n            14.34718567103701,\r\n            50.07986431376611\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2417,
@@ -311,7 +311,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-04-08T18:24:16.536437",
+    "modified": "2026-04-13T12:10:31.091670",
     "modifiedby": "filip.kolerus@praha.eu",
     "name": "Bělohorská u TRAM Vypich - havárie kanalizace",
     "priority": false,
@@ -320,9 +320,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "YELLOW",
-    "sha1": "69eba4b14a68e09a147aa40759996356fc72237d",
+    "sha1": "27220c0e59330541dc3537a21ba7a415a10debe4",
     "start": "2026-04-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Bělohorská",
     "subject": "CONSTRUCTION"
   }
