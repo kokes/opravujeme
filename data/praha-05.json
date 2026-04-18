@@ -4491,9 +4491,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "8af17b6b6efc272e93af77d4640ac7186ba6425b",
+    "sha1": "07d352e919ddfb000ca607ead4082ff4abd26925",
     "start": "2026-03-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Podbělohorská",
     "subject": "CONSTRUCTION"
   },
@@ -4537,9 +4537,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "539a24a221301435a9d71a3e00cae872aa3fef89",
+    "sha1": "3e679dccbd7a03b7a0baa5c4487331f43910c80f",
     "start": "2026-04-17T21:00:00",
-    "state": "FUTURE",
+    "state": "DONE",
     "street": "Hořejší nábřeží",
     "subject": "CONSTRUCTION"
   },
