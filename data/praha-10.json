@@ -7039,9 +7039,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "af8ff0e79171fa59df05956a8c99d70666259c2e",
+    "sha1": "ce760e88616f56128caac4919841ef6c05af38a9",
     "start": "2026-04-18T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Želivecká, Ostružinová, Narcisová",
     "subject": "CONSTRUCTION"
   },
@@ -7131,9 +7131,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "da41accc8462db034884d3d0076bfe240ccf1a7a",
+    "sha1": "e03eb64a0fa1bf62898ce53d332ea41fd3fc576c",
     "start": "2026-04-19T06:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Práčská",
     "subject": "CONSTRUCTION"
   }
