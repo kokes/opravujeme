@@ -4583,9 +4583,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "378cf1d84d9c4d76174a57e3fda25ea24858cc6d",
+    "sha1": "f8dffafd561823d02077c46689fc9b3b659c3682",
     "start": "2026-04-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Podbělohorská v úseku Pod Stadiony - Smrčínská",
     "subject": "CONSTRUCTION"
   }

@@ -4434,9 +4434,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a089663655d064bd6774c4ab3dad2595d541f906",
+    "sha1": "10d3f7aa520a03f307080f643f9544f278883d42",
     "start": "2026-02-23T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nad Lesním divadlem",
     "subject": "CONSTRUCTION"
   },
