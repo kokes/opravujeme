@@ -1151,7 +1151,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-04-08T15:02:13.903300",
+    "approvedat": "2026-04-20T13:12:29.680305",
     "approvedby": 15,
     "city_part": [
       "12"
@@ -1174,13 +1174,13 @@
     "investor_phone": null,
     "investor_responsible": "Forejt",
     "lat": 49.99853986734713,
-    "limitations": "<p class=\"ql-align-justify\"><span style=\"color: black;\">V termínu od 3. etapy od 17.4.2026 do 28.5.2026 dojde k&nbsp;uzavírce přilehlého chodníku u ulice Libušská, v&nbsp;oblasti u okružní křižovatky Libušská x Kunratická spojka, obchozí trasa bude vyznačena. </span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">V&nbsp;termínu 4. etapy od 16.5.2026 do 30.6.2025 dojde k záboru přilehlého chodníku u zastávky BUS Sídliště Písnice, obchozí trasa bude vyznačena. </span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\"><span class=\"ql-cursor\">﻿</span>Po celou dobu trvání těchto dvou etap se bude v&nbsp;čase od 9.00 do 15.00 na ulici Libušská v&nbsp;úseku od křižovatky U Libušské sokolovny x Libušská po křižovatku Libušská x Kunratická spojka pohybovat vozidlo stavby v&nbsp;rámci pracovního záboru a celkové délce 15,0 m. Provoz bude řízen kyvadlově pověřenou a náležitě poučenou osobou. Vždy bude v&nbsp;daný čas pouze jedno pracovní místo/pohyblivý zábor. Tento je nutný pro provádění předmětných stavebních prací – odvoz výkopku, návoz chrániček, kabelů, materiálů pro zpětný zásyp rýhy.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
+    "limitations": "<p class=\"ql-align-justify\"><span style=\"color: black;\">V termínu od 3. etapy od 17.4.2026 do 28.5.2026 dojde k&nbsp;uzavírce přilehlého chodníku u ulice Libušská, v&nbsp;oblasti u okružní křižovatky Libušská x Kunratická spojka, obchozí trasa bude vyznačena. </span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">V&nbsp;termínu 4. etapy od 16.5.2026 do 30.6.2025 dojde k záboru přilehlého chodníku u zastávky BUS Sídliště Písnice, obchozí trasa bude vyznačena. </span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\"><span class=\"ql-cursor\">﻿﻿</span>Po celou dobu trvání těchto dvou etap se bude v&nbsp;čase od 9.00 do 15.00 na ulici Libušská v&nbsp;úseku od křižovatky U Libušské sokolovny x Libušská po křižovatku Libušská x Kunratická spojka pohybovat vozidlo stavby v&nbsp;rámci pracovního záboru a celkové délce 15,0 m. Provoz bude řízen kyvadlově pověřenou a náležitě poučenou osobou. Vždy bude v&nbsp;daný čas pouze jedno pracovní místo/pohyblivý zábor. Tento je nutný pro provádění předmětných stavebních prací – odvoz výkopku, návoz chrániček, kabelů, materiálů pro zpětný zásyp rýhy.&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><span style=\"color: black;\">&nbsp;</span></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><br></p><p><br></p>",
     "lon": 14.475388526916506,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-04-08T15:02:13.903272",
+    "modified": "2026-04-20T13:12:29.680280",
     "modifiedby": "leos.kubin@praha.eu",
     "name": "Kunratická spojka - uložení napájecího kabelu pro ražbu metra",
     "priority": false,
@@ -1189,7 +1189,7 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "d957377c9ba90af604999c72651200b255491775",
+    "sha1": "16bfc6d3229d7f13eaf46f20d76e24a3eb43baec",
     "start": "2026-04-17T00:00:00",
     "state": "ACTIVE",
     "street": "Kunratická spojka",
