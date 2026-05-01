@@ -1938,9 +1938,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8f99c2d14be602fc4bb449b2a571b18dab5b2326",
+    "sha1": "af921b4c447a7c401c45872fe0a6eb18f30c8b98",
     "start": "2026-02-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Slévačská, Poříčanská",
     "subject": "CONSTRUCTION"
   },
@@ -2030,9 +2030,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "af82d28681118206cf712c26ee89cc1ec673fb69",
+    "sha1": "7f1edc4f3e630a730861a28293bd9ddb35e34157",
     "start": "2026-05-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Průmyslová",
     "subject": "CONSTRUCTION"
   }
