@@ -6717,9 +6717,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "c7e51a3165fab6f74a107b6d9a6323921364bd41",
+    "sha1": "78bf4476e4040c8816f6df524700cd58031b5a19",
     "start": "2026-04-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   },
@@ -6947,9 +6947,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "1362be8516c792e1cc9f62fb2c52cc415556ea32",
+    "sha1": "bd249abe061e8de4b29fb32a69da94b04a65b314",
     "start": "2026-05-04T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Švehlova",
     "subject": "CONSTRUCTION"
   },
