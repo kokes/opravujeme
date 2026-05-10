@@ -2669,9 +2669,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "19342680e65383df4d4eaec2fe1317ce3c1f2d48",
+    "sha1": "3941a527bb0d339612b6905759d9b354688ab51a",
     "start": "2026-05-04T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hartigova",
     "subject": "CONSTRUCTION"
   },
