@@ -3524,9 +3524,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "GREEN",
-    "sha1": "2d9d76eeeb8f71f932cd6516f021f98d47efde0e",
+    "sha1": "64c5be6e305b0c4930e443a92a72fc622653f17d",
     "start": "2026-04-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Žitná",
     "subject": "CONSTRUCTION"
   }

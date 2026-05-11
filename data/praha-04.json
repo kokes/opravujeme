@@ -4802,9 +4802,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "f272017d8180f4ac203e3ea54f5b7d273e1cf3fb",
+    "sha1": "424bb8dcc3d59b915162e7768af19ccbf76d747b",
     "start": "2026-05-11T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "5. května",
     "subject": "CONSTRUCTION"
   },
