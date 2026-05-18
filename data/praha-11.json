@@ -1835,9 +1835,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "96e19c7a2621e3dd76246a6da725fb7e6a98c90c",
+    "sha1": "7654024264e7e7c91e985aab23d2f914fcd16c71",
     "start": "2026-05-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Horčičkova",
     "subject": "CONSTRUCTION"
   },
@@ -1881,9 +1881,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "478c37464735a062c42c0a4a3b6d779cada8cad6",
+    "sha1": "95aee1965e456357c23a7b7ccb7f1b6bf94a0def",
     "start": "2026-05-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "VÝSTAVNÍ",
     "subject": "CONSTRUCTION"
   }
