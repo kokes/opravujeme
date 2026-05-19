@@ -7223,9 +7223,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "a926f09015ec60eb20991b9b2c59f797faadb4b4",
+    "sha1": "765b6f9e5aef585354e8610c69a15c8ffe7e681b",
     "start": "2026-04-27T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jahodová, Jasmínová",
     "subject": "CONSTRUCTION"
   },
@@ -7269,9 +7269,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "dbf8b549b903861127bed28651a335de835c3aa6",
+    "sha1": "e2eb16c9fa56e7bceeaf27c281b01f4c268a4d8a",
     "start": "2026-05-18T17:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Jahodová",
     "subject": "CONSTRUCTION"
   },
