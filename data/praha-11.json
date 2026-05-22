@@ -1843,7 +1843,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-05-13T09:13:55.039842",
+    "approvedat": "2026-05-21T09:14:17.154669",
     "approvedby": 15,
     "city_part": [
       "11"
@@ -1872,16 +1872,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-05-13T09:13:55.039800",
+    "modified": "2026-05-21T09:14:17.154644",
     "modifiedby": "leos.kubin@praha.eu",
-    "name": "ZÁBOR JÍZDNÍHO PRUHU PRO RESALIZACÍ PŘÍPOJEK",
+    "name": "ZÁBOR JÍZDNÍHO PRUHU PRO REALIZACI PŘÍPOJEK",
     "priority": false,
     "promoted": false,
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "95aee1965e456357c23a7b7ccb7f1b6bf94a0def",
+    "sha1": "e32a7ab96f4533463787308b71b097e78f211a65",
     "start": "2026-05-18T00:00:00",
     "state": "ACTIVE",
     "street": "VÝSTAVNÍ",
