@@ -4894,9 +4894,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "845c2dcd0603f3b09a65d6c9fa092d6938caa8d6",
+    "sha1": "2b9903dc5a8432d41da7e6061321f3a297d7776f",
     "start": "2026-05-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Doudova",
     "subject": "CONSTRUCTION"
   },

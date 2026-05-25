@@ -2124,9 +2124,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5682fbc56306e3eccde80b0ddbfa4f9937126077",
+    "sha1": "b5b7c7b4105171394fcf204a1a14187bc0cea24f",
     "start": "2026-05-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Hostavická",
     "subject": "CONSTRUCTION"
   }

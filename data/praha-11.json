@@ -1789,9 +1789,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "6ca4c78a93e5e1533a516c4b7f5b1036a4528df2",
+    "sha1": "9a2750e80df8621edad2304003dcf67fa8eb50fc",
     "start": "2026-05-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Výstavní",
     "subject": "CONSTRUCTION"
   },

@@ -4215,9 +4215,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "43fecfc05663fdeeb2802a63bd925057216803aa",
+    "sha1": "f3b63e7f255b50fd804cd87af1e91c509cf1939d",
     "start": "2026-05-23T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Prosecká, Letňanská",
     "subject": "CONSTRUCTION"
   },
@@ -4307,9 +4307,9 @@
     "responsible_email": "gabrielovap@praha9.cz",
     "responsible_phone": "283091359",
     "severity": "GREEN",
-    "sha1": "1c2f3889d8a17eac8057803eadd660664455abf7",
+    "sha1": "97c1360eb8a08f4ed4c5c5acec1840f2f4455390",
     "start": "2026-05-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Horní Hrdlořezská",
     "subject": "CONSTRUCTION"
   },

@@ -1658,9 +1658,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "6ca4c78a93e5e1533a516c4b7f5b1036a4528df2",
+    "sha1": "9a2750e80df8621edad2304003dcf67fa8eb50fc",
     "start": "2026-05-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Výstavní",
     "subject": "CONSTRUCTION"
   },
@@ -1844,9 +1844,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "YELLOW",
-    "sha1": "4f9d9f79e13834c8766b29babe4cd5d63120110d",
+    "sha1": "598dd7733f9ee2f406f01991b42692026a061f9a",
     "start": "2026-05-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Horkám",
     "subject": "CONSTRUCTION"
   },
