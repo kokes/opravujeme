@@ -4493,9 +4493,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "75a39b95a6e20e1e21a197ce0694e73ea495d04c",
+    "sha1": "b09102923be79c99db2e3868870a35784fec8bda",
     "start": "2026-03-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Ďáblická, Střelničná, Žernosecká",
     "subject": "CONSTRUCTION"
   },
