@@ -4987,9 +4987,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dbe367192dc4368558fdc040bb0436fa1e66f16e",
+    "sha1": "d03820a23fc94d14e5fbd929f8c17427a35501f6",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Modřanská, Mezi vodami, Šífařská",
     "subject": "CONSTRUCTION"
   },
@@ -5033,9 +5033,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f821eb05233bbf3fed02dc845cfca9d33029fbbe",
+    "sha1": "9313d488ab0f177185b0d50de79ef83f5aa00047",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   }

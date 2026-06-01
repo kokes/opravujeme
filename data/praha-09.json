@@ -4400,9 +4400,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "d4bd2eed8657133084d34f7dd860d084b6c852a5",
+    "sha1": "67d14bcb04af1323b12abd69e113414d93a5fa0a",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kbelská",
     "subject": "CONSTRUCTION"
   },
@@ -4493,9 +4493,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "b6ad52315d8a058f05b33b024e6408ec140e1a90",
+    "sha1": "377ac0be56ceb4bf110d3a00f636294a1e649224",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "OSN",
     "subject": "CONSTRUCTION"
   },
@@ -4539,9 +4539,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "e97006d24b6292a5a0933341a83a0c1997665a8d",
+    "sha1": "118e26dea08e4c9b65eb9fa7a7762fb1c6bc63b0",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Sokolovská, Jandova, Kolbenova, Freyova",
     "subject": "CONSTRUCTION"
   },
@@ -4585,9 +4585,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "70b960679a4042d1e6ae3f73edeb47d995f7b8c0",
+    "sha1": "9404d684c72213b50ce77bf36651f6e3cc27d5b9",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   }

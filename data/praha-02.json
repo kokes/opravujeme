@@ -2551,9 +2551,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "caee560f8cde78d9e46036b09b857c40328b2b37",
+    "sha1": "4a5c65463391f5cb5c5404732f06e0ac64478d75",
     "start": "2025-06-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Legerova, Vinohradská",
     "subject": "CONSTRUCTION"
   },

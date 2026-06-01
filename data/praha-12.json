@@ -1514,9 +1514,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dbe367192dc4368558fdc040bb0436fa1e66f16e",
+    "sha1": "d03820a23fc94d14e5fbd929f8c17427a35501f6",
     "start": "2026-06-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Modřanská, Mezi vodami, Šífařská",
     "subject": "CONSTRUCTION"
   }

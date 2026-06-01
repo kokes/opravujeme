@@ -7082,9 +7082,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f038b6fa90292ac7640e915aa748520cf62783a5",
+    "sha1": "fd433169996ba6c100f57d1d7f4eb217847f81dc",
     "start": "2026-04-29T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Politických vězňů",
     "subject": "CONSTRUCTION"
   },
