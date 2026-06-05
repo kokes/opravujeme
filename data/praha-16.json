@@ -1839,9 +1839,9 @@
     "responsible_email": "zlatuse.benkova@praha.eu",
     "responsible_phone": "236 004 392",
     "severity": "YELLOW",
-    "sha1": "7d31c6f025cbbdb0f77962f7f76a827f6f724226",
+    "sha1": "e7ed969c9b41c03b2610263db33eaa2a05e6ec50",
     "start": "2026-06-05T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Karlická",
     "subject": "CONSTRUCTION"
   }
