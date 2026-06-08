@@ -4848,9 +4848,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "dcbd124babf28509994f094c275a049d02d960c5",
+    "sha1": "fd8dfff2efbae3025554bf3ec591769627981859",
     "start": "2026-05-11T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Voráčovská",
     "subject": "CONSTRUCTION"
   },
@@ -4894,9 +4894,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2b9903dc5a8432d41da7e6061321f3a297d7776f",
+    "sha1": "96166df2369071e73cff1b566691a590a2e2cef6",
     "start": "2026-05-25T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Doudova",
     "subject": "CONSTRUCTION"
   },

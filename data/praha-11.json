@@ -1927,9 +1927,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b24481060a12606c6c7fba087ea7e0bd114eedfe",
+    "sha1": "7940f38fd695713acd3b3f8a4d5fec4080fd3b27",
     "start": "2026-06-08T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Mírového Hnutí",
     "subject": "CONSTRUCTION"
   }

@@ -5186,9 +5186,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "18b42990b79f705c0dce2d2f9ee607932527c900",
+    "sha1": "52b90b29c565eb5c29b5e56c56f273e0e1d9c559",
     "start": "2026-03-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nad Okrouhlíkem",
     "subject": "CONSTRUCTION"
   },
