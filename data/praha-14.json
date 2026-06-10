@@ -1946,7 +1946,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-06-01T10:23:02.484289",
+    "approvedat": "2026-06-09T08:12:54.200263",
     "approvedby": 34,
     "city_part": [
       "9",
@@ -1977,7 +1977,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-06-01T10:23:02.484261",
+    "modified": "2026-06-09T08:12:54.200237",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Kbelská - I. a II. etapa",
     "priority": false,
@@ -1986,7 +1986,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "4afd14045cbc527308dd22cd0ea16ad760f749d9",
+    "sha1": "c4690a5da1b58cb21bdc846b5c7ebf90b3a92334",
     "start": "2026-07-02T00:00:00",
     "state": "FUTURE",
     "street": "Kbelská",
