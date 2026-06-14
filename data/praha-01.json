@@ -7128,9 +7128,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "2e418a438811f43193050dfe6915acec50700b43",
+    "sha1": "9e5a73c10fb83ebe9dbb3c49139d580e99e4a30a",
     "start": "2026-05-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jelení, U Brusnice",
     "subject": "CONSTRUCTION"
   },
@@ -7312,9 +7312,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f3dc126a26ea6d46f42841bb7414c0a54aaaafc7",
+    "sha1": "7feb79314fe34fbfe879400bfec039fa9049cab0",
     "start": "2026-05-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Brusnice",
     "subject": "CONSTRUCTION"
   },
