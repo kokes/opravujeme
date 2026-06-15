@@ -3566,9 +3566,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "256772b00a13368db221a3e2c6367d2e41dad984",
+    "sha1": "e77a32a974c133b0a6aa706809e15dd9d5fa734c",
     "start": "2025-08-24T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Poděbradská, úsek Kabešova - Podkovářská, rekonstrukce kanalizační stokyx",
     "subject": "CONSTRUCTION"
   },
@@ -4585,9 +4585,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "9404d684c72213b50ce77bf36651f6e3cc27d5b9",
+    "sha1": "98effb32fb6ff01a20cd6ab045f736d3100a98bc",
     "start": "2026-06-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Českobrodská",
     "subject": "CONSTRUCTION"
   },
@@ -4631,9 +4631,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "caee4bb2048b11b0ff7a376f120a9ff737d75b07",
+    "sha1": "225343e3ad4f27e4457ad955ea645d61f9068892",
     "start": "2026-06-15T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Trabantská, K Nádraží, K Cihelně, K Radonicům, Vinořská",
     "subject": "CONSTRUCTION"
   }
