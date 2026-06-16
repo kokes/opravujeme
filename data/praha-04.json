@@ -4802,9 +4802,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bd226d337c84eba51dabef90f95172d28ac396d0",
+    "sha1": "416abfdfa1a98dc0e5bc3f32f4b6d54255ca8b1b",
     "start": "2026-05-04T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Korandova",
     "subject": "CONSTRUCTION"
   },
