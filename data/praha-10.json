@@ -7593,9 +7593,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "YELLOW",
-    "sha1": "76d8218931946729edf9d09da1cf9f601515299a",
+    "sha1": "4c5bd3503be346c4558277d51ff5cf8134ccfcd7",
     "start": "2026-05-03T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "V Korytech",
     "subject": "CONSTRUCTION"
   },
@@ -7639,9 +7639,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "GREEN",
-    "sha1": "760d9e70cd9d6ca4da7ad5eb30668fc892a74f01",
+    "sha1": "7fb713545a5cf8660a881660b7abaa8f7883c43b",
     "start": "2026-05-27T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Průmyslová",
     "subject": "CONSTRUCTION"
   },
@@ -7961,9 +7961,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "1bf177876457d53ecb4d9ca70c45d99f602cb1c8",
+    "sha1": "cb9769ddf03ad867711d6bc1ccebc7f962574c88",
     "start": "2026-06-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Průmyslová, směr jízdy do Hloubětína",
     "subject": "CONSTRUCTION"
   }
