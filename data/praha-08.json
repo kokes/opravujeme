@@ -5462,9 +5462,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d8575dffb0073b8080cba4580a6078f9f3dc6127",
+    "sha1": "9e45e27e5af10e4fec710fb74914f0fd6a29fd3d",
     "start": "2026-06-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Dolákova, Hackerova",
     "subject": "CONSTRUCTION"
   }

@@ -2263,9 +2263,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fe3f3b77ac5a1599d412e2e81d407fc40bd7ccf9",
+    "sha1": "86ccbcf7ee94d4541b739883a1f9603a59226a7a",
     "start": "2026-06-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vizírská",
     "subject": "CONSTRUCTION"
   }

@@ -4493,9 +4493,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "377ac0be56ceb4bf110d3a00f636294a1e649224",
+    "sha1": "e4b99ca43ec4185b657f077ed4708618aaba99b5",
     "start": "2026-06-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "OSN",
     "subject": "CONSTRUCTION"
   },
