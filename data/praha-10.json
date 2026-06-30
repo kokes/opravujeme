@@ -6449,7 +6449,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-05-11T08:31:38.750994",
+    "approvedat": "2026-06-29T10:43:47.694077",
     "approvedby": 34,
     "city_part": [
       "10"
@@ -6472,13 +6472,13 @@
     "investor_phone": null,
     "investor_responsible": "Ing. Jan Buchlák",
     "lat": 50.065019909370164,
-    "limitations": "<p>6. 3. – 6. 4. 2026: bez omezení silničního provozu</p><p>7. 4. – 3. 5. 2026: na mostě bude jednosměrný silniční provoz a koridor pro pěší</p><p><strong>4. 5. – 30. 6. 2026: plná uzávěra silničního provozu</strong>, provoz pěších v chráněném koridoru pro pěší</p><p>1. 7. – 16. 8. 2026: na mostě bude jednosměrný silniční provoz a koridor pro pěší</p><p><strong>17. 8. – 31. 8. 2026: plná uzávěra silničního provozu</strong>, provoz pro pěší na jednom chodníku zachován</p><p><br></p><p>Stavební práce ovlivní také dopravu na koridorové železniční trati nacházející se pod mostním objektem. Jednotlivé koleje budou postupně omezovány s tím, jak budou postupovat práce na opravě mostu.</p>",
+    "limitations": "<p>6. 3. – 6. 4. 2026: bez omezení silničního provozu</p><p>7. 4. – 3. 5. 2026: na mostě bude jednosměrný silniční provoz a koridor pro pěší</p><p>4. 5. – 30. 6. 2026: plná uzávěra silničního provozu, provoz pěších v chráněném koridoru pro pěší</p><p>1. 7. – 16. 8. 2026: na mostě bude jednosměrný silniční provoz a koridor pro pěší</p><p><strong>17. 8. – 31. 8. 2026: plná uzávěra silničního provozu</strong>, provoz pro pěší na jednom chodníku zachován</p><p><br></p><p>Stavební práce ovlivní také dopravu na koridorové železniční trati nacházející se pod mostním objektem. Jednotlivé koleje budou postupně omezovány s tím, jak budou postupovat práce na opravě mostu.</p>",
     "lon": 14.464675784111023,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-05-11T08:31:38.750969",
+    "modified": "2026-06-29T10:43:47.694050",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce drážního nadjezdu v ul. Moskevská (Bohdalec)",
     "priority": false,
@@ -6487,7 +6487,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "65f5fdda84b1eade27eca23df35467a3d09d9bfc",
+    "sha1": "a47a8434383f4b3e0e4f0d5ba934eacb78fc45d3",
     "start": "2026-03-01T00:00:00",
     "state": "ACTIVE",
     "street": "Moskevská",
