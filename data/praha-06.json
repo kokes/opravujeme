@@ -3639,9 +3639,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "66e035e862082ada609b3f86f30aa688c7edf55b",
+    "sha1": "d7fc5f74e90540aa385437e8aefec5ca56e82319",
     "start": "2026-02-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Šárecká, Na Kodymce",
     "subject": "CONSTRUCTION"
   },
@@ -3685,9 +3685,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "782bb7b2e9353e688c3e7db290b6901254ef3dbc",
+    "sha1": "697c1dd6f364938eb42c990a2f560d1c2edb5b0e",
     "start": "2026-02-16T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Šárecká, Matějská",
     "subject": "CONSTRUCTION"
   },
@@ -4242,9 +4242,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5b3d6657de90a380fdd994f3537dfce22ab7d99f",
+    "sha1": "f865cfa645b799fee50eabedb04d25b2c85f7b2e",
     "start": "2026-07-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Gymnastická",
     "subject": "CONSTRUCTION"
   }

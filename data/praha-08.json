@@ -3572,9 +3572,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "da5c6ef61b489008ebdac007a7b1275ebfd98e52",
+    "sha1": "6fc777d69ae06b74fcd1da63ec86a3d725cacecc",
     "start": "2025-02-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Štorchova",
     "subject": "CONSTRUCTION"
   },
@@ -4864,9 +4864,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1d0db158575b4b320ceea190b2c5f8298853f24d",
+    "sha1": "8ffacacf8ad4a3f081917501e0529d20f8eb8a61",
     "start": "2025-10-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "",
     "subject": "CONSTRUCTION"
   },
