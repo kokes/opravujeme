@@ -1348,9 +1348,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "e557e93d39741270c077050d5b6048af192b514a",
+    "sha1": "72a778a5ab615a6794253306366ef98cd13076f2",
     "start": "2026-07-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kbelská",
     "subject": "CONSTRUCTION"
   },

@@ -4360,7 +4360,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-02-26T09:50:39.536876",
+    "approvedat": "2026-07-01T13:44:34.832386",
     "approvedby": 34,
     "city_part": [
       "5"
@@ -4374,7 +4374,7 @@
     "description": "<p>Stavební údržba silničního mostu v ulici K Barrandovu ve směru do centra.</p><p><span style=\"color: windowtext;\">V rámci demolice jsou navrženy následující úkony:</span></p><p><span style=\"color: windowtext;\">• odstranění levé římsy,</span></p><p><span style=\"color: windowtext;\">• odstranění stávající protihlukové stěny v celém rozsahu,</span></p><p><span style=\"color: windowtext;\">• odstranění stávajícího svodidla na mostě,</span></p><p><span style=\"color: windowtext;\">• odstranění části vozovky v minimálním nutném rozsahu pro napojení izolací.</span></p><p>  </p><p>V stavební údržbě bude provedena nová levá římsa. Na novou římsu bude osazeno ocelové svodidlo.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2026-06-28T23:59:00",
+    "end": "2026-07-05T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"coordinates\": [\r\n          [\r\n            14.398862316868872,\r\n            50.03635711426878\r\n          ],\r\n          [\r\n            14.39830914789539,\r\n            50.03618967318238\r\n          ],\r\n          [\r\n            14.39759066405611,\r\n            50.036005895707916\r\n          ],\r\n          [\r\n            14.396986628969643,\r\n            50.035875209075954\r\n          ],\r\n          [\r\n            14.396319011243236,\r\n            50.03576085798093\r\n          ],\r\n          [\r\n            14.39575948400568,\r\n            50.03569551437616\r\n          ],\r\n          [\r\n            14.395269897673444,\r\n            50.035642422631526\r\n          ],\r\n          [\r\n            14.394767594811611,\r\n            50.035613834744936\r\n          ]\r\n        ],\r\n        \"type\": \"LineString\"\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2381,
@@ -4389,7 +4389,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-02-26T09:50:39.536852",
+    "modified": "2026-07-01T13:44:34.832359",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Stavební údržba mostu v ulici K Barrandovu",
     "priority": false,
@@ -4398,9 +4398,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "47fa892717e32bd30eb8fa9dad77d52b8a6758f2",
+    "sha1": "ade700ec8472684a96d5af6197189ba7b2c21a46",
     "start": "2026-03-01T00:00:00",
-    "state": "DONE",
+    "state": "ACTIVE",
     "street": "K Barrandovu",
     "subject": "CONSTRUCTION"
   },

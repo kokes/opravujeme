@@ -3579,7 +3579,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-06-30T11:42:20.513715",
+    "approvedat": "2026-07-01T11:56:30.147252",
     "approvedby": 34,
     "city_part": [
       "2"
@@ -3608,16 +3608,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-06-30T11:42:20.513688",
+    "modified": "2026-07-01T11:56:30.147224",
     "modifiedby": "eva.vesela@tsk-praha.cz",
-    "name": "Rekonstrukce Tylova náměstí",
+    "name": "Rekonstrukce komunikace Tylovo náměstí",
     "priority": false,
     "promoted": false,
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e9a8b41ff77b9ab449781c11219004f8b6ad0714",
+    "sha1": "972f698ecad92d7763159e8f58df099937e66663",
     "start": "2026-04-15T00:00:00",
     "state": "ACTIVE",
     "street": "Tylovo náměstí",
