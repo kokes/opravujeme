@@ -4398,9 +4398,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "ade700ec8472684a96d5af6197189ba7b2c21a46",
+    "sha1": "70c343e4fd38c3f8407268712e5dd500ded527c2",
     "start": "2026-03-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "K Barrandovu",
     "subject": "CONSTRUCTION"
   },
@@ -4721,9 +4721,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7f8bc7bf57485ab79740332151adc98db6ebc460",
+    "sha1": "31677ac3f8c023f176b5a92e0c93e72af8d227d3",
     "start": "2026-07-06T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Slivenecká, Hlubočepská",
     "subject": "CONSTRUCTION"
   },
