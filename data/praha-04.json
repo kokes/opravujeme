@@ -5452,9 +5452,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "8aecfff18e360d06b1a215433b8272b064ef1413",
+    "sha1": "08d7a5676876a8f100a001906c927348ec1d8eef",
     "start": "2026-07-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Strži",
     "subject": "CONSTRUCTION"
   },
