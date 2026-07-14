@@ -2770,7 +2770,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-07-02T08:19:31.440692",
+    "approvedat": "2026-07-13T16:16:54.654690",
     "approvedby": 15,
     "city_part": [
       "3"
@@ -2799,16 +2799,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-07-02T08:19:31.440646",
+    "modified": "2026-07-13T16:16:54.654664",
     "modifiedby": "leos.kubin@praha.eu",
-    "name": "OBNOVOA VODOVODNÍHO ŘADU - POKRAČOVÁNÍ",
+    "name": "OBNOVA VODOVODNÍHO ŘADU - POKRAČOVÁNÍ",
     "priority": false,
     "promoted": false,
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "891dfe300a3fc000ceaf95a43e4c9396927ee9ff",
+    "sha1": "3bfb766d71a0bb756ced6f20f305f7b5f8280182",
     "start": "2026-07-09T00:00:00",
     "state": "ACTIVE",
     "street": "JANA ŽELIVSKÉHO, VINOHRADSKÁ",
