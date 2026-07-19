@@ -5324,9 +5324,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "adedb8c7e2ba7acb776e082d62f00ffbf23535b0",
+    "sha1": "55303690d498d3bd70b84e3f64cb31e50915f867",
     "start": "2026-05-04T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Spořická",
     "subject": "CONSTRUCTION"
   },
