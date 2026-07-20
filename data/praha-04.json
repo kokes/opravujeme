@@ -5498,9 +5498,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "68c0d6c8bb84851f2120fb701c26abe9d03aa0e6",
+    "sha1": "e8cf1d88261cd1e772ff2f4fdebda1f5c9d4545e",
     "start": "2026-07-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "TÁBORSKÁ, LOUNSKÝCH",
     "subject": "CONSTRUCTION"
   },
@@ -5544,9 +5544,9 @@
     "responsible_email": "petr.vlasak@praha4.cz",
     "responsible_phone": "261 192 426",
     "severity": "RED",
-    "sha1": "f6210716cd5cd4a43c6998c430c815005b12061d",
+    "sha1": "592fab50c5908f5b18216b713278b342764cc387",
     "start": "2026-07-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "HVĚZDOVA, NA PANKRÁCI",
     "subject": "CONSTRUCTION"
   }

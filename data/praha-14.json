@@ -2355,9 +2355,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fd044ffbab5aa170d247df959918cd36d195062c",
+    "sha1": "d9b70a8fb764bd94787d1092c443f8d41a243191",
     "start": "2026-07-20T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kukelská, Žárská",
     "subject": "CONSTRUCTION"
   },
