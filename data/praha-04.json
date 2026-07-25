@@ -4940,9 +4940,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "538a82f4160446c50dd05a44ba1b486356fd4360",
+    "sha1": "9bdbf660b5b5cfedeeaac7cce024c6a9cee03ca6",
     "start": "2026-05-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   },
@@ -5498,9 +5498,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e8cf1d88261cd1e772ff2f4fdebda1f5c9d4545e",
+    "sha1": "0693c664f0f23e3a25182f3b7111f5517d4153d6",
     "start": "2026-07-20T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "TÁBORSKÁ, LOUNSKÝCH",
     "subject": "CONSTRUCTION"
   },
