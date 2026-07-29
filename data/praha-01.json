@@ -7636,9 +7636,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "577fff54f86629f45ba7b285fa96ca68ddff41cc",
+    "sha1": "effa12e8a0547da5970d65b92000f3bddbe6f82d",
     "start": "2026-07-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Vítězná",
     "subject": "CONSTRUCTION"
   }
