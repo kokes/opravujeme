@@ -1794,9 +1794,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b4ad63bae3851c52c954882ab1bed963f755fc9b",
+    "sha1": "4c592587d70d171ddc83fd946e4863b7951fa5bd",
     "start": "2026-07-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "",
     "subject": "CONSTRUCTION"
   },
