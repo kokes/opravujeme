@@ -7405,9 +7405,9 @@
     "responsible_email": "lukas.vopava@praha.eu",
     "responsible_phone": "236 004 247",
     "severity": "GREEN",
-    "sha1": "90a5bfcb6b2cb621a09c59fee48cb316dc6d3ae8",
+    "sha1": "b66a53055544bb82f8ef05e72f60d1898b021461",
     "start": "2026-07-18T06:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "most Legií",
     "subject": "CONSTRUCTION"
   },
@@ -7498,9 +7498,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "df894ce76256be327751fbe3daea3f4e0f328842",
+    "sha1": "effd73ee981a14afd12802bcbcc7604535ac9a90",
     "start": "2026-08-03T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Legerova, Wilsonova",
     "subject": "CONSTRUCTION"
   },
