@@ -2900,9 +2900,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "bdcc12e530d255ac660bf6cff7e2f5bbf4035c4c",
+    "sha1": "740472b5eaace8b4d1330d87ad31b159ba00e52d",
     "start": "2026-08-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Hartigova, Jana Želivského, Pod Krejcárkem",
     "subject": "CONSTRUCTION"
   }
