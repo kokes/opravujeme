@@ -7590,9 +7590,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "07e4299f9be0e0fdcbe5fb9aa30a52f57292906d",
+    "sha1": "785974707e74f86dfe973293d1b5715c2e984900",
     "start": "2026-07-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Národní, Spálená",
     "subject": "CONSTRUCTION"
   },
