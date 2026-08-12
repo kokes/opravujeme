@@ -5033,9 +5033,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9313d488ab0f177185b0d50de79ef83f5aa00047",
+    "sha1": "1f99463fbf4a9c1b41295e575b8b88ad17ba8dea",
     "start": "2026-06-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   },
