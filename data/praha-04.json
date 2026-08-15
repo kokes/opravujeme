@@ -5736,7 +5736,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-08-03T15:35:44.991691",
+    "approvedat": "2026-08-14T10:38:29.127285",
     "approvedby": 15,
     "city_part": [
       "4"
@@ -5765,16 +5765,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-08-03T15:35:44.991664",
+    "modified": "2026-08-14T10:38:29.127222",
     "modifiedby": "leos.kubin@praha.eu",
-    "name": "OPRAVA TRAMVAJOVÉ TARTĚ NUSELSKÁ",
+    "name": "OPRAVA TRAMVAJOVÉ TRATĚ NUSELSKÁ",
     "priority": false,
     "promoted": false,
     "responsible": "Kubín",
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "90e18e652583414813e6173e5549e5e6f23c80a3",
+    "sha1": "9d5392aa8708dad20862cb45eba82efd5792307e",
     "start": "2026-08-11T00:00:00",
     "state": "ACTIVE",
     "street": "NUSELSKÁ",

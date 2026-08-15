@@ -2947,9 +2947,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "9f87ef09926b1f62636354dabdee6499f8d9c956",
+    "sha1": "c6530ea7dd3e4fcf2ed30047070cd5e1d284d3ee",
     "start": "2026-08-15T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Olšanská",
     "subject": "CONSTRUCTION"
   }
