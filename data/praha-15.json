@@ -2120,9 +2120,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "1e826f2791ef7d41cf8498721e7ce265a9960283",
+    "sha1": "c36f316bf49c0dd9b88a826fd56db46cdf27fbdf",
     "start": "2026-08-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Euklidova",
     "subject": "CONSTRUCTION"
   }

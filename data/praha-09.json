@@ -4447,9 +4447,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "df6b6424aabfabe68d4bda0999bffd7a7bddc2a8",
+    "sha1": "aa0614152842a3bde878879cfbf6022b657b3b01",
     "start": "2026-06-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Novopacká",
     "subject": "CONSTRUCTION"
   },
@@ -4816,9 +4816,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "9a54a668bf6f6293ebb849a3804d51a4dc73db97",
+    "sha1": "2ea9b464a5ce7ffbdb7705ce201702db6b72288a",
     "start": "2026-08-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kolbenova",
     "subject": "CONSTRUCTION"
   }

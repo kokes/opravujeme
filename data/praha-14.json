@@ -2171,9 +2171,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "df6b6424aabfabe68d4bda0999bffd7a7bddc2a8",
+    "sha1": "aa0614152842a3bde878879cfbf6022b657b3b01",
     "start": "2026-06-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Novopacká",
     "subject": "CONSTRUCTION"
   },
@@ -2355,9 +2355,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b6f5f61aa603a9a5f309b43ff498ded7cb430eb9",
+    "sha1": "a4d232ea8c2ff8b058e35607b14d93a67c625389",
     "start": "2026-08-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kukelská, Žárská",
     "subject": "CONSTRUCTION"
   },
@@ -2539,9 +2539,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "046c5db324e268988ec3bc3021ddad0278aa99c8",
+    "sha1": "4fab473340ca88f44257f6a9651272fdd5a75203",
     "start": "2026-08-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Poděbradská",
     "subject": "CONSTRUCTION"
   },
@@ -2632,9 +2632,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "4a7d25a54ab4434988f903ce5ceeb9ce7bb843c5",
+    "sha1": "98692239604f7097d1c8e3a1ecb451b49062cb21",
     "start": "2026-08-17T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Budovatelská",
     "subject": "CONSTRUCTION"
   }
