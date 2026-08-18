@@ -4778,7 +4778,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-08-14T15:40:31.923559",
+    "approvedat": "2026-08-17T07:18:15.877331",
     "approvedby": 52,
     "city_part": [
       "9"
@@ -4801,13 +4801,13 @@
     "investor_phone": null,
     "investor_responsible": null,
     "lat": 50.11122895,
-    "limitations": "<p>Kolbenova x Nám.OSN</p><p>Kolbenova x Poštovská</p><p>Kolbenova x Laponská</p>",
+    "limitations": "<p><strong>Náměstí OSN, Kolbenova</strong></p><p class=\"ql-align-justify\">Pro zpětné umístění dělícího, resp. směrovacího ostrůvku, osazení stožáru světelného signalizačního zařízení, vyznačení hmatových prvků a usazení betonových svodidel typu cityblok se zábradlím je třeba dočasná úprava dopravního značení. Jedná se o vyznačení záboru levého jízdního pruhu na ul. Kolbenova za křižovatkou s ul. Freyova a Jandova ve směru z centra. Zábor bude vyznačen cca 25 ks svislého dopravního zařízení Z4d, Z2 a dopravního značení C4a. Ze všech směrů bude informace o pracovním místě vyznačena svislou dopravní značkou A15 a pro zvýraznění změny stávajícího dopravního režimu bude doplněna informativní dopravní značka IP22.</p><p><strong>Křižovatka Kolbenova x Poštovská</strong></p><p class=\"ql-align-justify\">Bude proveden zábor pravého jízdního, resp. parkovacího pruhu v ul. Kolbenova před křižovatkou s ul. Poštovská ve směru z centra. Zábor bude vyznačen 6 ks dopravního zařízení Z4d a 1 ks Z2 cca 20 m před přechodem pro chodce. Přibližně 60 m před přechodem pro chodce bude na SVO č. 921245 umístěno svislé dopravní značení A15 a A6b. Toto dopravní opatření bude pouze dne<strong> </strong>19.8.2026.</p><p><strong>Křižovatka Kolbenova x Laponská</strong></p><p>Dojde k záboru levého jízdního pruhu ve směru z centra a uzavření přechodu pro chodce. Zábor bude vyznačen 9 ks dopravního zařízení Z4d. Přechod pro chodce bude uzavřen 2 ks dopravního zařízení Z2. Příjezd k pracovnímu místu bude označen dvojicí svislého dopravního značení A15 a A6b. Směrování objíždějících vozidel bude zajištěno svislým dopravním značením č. C4a.</p>",
     "lon": 14.503413649999999,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-08-14T15:40:31.923515",
+    "modified": "2026-08-17T07:18:15.877306",
     "modifiedby": "pavla.safrankova@praha.eu",
     "name": "Kolbenova, ve směru z centra, zpětné vyznačení původního dopravního režimu",
     "priority": false,
@@ -4816,7 +4816,7 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "2ea9b464a5ce7ffbdb7705ce201702db6b72288a",
+    "sha1": "9f67edd8f141e21ef3654aea91aef52b0aba76c6",
     "start": "2026-08-17T00:00:00",
     "state": "ACTIVE",
     "street": "Kolbenova",

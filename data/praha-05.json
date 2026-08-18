@@ -4908,9 +4908,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "9dc6994b4ee507e6b3f67b0a0676921cad5db2b6",
+    "sha1": "589566f48cab38b45b822ff362ea95742823b5c8",
     "start": "2026-08-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Radlická",
     "subject": "CONSTRUCTION"
   },
