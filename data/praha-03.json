@@ -2808,9 +2808,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "3bfb766d71a0bb756ced6f20f305f7b5f8280182",
+    "sha1": "3eae997ec53f46f539ab0b901fe08e50f6dd1340",
     "start": "2026-07-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "JANA ŽELIVSKÉHO, VINOHRADSKÁ",
     "subject": "CONSTRUCTION"
   },
