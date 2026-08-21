@@ -4296,7 +4296,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-07-13T22:46:46.629239",
+    "approvedat": "2026-08-20T06:38:52.982006",
     "approvedby": 11,
     "city_part": [
       "6"
@@ -4319,13 +4319,13 @@
     "investor_phone": "603 195 034",
     "investor_responsible": "Ing. Hrdina",
     "lat": 50.12689265059677,
-    "limitations": "<p>1.&nbsp;&nbsp;&nbsp;&nbsp;U Státní dráhy (1. etapa 29. 6. – 30. 11. 2026)</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;uzavírka slepé části jižního úseku komunikace</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Roztocká (1. etapa, 3. etapa)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v 1. etapě uzavírka části autobusového zálivu zastávky „Roztocká“ směr centrum (u schodiště k ulici U Státní dráhy), označník zastávky přemístěn o několik metrů zpět</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v etapě 3.1 (29. 6. – 30. 11. 2026) uzavírka prostředních dvou jízdních pruhů (jižní úsek blíže k ul. Podbabská)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v etapě 3.2 (29. 7. – 31. 8. 2026)&nbsp;uzavírka prostředních dvou jízdních pruhů (severní úsek blíže k ul. Podbabská)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v obou uvedených podetapách provoz podél stavby veden jedním jízdním pruhem</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Kamýcká (2. etapa 1. 7. – 31. 8. 2026)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uzavírka pravé části vozovky směr Suchdol na úrovni vjezdů do areálů nad železniční tratí</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doprava vedena v zúženém profilu vozovky s předností vozidel jedoucích nahoru do Suchdola</p>",
+    "limitations": "<p>1.&nbsp;&nbsp;&nbsp;&nbsp;U Státní dráhy (1. etapa 29. 6. – 30. 11. 2026)</p><p class=\"ql-align-justify\">-&nbsp;&nbsp;&nbsp;uzavírka slepé části jižního úseku komunikace</p><p>2.&nbsp;&nbsp;&nbsp;&nbsp;Roztocká (1. etapa, 3. etapa)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v 1. etapě uzavírka části autobusového zálivu zastávky „Roztocká“ směr centrum (u schodiště k ulici U Státní dráhy), označník zastávky přemístěn o několik metrů zpět</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v etapě 3.1 (1. 7. – 28. 7. 2026) uzavírka prostředních dvou jízdních pruhů (jižní úsek blíže k ul. Podbabská)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v etapě 3.2 (29. 7. – 31. 8. 2026)&nbsp;uzavírka prostředních dvou jízdních pruhů (severní úsek blíže k ul. Podbabská)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v obou uvedených podetapách provoz podél stavby veden jedním jízdním pruhem</p><p>3.&nbsp;&nbsp;&nbsp;&nbsp;Kamýcká (2. etapa 1. 7. – 31. 8. 2026)</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uzavírka pravé části vozovky směr Suchdol na úrovni vjezdů do areálů nad železniční tratí</p><p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doprava vedena v zúženém profilu vozovky s předností vozidel jedoucích nahoru do Suchdola</p>",
     "lon": 14.398441314697267,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-07-13T22:46:46.629193",
+    "modified": "2026-08-20T06:38:52.981981",
     "modifiedby": "filip.kolerus@praha.eu",
     "name": "Rekonstrukce ČSOV - Kamýcká, Roztocká",
     "priority": false,
@@ -4334,7 +4334,7 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "GREEN",
-    "sha1": "92fdb398d6bc18c9ae8efc1df7df19ff856d96c6",
+    "sha1": "f17264379dd357c284f17022bf6b6a4212723e21",
     "start": "2026-06-29T00:00:00",
     "state": "ACTIVE",
     "street": "Kamýcká, Roztocká, U Státní dráhy",
