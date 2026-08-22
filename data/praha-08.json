@@ -5600,9 +5600,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "67d86819222b321b495e42e0280a8aa4f778069d",
+    "sha1": "e977fd0b8866a2bae1d5348cf322faa89220e7db",
     "start": "2026-08-22T06:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Rohanské nábřeží, Ke Štvanici",
     "subject": "CONSTRUCTION"
   },
@@ -5646,9 +5646,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "afd2833abf4b3bbf886383f7c45c1b867b437c0f",
+    "sha1": "0334de783050b30f633cc9379ec1885f4d5844ce",
     "start": "2026-08-22T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Rohanské nábřeží ",
     "subject": "CONSTRUCTION"
   }
