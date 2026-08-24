@@ -5682,9 +5682,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "b4e5eca4eee9e423cbdbc6c6870c4e23462b86a2",
+    "sha1": "76705dd8244ddc97ba82a2e7ddee1150a71fe558",
     "start": "2026-08-24T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vídeňská",
     "subject": "CONSTRUCTION"
   },
@@ -5728,9 +5728,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "b5406cb23253ba5be79ce26f837976922c9329e0",
+    "sha1": "60e4f1c2ba98ff124f20bf83ba972fd304dfc70e",
     "start": "2026-08-11T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Chodovská",
     "subject": "CONSTRUCTION"
   },
