@@ -2854,9 +2854,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "50e6afb051b933a799d33037a49f79e142f164f0",
+    "sha1": "97302dce9be379449ccfa23aa8523288e918ccb5",
     "start": "2026-08-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "HARTIGOVA",
     "subject": "CONSTRUCTION"
   },
@@ -2900,9 +2900,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "740472b5eaace8b4d1330d87ad31b159ba00e52d",
+    "sha1": "e875ff2f9cc00ebd8adb5e6fecfbd466e4882da7",
     "start": "2026-08-10T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hartigova, Jana Želivského, Pod Krejcárkem",
     "subject": "CONSTRUCTION"
   },
@@ -2993,9 +2993,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "0a52559f73978e2b3801432a12825bdfe2b175a9",
+    "sha1": "c4e91e0265e8db88f36312f1a8f6c327098b1319",
     "start": "2026-08-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Jana Želivského, Olšanská",
     "subject": "CONSTRUCTION"
   },
@@ -3039,9 +3039,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "4f79c91fb966354be81885a31b00c29d96c09674",
+    "sha1": "150a6dadb084474b97f32d0beff8f8d9dafb504d",
     "start": "2026-08-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Hartigova, Na Ohradě",
     "subject": "CONSTRUCTION"
   }

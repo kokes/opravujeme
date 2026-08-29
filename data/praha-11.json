@@ -1973,9 +1973,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "29ba033dc0b03cf9374b54b88b851d1b79187e24",
+    "sha1": "bb18ef41fa5f87f5b3c01b8a541c3b3a6c2b4375",
     "start": "2026-07-13T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pod Chodovem, NN23",
     "subject": "CONSTRUCTION"
   },
