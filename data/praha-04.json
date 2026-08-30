@@ -5774,9 +5774,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "9d5392aa8708dad20862cb45eba82efd5792307e",
+    "sha1": "fdc0ff3464c7199398f6f796570ad718058cd524",
     "start": "2026-08-11T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "NUSELSKÁ",
     "subject": "CONSTRUCTION"
   },
@@ -5820,9 +5820,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "RED",
-    "sha1": "98c9702ff9cc2ed1257ca592586474353df9b529",
+    "sha1": "1ecf9fe1b181ad9e562628bb57ce239905c110a0",
     "start": "2026-08-10T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Chodovská",
     "subject": "CONSTRUCTION"
   },

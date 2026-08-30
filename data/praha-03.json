@@ -2577,9 +2577,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "748393df46291a152df8792f6e0b50615b11bbc9",
+    "sha1": "9bb0b52809e3f603c109142078f71a7a754ad867",
     "start": "2026-04-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pod Krejcárkem",
     "subject": "CONSTRUCTION"
   },
