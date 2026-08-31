@@ -4296,8 +4296,8 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-08-20T06:38:52.982006",
-    "approvedby": 11,
+    "approvedat": "2026-08-31T08:03:26.050668",
+    "approvedby": 34,
     "city_part": [
       "6"
     ],
@@ -4325,16 +4325,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-08-20T06:38:52.981981",
-    "modifiedby": "filip.kolerus@praha.eu",
+    "modified": "2026-08-31T08:03:26.050642",
+    "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce ČSOV - Kamýcká, Roztocká",
     "priority": false,
     "promoted": false,
     "responsible": "Ing. Filip Kolerus",
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
-    "severity": "GREEN",
-    "sha1": "f17264379dd357c284f17022bf6b6a4212723e21",
+    "severity": "YELLOW",
+    "sha1": "45713ec29a2a96dc89be81c586adfb32825107f1",
     "start": "2026-06-29T00:00:00",
     "state": "ACTIVE",
     "street": "Kamýcká, Roztocká, U Státní dráhy",
@@ -4472,9 +4472,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "abf05d2f1d94bccd990a6402b8809fdc949ca5f7",
+    "sha1": "3d8323b17a1b5822b2ab18bc91b10a982ed2b9b6",
     "start": "2026-08-31T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Zástřelu",
     "subject": "CONSTRUCTION"
   }

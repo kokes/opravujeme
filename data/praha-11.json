@@ -1835,9 +1835,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "7654024264e7e7c91e985aab23d2f914fcd16c71",
+    "sha1": "474b8a8a03850fbaad6672698a5d6e64a4cb98b0",
     "start": "2026-05-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Horčičkova",
     "subject": "CONSTRUCTION"
   },

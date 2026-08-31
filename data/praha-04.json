@@ -5866,9 +5866,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "48338374e5a37aed2240f6b7a622af74e4db112e",
+    "sha1": "5ff1633befc2725e88c3dcafbb89e598764ae55d",
     "start": "2026-08-31T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "NN1728 sjízdná rampa z Jižní spojky směrem na Spořilov (ulice Hlavní a další), Praha 4",
     "subject": "CONSTRUCTION"
   },
@@ -5961,9 +5961,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e773b75f818ec2461d4d2f8505990c45c7cc8d23",
+    "sha1": "589e4286a91cf10e2473b1b635583d88324193b1",
     "start": "2026-08-03T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Dudínská",
     "subject": "CONSTRUCTION"
   }
