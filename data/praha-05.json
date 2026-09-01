@@ -4813,9 +4813,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "766c2a791e8605ed1e28ad015569666a0977b223",
+    "sha1": "7b0090f6e70c9e612a888bb1ce6b4c9897b304c8",
     "start": "2026-07-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Strakonická, Císařská louka",
     "subject": "CONSTRUCTION"
   },
@@ -4954,9 +4954,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "RED",
-    "sha1": "69f9b964b03278fb8976c6ae9953daa093015e50",
+    "sha1": "abe1d493cdcd949d4c067a3b5f08e8b2a6de068f",
     "start": "2026-08-17T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hořejší nábřeží",
     "subject": "CONSTRUCTION"
   }

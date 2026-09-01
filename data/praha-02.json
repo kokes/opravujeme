@@ -3290,9 +3290,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "18b94c7d7c9210e982d39a56a2751a00703563b7",
+    "sha1": "b5e531a21bc503a9fd39cccd822fe8196a9be3e0",
     "start": "2026-02-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jaromírova",
     "subject": "CONSTRUCTION"
   },

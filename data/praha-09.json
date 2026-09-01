@@ -4908,9 +4908,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "305b361621f3224361a768d14dc32dca143be246",
+    "sha1": "eddce4a93ce5e4f67ea2d5f938d49fc7d471db5b",
     "start": "2026-09-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Mladoboleslavská",
     "subject": "CONSTRUCTION"
   }
