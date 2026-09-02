@@ -3085,9 +3085,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "6c465083835c74c57761580d83fb0f75d4102298",
+    "sha1": "eb7ff85c1d46f4c4726a994ae2b69f7b190fbda7",
     "start": "2026-09-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Za Žižkovskou vozovnou, Na Balkáně",
     "subject": "CONSTRUCTION"
   }
