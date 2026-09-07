@@ -8697,9 +8697,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "ff67457aa03752b07db123f6d79a2fd1f0adb69a",
+    "sha1": "41eba814937c38264e5d84db8c608dab05d91faf",
     "start": "2026-09-07T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Prádelně",
     "subject": "CONSTRUCTION"
   },
@@ -8928,9 +8928,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236 004 355",
     "severity": "GREEN",
-    "sha1": "dc6d9673d36c3453d6f3ce0e0c6d944bef8deeec",
+    "sha1": "57da1070f8c7123e5cd6eb388d1da16d78e7fedb",
     "start": "2026-09-05T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jižní spojka",
     "subject": "CONSTRUCTION"
   }
