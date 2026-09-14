@@ -6099,9 +6099,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "32beec6694baa47742cccef90aad4cb46fb6bf09",
+    "sha1": "d4726271f5ec9c19b2f190682615595214573965",
     "start": "2026-09-08T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Sulická, Na Strži",
     "subject": "CONSTRUCTION"
   },
@@ -6145,9 +6145,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "RED",
-    "sha1": "84709cd12671ce71d1df8cbf89766bef98c22c5d",
+    "sha1": "41b9df8d7c5c11c986eb1ecd759bb34e6a0f94b0",
     "start": "2026-09-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Na Strži, V Podzámčí, Sulická, Jižní spojka",
     "subject": "CONSTRUCTION"
   },

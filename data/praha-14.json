@@ -2493,9 +2493,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c4d2152389e4f0ed2d9fb2aba9b89b32b18a5933",
+    "sha1": "89de427923b0251c1c64399a002553900b1b5d3a",
     "start": "2026-09-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Šestajovická",
     "subject": "CONSTRUCTION"
   },
