@@ -4916,7 +4916,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-09-07T13:41:49.216321",
+    "approvedat": "2026-09-15T10:24:02.561281",
     "approvedby": 34,
     "city_part": [
       "9"
@@ -4945,7 +4945,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-09-07T13:41:49.216277",
+    "modified": "2026-09-15T10:24:02.561254",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Realizace odbočovacího pruhu v ulici Spojovací",
     "priority": false,
@@ -4953,8 +4953,8 @@
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
-    "severity": "GREEN",
-    "sha1": "8009a39d38b2994c2345f4897d8318bdc1922f61",
+    "severity": "YELLOW",
+    "sha1": "3426a6e13101dd4b880b057e27c5d7f1355dab9d",
     "start": "2026-09-12T00:00:00",
     "state": "ACTIVE",
     "street": "Spojovací",
