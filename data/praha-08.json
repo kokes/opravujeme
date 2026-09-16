@@ -5700,7 +5700,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-09-15T09:51:29.474264",
+    "approvedat": "2026-09-15T12:43:58.826421",
     "approvedby": 34,
     "city_part": [
       "8"
@@ -5711,7 +5711,7 @@
     "created": "2026-09-14T14:54:07.990232",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Rekonstrukce komunikace v ulici Katovická zahrnující opravu vozovky, chodníků. odvodnění a přípojek uličních vpustí.</p><p>V rámci opravy dojde k odfrézování stávajícího poškozeného asfaltového krytu v tloušťce cca 10 cm. Dále dojde ke směrové i výškové rektifikaci stávajících kamenný obrubníků. Chodník v severní části bude zbourán a znovu budou položeny jednotlivé konstrukční vrstvy. Doplnění prvků bezbariérovosti uličního prostoru. Bude provedena výměna poškozených obrub, výškové vyrovnání, obnova dešťové kanalizace (uličních vpustí a přípojek) a dopravního značení. </p><p><br></p><p>Práce budou realizovány v etapách:</p><p>1. etapa (13. 10. – 23. 10. 2026): oprava zadní část ulice po začátek parkovacích ploch</p><p>2. etapa (24. 10. – 13. 11. 2026): oprava úseku podél bytového domu</p><p>3a. etapa (14. 11. – 24. 11. 2026): oprava zbylé části plochy podél bytového domu, na straně směrem k MŠ, včetně části chodníku, aby byl zachován přístup do přilehlých objektů</p><p>3b. etapa (25. 11. – 4. 12. 2026): proveden nový asfaltový povrch v celé délce, včetně dokončení zbylé části chodníku</p><p>4a. etapa (5. 12. – 13. 12. 2026): frézování povrchu a pokládka nového povrchu na jedné polovině příjezdu z ulice Lodžská</p><p>4b. etapa (14. 12. – 20. 12. 2026): frézování povrchu a pokládka nového povrchu na druhé polovině příjezdu z ulice Lodžská </p><p><br></p><p>Pokud jednotlivé etapy budou dokončeny dřívějším termínu bude následovat neprodleně etapa následující.&nbsp;</p>",
+    "description": "<p>Souvislá údržba obslužné komunikace Katovická včetně parkoviště a severního chodníku. Oprava vozovky spočívá v obnově krytu vozovky v tloušťce cca 10 cm a konstrukčních vrstev v místech, kde to bude nutné. Severní chodník bude opraven včetně vyrovnání obrub. Povrch bude z litého asfaltu. Bude provedena směrová i výšková rektifikace inženýrských sítí a obnoveno dopravní značení.</p><p><br></p><p>Práce budou realizovány v etapách:</p><p>1. etapa (13. 10. – 23. 10. 2026): oprava zadní část ulice po začátek parkovacích ploch</p><p>2. etapa (24. 10. – 13. 11. 2026): oprava úseku podél bytového domu</p><p>3a. etapa (14. 11. – 24. 11. 2026): oprava zbylé části plochy podél bytového domu, na straně směrem k MŠ, včetně části chodníku, aby byl zachován přístup do přilehlých objektů</p><p>3b. etapa (25. 11. – 4. 12. 2026): proveden nový asfaltový povrch v celé délce, včetně dokončení zbylé části chodníku</p><p>4a. etapa (5. 12. – 13. 12. 2026): frézování povrchu a pokládka nového povrchu na jedné polovině příjezdu z ulice Lodžská</p><p>4b. etapa (14. 12. – 20. 12. 2026): frézování povrchu a pokládka nového povrchu na druhé polovině příjezdu z ulice Lodžská </p><p><br></p><p>Pokud jednotlivé etapy budou dokončeny dřívějším termínu bude následovat neprodleně etapa následující.&nbsp;</p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2026-12-20T23:59:00",
@@ -5729,7 +5729,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-09-15T09:51:29.474238",
+    "modified": "2026-09-15T12:43:58.826390",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace v ulici Katovická",
     "priority": false,
@@ -5738,7 +5738,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "ce4e29a42a78f0df8fa315951882f0e81b90f885",
+    "sha1": "a4d76f00f3a4c10a6053de4ed38019a90218a97f",
     "start": "2026-10-13T00:00:00",
     "state": "FUTURE",
     "street": "Katovická",
