@@ -9166,7 +9166,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-09-15T13:37:57.649455",
+    "approvedat": "2026-09-16T13:21:52.858377",
     "approvedby": 34,
     "city_part": [
       "10"
@@ -9177,9 +9177,9 @@
     "created": "2026-09-15T13:37:57.650162",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Rekonstrukce vozovky a vybraných chodníků v ulici Sámova. Součástí stavby bude také implementace nového stromořadí dle standardu MZI (modro-zelená infrastruktura). Údržba proběhne v úseku od tenisového klubu po ulici Petrohradská. Oprava vozovky spočívá v obnově krytu vozovky a konstrukčních vrstev. Dojde k rektifikaci uličních vpustí, doplnění prvků bezbariérovosti uličního prostoru. Bude provedena výměna poškozených obrub a jejich výškové vyrovnání. U chodníků bude provedena výměna povrchu za mozaikovou dlažbu.</p><p>  </p>",
+    "description": "<p>Rekonstrukce vozovky a vybraných chodníků v ulici Sámova. Součástí stavby bude také implementace nového stromořadí dle standardu MZI (modro-zelená infrastruktura). Údržba proběhne v úseku od tenisového klubu po ulici Petrohradská. Oprava vozovky spočívá v obnově krytu vozovky a konstrukčních vrstev. Dojde k rektifikaci uličních vpustí, doplnění prvků bezbariérovosti uličního prostoru. Bude provedena výměna poškozených obrub a jejich výškové vyrovnání. U chodníků bude provedena výměna povrchu za mozaikovou dlažbu.</p><p><br></p><p>  </p><p><strong>V roce 2026 by měly proběhnout pouze práce na rekonstrukci uličních vpustí. </strong></p>",
     "detours": null,
-    "dt_format": "DAY",
+    "dt_format": "MONTH",
     "end": "2027-08-30T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"type\": \"LineString\",\r\n        \"coordinates\": [\r\n          [\r\n            14.4517164,\r\n            50.0670682\r\n          ],\r\n          [\r\n            14.4515909,\r\n            50.0670627\r\n          ],\r\n          [\r\n            14.4505092,\r\n            50.0670682\r\n          ],\r\n          [\r\n            14.4498428,\r\n            50.067071\r\n          ],\r\n          [\r\n            14.4491591,\r\n            50.0670849\r\n          ],\r\n          [\r\n            14.4487048,\r\n            50.0670932\r\n          ],\r\n          [\r\n            14.4485836,\r\n            50.0671099\r\n          ],\r\n          [\r\n            14.4469653,\r\n            50.0671154\r\n          ],\r\n          [\r\n            14.4469739,\r\n            50.0678765\r\n          ]\r\n        ]\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
@@ -9195,7 +9195,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-09-15T13:37:57.649409",
+    "modified": "2026-09-16T13:21:52.858338",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace a chodníků v ulici Sámova",
     "priority": false,
@@ -9204,7 +9204,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bb9637b5ce61b0d3c30cca4e2ac8cf78406c2840",
+    "sha1": "74565c475da462c7c8351d9fe82b400daa42738b",
     "start": "2026-10-01T00:00:00",
     "state": "FUTURE",
     "street": "Sámova",
