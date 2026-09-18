@@ -6053,9 +6053,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "1fffd05133b970296ca42a03da72832833de0318",
+    "sha1": "f26605cb53868e9a5dbf8921af8c31ade9a913d5",
     "start": "2026-09-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vavřenova, Nad Lesním divadlem, Jílovská",
     "subject": "CONSTRUCTION"
   },
@@ -6237,9 +6237,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e8b635d4158d857cd9abb306e85db64419928c80",
+    "sha1": "f8fd79fbaa5e4205d44ef705cceb6b62ab6b5d5c",
     "start": "2026-09-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Za Mlýnem",
     "subject": "CONSTRUCTION"
   },
