@@ -7823,9 +7823,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267093291",
     "severity": "GREEN",
-    "sha1": "8ab5c382a37a14bcb89af80489f7698536a3b406",
+    "sha1": "ffcf1e39e93c0aaba891386dcebcca799b8681bd",
     "start": "2026-06-13T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Stezce",
     "subject": "CONSTRUCTION"
   },
