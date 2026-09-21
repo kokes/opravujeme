@@ -4518,9 +4518,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "26278d59ffce369f9b3700269c39ebf92a0f16c3",
+    "sha1": "82e10f81d7584d591982f60048caa7a6047cc4b5",
     "start": "2026-09-21T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Parašutistů",
     "subject": "CONSTRUCTION"
   }

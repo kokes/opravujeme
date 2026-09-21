@@ -7682,9 +7682,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cda0b074a04e33f9c7519fa5ef1dff390a4643ae",
+    "sha1": "bd3f51733d84dea209bf54d0f666df4ff9f29526",
     "start": "2026-09-21T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Keplerova, Parléřova, Pohořelec",
     "subject": "CONSTRUCTION"
   }

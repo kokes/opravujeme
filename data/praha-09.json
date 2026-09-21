@@ -4631,9 +4631,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "faf39e3fb9f643cc22d6d798efaa848e1f3d1df0",
+    "sha1": "97cd45aa2ebaa45054d8995bc23bba59e96c9632",
     "start": "2026-07-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "K Cihelně ",
     "subject": "CONSTRUCTION"
   },
@@ -5046,9 +5046,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "cd9488416d8b5e4b82b885b98805b0bbef6e74dd",
+    "sha1": "9455e4efae58567c156fd2075017eaa8679fc21c",
     "start": "2026-09-21T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Čakovická",
     "subject": "CONSTRUCTION"
   }
