@@ -5046,9 +5046,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "000837b6953b3f53cb42f5a4a18aeeabc6cddd6f",
+    "sha1": "3b021eee3042498e4f3e614799b59799be9e85b7",
     "start": "2026-09-07T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nábřežní",
     "subject": "CONSTRUCTION"
   }
