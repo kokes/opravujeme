@@ -2862,9 +2862,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "850e3873925e2dafc5db5768c6308f250d10a62e",
+    "sha1": "386de76926aedc62f5525513047e04364530b78f",
     "start": "2026-09-25T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Do Svépravic",
     "subject": "CONSTRUCTION"
   },
