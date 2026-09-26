@@ -2028,9 +2028,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3a66e233aa374b352da4fadd83fd98ddd8e21115",
+    "sha1": "255623b9ba3166f9c87242f786dbf581ae0dba4b",
     "start": "2026-08-24T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Výpadová",
     "subject": "CONSTRUCTION"
   }
