@@ -5231,9 +5231,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e3dfa51a0ba415bf30ce8a597963e8e9a5e974a4",
+    "sha1": "9f6d701479b80853708a85357a7385430bbace40",
     "start": "2026-09-28T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Dukelských hrdinů",
     "subject": "CONSTRUCTION"
   }

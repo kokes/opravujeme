@@ -5692,9 +5692,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "09cffaa9b3b68b83bb2aa1c3a6579c2bd90acd04",
+    "sha1": "61b6d6cb4f4b3e19539591908a600cf570f79afa",
     "start": "2026-08-24T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Slovance, Na Dílcích",
     "subject": "CONSTRUCTION"
   },

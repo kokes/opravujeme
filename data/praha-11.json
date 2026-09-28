@@ -1742,9 +1742,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "7fd3641d7b7d92699980b5c7fcb0bdb55c64ae5a",
+    "sha1": "5bb94adb57525765a09f69060c599ed6c1871372",
     "start": "2026-04-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Výstavní",
     "subject": "CONSTRUCTION"
   },
