@@ -6283,9 +6283,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "de864a85a66f6067956f0b876ec29c58ba35954c",
+    "sha1": "a2ba297c7eebc0727438185382d3d08aeaf7af72",
     "start": "2026-09-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   },
@@ -6375,9 +6375,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "bde4f5f2b318ebfe2d64b28ce80ce977c3fc3462",
+    "sha1": "fc9fe744740b187fc0d2f3fac0d5f2a7320f6b86",
     "start": "2026-09-29T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   }
