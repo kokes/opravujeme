@@ -8513,9 +8513,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "YELLOW",
-    "sha1": "85ee664d7b731cfcfd1e3dbbd81b6995c8b2c90d",
+    "sha1": "d00933902415ad5859e715a383a7c4ca3b04bbc5",
     "start": "2026-09-03T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Střemchová, Broskvoňová",
     "subject": "CONSTRUCTION"
   },
@@ -8559,9 +8559,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "YELLOW",
-    "sha1": "b5267d561e2899a3feef2b547d24fdc175e59ecc",
+    "sha1": "de29f68877f001071ffe07030871a49191d2af0e",
     "start": "2026-10-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Střemchová, Hrušňová",
     "subject": "CONSTRUCTION"
   },
@@ -9204,9 +9204,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "74565c475da462c7c8351d9fe82b400daa42738b",
+    "sha1": "31097a67ca733b2a563725106bf804254472afa7",
     "start": "2026-10-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Sámova",
     "subject": "CONSTRUCTION"
   }

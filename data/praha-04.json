@@ -6329,9 +6329,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f24b1ddeadb591dff67223ee9479cdbc92ae6a2f",
+    "sha1": "b6605f7604a2751930b758b9cb6fd6278423ac76",
     "start": "2026-09-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Hvězdova",
     "subject": "CONSTRUCTION"
   },
