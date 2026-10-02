@@ -6337,7 +6337,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-09-24T10:29:01.151339",
+    "approvedat": "2026-10-01T15:24:47.990406",
     "approvedby": 34,
     "city_part": [
       "4"
@@ -6360,13 +6360,13 @@
     "investor_phone": null,
     "investor_responsible": "Libor Holub",
     "lat": 50.060558627135855,
-    "limitations": "<p>Nedochází k omezení v jízdních pruzích, zábory jsou v chodnících a v místě parkovacích stání, která budou dočasně zrušena.</p><p>Po nezbytně nutnou dobu v rozsahu cca 3-7 dní bude světelná signalizace vypnuta do režimu „TMA“.</p><p>Současně také nebude časově oddělena jízda vozidel a tramvají v úseku před Vyšehradským tunelem světelnou signalizací a provoz bude upravovat pouze dopravní značení.</p><p>  </p>",
+    "limitations": "<p>Nedochází k omezení v jízdních pruzích, zábory jsou v chodnících a v místě parkovacích stání, která budou dočasně zrušena.</p><p>V termínu 6. 10. (od 8:30) - 13. 10. 2026 bude světelná signalizace vypnuta do režimu „TMA“.</p><p>Současně také nebude časově oddělena jízda vozidel a tramvají v úseku před Vyšehradským tunelem světelnou signalizací a provoz bude upravovat pouze dopravní značení.</p><p>  </p>",
     "lon": 14.419228434562685,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-09-24T10:29:01.151293",
+    "modified": "2026-10-01T15:24:47.990379",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Obnova semaforů v ulici Podolské nábřeží",
     "priority": false,
@@ -6375,9 +6375,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "fc9fe744740b187fc0d2f3fac0d5f2a7320f6b86",
-    "start": "2026-09-29T00:00:00",
-    "state": "ACTIVE",
+    "sha1": "4b2651bce0c8f6504fdc0e73fdf36c199d86a963",
+    "start": "2026-10-06T00:00:00",
+    "state": "FUTURE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   }
