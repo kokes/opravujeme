@@ -2770,9 +2770,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "c8bf39da972b144d9b280bb8b8c298e622e88c49",
+    "sha1": "8111e7bac4879142a2c7ff5b320db92321229691",
     "start": "2026-08-25T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Chlumecká ",
     "subject": "CONSTRUCTION"
   },
@@ -2824,7 +2824,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-09-15T15:58:37.203421",
+    "approvedat": "2026-10-09T16:05:33.951300",
     "approvedby": 34,
     "city_part": [
       "14"
@@ -2838,7 +2838,7 @@
     "description": "<p>Souvislá údržba komunikace Do Svépravic v úseku od ulice Národních hrdinů po podchod pod D11. </p><p>Údržba spočívá ve vyfrézování stávající obrusné vrstvy do tloušťky 50 mm (v lokálních případech až 100 mm) a položením nového krytu. Kryt konstrukce stávajících sjezdů bude proveden ze zhutněné asfaltové směsi. Příkopy, propustky a uliční vpusti budou pročištěny. Stávající chodníky budou zrekonstruovány. Betonové obruby budou nahrazeny žulovými obrubami OP6. V lokálních případech dojde k sanaci krajnice vozovky.</p>",
     "detours": null,
     "dt_format": "DAY",
-    "end": "2026-11-27T23:59:00",
+    "end": "2026-11-01T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"type\": \"LineString\",\r\n        \"coordinates\": [\r\n          [\r\n            14.6076973,\r\n            50.0994735\r\n          ],\r\n          [\r\n            14.6078129,\r\n            50.0993145\r\n          ],\r\n          [\r\n            14.6072015,\r\n            50.0991661\r\n          ],\r\n          [\r\n            14.6064744,\r\n            50.0990282\r\n          ],\r\n          [\r\n            14.6058133,\r\n            50.0989434\r\n          ],\r\n          [\r\n            14.6049871,\r\n            50.0988268\r\n          ],\r\n          [\r\n            14.6043921,\r\n            50.098742\r\n          ],\r\n          [\r\n            14.6040451,\r\n            50.0986678\r\n          ],\r\n          [\r\n            14.6037972,\r\n            50.09853\r\n          ],\r\n          [\r\n            14.6036154,\r\n            50.0983498\r\n          ],\r\n          [\r\n            14.6035659,\r\n            50.097841\r\n          ],\r\n          [\r\n            14.6035163,\r\n            50.0970247\r\n          ],\r\n          [\r\n            14.6034171,\r\n            50.0968127\r\n          ],\r\n          [\r\n            14.6031693,\r\n            50.0967173\r\n          ],\r\n          [\r\n            14.6018803,\r\n            50.0967067\r\n          ],\r\n          [\r\n            14.6007235,\r\n            50.0966537\r\n          ],\r\n          [\r\n            14.5997815,\r\n            50.0966113\r\n          ],\r\n          [\r\n            14.5986743,\r\n            50.096484\r\n          ],\r\n          [\r\n            14.597501,\r\n            50.0963568\r\n          ],\r\n          [\r\n            14.5965921,\r\n            50.0962402\r\n          ],\r\n          [\r\n            14.5957823,\r\n            50.0959752\r\n          ],\r\n          [\r\n            14.5943187,\r\n            50.0954806\r\n          ],\r\n          [\r\n            14.5927653,\r\n            50.0949505\r\n          ]\r\n        ]\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2637,
@@ -2853,7 +2853,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-09-15T15:58:37.203396",
+    "modified": "2026-10-09T16:05:33.951273",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Údržba komunikace Do Svépravic",
     "priority": false,
@@ -2862,7 +2862,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "386de76926aedc62f5525513047e04364530b78f",
+    "sha1": "d96c65d12a081cdff58e509b6cbe4af7ee3fb12c",
     "start": "2026-09-25T00:00:00",
     "state": "ACTIVE",
     "street": "Do Svépravic",
