@@ -5878,9 +5878,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "7ac6b2b01e394061fda74c729bf0b71e86afea1b",
+    "sha1": "c25b77636156aae2cae8734a3911e527951874c7",
     "start": "2026-10-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Kbelská",
     "subject": "CONSTRUCTION"
   }

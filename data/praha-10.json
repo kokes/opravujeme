@@ -9204,9 +9204,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "b4ba63e3a3d82fe4fe8c414c9a5d3f7afc58f761",
+    "sha1": "fee23aef49a16e49edcf11c30798044972e68af8",
     "start": "2026-10-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Sámova",
     "subject": "CONSTRUCTION"
   }

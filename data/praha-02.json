@@ -3617,9 +3617,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3891d6f12a2753846110a21da1e6a6ed72472ed6",
+    "sha1": "8f3cc6ed13fa37307038d8fdea1cfab9a89c2a1c",
     "start": "2026-10-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Tylovo náměstí",
     "subject": "CONSTRUCTION"
   },

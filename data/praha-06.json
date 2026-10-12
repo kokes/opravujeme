@@ -4196,9 +4196,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a5e43d1b9c7e7b049d7563f4bbd4ac3ef791399e",
+    "sha1": "fbe9db8ccb38d9381ac5a91f3cae5f2e7828781d",
     "start": "2026-10-12T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Pod Marjánkou, Slavníkova",
     "subject": "CONSTRUCTION"
   },

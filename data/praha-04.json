@@ -4987,9 +4987,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "228089f3aa7902a2fb35324ddd1e3d8b6066c0f9",
+    "sha1": "d7a0ccd2862812ae2361c82d27d4563b113f35e2",
     "start": "2026-06-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Modřanská, Mezi vodami, Šífařská",
     "subject": "CONSTRUCTION"
   },
@@ -6237,9 +6237,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f8fd79fbaa5e4205d44ef705cceb6b62ab6b5d5c",
+    "sha1": "6cce860a5c4fe178f3217ea32c937643120ff3d1",
     "start": "2026-09-18T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Za Mlýnem",
     "subject": "CONSTRUCTION"
   },
