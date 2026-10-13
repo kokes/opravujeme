@@ -1327,9 +1327,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d19ea08583ae49bb048b42c2b64b0360d69518af",
+    "sha1": "be1fae8928791c4fd995ce7d35e9d3b059001e7b",
     "start": "2026-10-13T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Janského, Bašteckého",
     "subject": "CONSTRUCTION"
   },
