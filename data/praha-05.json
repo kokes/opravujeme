@@ -4721,9 +4721,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "c8bdfdd8ed4b9a4d50b2248fdde242750587ffb9",
+    "sha1": "fcc337e974b3e30201ac7c093f2ada5e0f2ba318",
     "start": "2026-07-06T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Slivenecká, Hlubočepská",
     "subject": "CONSTRUCTION"
   },
