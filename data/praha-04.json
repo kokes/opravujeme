@@ -6375,9 +6375,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "774a152aa79e686459d699fa072b45e5d0d905cb",
+    "sha1": "4d7bdb8d8ecd5997f751ed7dab1c2a044709222e",
     "start": "2026-10-06T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Podolské nábřeží",
     "subject": "CONSTRUCTION"
   }
