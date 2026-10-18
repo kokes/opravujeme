@@ -5276,9 +5276,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "33c464820ed00a0f522dddcdaa5203128145cb04",
+    "sha1": "29bdfb038c29cc8385b4a15305e6e340aad57ce7",
     "start": "2026-10-18T04:30:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Nádražní v úseku U Lihovaru - Moulíkova",
     "subject": "CONSTRUCTION"
   }
