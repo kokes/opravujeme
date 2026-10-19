@@ -5092,9 +5092,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "d779a3707f97b47c4918da9581aa6c0451dfd0a4",
+    "sha1": "531770381a91ec5d842b3c7c7ffa010d0e09aec9",
     "start": "2026-10-02T20:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nádražní",
     "subject": "CONSTRUCTION"
   },
