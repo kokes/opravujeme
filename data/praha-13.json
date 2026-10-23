@@ -1289,7 +1289,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-10-19T09:43:30.623240",
+    "approvedat": "2026-10-23T10:28:55.788256",
     "approvedby": 34,
     "city_part": [
       "13"
@@ -1303,7 +1303,7 @@
     "description": "<p>Realizace zvýšené křižovatky ulic Janského a Bašteckého. Na zvýšené ploše bude stávající přechod pro chodce a nové místo pro přecházení přes ulici Bašteckého. Z důvodu bezpečnosti chodců je zvýšená plocha osázena antiparkovacími sloupky.</p><p>  </p>",
     "detours": "<p>Objízdné trasy budou vedeny ulicemi Janského – Tlumačovská a Pavrovského – Červeňanského.</p>",
     "dt_format": "DAY",
-    "end": "2026-11-11T23:59:00",
+    "end": "2026-11-08T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"type\": \"Polygon\",\r\n        \"coordinates\": [\r\n          [\r\n            [\r\n              14.3355851,\r\n              50.0394465\r\n            ],\r\n            [\r\n              14.3359717,\r\n              50.039481\r\n            ],\r\n            [\r\n              14.3360101,\r\n              50.039287\r\n            ],\r\n            [\r\n              14.3356286,\r\n              50.0392508\r\n            ],\r\n            [\r\n              14.3355851,\r\n              50.0394465\r\n            ]\r\n          ]\r\n        ]\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2639,
@@ -1318,7 +1318,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-10-19T09:43:30.623214",
+    "modified": "2026-10-23T10:28:55.788230",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce křižovatky Janského x Bašteckého",
     "priority": false,
@@ -1327,8 +1327,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "2dc3523e975f6241c0146ddf4ac183b5bbbbfe15",
-    "start": "2026-10-13T00:00:00",
+    "sha1": "7e887c9d8a2785a18b9dcd49b8d4cc767eb74e36",
+    "start": "2026-10-12T00:00:00",
     "state": "ACTIVE",
     "street": "Janského, Bašteckého",
     "subject": "CONSTRUCTION"

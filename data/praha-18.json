@@ -1491,9 +1491,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "179d16627590eb5de78471ef0bec2b8f6d5d71d5",
+    "sha1": "8a02ff18169ce56c9215a46327ec327d02a11778",
     "start": "2026-10-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Cínovecká",
     "subject": "CONSTRUCTION"
   }
