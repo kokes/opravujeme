@@ -1281,9 +1281,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "187e8ff0b2d711323d83c78c098cfee6b2500fc2",
+    "sha1": "47bd0376da3270cfa771ef9415e64d3568cba852",
     "start": "2026-09-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Jeremiášova, Lýskova",
     "subject": "CONSTRUCTION"
   },

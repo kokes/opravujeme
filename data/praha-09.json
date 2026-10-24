@@ -5326,9 +5326,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e81557341cbd2e0df50dd71473dc2d5f40e88952",
+    "sha1": "f042f8f2b1bc506d3de08928999f52ef6e343725",
     "start": "2026-10-12T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Krocínce",
     "subject": "CONSTRUCTION"
   },
