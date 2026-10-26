@@ -4703,9 +4703,9 @@
     "responsible_email": "filip.kolerus@praha.eu",
     "responsible_phone": "236 004 399",
     "severity": "YELLOW",
-    "sha1": "6de3d4c30377a74c224f132d340fa423f9810187",
+    "sha1": "6c21f4b59a9fd46ad5e4e3676d8987f32a18f855",
     "start": "2026-10-26T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Roztocká",
     "subject": "CONSTRUCTION"
   }

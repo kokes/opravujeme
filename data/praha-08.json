@@ -4864,9 +4864,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d9dfa9979f0ead3e25b50b7a871189585866334c",
+    "sha1": "066fe6ab45752552f6e242edfed107d028463f1b",
     "start": "2026-09-07T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "",
     "subject": "CONSTRUCTION"
   },

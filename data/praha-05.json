@@ -5184,9 +5184,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "c3c82bdd33436855dc7ac46ca2d894f45aeb9211",
+    "sha1": "4a379511c7d0a323a99b558b2ae0f746c42af82b",
     "start": "2026-10-26T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Řevnická",
     "subject": "CONSTRUCTION"
   },
