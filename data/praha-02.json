@@ -3756,9 +3756,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "94b818c26c5f5980636d7df9ad1bced87222686c",
+    "sha1": "31536bf04c8d5c7a49bef98af91d612c93dda630",
     "start": "2026-10-28T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Bělehradská",
     "subject": "CONSTRUCTION"
   }
