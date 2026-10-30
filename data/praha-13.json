@@ -1565,7 +1565,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-10-26T10:09:26.217935",
+    "approvedat": "2026-10-29T12:28:22.530443",
     "approvedby": 34,
     "city_part": [
       "13"
@@ -1576,7 +1576,7 @@
     "created": "2026-10-26T10:09:26.218375",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Rekonstrukce okružních křižovatek Přecechtělova x Prusíkova, Přecechtělova x Kurzova a Kurzova x Borovanského.</p><p>Předmětem akce je rozšíření křižovatek z důvodu parkování a průjezdu vozidel integrovaného záchranného systému.</p><p>Akce bude probíhat po etapách.</p>",
+    "description": "<p>Rekonstrukce okružních křižovatek Přecechtělova x Prusíkova, Přecechtělova x Kurzova a Kurzova x Borovanského.</p><p>Předmětem akce je zmenšení velikosti středního ostrova a nahrazení této plochy pojížděným prstencem, návaznost na pěší komunikace a vytvoření dalších parkovacích míst. Bude také vytvořeno místo pro komunální odpad + tříděný odpad. Zároveň budou doplněny signální a varovné pásy pro nevidomé v návaznosti na stávající přechody pro pěší. </p><p>Součástí stavby je i kompletní obnova povrchu vozovky okružních křižovatek včetně opravy uličních vpustí. </p><p><br></p><p>Rozšíření křižovatek umožní lepší průjezd vozidel integrovaného záchranného systému. Akce bude probíhat etapovitě s co nejmenším dopadem na průjezd a parkování vozidel na sídlišti.</p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2027-05-21T23:59:00",
@@ -1594,7 +1594,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-10-26T10:09:26.217895",
+    "modified": "2026-10-29T12:28:22.530418",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce okružních křižovatek - Velká Ohrada",
     "priority": false,
@@ -1603,8 +1603,8 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "5c2f3145976bb793b56cddb041c12f71a75e40ca",
-    "start": "2026-11-11T00:00:00",
+    "sha1": "89f5343fc75f7ef510da335c0a292a6b63c9e499",
+    "start": "2026-11-16T00:00:00",
     "state": "FUTURE",
     "street": "Přecechtělova, Prusíkova, Kurzova, Borovanského",
     "subject": "CONSTRUCTION"
