@@ -7501,9 +7501,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "GREEN",
-    "sha1": "edc556ca8ac81b145d63630b7265f60faa38d4eb",
+    "sha1": "1d76180ac2ad293ec8a09c667411790853e34086",
     "start": "2026-05-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Sedmidomky, Za Sedmidomky, Pod Bohdalcem I.",
     "subject": "CONSTRUCTION"
   },
@@ -8559,9 +8559,9 @@
     "responsible_email": "jan.hlousek@praha10.cz",
     "responsible_phone": "267 093 291",
     "severity": "YELLOW",
-    "sha1": "de29f68877f001071ffe07030871a49191d2af0e",
+    "sha1": "6beed79ec6fa7befca7229c6375a81441f9d6d8d",
     "start": "2026-10-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Střemchová, Hrušňová",
     "subject": "CONSTRUCTION"
   },
