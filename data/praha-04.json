@@ -6007,9 +6007,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "461128476e9b074c1153267d79a43e4e54b6e208",
+    "sha1": "e30f4b59605468189a163e61bd783b26f9c3174e",
     "start": "2026-09-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Pankráci, U Jedličkova ústavu",
     "subject": "CONSTRUCTION"
   },
@@ -6467,9 +6467,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "YELLOW",
-    "sha1": "14ac011377a34c1617a9eb74ddc624053f453a2c",
+    "sha1": "d61a9fd794a849d1ebd1178593ef6017bfd45a9d",
     "start": "2026-10-28T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Zálesí",
     "subject": "CONSTRUCTION"
   }

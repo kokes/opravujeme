@@ -5093,9 +5093,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a2cb56d1bedfd210638280e68c710b8252f04958",
+    "sha1": "8d6e23b660a3be63d1e5e70843eadede9036cb2c",
     "start": "2026-06-15T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Dobrovského, Letohradská ",
     "subject": "CONSTRUCTION"
   },
@@ -5277,9 +5277,9 @@
     "responsible_email": "zlatuse.benkova@praha.eu",
     "responsible_phone": "236 004 392",
     "severity": "GREEN",
-    "sha1": "1f12e0b339ce84631f5e5368ee4473a5f14971fb",
+    "sha1": "fa03ce57e528144070f561e28957ce660c8abd6c",
     "start": "2026-10-12T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "U Uranie x Na Maninách",
     "subject": "CONSTRUCTION"
   }

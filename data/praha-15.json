@@ -2166,9 +2166,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "a926712ea3c4cbda49f333fb0e9b9cd4c4e9eef6",
+    "sha1": "98d5adee438a2d8b3dc70260e89530ce3b165c71",
     "start": "2026-08-31T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Edisonova",
     "subject": "CONSTRUCTION"
   }

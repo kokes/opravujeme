@@ -4657,9 +4657,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "8980546f04b4ee4e9de234ddb032c8838eb07b35",
+    "sha1": "1cc36097082cd627e894fdbdbc0211836ff28070",
     "start": "2026-11-01T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Do Horoměřic",
     "subject": "CONSTRUCTION"
   },
