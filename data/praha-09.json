@@ -5418,9 +5418,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "YELLOW",
-    "sha1": "eeabb8372cadc839b6a65b78470abf2d36e5d9df",
+    "sha1": "be5403e3ea96d702d156e305ce9b6f25971322b3",
     "start": "2026-11-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Freyova",
     "subject": "CONSTRUCTION"
   }

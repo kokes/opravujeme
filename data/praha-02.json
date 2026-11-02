@@ -3756,9 +3756,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "31536bf04c8d5c7a49bef98af91d612c93dda630",
+    "sha1": "19381dc6e3edf98afb94648f371503e73f030222",
     "start": "2026-10-28T07:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Bělehradská",
     "subject": "CONSTRUCTION"
   },
@@ -3802,9 +3802,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "e37412bbe637b20c49ffbb7ba32c39afa94e9969",
+    "sha1": "774ec9dda615d4429a01f87fb2260c160bd9fd48",
     "start": "2026-11-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Italská, Mánesova",
     "subject": "CONSTRUCTION"
   }

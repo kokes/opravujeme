@@ -1649,9 +1649,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "88acf9c1b134cc367ab80510cd92d6c7c5f0f681",
+    "sha1": "13de17aa1d5adc8179089a6ad83e6a441803291a",
     "start": "2026-11-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Nárožní ",
     "subject": "CONSTRUCTION"
   }

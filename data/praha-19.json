@@ -649,9 +649,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "d38dd82bf32edb2fba4680b5ae3db8a64ec28a75",
+    "sha1": "57bd49ba7c5096f24e1b0fe2332f33978af5aa5a",
     "start": "2026-11-02T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Klenovská, Chaltická",
     "subject": "CONSTRUCTION"
   }
