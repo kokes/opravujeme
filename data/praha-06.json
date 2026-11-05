@@ -4611,9 +4611,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "31adb4c528336e068b5edf37d7e770d469c81ddc",
+    "sha1": "39f259723ae4ff0a8d01e24f40605d99f6729eba",
     "start": "2026-11-05T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vokovická",
     "subject": "CONSTRUCTION"
   },
