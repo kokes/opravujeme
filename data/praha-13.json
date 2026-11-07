@@ -1465,9 +1465,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "59aee91d78803d167b261d65048bafe6f422bbea",
+    "sha1": "3bf13a93ab764d90fe2766b271f1ee05e5a96553",
     "start": "2026-10-12T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Pod Hranicí, Armády, Kodymova",
     "subject": "CONSTRUCTION"
   },

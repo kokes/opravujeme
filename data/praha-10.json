@@ -9488,7 +9488,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-11-06T12:26:29.152960",
+    "approvedat": "2026-11-06T14:36:22.234451",
     "approvedby": 25,
     "city_part": [
       "10"
@@ -9517,16 +9517,16 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-11-06T12:26:29.152934",
+    "modified": "2026-11-06T14:36:22.234426",
     "modifiedby": "radim.skala@praha10.cz",
     "name": "Dřevčická (uzavírka)",
     "priority": false,
-    "promoted": true,
+    "promoted": false,
     "responsible": null,
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "8957ee4543060a040490ad4ff9e58a2da3e7f1f6",
+    "sha1": "3fd50c2c632be9c60a1ee60325e5c8676eb4e652",
     "start": "2026-09-09T00:00:00",
     "state": "ACTIVE",
     "street": "Dřevčická x Počernická",
