@@ -5464,9 +5464,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6c1d8b717afe619c849c48f2b3b894506b99399c",
+    "sha1": "273580321b891cf564b387aa3a9407b2aa1a6d94",
     "start": "2026-11-10T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Trabantská ",
     "subject": "CONSTRUCTION"
   }
