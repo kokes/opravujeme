@@ -3177,9 +3177,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "9b96549158f4ece89fb3d94c33323dce52348cfd",
+    "sha1": "b90d5fd25fc1b2bbdb97fe8d8614a9c1de5822f3",
     "start": "2026-11-14T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "K Červenému dvoru",
     "subject": "CONSTRUCTION"
   }

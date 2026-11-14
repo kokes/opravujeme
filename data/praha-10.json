@@ -8936,13 +8936,13 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-11-13T11:18:52.283329",
+    "approvedat": "2026-11-13T13:37:01.389617",
     "approvedby": 25,
     "city_part": [
       "10"
     ],
     "contractor": "Subterra a.s., Koželužská 2246/5, 180 00 Praha 8",
-    "contractor_phone": "774 189 935, 724 953 179",
+    "contractor_phone": "774 189 935, 725 122 347",
     "contractor_responsible": null,
     "created": "2026-09-10T14:51:11.372318",
     "createdby": "radim.skala@praha10.cz",
@@ -8965,7 +8965,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-11-13T11:18:52.283301",
+    "modified": "2026-11-13T13:37:01.389586",
     "modifiedby": "radim.skala@praha10.cz",
     "name": "Počernická, Na Palouku, Dřevčická, Přistoupimská (DPP/TT, Etapy E10C, E10D, DK6)",
     "priority": false,
@@ -8974,7 +8974,7 @@
     "responsible_email": "radim.skala@praha10.cz",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "0ffe5f5c946b40bea5458d4fcbf95b71c45efd17",
+    "sha1": "53dc09c63976a022a86ee82614a3a657d7e696cc",
     "start": "2026-11-16T00:00:00",
     "state": "FUTURE",
     "street": "Počernická, Na Palouku, Dřevčická, Přistoupimská",
