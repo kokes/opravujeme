@@ -5138,9 +5138,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "61bd0ecba5cb8b7f0bd8c78e1f83b4484058f2b6",
+    "sha1": "b21d0ddf8de4347587af72e7ffd2d212e3b5d78a",
     "start": "2026-10-05T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Lumiérů",
     "subject": "CONSTRUCTION"
   },

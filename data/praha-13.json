@@ -1603,9 +1603,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "89f5343fc75f7ef510da335c0a292a6b63c9e499",
+    "sha1": "f77e0a668b4a4114c9626b34506410eef069cfef",
     "start": "2026-11-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Přecechtělova, Prusíkova, Kurzova, Borovanského",
     "subject": "CONSTRUCTION"
   },

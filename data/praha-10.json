@@ -8974,9 +8974,9 @@
     "responsible_email": "radim.skala@praha10.cz",
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "53dc09c63976a022a86ee82614a3a657d7e696cc",
+    "sha1": "143e3c5fe6721d4f4b551b03bfa876d2b3a6b194",
     "start": "2026-11-16T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Počernická, Na Palouku, Dřevčická, Přistoupimská",
     "subject": "CONSTRUCTION"
   },
@@ -9572,9 +9572,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "YELLOW",
-    "sha1": "f164f28d3ac049816b92d84cc1b4fd90218268ab",
+    "sha1": "5573b4d1ad6c53f71554faafdfec8f4b26e83979",
     "start": "2026-11-16T07:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vršovická, Minská",
     "subject": "CONSTRUCTION"
   },
