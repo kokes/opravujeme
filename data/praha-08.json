@@ -6202,9 +6202,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "cefbe3ab08c45eb7b81b2eafa22de366186fa114",
+    "sha1": "7eca62827c25c142762d052a3330a708461c2525",
     "start": "2026-11-18T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Taussigova, Hlaváčova",
     "subject": "CONSTRUCTION"
   }
