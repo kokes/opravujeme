@@ -47,7 +47,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-03-04T08:51:49.814698",
+    "approvedat": "2026-11-18T15:44:06.215284",
     "approvedby": 34,
     "city_part": [
       "20"
@@ -70,13 +70,13 @@
     "investor_phone": "777 364 462",
     "investor_responsible": "Ing. Jaroslav Hobza",
     "lat": 50.11422085120097,
-    "limitations": "<p class=\"ql-align-justify\">Stavební práce budou probíhat v&nbsp;období od 24. 2. 2023 až do roku 2026. Dopravní omezení jsou rozdělena na jednotlivé fáze dle stavebních prací, s&nbsp;ohledem na zajištění příjezdu k průmyslovým areálům a na hřbitov. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Úsek komunikace křižující železniční přejezd bude uzavřen po celou dobu výstavby.</strong></p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\">Momentálně je stavba pozastavena z důvodu čekání na pravomocné povolení stavby pro pokračování navazujících stavebních prací. Z toho důvodu byl posunut předpokládaný termín dokončení rekonstrukce části komunikace Bystrá, včetně výstavby nového podjezdu pod železniční tratí, a to do 07/2026.</p>",
+    "limitations": "<p class=\"ql-align-justify\">Stavební práce budou probíhat v&nbsp;období od 24. 2. 2023 až do konce roku 2026. Dopravní omezení jsou rozdělena na jednotlivé fáze dle stavebních prací, s&nbsp;ohledem na zajištění příjezdu k průmyslovým areálům a na hřbitov. </p><p class=\"ql-align-justify\"><br></p><p class=\"ql-align-justify\"><strong>Úsek komunikace křižující železniční přejezd bude uzavřen po celou dobu výstavby.</strong></p>",
     "lon": 14.602023124653897,
     "max_lat": null,
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-03-04T08:51:49.814673",
+    "modified": "2026-11-18T15:44:06.215258",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce komunikace Bystrá, výstavba podjezdu pod železniční tratí",
     "priority": false,
@@ -85,7 +85,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "6f5f3e8add35648d08a604e1076e8f7e9a5841f8",
+    "sha1": "b72810997385a6d37fc5bc3ad374ce0bf21b502b",
     "start": "2023-02-24T00:00:00",
     "state": "ACTIVE",
     "street": "Bystrá",
