@@ -1565,7 +1565,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-10-29T12:28:22.530443",
+    "approvedat": "2026-11-19T18:28:17.606265",
     "approvedby": 34,
     "city_part": [
       "13"
@@ -1576,7 +1576,7 @@
     "created": "2026-10-26T10:09:26.218375",
     "createdby": "eva.vesela@tsk-praha.cz",
     "custom_template": null,
-    "description": "<p>Rekonstrukce okružních křižovatek Přecechtělova x Prusíkova, Přecechtělova x Kurzova a Kurzova x Borovanského.</p><p>Předmětem akce je zmenšení velikosti středního ostrova a nahrazení této plochy pojížděným prstencem, návaznost na pěší komunikace a vytvoření dalších parkovacích míst. Bude také vytvořeno místo pro komunální odpad + tříděný odpad. Zároveň budou doplněny signální a varovné pásy pro nevidomé v návaznosti na stávající přechody pro pěší. </p><p>Součástí stavby je i kompletní obnova povrchu vozovky okružních křižovatek včetně opravy uličních vpustí. </p><p><br></p><p>Rozšíření křižovatek umožní lepší průjezd vozidel integrovaného záchranného systému. Akce bude probíhat etapovitě s co nejmenším dopadem na průjezd a parkování vozidel na sídlišti.</p>",
+    "description": "<p>Rekonstrukce okružních křižovatek Přecechtělova x Prusíkova, Přecechtělova x Kurzova a Kurzova x Borovanského.</p><p>Předmětem akce je zmenšení velikosti středního ostrova a nahrazení této plochy pojížděným prstencem, návaznost na pěší komunikace a vytvoření dalších parkovacích míst. Bude také vytvořeno místo pro komunální odpad + tříděný odpad. Zároveň budou doplněny signální a varovné pásy pro nevidomé v návaznosti na stávající přechody pro pěší. </p><p>Součástí stavby je i kompletní obnova povrchu vozovky okružních křižovatek včetně opravy uličních vpustí. </p><p><br></p><p>Rozšíření křižovatek umožní lepší průjezd vozidel integrovaného záchranného systému. Akce bude probíhat etapovitě s co nejmenším dopadem na průjezd a parkování vozidel na sídlišti.</p><p><br></p><p>V období do jara 2027 budou probíhat pouze práce na opravě uličních vpustí. </p>",
     "detours": null,
     "dt_format": "DAY",
     "end": "2027-05-21T23:59:00",
@@ -1594,7 +1594,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-10-29T12:28:22.530418",
+    "modified": "2026-11-19T18:28:17.606238",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Rekonstrukce okružních křižovatek - Velká Ohrada",
     "priority": false,
@@ -1603,7 +1603,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "f77e0a668b4a4114c9626b34506410eef069cfef",
+    "sha1": "a79785ebbbb8aa44a41719f2fda43c2c77670008",
     "start": "2026-11-16T00:00:00",
     "state": "ACTIVE",
     "street": "Přecechtělova, Prusíkova, Kurzova, Borovanského",

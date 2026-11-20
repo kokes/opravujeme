@@ -3710,9 +3710,9 @@
     "responsible_email": null,
     "responsible_phone": "236 004 325",
     "severity": "YELLOW",
-    "sha1": "6dcc74cb8622c4198c6cfd5cc3a29c6a49780358",
+    "sha1": "223fa3a13ffcad74fbf39649137bfedab735bc9d",
     "start": "2026-07-01T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Sokolská",
     "subject": "CONSTRUCTION"
   },
