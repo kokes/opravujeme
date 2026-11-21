@@ -6191,9 +6191,9 @@
     "responsible_email": "leos.kubin@praha.eu",
     "responsible_phone": "236 00 4397",
     "severity": "GREEN",
-    "sha1": "70c5d8642c44d43d432f15cf700dafd873e1ce50",
+    "sha1": "b518ce58b9b44f92ad3ad0a90cb11882a72036be",
     "start": "2026-09-21T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Modřanská",
     "subject": "CONSTRUCTION"
   },
@@ -6559,9 +6559,9 @@
     "responsible_email": "monika.vochozkova@praha.eu",
     "responsible_phone": "236004355",
     "severity": "GREEN",
-    "sha1": "be70165558c08f2273bb1421e3bb06be5a17c384",
+    "sha1": "0a12b9b0536670c3c1641a6732b424a6a592e3db",
     "start": "2026-11-21T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Vídeňská, Jižní spojka - větev MÚK",
     "subject": "CONSTRUCTION"
   }

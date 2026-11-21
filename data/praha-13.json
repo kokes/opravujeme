@@ -1511,9 +1511,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "081c73466d17f6586b99f74a2e0da107914a96b0",
+    "sha1": "8e3546e407f4017546e1f319937d79890fc3ab08",
     "start": "2026-10-19T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Nárožní, Pod Hranicí",
     "subject": "CONSTRUCTION"
   },

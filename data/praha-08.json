@@ -6064,9 +6064,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "9be13cf77ccbf9da6596214d6902228d067c1693",
+    "sha1": "fef66442affd0d6ea8d3f8e2a167f475045c2c3b",
     "start": "2026-11-14T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Vosmíkových",
     "subject": "CONSTRUCTION"
   },
