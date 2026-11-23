@@ -4472,9 +4472,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "3d8323b17a1b5822b2ab18bc91b10a982ed2b9b6",
+    "sha1": "4e3b0a898969d335e0d80c63ad6a08e8dc9dcd0d",
     "start": "2026-08-31T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Na Zástřelu",
     "subject": "CONSTRUCTION"
   },

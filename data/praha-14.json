@@ -3000,9 +3000,9 @@
     "responsible_email": "pavla.safrankova@praha.eu",
     "responsible_phone": "236007499",
     "severity": "GREEN",
-    "sha1": "190a01dcc35fbd2dddbad633608c493e38b0d834",
+    "sha1": "f161cf40c65c50103a47b35afbb92b2477923c50",
     "start": "2026-11-09T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Českobrodská, U Konečné",
     "subject": "CONSTRUCTION"
   },
@@ -3138,9 +3138,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "19407e6eeead4bd3e6fd550298381a757afd605d",
+    "sha1": "451c6be0f677a14109d12c9bd36268270d3d39ef",
     "start": "2026-11-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Bryksova, Mansfeldova",
     "subject": "CONSTRUCTION"
   }

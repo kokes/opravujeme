@@ -6156,9 +6156,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "GREEN",
-    "sha1": "191ddd92fbb890b7be54bab201d1650f98396179",
+    "sha1": "01e937c81f66f40a2695176897d6715f5893839c",
     "start": "2026-11-23T00:00:00",
-    "state": "FUTURE",
+    "state": "ACTIVE",
     "street": "Pernerova, Kollárova",
     "subject": "CONSTRUCTION"
   },
