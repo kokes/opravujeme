@@ -1499,7 +1499,7 @@
   },
   {
     "approved": true,
-    "approvedat": "2026-11-03T09:30:28.972548",
+    "approvedat": "2026-11-24T11:45:04.823050",
     "approvedby": 34,
     "city_part": [
       "18"
@@ -1513,7 +1513,7 @@
     "description": "<p>Oprava komunikace Toužimská v úseku Hrušovická – Polaneckého. Jedná se o opravu vytíženého úseku, kterým byla vedena objízdná trasa během rekonstrukce Kbelské ulice.</p><p><br></p><p>Stavební úpravy zahrnují odfrézování stávajícího souvrství, pokládku nové ložné a obrusné vrstvy, výškové vyrovnání povrchových znaků inženýrských sítí i uličních vpustí, opravu odvodňovacího dláždění podél obrubníků a následnou obnovu vodorovného dopravního značení.</p>",
     "detours": "<p>Doprava bude vedena po vyznačených objízdných trasách.</p>",
     "dt_format": "DAY",
-    "end": "2026-11-27T23:59:00",
+    "end": "2026-11-26T23:59:00",
     "geo_json": "{\r\n  \"type\": \"FeatureCollection\",\r\n  \"features\": [\r\n    {\r\n      \"type\": \"Feature\",\r\n      \"properties\": {},\r\n      \"geometry\": {\r\n        \"type\": \"LineString\",\r\n        \"coordinates\": [\r\n          [\r\n            14.5349661,\r\n            50.1353184\r\n          ],\r\n          [\r\n            14.5359224,\r\n            50.1352689\r\n          ],\r\n          [\r\n            14.5378641,\r\n            50.1352317\r\n          ],\r\n          [\r\n            14.5400859,\r\n            50.1352194\r\n          ],\r\n          [\r\n            14.5408007,\r\n            50.1352008\r\n          ],\r\n          [\r\n            14.5414479,\r\n            50.1351636\r\n          ],\r\n          [\r\n            14.5424236,\r\n            50.1350955\r\n          ],\r\n          [\r\n            14.5434765,\r\n            50.1349841\r\n          ]\r\n        ]\r\n      }\r\n    }\r\n  ]\r\n}",
     "hidden": false,
     "id": 2701,
@@ -1528,7 +1528,7 @@
     "max_lon": null,
     "min_lat": null,
     "min_lon": null,
-    "modified": "2026-11-03T09:30:28.972523",
+    "modified": "2026-11-24T11:45:04.823024",
     "modifiedby": "eva.vesela@tsk-praha.cz",
     "name": "Oprava komunikace Toužimská v úseku Hrušovická – Polaneckého",
     "priority": false,
@@ -1537,7 +1537,7 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "28436996ee223b07b4fb464fe8f59eca8aa837e9",
+    "sha1": "61482f3f84c5332aca952825bb2b697347fdc447",
     "start": "2026-11-10T00:00:00",
     "state": "ACTIVE",
     "street": "Toužimská",
