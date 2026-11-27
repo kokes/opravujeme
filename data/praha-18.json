@@ -1537,9 +1537,9 @@
     "responsible_email": null,
     "responsible_phone": null,
     "severity": "YELLOW",
-    "sha1": "61482f3f84c5332aca952825bb2b697347fdc447",
+    "sha1": "1dffc42405eab879114292d34cb9f119eb8fd0ea",
     "start": "2026-11-10T00:00:00",
-    "state": "ACTIVE",
+    "state": "DONE",
     "street": "Toužimská",
     "subject": "CONSTRUCTION"
   }
